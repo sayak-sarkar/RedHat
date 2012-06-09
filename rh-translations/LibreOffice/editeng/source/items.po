@@ -1,0 +1,1287 @@
+#. extracted from editeng/source/items.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+editeng%2Fsource%2Fitems.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2011-07-11 10:33+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. gP1o
+#: svxitems.src#RID_SVXITEMS_TRUE.string.text
+msgid "True"
+msgstr "সত্য"
+
+#. 11U_
+#: svxitems.src#RID_SVXITEMS_FALSE.string.text
+msgid "False"
+msgstr "মিথ্যা"
+
+#. TYBH
+#: svxitems.src#RID_SVXITEMS_BREAK_NONE.string.text
+msgid "No break"
+msgstr "কোন বিভাজক নয়"
+
+#. qrX6
+#: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BEFORE.string.text
+msgid "Break before new column"
+msgstr "নতুন কলামের আগে বিভাজক রেখা"
+
+#. 9ilj
+#: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_AFTER.string.text
+msgid "Break after new column"
+msgstr "নতুন কলামের পর বিভাজক রেখা"
+
+#. 9Rp9
+#: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BOTH.string.text
+msgid "Break before and after new column"
+msgstr "নতুন কলামের আগে ও পরে বিভাজক রেখা"
+
+#. wEpH
+#: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BEFORE.string.text
+msgid "Break before new page"
+msgstr "নতুন পৃষ্ঠার আগে বিভাজক রেখা"
+
+#. xSdI
+#: svxitems.src#RID_SVXITEMS_BREAK_PAGE_AFTER.string.text
+msgid "Break after new page"
+msgstr "নতুন পৃষ্ঠার পর বিভাজক রেখা"
+
+#. 4m3b
+#: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BOTH.string.text
+msgid "Break before and after new page"
+msgstr "নতুন পৃষ্ঠার আগে ও পরে বিভাজক রেখা"
+
+#. whLp
+#: svxitems.src#RID_SVXITEMS_SHADOW_NONE.string.text
+msgid "No Shadow"
+msgstr "কোন ছায়া নেই"
+
+#. l_G1
+#: svxitems.src#RID_SVXITEMS_SHADOW_TOPLEFT.string.text
+msgid "Shadow top left"
+msgstr "ঊর্ধ্ব বাম ছায়া"
+
+#. nh1O
+#: svxitems.src#RID_SVXITEMS_SHADOW_TOPRIGHT.string.text
+msgid "Shadow top right"
+msgstr "ঊর্ধ্ব ডান ছায়া"
+
+#. 0zMQ
+#: svxitems.src#RID_SVXITEMS_SHADOW_BOTTOMLEFT.string.text
+msgid "Shadow bottom left"
+msgstr "নিম্ন বাম ছায়া"
+
+#. I0w9
+#: svxitems.src#RID_SVXITEMS_SHADOW_BOTTOMRIGHT.string.text
+msgid "Shadow bottom right"
+msgstr "নিম্ন ডান ছায়া"
+
+#. pjBE
+#: svxitems.src#RID_SVXITEMS_COLOR.string.text
+msgid "Color "
+msgstr "রং "
+
+#. Dut1
+#: svxitems.src#RID_SVXITEMS_COLOR_BLACK.string.text
+msgid "Black"
+msgstr "কালো"
+
+#. zfT9
+#: svxitems.src#RID_SVXITEMS_COLOR_BLUE.string.text
+msgid "Blue"
+msgstr "নীল"
+
+#. vUXu
+#: svxitems.src#RID_SVXITEMS_COLOR_GREEN.string.text
+msgid "Green"
+msgstr "সবুজ"
+
+#. fRnu
+#: svxitems.src#RID_SVXITEMS_COLOR_CYAN.string.text
+msgid "Cyan"
+msgstr "সায়ান"
+
+#. n7XO
+#: svxitems.src#RID_SVXITEMS_COLOR_RED.string.text
+msgid "Red"
+msgstr "লাল"
+
+#. DBbx
+#: svxitems.src#RID_SVXITEMS_COLOR_MAGENTA.string.text
+msgid "Magenta"
+msgstr "ম্যাজেন্টা"
+
+#. 5yH1
+#: svxitems.src#RID_SVXITEMS_COLOR_BROWN.string.text
+msgid "Brown"
+msgstr "বাদামি"
+
+#. 7BR7
+#: svxitems.src#RID_SVXITEMS_COLOR_GRAY.string.text
+msgid "Gray"
+msgstr "ধূসর"
+
+#. 7hKi
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGRAY.string.text
+msgid "Light Gray"
+msgstr "হালকা ধূসর"
+
+#. z9IY
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTBLUE.string.text
+msgid "Light Blue"
+msgstr "হালকা নীল"
+
+#. iO#5
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGREEN.string.text
+msgid "Light Green"
+msgstr "হালকা সবুজ"
+
+#. fx#J
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTCYAN.string.text
+msgid "Light Cyan"
+msgstr "হালকা সায়ান"
+
+#. 9qhO
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTRED.string.text
+msgid "Light Red"
+msgstr "হালকা লাল"
+
+#. Q7ID
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTMAGENTA.string.text
+msgid "Light Magenta"
+msgstr "হালকা মেজেন্টা"
+
+#. wQfV
+#: svxitems.src#RID_SVXITEMS_COLOR_YELLOW.string.text
+msgid "Yellow"
+msgstr "হলুদ"
+
+#. nE2D
+#: svxitems.src#RID_SVXITEMS_COLOR_WHITE.string.text
+msgid "White"
+msgstr "সাদা রং"
+
+#. bKYM
+#: svxitems.src#RID_SVXITEMS_ITALIC_NONE.string.text
+msgid "Not Italic"
+msgstr "ইটালিক নয়"
+
+#. YdWk
+#: svxitems.src#RID_SVXITEMS_ITALIC_OBLIQUE.string.text
+msgid "Oblique italic"
+msgstr "বাঁকানো"
+
+#. QL4y
+#: svxitems.src#RID_SVXITEMS_ITALIC_NORMAL.string.text
+msgid "Italic"
+msgstr "তির্যক"
+
+#. qdnz
+#: svxitems.src#RID_SVXITEMS_WEIGHT_THIN.string.text
+msgid "thin"
+msgstr "পাতলা"
+
+#. g1zO
+#: svxitems.src#RID_SVXITEMS_WEIGHT_ULTRALIGHT.string.text
+msgid "ultra thin"
+msgstr "খুব পাতলা"
+
+#. GxnD
+#: svxitems.src#RID_SVXITEMS_WEIGHT_LIGHT.string.text
+msgid "light"
+msgstr "হালকা"
+
+#. ul#M
+#: svxitems.src#RID_SVXITEMS_WEIGHT_SEMILIGHT.string.text
+msgid "semi light"
+msgstr "অর্ধ-হালকা"
+
+#. _n3Z
+#: svxitems.src#RID_SVXITEMS_WEIGHT_NORMAL.string.text
+msgid "normal"
+msgstr "সাধারণ"
+
+#. bfjP
+#: svxitems.src#RID_SVXITEMS_WEIGHT_MEDIUM.string.text
+msgid "medium"
+msgstr "মাঝারি"
+
+#. iEok
+#: svxitems.src#RID_SVXITEMS_WEIGHT_SEMIBOLD.string.text
+msgid "semi bold"
+msgstr "অর্ধ-গাঢ়"
+
+#. ooQ3
+#: svxitems.src#RID_SVXITEMS_WEIGHT_BOLD.string.text
+msgid "bold"
+msgstr "গাঢ়"
+
+#. tTRM
+#: svxitems.src#RID_SVXITEMS_WEIGHT_ULTRABOLD.string.text
+msgid "ultra bold"
+msgstr "খুব গাঢ়"
+
+#. yoBZ
+#: svxitems.src#RID_SVXITEMS_WEIGHT_BLACK.string.text
+msgid "black"
+msgstr "কালো"
+
+#. hSvB
+#: svxitems.src#RID_SVXITEMS_UL_NONE.string.text
+msgid "No underline"
+msgstr "কোন নিম্নরেখা নয়"
+
+#. LIZ7
+#: svxitems.src#RID_SVXITEMS_UL_SINGLE.string.text
+msgid "Single underline"
+msgstr "একক নিম্নরেখা"
+
+#. FLfG
+#: svxitems.src#RID_SVXITEMS_UL_DOUBLE.string.text
+msgid "Double underline"
+msgstr "ডবল নিম্নরেখা"
+
+#. vsco
+#: svxitems.src#RID_SVXITEMS_UL_DOTTED.string.text
+msgid "Dotted underline"
+msgstr "ডটেড নিম্নরেখা"
+
+#. Xr5A
+#: svxitems.src#RID_SVXITEMS_UL_DONTKNOW.string.text
+msgid "Underline"
+msgstr "নিচে দাগ"
+
+#. 49rL
+#: svxitems.src#RID_SVXITEMS_UL_DASH.string.text
+msgid "Underline (dashes)"
+msgstr "নিচে দাগ (ড্যাস)"
+
+#. plIl
+#: svxitems.src#RID_SVXITEMS_UL_LONGDASH.string.text
+msgid "Underline (long dashes)"
+msgstr "নিচে দাগ (লম্বা ড্যাস)"
+
+#. Nz9L
+#: svxitems.src#RID_SVXITEMS_UL_DASHDOT.string.text
+msgid "Underline (dot dash)"
+msgstr "নিচে দাগ (ডট ড্যাস)"
+
+#. I1_7
+#: svxitems.src#RID_SVXITEMS_UL_DASHDOTDOT.string.text
+msgid "Underline (dot dot dash)"
+msgstr "নিচে দাগ (ডট ডট ড্যাস)"
+
+#. dbIf
+#: svxitems.src#RID_SVXITEMS_UL_SMALLWAVE.string.text
+msgid "Underline (small wave)"
+msgstr "নিচে দাগ (ছোট ঢেউ)"
+
+#. b7t8
+#: svxitems.src#RID_SVXITEMS_UL_WAVE.string.text
+msgid "Underline (Wave)"
+msgstr "নিচে দাগ (ঢেউ)"
+
+#. _iQM
+#: svxitems.src#RID_SVXITEMS_UL_DOUBLEWAVE.string.text
+msgid "Underline (Double wave)"
+msgstr "নিচে দাগ (ডবল ঢেউ)"
+
+#. xxBb
+#: svxitems.src#RID_SVXITEMS_UL_BOLD.string.text
+msgid "Underlined (Bold)"
+msgstr "নিম্নরেখাঙ্কিত (গাঢ়)"
+
+#. thCM
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDOTTED.string.text
+msgid "Dotted underline (Bold)"
+msgstr "ডটেড নিম্নরেখা (গাঢ়)"
+
+#. ACoZ
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDASH.string.text
+msgid "Underline (Dash bold)"
+msgstr "নিচে দাগ (গাঢ় ড্যাস)"
+
+#. 3dRR
+#: svxitems.src#RID_SVXITEMS_UL_BOLDLONGDASH.string.text
+msgid "Underline (long dash, bold)"
+msgstr "নিচে দাগ (গাঢ়, লম্বা ড্যাস)"
+
+#. trmZ
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDASHDOT.string.text
+msgid "Underline (dot dash, bold)"
+msgstr "নিচে দাগ (গাঢ়, ডট ড্যাস)"
+
+#. 3ZHu
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDASHDOTDOT.string.text
+msgid "Underline (dot dot dash, bold)"
+msgstr "নিচে দাগ (গাঢ়, ডট ডট ড্যাস)"
+
+#. h2m#
+#: svxitems.src#RID_SVXITEMS_UL_BOLDWAVE.string.text
+msgid "Underline (wave, bold)"
+msgstr "নিচে রেখা (গাঢ়, ঢেউ)"
+
+#. uW#m
+#: svxitems.src#RID_SVXITEMS_OL_NONE.string.text
+msgid "No overline"
+msgstr "ঊর্ধ্বরেখা নেই"
+
+#. Xbnv
+#: svxitems.src#RID_SVXITEMS_OL_SINGLE.string.text
+msgid "Single overline"
+msgstr "একক ঊর্ধ্বরেখা"
+
+#. xYxk
+#: svxitems.src#RID_SVXITEMS_OL_DOUBLE.string.text
+msgid "Double overline"
+msgstr "ডবল ঊর্ধ্বরেখা"
+
+#. D1qC
+#: svxitems.src#RID_SVXITEMS_OL_DOTTED.string.text
+msgid "Dotted overline"
+msgstr "ডটেড ঊর্ধ্বরেখা"
+
+#. y4tQ
+#: svxitems.src#RID_SVXITEMS_OL_DONTKNOW.string.text
+msgid "Overline"
+msgstr "ঊর্ধ্বরেখা"
+
+#. Nrok
+#: svxitems.src#RID_SVXITEMS_OL_DASH.string.text
+msgid "Overline (dashes)"
+msgstr "ঊর্ধ্বরেখা (ড্যাস)"
+
+#. kUW_
+#: svxitems.src#RID_SVXITEMS_OL_LONGDASH.string.text
+msgid "Overline (long dashes)"
+msgstr "ঊর্ধ্বরেখা (লম্বা ড্যাস)"
+
+#. 3sTl
+#: svxitems.src#RID_SVXITEMS_OL_DASHDOT.string.text
+msgid "Overline (dot dash)"
+msgstr "ঊর্ধ্বরেখা (ডট ড্যাস)"
+
+#. mReb
+#: svxitems.src#RID_SVXITEMS_OL_DASHDOTDOT.string.text
+msgid "Overline (dot dot dash)"
+msgstr "ঊর্ধ্বরেখা (ডট ডট ড্যাস)"
+
+#. 3v4d
+#: svxitems.src#RID_SVXITEMS_OL_SMALLWAVE.string.text
+msgid "Overline (small wave)"
+msgstr "ঊর্ধ্বরেখা (ছোট ঢেউ)"
+
+#. sxmp
+#: svxitems.src#RID_SVXITEMS_OL_WAVE.string.text
+msgid "Overline (Wave)"
+msgstr "ঊর্ধ্বরেখা (ঢেউ)"
+
+#. TsDq
+#: svxitems.src#RID_SVXITEMS_OL_DOUBLEWAVE.string.text
+msgid "Overline (Double wave)"
+msgstr "ঊর্ধ্বরেখা (ডবল ঢেউ)"
+
+#. e7CU
+#: svxitems.src#RID_SVXITEMS_OL_BOLD.string.text
+msgid "Overlined (Bold)"
+msgstr "ঊর্ধরেখা (গাঢ়)"
+
+#. LnRq
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDOTTED.string.text
+msgid "Dotted overline (Bold)"
+msgstr "ডটেড ঊর্ধ্বরেখা (গাঢ়)"
+
+#. Nz0p
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDASH.string.text
+msgid "Overline (Dash bold)"
+msgstr "ঊর্ধ্বরেখা (গাঢ় ড্যাস)"
+
+#. rZds
+#: svxitems.src#RID_SVXITEMS_OL_BOLDLONGDASH.string.text
+msgid "Overline (long dash, bold)"
+msgstr "ঊর্ধ্বরেখা (গাঢ়, লম্বা ড্যাস)"
+
+#. HKIx
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDASHDOT.string.text
+msgid "Overline (dot dash, bold)"
+msgstr "ঊর্ধ্বরেখা (গাঢ়, ডট ড্যাস)"
+
+#. ljBt
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDASHDOTDOT.string.text
+msgid "Overline (dot dot dash, bold)"
+msgstr "ঊর্ধ্বরেখা (গাঢ়, ডট ডট ড্যাস)"
+
+#. sp2k
+#: svxitems.src#RID_SVXITEMS_OL_BOLDWAVE.string.text
+msgid "Overline (wave, bold)"
+msgstr "ঊর্ধ্বরেখা (ঢেউ, গাঢ়)"
+
+#. Ljv5
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_NONE.string.text
+msgid "No strikethrough"
+msgstr "কোন অবচ্ছেদন রেখা নয়"
+
+#. FbF#
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_SINGLE.string.text
+msgid "Single strikethrough"
+msgstr "একক অবচ্ছেদন রেখা"
+
+#. LY5f
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_DOUBLE.string.text
+msgid "Double strikethrough"
+msgstr "ডবল অবচ্ছেদ রেখা"
+
+#. 5ABh
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_BOLD.string.text
+msgid "Bold strikethrough"
+msgstr "গাঢ় অবচ্ছেদন"
+
+#. w1h1
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_SLASH.string.text
+msgid "Strike through with slash"
+msgstr "স্ল্যাশ দ্বারা অবচ্ছেদিত"
+
+#. Wh2T
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_X.string.text
+msgid "Strike through with Xes"
+msgstr "Xes দ্বারা অবচ্ছদিত"
+
+#. WsN6
+#: svxitems.src#RID_SVXITEMS_CASEMAP_NONE.string.text
+msgid "None"
+msgstr "কোনটি না"
+
+#. bogn
+#: svxitems.src#RID_SVXITEMS_CASEMAP_VERSALIEN.string.text
+msgid "Caps"
+msgstr "বড় হাতের অক্ষর"
+
+#. vUDN
+#: svxitems.src#RID_SVXITEMS_CASEMAP_GEMEINE.string.text
+msgid "Lowercase"
+msgstr "ছোট হাতের অক্ষর"
+
+#. WjG5
+#: svxitems.src#RID_SVXITEMS_CASEMAP_TITEL.string.text
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. sytd
+#: svxitems.src#RID_SVXITEMS_CASEMAP_KAPITAELCHEN.string.text
+msgid "Small caps"
+msgstr "ক্ষুদ্রাকৃতির বড় হাতের অক্ষর"
+
+#. wyl3
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_OFF.string.text
+msgid "Normal position"
+msgstr "সাধারণ অবস্থান"
+
+#. ipQH
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_SUPER.string.text
+msgid "Superscript "
+msgstr "ঊর্ধ্বলিপি "
+
+#. EMAT
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_SUB.string.text
+msgid "Subscript "
+msgstr "নিম্নলিপি "
+
+#. QJpv
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_AUTO.string.text
+msgid "automatic"
+msgstr "স্বয়ংক্রিয়"
+
+#. ypc6
+#: svxitems.src#RID_SVXITEMS_ADJUST_LEFT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_LEFT.string.text"
+msgid "Align left"
+msgstr "বাম প্রান্তিককরণ"
+
+#. MbB#
+#: svxitems.src#RID_SVXITEMS_ADJUST_RIGHT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_RIGHT.string.text"
+msgid "Align right"
+msgstr "ডান প্রান্তিককরণ"
+
+#. mBgh
+#: svxitems.src#RID_SVXITEMS_ADJUST_BLOCK.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_BLOCK.string.text"
+msgid "Justify"
+msgstr "উভয়প্রান্তিক"
+
+#. TcNL
+#: svxitems.src#RID_SVXITEMS_ADJUST_CENTER.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_CENTER.string.text"
+msgid "Centered"
+msgstr "কেন্দ্রস্থিত"
+
+#. pBha
+#: svxitems.src#RID_SVXITEMS_ADJUST_BLOCKLINE.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_BLOCKLINE.string.text"
+msgid "Justify"
+msgstr "উভয়প্রান্তিক"
+
+#. 4odF
+#: svxitems.src#RID_SVXITEMS_TAB_DECIMAL_CHAR.string.text
+msgid "Decimal Symbol:"
+msgstr "দশমিক চিহ্ন:"
+
+#. 6GhQ
+#: svxitems.src#RID_SVXITEMS_TAB_FILL_CHAR.string.text
+msgid "Fill character:"
+msgstr "পূরক চিহ্ন:"
+
+#. O68q
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_LEFT.string.text
+msgid "Left"
+msgstr "বাম"
+
+#. Kq65
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_RIGHT.string.text
+msgid "Right"
+msgstr "ডান"
+
+#. QPmA
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DECIMAL.string.text
+msgid "Decimal"
+msgstr "দশমিক"
+
+#. QdMb
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_CENTER.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_TAB_ADJUST_CENTER.string.text"
+msgid "Centered"
+msgstr "কেন্দ্রস্থিত"
+
+#. LnVP
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DEFAULT.string.text
+msgid "Default"
+msgstr "পূর্বনির্ধারিত"
+
+#. zDyN
+#: svxitems.src#RID_SOLID.string.text
+#, fuzzy
+msgid "Single, solid"
+msgstr "একক, গাঢ়"
+
+#. _blS
+#: svxitems.src#RID_DOTTED.string.text
+#, fuzzy
+msgid "Single, dotted"
+msgstr "সুক্ষ্ম ডটেড"
+
+#. gLGn
+#: svxitems.src#RID_DASHED.string.text
+#, fuzzy
+msgid "Single, dashed"
+msgstr "সুক্ষ্ম ড্যাশযুক্ত"
+
+#. 96W#
+#: svxitems.src#RID_DOUBLE.string.text
+msgid "Double"
+msgstr "ডাবল"
+
+#. LK2m
+#: svxitems.src#RID_THINTHICK_SMALLGAP.string.text
+#, fuzzy
+msgid "Double, inside: fine, outside: thick, spacing: small"
+msgstr "ডবল, অভ্যন্তরে: পুরু, বাইরে: পাতলা, মধ্যবর্তী দুরত্ব: ছোট"
+
+#. 1tRU
+#: svxitems.src#RID_THINTHICK_MEDIUMGAP.string.text
+#, fuzzy
+msgid "Double, inside: fine, outside: thick, spacing: medium"
+msgstr "ডবল, অভ্যন্তরে: পাতলা, বাইরে: পুরু, মধ্যবর্তী দুরত্ব: বড়"
+
+#. KwN2
+#: svxitems.src#RID_THINTHICK_LARGEGAP.string.text
+#, fuzzy
+msgid "Double, inside: fine, outside: thick, spacing: large"
+msgstr "ডবল, অভ্যন্তরে: পাতলা, বাইরে: পুরু, মধ্যবর্তী দুরত্ব: বড়"
+
+#. KTa6
+#: svxitems.src#RID_THICKTHIN_SMALLGAP.string.text
+#, fuzzy
+msgid "Double, inside: thick, outside: fine, spacing: small"
+msgstr "ডবল, অভ্যন্তরে: পুরু, বাইরে: পাতলা, মধ্যবর্তী দুরত্ব: ছোট"
+
+#. A8mt
+#: svxitems.src#RID_THICKTHIN_MEDIUMGAP.string.text
+#, fuzzy
+msgid "Double, inside: thick, outside: fine, spacing: medium"
+msgstr "ডবল, অভ্যন্তরে: পুরু, বাইরে: পাতলা, মধ্যবর্তী দুরত্ব: ছোট"
+
+#. Lpnq
+#: svxitems.src#RID_THICKTHIN_LARGEGAP.string.text
+#, fuzzy
+msgid "Double, inside: thick, outside: fine, spacing: large"
+msgstr "ডবল, অভ্যন্তরে: পাতলা, বাইরে: পুরু, মধ্যবর্তী দুরত্ব: বড়"
+
+#. eUee
+#: svxitems.src#RID_EMBOSSED.string.text
+#, fuzzy
+msgid "3D embossed"
+msgstr "এমবসড"
+
+#. viku
+#: svxitems.src#RID_ENGRAVED.string.text
+#, fuzzy
+msgid "3D engraved"
+msgstr "খোদাইকৃত"
+
+#. E8Uv
+#: svxitems.src#RID_INSET.string.text
+#, fuzzy
+msgid "Inset"
+msgstr "সন্নিবেশ"
+
+#. 0ccg
+#: svxitems.src#RID_OUTSET.string.text
+#, fuzzy
+msgid "Outset"
+msgstr "বাইরের শুরুতে"
+
+#. 793o
+#: svxitems.src#RID_SVXITEMS_METRIC_MM.string.text
+msgid "mm"
+msgstr "মিমি"
+
+#. 65N7
+#: svxitems.src#RID_SVXITEMS_METRIC_CM.string.text
+msgid "cm"
+msgstr "সেমি"
+
+#. cCT2
+#: svxitems.src#RID_SVXITEMS_METRIC_INCH.string.text
+msgid "inch"
+msgstr "ইঞ্চি"
+
+#. mbz7
+#: svxitems.src#RID_SVXITEMS_METRIC_POINT.string.text
+msgid "pt"
+msgstr "পয়েন্ট"
+
+#. VgHP
+#: svxitems.src#RID_SVXITEMS_METRIC_TWIP.string.text
+msgid "twip"
+msgstr "টুইপ"
+
+#. xsbk
+#: svxitems.src#RID_SVXITEMS_METRIC_PIXEL.string.text
+msgid "pixel"
+msgstr ""
+
+#. 0n_v
+#: svxitems.src#RID_SVXITEMS_SHADOWED_TRUE.string.text
+msgid "Shadowed"
+msgstr "ছায়াবৃত্ত"
+
+#. 6MU9
+#: svxitems.src#RID_SVXITEMS_SHADOWED_FALSE.string.text
+msgid "Not Shadowed"
+msgstr "ছায়াবৃত্ত নয়"
+
+#. aOhm
+#: svxitems.src#RID_SVXITEMS_BLINK_TRUE.string.text
+msgid "Blinking"
+msgstr "মিটিমিটি জ্বলছে"
+
+#. rflT
+#: svxitems.src#RID_SVXITEMS_BLINK_FALSE.string.text
+msgid "Not Blinking"
+msgstr "জ্বলজ্বলে নয়"
+
+#. jBjx
+#: svxitems.src#RID_SVXITEMS_AUTOKERN_TRUE.string.text
+msgid "Pair Kerning"
+msgstr "জোড়া কার্নিং"
+
+#. 4L8B
+#: svxitems.src#RID_SVXITEMS_AUTOKERN_FALSE.string.text
+msgid "No pair kerning"
+msgstr "কোন জোড়া কার্নিং নেই"
+
+#. oreu
+#: svxitems.src#RID_SVXITEMS_WORDLINE_TRUE.string.text
+msgid "Individual words"
+msgstr "পৃথক শব্দ"
+
+#. SsNG
+#: svxitems.src#RID_SVXITEMS_WORDLINE_FALSE.string.text
+msgid "Not Words Only"
+msgstr "শুধু শব্দ নয়"
+
+#. RsVj
+#: svxitems.src#RID_SVXITEMS_CONTOUR_TRUE.string.text
+msgid "Outline"
+msgstr "রূপরেখা"
+
+#. GRWS
+#: svxitems.src#RID_SVXITEMS_CONTOUR_FALSE.string.text
+msgid "No Outline"
+msgstr "রূপরেখা নয়"
+
+#. FFt6
+#: svxitems.src#RID_SVXITEMS_PRINT_TRUE.string.text
+msgid "Print"
+msgstr "মুদ্রণ"
+
+#. 8PtU
+#: svxitems.src#RID_SVXITEMS_PRINT_FALSE.string.text
+msgid "Don't print"
+msgstr "মুদ্রণ করা হবে না"
+
+#. CRrz
+#: svxitems.src#RID_SVXITEMS_OPAQUE_TRUE.string.text
+msgid "Opaque"
+msgstr "অনচ্ছ"
+
+#. FSYI
+#: svxitems.src#RID_SVXITEMS_OPAQUE_FALSE.string.text
+msgid "Not Opaque"
+msgstr "অনচ্ছ নয়"
+
+#. ArhU
+#: svxitems.src#RID_SVXITEMS_FMTKEEP_TRUE.string.text
+msgid "Keep with next paragraph"
+msgstr "পরবর্তী অনুচ্ছেদের সাথে রাখা হবে"
+
+#. 8si9
+#: svxitems.src#RID_SVXITEMS_FMTKEEP_FALSE.string.text
+msgid "Don't Keep Paragraphs Together"
+msgstr "পরবর্তী অনুচ্ছেদের সাথে রাখা হবে না"
+
+#. Qe5e
+#: svxitems.src#RID_SVXITEMS_FMTSPLIT_TRUE.string.text
+msgid "Split paragraph"
+msgstr "বিভক্ত অনুচ্ছেদ"
+
+#. 3DM1
+#: svxitems.src#RID_SVXITEMS_FMTSPLIT_FALSE.string.text
+msgid "Don't split paragraph"
+msgstr "অনুচ্ছেদ বিভক্ত হবে না"
+
+#. ySri
+#: svxitems.src#RID_SVXITEMS_PROT_CONTENT_TRUE.string.text
+msgid "Contents protected"
+msgstr "বিষয়বস্তু সুরক্ষিত"
+
+#. y8Pm
+#: svxitems.src#RID_SVXITEMS_PROT_CONTENT_FALSE.string.text
+msgid "Contents not protected"
+msgstr "বিষয়বস্তু সুরক্ষিত নয়"
+
+#. GcBj
+#: svxitems.src#RID_SVXITEMS_PROT_SIZE_TRUE.string.text
+msgid "Size protected"
+msgstr "আকার সুরক্ষিত"
+
+#. h44i
+#: svxitems.src#RID_SVXITEMS_PROT_SIZE_FALSE.string.text
+msgid "Size not protected"
+msgstr "আকার সুরক্ষিত নেই"
+
+#. 5jgb
+#: svxitems.src#RID_SVXITEMS_PROT_POS_TRUE.string.text
+msgid "Position protected"
+msgstr "অবস্থান সুরক্ষিত"
+
+#. F399
+#: svxitems.src#RID_SVXITEMS_PROT_POS_FALSE.string.text
+msgid "Position not protected"
+msgstr "অবস্থান সুরক্ষিত নয়"
+
+#. zr#t
+#: svxitems.src#RID_SVXITEMS_TRANSPARENT_TRUE.string.text
+msgid "Transparent"
+msgstr "স্বচ্ছ"
+
+#. VRCN
+#: svxitems.src#RID_SVXITEMS_TRANSPARENT_FALSE.string.text
+msgid "Not Transparent"
+msgstr "স্বচ্ছ নয়"
+
+#. DQrt
+#: svxitems.src#RID_SVXITEMS_HYPHEN_TRUE.string.text
+msgid "Hyphenation"
+msgstr "হাইফেন প্রয়োগ"
+
+#. VRpv
+#: svxitems.src#RID_SVXITEMS_HYPHEN_FALSE.string.text
+msgid "No hyphenation"
+msgstr "কোন হাইফেন নয়"
+
+#. fIeD
+#: svxitems.src#RID_SVXITEMS_PAGE_END_TRUE.string.text
+msgid "Page End"
+msgstr "পৃষ্ঠার শেষ"
+
+#. 2gED
+#: svxitems.src#RID_SVXITEMS_PAGE_END_FALSE.string.text
+msgid "No Page End"
+msgstr "কোন পৃষ্ঠা শেষাংশ নেই"
+
+#. MQH0
+#: svxitems.src#RID_SVXITEMS_SIZE_WIDTH.string.text
+msgid "Width: "
+msgstr "প্রস্থ:"
+
+#. Unie
+#: svxitems.src#RID_SVXITEMS_SIZE_HEIGHT.string.text
+msgid "Height: "
+msgstr "উচ্চতা:"
+
+#. Aroh
+#: svxitems.src#RID_SVXITEMS_LRSPACE_LEFT.string.text
+msgid "Indent left "
+msgstr "বামে ইন্ডেন্ট"
+
+#. zzSs
+#: svxitems.src#RID_SVXITEMS_LRSPACE_FLINE.string.text
+msgid "First Line "
+msgstr "প্রথম লাইন"
+
+#. 8sdL
+#: svxitems.src#RID_SVXITEMS_LRSPACE_RIGHT.string.text
+msgid "Indent right "
+msgstr "ডানে ইন্ডেন্ট "
+
+#. PEIb
+#: svxitems.src#RID_SVXITEMS_SHADOW_COMPLETE.string.text
+msgid "Shadow: "
+msgstr "ছায়া: "
+
+#. 49YY
+#: svxitems.src#RID_SVXITEMS_BORDER_COMPLETE.string.text
+msgid "Borders "
+msgstr "সীমানা "
+
+#. _uHY
+#: svxitems.src#RID_SVXITEMS_BORDER_NONE.string.text
+msgid "No border"
+msgstr "কোন সীমানা নয়"
+
+#. YarW
+#: svxitems.src#RID_SVXITEMS_BORDER_TOP.string.text
+msgid "top "
+msgstr "শীর্ষ "
+
+#. Zwbt
+#: svxitems.src#RID_SVXITEMS_BORDER_BOTTOM.string.text
+msgid "bottom "
+msgstr "নিচে "
+
+#. iKzf
+#: svxitems.src#RID_SVXITEMS_BORDER_LEFT.string.text
+msgid "left "
+msgstr "বাম "
+
+#. ngv3
+#: svxitems.src#RID_SVXITEMS_BORDER_RIGHT.string.text
+msgid "right "
+msgstr "ডান "
+
+#. _1N3
+#: svxitems.src#RID_SVXITEMS_BORDER_DISTANCE.string.text
+msgid "Spacing "
+msgstr "মধ্যবর্তী দুরত্ব "
+
+#. 8bTO
+#: svxitems.src#RID_SVXITEMS_ULSPACE_UPPER.string.text
+msgid "From top "
+msgstr "শীর্ষ থেকে "
+
+#. Zb#9
+#: svxitems.src#RID_SVXITEMS_ULSPACE_LOWER.string.text
+msgid "From bottom "
+msgstr "নিচে থেকে "
+
+#. l3nd
+#: svxitems.src#RID_SVXITEMS_LINES.string.text
+msgid "%1 Lines"
+msgstr "%1 রেখা"
+
+#. X_Au
+#: svxitems.src#RID_SVXITEMS_WIDOWS_COMPLETE.string.text
+msgid "Widow control"
+msgstr "উইডো কন্ট্রোল"
+
+#. #Pik
+#: svxitems.src#RID_SVXITEMS_ORPHANS_COMPLETE.string.text
+msgid "Orphan control"
+msgstr "অরফ্যান কন্ট্রোল"
+
+#. KeQC
+#: svxitems.src#RID_SVXITEMS_HYPHEN_MINLEAD.string.text
+msgid "Characters at end of line"
+msgstr "রেখার শেষে অক্ষর"
+
+#. LzC8
+#: svxitems.src#RID_SVXITEMS_HYPHEN_MINTRAIL.string.text
+msgid "Characters at beginning of line"
+msgstr "রেখার শুরুতে অক্ষর"
+
+#. mq8S
+#: svxitems.src#RID_SVXITEMS_HYPHEN_MAX.string.text
+msgid "Hyphens"
+msgstr "হাইফেন"
+
+#. 5_IG
+#: svxitems.src#RID_SVXITEMS_PAGEMODEL_COMPLETE.string.text
+msgid "Page Style: "
+msgstr "পৃষ্ঠা শৈলী: "
+
+#. u5dB
+#: svxitems.src#RID_SVXITEMS_KERNING_COMPLETE.string.text
+msgid "Kerning "
+msgstr "কার্নিং "
+
+#. HDbE
+#: svxitems.src#RID_SVXITEMS_KERNING_EXPANDED.string.text
+msgid "locked "
+msgstr "আবদ্ধ "
+
+#. o95L
+#: svxitems.src#RID_SVXITEMS_KERNING_CONDENSED.string.text
+msgid "Condensed "
+msgstr "সংক্ষিপ্ত "
+
+#. BjPd
+#: svxitems.src#RID_SVXITEMS_GRAPHIC.string.text
+msgid "Graphic"
+msgstr "গ্রাফিক"
+
+#. W3kb
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_NONE_STYLE.string.text
+msgid "none"
+msgstr "কোনটি না"
+
+#. u2yN
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_DOT_STYLE.string.text
+msgid "Dots "
+msgstr "ডট "
+
+#. VKyt
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_CIRCLE_STYLE.string.text
+msgid "Circle "
+msgstr "বৃত্ত "
+
+#. v1MA
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_DISC_STYLE.string.text
+msgid "Filled circle "
+msgstr "ভরাট বৃত্ত "
+
+#. JfgL
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_ACCENT_STYLE.string.text
+msgid "Accent "
+msgstr "স্থানীয় উচ্চারণ-ভঙ্গি "
+
+#. 0ePQ
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_ABOVE_POS.string.text
+msgid "Above"
+msgstr "উপরে"
+
+#. Xmqf
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_BELOW_POS.string.text
+msgid "Below"
+msgstr "নিম্নে"
+
+#. 2DWl
+#: svxitems.src#RID_SVXITEMS_TWOLINES_OFF.string.text
+msgid "Double-lined off"
+msgstr "ডবল রেখাযুক্ত- নিষ্ক্রিয়"
+
+#. q_s5
+#: svxitems.src#RID_SVXITEMS_TWOLINES.string.text
+msgid "Double-lined"
+msgstr "ডবল রেখাযুক্ত"
+
+#. Arlc
+#: svxitems.src#RID_SVXITEMS_SCRPTSPC_OFF.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_SCRPTSPC_OFF.string.text"
+msgid "No automatic character spacing"
+msgstr "স্বয়ংক্রিয় অক্ষর ফাঁকাকরণ করা হবে না"
+
+#. WqkI
+#: svxitems.src#RID_SVXITEMS_SCRPTSPC_ON.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_SCRPTSPC_ON.string.text"
+msgid "No automatic character spacing"
+msgstr "স্বয়ংক্রিয় অক্ষর ফাঁকাকরণ করা হবে না"
+
+#. Djmb
+#: svxitems.src#RID_SVXITEMS_HNGPNCT_OFF.string.text
+msgid "No hanging punctuation at line end"
+msgstr "লাইনের শেষে কোন ঝুলন্ত বিরামচিহ্ন থাকবে না"
+
+#. 7741
+#: svxitems.src#RID_SVXITEMS_HNGPNCT_ON.string.text
+msgid "Hanging punctuation at line end"
+msgstr "লাইনের শেষে ঝুলন্ত বিরামচিহ্ন"
+
+#. 6TAk
+#: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_OFF.string.text
+msgid "Apply list of forbidden characters to beginning and end of lines"
+msgstr "রেখার শেষে এবং শুরুতে নিষিদ্ধ অক্ষরের তালিকা প্রয়োগ"
+
+#. hcpl
+#: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_ON.string.text
+msgid "Don't apply list of forbidden characters to beginning and end of lines"
+msgstr "রেখার শেষে এবং শুরুতে নিষিদ্ধ অক্ষরের তালিকা প্রয়োগ করা হবে না"
+
+#. yJCs
+#: svxitems.src#RID_SVXITEMS_CHARROTATE_OFF.string.text
+msgid "No rotated characters"
+msgstr "কোন ঘোরানো অক্ষর নয়"
+
+#. tmgK
+#: svxitems.src#RID_SVXITEMS_CHARROTATE.string.text
+msgid "Character rotated by $(ARG1)°"
+msgstr "অক্ষর যে পরিমাণ ঘোরানো হবে $(ARG1)°"
+
+#. zS1u
+#: svxitems.src#RID_SVXITEMS_CHARROTATE_FITLINE.string.text
+msgid "Fit to line"
+msgstr "লাইনে মাপসই করা হবে"
+
+#. r1L_
+#: svxitems.src#RID_SVXITEMS_CHARSCALE.string.text
+msgid "Characters scaled $(ARG1)%"
+msgstr "অক্ষরের আকার পরিবর্তিত $(ARG1)%"
+
+#. mUSk
+#: svxitems.src#RID_SVXITEMS_CHARSCALE_OFF.string.text
+msgid "No scaled characters"
+msgstr "কোন আকার পরিবর্তিত অক্ষর নয়"
+
+#. C_SK
+#: svxitems.src#RID_SVXITEMS_RELIEF_NONE.string.text
+msgid "No relief"
+msgstr "কোন রিলিফ নেই"
+
+#. HQhQ
+#: svxitems.src#RID_SVXITEMS_RELIEF_EMBOSSED.string.text
+msgid "Relief"
+msgstr "রিলিফ"
+
+#. 0ejA
+#: svxitems.src#RID_SVXITEMS_RELIEF_ENGRAVED.string.text
+msgid "Engraved"
+msgstr "খোদাইকৃত"
+
+#. X3Uq
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_AUTO.string.text
+msgid "Automatic text alignment"
+msgstr "স্বয়ংক্রিয় টেক্সট প্রান্তিককরণ"
+
+#. LJR1
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BASELINE.string.text
+msgid "Text aligned to base line"
+msgstr "বেসলাইনে প্রান্তিককৃত টেক্সট"
+
+#. Bbfy
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_TOP.string.text
+msgid "Text aligned top"
+msgstr "শীর্ষে প্রান্তিককৃত টেক্সট"
+
+#. cDnW
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_CENTER.string.text
+msgid "Text aligned middle"
+msgstr "মধ্যে প্রান্তিককৃত টেক্সট"
+
+#. PTzL
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BOTTOM.string.text
+msgid "Text aligned bottom"
+msgstr "নিম্নে প্রান্তিককৃত টেক্সট"
+
+#. BhHS
+#: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_LEFT_TOP.string.text
+msgid "Text direction left-to-right (horizontal)"
+msgstr "টেক্সট দিকবিন্যাস- বাম-থেকে-ডান (অনুভূমিক)"
+
+#. UVmm
+#: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_RIGHT_TOP.string.text
+msgid "Text direction right-to-left (horizontal)"
+msgstr "টেক্সট দিকবিন্যাস- ডান-থেকে-বাম (অনুভূমিক)"
+
+#. _Y2Y
+#: svxitems.src#RID_SVXITEMS_FRMDIR_VERT_TOP_RIGHT.string.text
+msgid "Text direction right-to-left (vertical)"
+msgstr "টেক্সট দিকবিন্যাস- ডান-থেকে-বাম (লম্বালম্বি)"
+
+#. y2XE
+#: svxitems.src#RID_SVXITEMS_FRMDIR_VERT_TOP_LEFT.string.text
+msgid "Text direction left-to-right (vertical)"
+msgstr "টেক্সট দিকবিন্যাস- বাম-থেকে-ডান (লম্বালম্বি)"
+
+#. 6q82
+#: svxitems.src#RID_SVXITEMS_FRMDIR_ENVIRONMENT.string.text
+msgid "Use superordinate object text direction setting"
+msgstr "উর্ধঃস্তন বস্তুর টেক্সটের অভিমুখ সেটিং ব্যবহার করুন"
+
+#. eUnm
+#: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_ON.string.text
+msgid "Paragraph snaps to text grid (if active)"
+msgstr "টেক্সট গ্রিডে অনুচ্ছেদ স্ন্যাপ (যদি সক্রিয় থাকে)"
+
+#. iyFT
+#: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_OFF.string.text
+msgid "Paragraph does not snap to text grid"
+msgstr "টেক্সট গ্রিডে অনুচ্ছেদ স্ন্যাপ নয়"
+
+#. GykQ
+#: svxitems.src#RID_SVXITEMS_CHARHIDDEN_FALSE.string.text
+msgid "Not hidden"
+msgstr "আড়ালে নয়"
+
+#. CP7r
+#: svxitems.src#RID_SVXITEMS_CHARHIDDEN_TRUE.string.text
+msgid "Hidden"
+msgstr "আড়ালে"
+
+#. LMbK
+#: svxitems.src#RID_SVXITEMS_HORJUST_STANDARD.string.text
+#, fuzzy
+msgid "Horizontal alignment default"
+msgstr ""
+"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
+"অনুভূমিক প্রান্তিককরণ- পূর্বনির্ধারিত\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"অনুভূমিক প্রান্তিককরণ ডিফল্ট\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"পূর্বনির্ধারিত অনুভূমিক প্রান্তিককরণ"
+
+#. ZtMH
+#: svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text"
+msgid "Align left"
+msgstr "বাম প্রান্তিককরণ"
+
+#. q3wS
+#: svxitems.src#RID_SVXITEMS_HORJUST_CENTER.string.text
+msgid "Centered horizontally"
+msgstr "অনুভূমিকভাবে কেন্দ্রস্থিত"
+
+#. ZKx6
+#: svxitems.src#RID_SVXITEMS_HORJUST_RIGHT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_RIGHT.string.text"
+msgid "Align right"
+msgstr "ডান প্রান্তিককরণ"
+
+# 100%
+#. 5wQJ
+#: svxitems.src#RID_SVXITEMS_HORJUST_BLOCK.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_BLOCK.string.text"
+msgid "Justify"
+msgstr "উভয়প্রান্তিক"
+
+#. #2zU
+#: svxitems.src#RID_SVXITEMS_HORJUST_REPEAT.string.text
+#, fuzzy
+msgid "Repeat alignment"
+msgstr ""
+"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
+"প্রান্তিককরণ পুনরাবৃত্ত\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"প্রান্তিককরণ পুনরাবৃত্ত করুন\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"প্রান্তিককরণ পুনরাবৃত্ত করুন"
+
+#. kdpl
+#: svxitems.src#RID_SVXITEMS_VERJUST_STANDARD.string.text
+#, fuzzy
+msgid "Vertical alignment default"
+msgstr ""
+"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
+"উল্লম্ব প্রান্তিককরণ- পূর্বনির্ধারিত\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"উল্লম্ব প্রান্তিককরণ ডিফল্ট\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"পূর্বনির্ধারিত উল্লম্ব প্রান্তিককরণ"
+
+#. BmsH
+#: svxitems.src#RID_SVXITEMS_VERJUST_TOP.string.text
+#, fuzzy
+msgid "Align to top"
+msgstr ""
+"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
+"শীর্ষ প্রান্তিককরণ\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"শীর্ষে প্রান্তিক করুন\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ঊর্ধ্ব বরাবর প্রান্তিককরণ"
+
+#. 1Dcc
+#: svxitems.src#RID_SVXITEMS_VERJUST_CENTER.string.text
+msgid "Centered vertically"
+msgstr "উল্লম্বভাবে কেন্দ্রস্থিত"
+
+#. #TgJ
+#: svxitems.src#RID_SVXITEMS_VERJUST_BOTTOM.string.text
+#, fuzzy
+msgid "Align to bottom"
+msgstr ""
+"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
+"নিম্ন প্রান্তিককরণ\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"নিম্নে প্রান্তিক করুন\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"নিম্ন বরাবর প্রান্তিককরণ"
+
+#. Y4KB
+#: svxitems.src#RID_SVXITEMS_JUSTMETHOD_AUTO.string.text
+#, fuzzy
+msgid "Automatic"
+msgstr ""
+"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  inspection.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  01.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়\n"
+"#-#-#-#-#  t602.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"স্বয়ংক্রিয়"
+
+#. ERlT
+#: svxitems.src#RID_SVXITEMS_JUSTMETHOD_DISTRIBUTE.string.text
+msgid "Distributed"
+msgstr "বন্টন"
+
+#. JrNi
+#: page.src#RID_SVXSTR_PAPERBIN.string.text
+msgid "Paper tray"
+msgstr "কাগজের ট্রে"
+
+#. TQ_i
+#: page.src#RID_SVXSTR_PAPERBIN_SETTINGS.string.text
+msgid "[From printer settings]"
+msgstr "[মুদ্রণযন্ত্র সেটিংস থেকে]"

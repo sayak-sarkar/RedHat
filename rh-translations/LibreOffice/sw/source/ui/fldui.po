@@ -1,0 +1,1290 @@
+#. extracted from sw/source/ui/fldui.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Ffldui.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2011-04-05 10:47+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. fWrp
+#: fldui.src#STR_FLD_EDIT_DLG.string.text
+msgid "Edit Fields"
+msgstr "ক্ষেত্র সম্পাদনা"
+
+#. 0xzY
+#: fldui.src#STR_DATEFLD.string.text
+msgctxt "fldui.src#STR_DATEFLD.string.text"
+msgid "Date"
+msgstr "তারিখ"
+
+#. yZG4
+#: fldui.src#STR_TIMEFLD.string.text
+msgctxt "fldui.src#STR_TIMEFLD.string.text"
+msgid "Time"
+msgstr "সময়"
+
+#. khRM
+#: fldui.src#STR_FILENAMEFLD.string.text
+msgctxt "fldui.src#STR_FILENAMEFLD.string.text"
+msgid "File name"
+msgstr "ফাইলের নাম"
+
+#. WImk
+#: fldui.src#STR_DBNAMEFLD.string.text
+msgid "Database Name"
+msgstr "ডাটাবেসের নাম"
+
+#. DB_X
+#: fldui.src#STR_CHAPTERFLD.string.text
+msgctxt "fldui.src#STR_CHAPTERFLD.string.text"
+msgid "Chapter"
+msgstr "অধ্যায়"
+
+#. QCcS
+#: fldui.src#STR_PAGENUMBERFLD.string.text
+msgid "Page numbers"
+msgstr "পৃষ্ঠার নম্বর"
+
+#. 6HOe
+#: fldui.src#STR_DOCSTATFLD.string.text
+msgid "Statistics"
+msgstr "পরিসংখ্যান"
+
+#. A7uM
+#: fldui.src#STR_AUTHORFLD.string.text
+msgctxt "fldui.src#STR_AUTHORFLD.string.text"
+msgid "Author"
+msgstr "লেখক"
+
+#. c6EH
+#: fldui.src#STR_TEMPLNAMEFLD.string.text
+msgid "Templates"
+msgstr "ফর্মা"
+
+#. uD43
+#: fldui.src#STR_EXTUSERFLD.string.text
+msgid "Sender"
+msgstr "প্রেরক"
+
+#. K2ga
+#: fldui.src#STR_SETFLD.string.text
+msgid "Set variable"
+msgstr "চলক নির্ধারণ"
+
+#. uUsD
+#: fldui.src#STR_GETFLD.string.text
+msgid "Show variable"
+msgstr "চলক প্রদর্শন"
+
+#. fQp#
+#: fldui.src#STR_FORMELFLD.string.text
+msgid "Insert Formula"
+msgstr "সূত্র সন্নিবেশ"
+
+#. awlg
+#: fldui.src#STR_INPUTFLD.string.text
+msgid "Input field"
+msgstr "ইনপুট ক্ষেত্র"
+
+#. xXx6
+#: fldui.src#STR_SETINPUTFLD.string.text
+msgid "Input field (variable)"
+msgstr "ইনপুট ক্ষেত্র (চলক)"
+
+#. ttvW
+#: fldui.src#STR_USRINPUTFLD.string.text
+msgid "Input field (user)"
+msgstr "ইনপুট ক্ষেত্র (ব্যবহারকারী)"
+
+#. VVLd
+#: fldui.src#STR_CONDTXTFLD.string.text
+msgid "Conditional text"
+msgstr "শর্তাধীন লেখা"
+
+#. linR
+#: fldui.src#STR_DDEFLD.string.text
+msgid "DDE field"
+msgstr "DDE ক্ষেত্র"
+
+#. lKPz
+#: fldui.src#STR_MACROFLD.string.text
+msgid "Execute macro"
+msgstr "ম্যাক্রো কার্যকর"
+
+#. Y8sE
+#: fldui.src#STR_SEQFLD.string.text
+msgid "Number range"
+msgstr "নম্বর পরিসর"
+
+#. Ge8C
+#: fldui.src#STR_SETREFPAGEFLD.string.text
+msgid "Set page variable"
+msgstr "পৃষ্ঠার চলক নির্ধারণ"
+
+#. Bu2o
+#: fldui.src#STR_GETREFPAGEFLD.string.text
+msgid "Show page variable"
+msgstr "পৃষ্ঠার চলক প্রদর্শন"
+
+#. oUkV
+#: fldui.src#STR_INTERNETFLD.string.text
+msgid "Load URL"
+msgstr "URL লোড"
+
+#. UI#P
+#: fldui.src#STR_JUMPEDITFLD.string.text
+msgid "Placeholder"
+msgstr "স্থানধারক"
+
+#. _mQo
+#: fldui.src#STR_COMBINED_CHARS.string.text
+msgid "Combine characters"
+msgstr "একত্রিত বর্ণ"
+
+#. Qgb7
+#: fldui.src#STR_DROPDOWN.string.text
+msgid "Input list"
+msgstr "ইনপুট তালিকা"
+
+#. YDhe
+#: fldui.src#STR_SETREFFLD.string.text
+msgid "Set Reference"
+msgstr "রেফারেন্স নির্ধারণ"
+
+#. BtfK
+#: fldui.src#STR_GETREFFLD.string.text
+msgid "Insert Reference"
+msgstr "রেফারেন্স সন্নিবেশ"
+
+#. ctbP
+#: fldui.src#STR_DBFLD.string.text
+msgid "Mail merge fields"
+msgstr "মেইল একত্রীকরণ ক্ষেত্র"
+
+#. 9CLp
+#: fldui.src#STR_DBNEXTSETFLD.string.text
+msgid "Next record"
+msgstr "পরবর্তী রেকর্ড"
+
+#. idCq
+#: fldui.src#STR_DBNUMSETFLD.string.text
+msgid "Any record"
+msgstr "যেকোনো রেকর্ড"
+
+#. 5#mn
+#: fldui.src#STR_DBSETNUMBERFLD.string.text
+msgctxt "fldui.src#STR_DBSETNUMBERFLD.string.text"
+msgid "Record number"
+msgstr "রেকর্ড নম্বর"
+
+#. QK1Q
+#: fldui.src#STR_PREVPAGEFLD.string.text
+msgid "Previous page"
+msgstr "পূর্ববর্তী পৃষ্ঠা"
+
+#. kzTz
+#: fldui.src#STR_NEXTPAGEFLD.string.text
+msgid "Next page"
+msgstr "পরবর্তী পৃষ্ঠা"
+
+#. ref_
+#: fldui.src#STR_HIDDENTXTFLD.string.text
+msgid "Hidden text"
+msgstr "লুক্কায়িত লেখা"
+
+#. WFoN
+#: fldui.src#STR_USERFLD.string.text
+msgid "User Field"
+msgstr "ব্যবহারকারী ক্ষেত্র"
+
+#. yrgP
+#: fldui.src#STR_POSTITFLD.string.text
+msgid "Note"
+msgstr "নোট"
+
+#. qcPx
+#: fldui.src#STR_SCRIPTFLD.string.text
+msgid "Script"
+msgstr "স্ক্রিপ্ট"
+
+#. Hx84
+#: fldui.src#STR_AUTHORITY.string.text
+msgid "Bibliography entry"
+msgstr "তথ্যসূত্র ভুক্তি"
+
+#. dB7Z
+#: fldui.src#STR_HIDDENPARAFLD.string.text
+msgid "Hidden Paragraph"
+msgstr "লুকায়িত অনুচ্ছেদ"
+
+#. fQ_7
+#: fldui.src#STR_DOCINFOFLD.string.text
+msgctxt "fldui.src#STR_DOCINFOFLD.string.text"
+msgid "DocInformation"
+msgstr "নথির-তথ্য"
+
+#. CyY2
+#: fldui.src#FLD_DATE_STD.string.text
+msgctxt "fldui.src#FLD_DATE_STD.string.text"
+msgid "Date"
+msgstr "তারিখ"
+
+#. 10r_
+#: fldui.src#FLD_DATE_FIX.string.text
+msgid "Date (fixed)"
+msgstr "তারিখ (অপরিবর্তিত)"
+
+#. LuK0
+#: fldui.src#FLD_TIME_STD.string.text
+msgctxt "fldui.src#FLD_TIME_STD.string.text"
+msgid "Time"
+msgstr "সময়"
+
+#. O43z
+#: fldui.src#FLD_TIME_FIX.string.text
+msgid "Time (fixed)"
+msgstr "তারিখ (অপরিবর্তিত)"
+
+#. n26t
+#: fldui.src#FLD_STAT_TABLE.string.text
+msgid "Tables"
+msgstr "সারণি"
+
+#. 870e
+#: fldui.src#FLD_STAT_CHAR.string.text
+msgid "Characters"
+msgstr "বর্ণ"
+
+#. bej0
+#: fldui.src#FLD_STAT_WORD.string.text
+msgid "Words"
+msgstr "শব্দ"
+
+#. pY9f
+#: fldui.src#FLD_STAT_PARA.string.text
+msgid "Paragraphs"
+msgstr "অনুচ্ছেদ"
+
+#. Xp3Y
+#: fldui.src#FLD_STAT_GRF.string.text
+msgctxt "fldui.src#FLD_STAT_GRF.string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. OWOS
+#: fldui.src#FLD_STAT_OBJ.string.text
+msgid "Objects"
+msgstr "বস্তু"
+
+#. HaKu
+#: fldui.src#FLD_STAT_PAGE.string.text
+msgid "Pages"
+msgstr "পৃষ্ঠা"
+
+#. aGqu
+#: fldui.src#FMT_DDE_HOT.string.text
+msgid "DDE automatic"
+msgstr "DDE স্বয়ংক্রিয় "
+
+#. ynTE
+#: fldui.src#FMT_DDE_NORMAL.string.text
+msgid "DDE manual"
+msgstr "DDE ম্যানুয়াল"
+
+#. gk5#
+#: fldui.src#FLD_EU_FIRMA.string.text
+msgid "Company"
+msgstr "কোম্পানি"
+
+#. 17oB
+#: fldui.src#FLD_EU_VORNAME.string.text
+msgid "First Name"
+msgstr "নামের প্রথমাংশ"
+
+#. D0fR
+#: fldui.src#FLD_EU_NAME.string.text
+msgid "Last Name"
+msgstr "নামের শেষাংশ"
+
+#. AKAE
+#: fldui.src#FLD_EU_ABK.string.text
+msgctxt "fldui.src#FLD_EU_ABK.string.text"
+msgid "Initials"
+msgstr "আদ্যক্ষর"
+
+#. ZigS
+#: fldui.src#FLD_EU_STRASSE.string.text
+msgid "Street"
+msgstr "রাস্তা"
+
+#. 1emQ
+#: fldui.src#FLD_EU_LAND.string.text
+msgid "Country"
+msgstr "দেশ"
+
+#. raVS
+#: fldui.src#FLD_EU_PLZ.string.text
+msgid "Zip code"
+msgstr "জিপ কোড"
+
+#. lc9U
+#: fldui.src#FLD_EU_ORT.string.text
+msgid "City"
+msgstr "শহর"
+
+#. YvTY
+#: fldui.src#FLD_EU_TITEL.string.text
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. 2R6c
+#: fldui.src#FLD_EU_POS.string.text
+msgid "Position"
+msgstr "অবস্থান"
+
+#. dyox
+#: fldui.src#FLD_EU_TELPRIV.string.text
+msgid "Tel. (Home)"
+msgstr "টেলিফোন(বাসা)"
+
+#. 08y0
+#: fldui.src#FLD_EU_TELFIRMA.string.text
+msgid "Tel. (Work)"
+msgstr "টেলিফোন (কর্মস্থল)"
+
+#. EGv#
+#: fldui.src#FLD_EU_FAX.string.text
+msgid "FAX"
+msgstr "FAX"
+
+#. ObW_
+#: fldui.src#FLD_EU_EMAIL.string.text
+msgid "E-mail"
+msgstr "ইমেইল "
+
+#. 8GR0
+#: fldui.src#FLD_EU_STATE.string.text
+msgid "State"
+msgstr "রাষ্ট্র"
+
+#. kcg2
+#: fldui.src#FLD_PAGEREF_OFF.string.text
+msgid "off"
+msgstr "বন্ধ"
+
+#. mjFQ
+#: fldui.src#FLD_PAGEREF_ON.string.text
+msgid "on"
+msgstr "চালু"
+
+#. OYlj
+#: fldui.src#FMT_FF_NAME.string.text
+msgctxt "fldui.src#FMT_FF_NAME.string.text"
+msgid "File name"
+msgstr "ফাইলের নাম"
+
+#. JgQI
+#: fldui.src#FMT_FF_NAME_NOEXT.string.text
+msgid "File name without extension"
+msgstr "বর্ধিতাংশহীন ফাইলের নাম"
+
+#. sofT
+#: fldui.src#FMT_FF_PATHNAME.string.text
+msgid "Path/File name"
+msgstr "পথ/ফাইলের নাম"
+
+#. K1QL
+#: fldui.src#FMT_FF_PATH.string.text
+msgid "Path"
+msgstr "পথ"
+
+#. AcY#
+#: fldui.src#FMT_FF_UI_NAME.string.text
+msgid "Style"
+msgstr "শৈলী"
+
+#. A#lQ
+#: fldui.src#FMT_FF_UI_RANGE.string.text
+msgid "Category"
+msgstr "শ্রেণী"
+
+#. RRwo
+#: fldui.src#FMT_CHAPTER_NAME.string.text
+msgid "Chapter name"
+msgstr "অধ্যায়ের নাম"
+
+#. NLZZ
+#: fldui.src#FMT_CHAPTER_NO.string.text
+msgid "Chapter number"
+msgstr "অধ্যায় নম্বর"
+
+#. TdBF
+#: fldui.src#FMT_CHAPTER_NO_NOSEPARATOR.string.text
+msgid "Chapter number without separator"
+msgstr "বিভাজকহীন অধ্যায় নম্বর"
+
+#. pgoU
+#: fldui.src#FMT_CHAPTER_NAMENO.string.text
+msgid "Chapter number and name"
+msgstr "অধ্যায় নম্বর এবং নাম"
+
+#. YoTo
+#: fldui.src#FMT_NUM_ROMAN.string.text
+msgid "Roman (I II III)"
+msgstr "রোমান (I II III)"
+
+#. upVm
+#: fldui.src#FMT_NUM_SROMAN.string.text
+msgid "Roman (i ii iii)"
+msgstr "রোমান (i ii iii)"
+
+#. hL1g
+#: fldui.src#FMT_NUM_ARABIC.string.text
+msgid "Arabic (1 2 3)"
+msgstr "আরবী (১ ২ ৩)"
+
+#. NYx5
+#: fldui.src#FMT_NUM_PAGEDESC.string.text
+msgctxt "fldui.src#FMT_NUM_PAGEDESC.string.text"
+msgid "As Page Style"
+msgstr "পৃষ্ঠার শৈলী হিসেবে"
+
+#. qyYm
+#: fldui.src#FMT_NUM_PAGESPECIAL.string.text
+msgctxt "fldui.src#FMT_NUM_PAGESPECIAL.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. 9uKM
+#: fldui.src#FMT_AUTHOR_NAME.string.text
+msgctxt "fldui.src#FMT_AUTHOR_NAME.string.text"
+msgid "Name"
+msgstr "নাম"
+
+#. lnBw
+#: fldui.src#FMT_AUTHOR_SCUT.string.text
+msgctxt "fldui.src#FMT_AUTHOR_SCUT.string.text"
+msgid "Initials"
+msgstr "আদ্যক্ষর"
+
+#. WTVM
+#: fldui.src#FMT_SETVAR_SYS.string.text
+msgctxt "fldui.src#FMT_SETVAR_SYS.string.text"
+msgid "System"
+msgstr "সিস্টেম"
+
+#. Rvow
+#: fldui.src#FMT_SETVAR_TEXT.string.text
+msgctxt "fldui.src#FMT_SETVAR_TEXT.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. z62I
+#: fldui.src#FMT_GETVAR_NAME.string.text
+msgctxt "fldui.src#FMT_GETVAR_NAME.string.text"
+msgid "Name"
+msgstr "নাম"
+
+#. ES_f
+#: fldui.src#FMT_GETVAR_TEXT.string.text
+msgctxt "fldui.src#FMT_GETVAR_TEXT.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. 9v1J
+#: fldui.src#FMT_USERVAR_CMD.string.text
+msgctxt "fldui.src#FMT_USERVAR_CMD.string.text"
+msgid "Formula"
+msgstr "সূত্র"
+
+#. Gb1R
+#: fldui.src#FMT_USERVAR_TEXT.string.text
+msgctxt "fldui.src#FMT_USERVAR_TEXT.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. #lTC
+#: fldui.src#FMT_DBFLD_DB.string.text
+msgctxt "fldui.src#FMT_DBFLD_DB.string.text"
+msgid "Database"
+msgstr "ডাটাবেস"
+
+#. rODW
+#: fldui.src#FMT_DBFLD_SYS.string.text
+msgctxt "fldui.src#FMT_DBFLD_SYS.string.text"
+msgid "System"
+msgstr "সিস্টেম"
+
+#. NbjX
+#: fldui.src#FMT_REG_AUTHOR.string.text
+msgctxt "fldui.src#FMT_REG_AUTHOR.string.text"
+msgid "Author"
+msgstr "লেখক"
+
+#. WMaJ
+#: fldui.src#FMT_REG_TIME.string.text
+msgctxt "fldui.src#FMT_REG_TIME.string.text"
+msgid "Time"
+msgstr "সময়"
+
+#. 8CRq
+#: fldui.src#FMT_REG_DATE.string.text
+msgctxt "fldui.src#FMT_REG_DATE.string.text"
+msgid "Date"
+msgstr "তারিখ"
+
+#. BaYe
+#: fldui.src#FMT_REF_TEXT.string.text
+msgid "Reference"
+msgstr "রেফারেন্স"
+
+#. eb#R
+#: fldui.src#FMT_REF_PAGE.string.text
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#. 0mL6
+#: fldui.src#FMT_REF_CHAPTER.string.text
+msgctxt "fldui.src#FMT_REF_CHAPTER.string.text"
+msgid "Chapter"
+msgstr "অধ্যায়"
+
+#. gf9W
+#: fldui.src#FMT_REF_UPDOWN.string.text
+msgid "Above/Below"
+msgstr "উপরে/নিচে"
+
+#. _Fex
+#: fldui.src#FMT_REF_PAGE_PGDSC.string.text
+msgctxt "fldui.src#FMT_REF_PAGE_PGDSC.string.text"
+msgid "As Page Style"
+msgstr "পৃষ্ঠার শৈলী হিসেবে"
+
+#. f547
+#: fldui.src#FMT_REF_ONLYNUMBER.string.text
+msgid "Category and Number"
+msgstr "শ্রেণী এবং নম্বর"
+
+#. _1lQ
+#: fldui.src#FMT_REF_ONLYCAPTION.string.text
+msgid "Caption Text"
+msgstr "ক্যাপশন লেখা"
+
+#. 9i0i
+#: fldui.src#FMT_REF_ONLYSEQNO.string.text
+msgid "Numbering"
+msgstr "সংখ্যায়ন"
+
+#. OTV_
+#: fldui.src#FMT_REF_NUMBER.string.text
+msgid "Number"
+msgstr "নম্বর"
+
+#. Aa0U
+#: fldui.src#FMT_REF_NUMBER_NO_CONTEXT.string.text
+msgid "Number (no context)"
+msgstr "সংখ্যা (প্রসঙ্গ ছাড়া)"
+
+#. VRzR
+#: fldui.src#FMT_REF_NUMBER_FULL_CONTEXT.string.text
+msgid "Number (full context)"
+msgstr "সংখ্যা (সম্পূর্ণ প্রসঙ্গ)"
+
+#. 2VFb
+#: fldui.src#FMT_MARK_TEXT.string.text
+msgctxt "fldui.src#FMT_MARK_TEXT.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. CbO#
+#: fldui.src#FMT_MARK_TABLE.string.text
+msgid "Table"
+msgstr "সারণি"
+
+#. 8kFJ
+#: fldui.src#FMT_MARK_FRAME.string.text
+msgid "Frame"
+msgstr "ফ্রেম"
+
+#. l0q#
+#: fldui.src#FMT_MARK_GRAFIC.string.text
+msgctxt "fldui.src#FMT_MARK_GRAFIC.string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. uerB
+#: fldui.src#FMT_MARK_OLE.string.text
+msgid "Object"
+msgstr "বস্তু"
+
+#. 0_SW
+#: fldui.src#STR_ALL.string.text
+msgid "All"
+msgstr "সব"
+
+#. fo1W
+#: fldui.src#STR_INSERT.string.text
+msgid "Insert"
+msgstr "সন্নিবেশ"
+
+#. RdL2
+#: fldui.src#STR_COND.string.text
+msgctxt "fldui.src#STR_COND.string.text"
+msgid "~Condition"
+msgstr "শর্ত (~C)"
+
+#. W#X9
+#: fldui.src#STR_TEXT.string.text
+msgid "Then, Else"
+msgstr "তারপর, তাছাড়া"
+
+#. V5HB
+#: fldui.src#STR_DDE_CMD.string.text
+msgid "DDE Statement"
+msgstr "DDE স্ট্যাটমেন্ট"
+
+#. 6Cta
+#: fldui.src#STR_INSTEXT.string.text
+msgid "Hidden t~ext"
+msgstr "লুকায়িত লেখা (~e)"
+
+#. oNeo
+#: fldui.src#STR_MACNAME.string.text
+msgid "~Macro name"
+msgstr "ম্যাক্রো নাম (~M)"
+
+#. d6B5
+#: fldui.src#STR_PROMPT.string.text
+msgid "~Reference"
+msgstr "রেফারেন্স (~R)"
+
+#. BFXZ
+#: fldui.src#STR_COMBCHRS_FT.string.text
+msgid "Ch~aracters"
+msgstr "বর্ণ (~a)"
+
+#. Kvyg
+#: fldui.src#STR_SETNO.string.text
+msgctxt "fldui.src#STR_SETNO.string.text"
+msgid "Record number"
+msgstr "রেকর্ড নম্বর"
+
+#. ch8f
+#: fldui.src#STR_OFFSET.string.text
+msgctxt "fldui.src#STR_OFFSET.string.text"
+msgid "O~ffset"
+msgstr "অফসেট (~f)"
+
+#. nEWb
+#: fldui.src#STR_VALUE.string.text
+msgid "Value"
+msgstr "মান"
+
+#. GgMG
+#: fldui.src#STR_FORMULA.string.text
+msgctxt "fldui.src#STR_FORMULA.string.text"
+msgid "Formula"
+msgstr "সূত্র"
+
+#. w9q3
+#: fldui.src#STR_URLPROMPT.string.text
+msgid "~URL"
+msgstr "URL (~U)"
+
+#. uETp
+#: fldui.src#STR_ALL_DATABASE.string.text
+msgid "<All>"
+msgstr "<সব>"
+
+#. ZIyW
+#: fldui.src#PB_FLDEDT_ADDRESS.pushbutton.text
+msgctxt "fldui.src#PB_FLDEDT_ADDRESS.pushbutton.text"
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#. CFOf
+#: fldui.src#STR_CUSTOM.string.text
+msgid "Custom"
+msgstr "স্বনির্ধারিত"
+
+#. #eCl
+#: flddok.src#TP_FLD_DOK.FT_DOKTYPE.fixedtext.text
+msgctxt "flddok.src#TP_FLD_DOK.FT_DOKTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ধরন (~T)"
+
+#. DEDj
+#: flddok.src#TP_FLD_DOK.FT_DOKSELECTION.fixedtext.text
+msgctxt "flddok.src#TP_FLD_DOK.FT_DOKSELECTION.fixedtext.text"
+msgid "S~elect"
+msgstr "নির্বাচন (~e)"
+
+#. xH1X
+#: flddok.src#TP_FLD_DOK.FT_DOKFORMAT.fixedtext.text
+msgctxt "flddok.src#TP_FLD_DOK.FT_DOKFORMAT.fixedtext.text"
+msgid "F~ormat"
+msgstr "বিন্যাস (~o)"
+
+#. bcRr
+#: flddok.src#TP_FLD_DOK.FT_DOKVALUE.fixedtext.text
+msgctxt "flddok.src#TP_FLD_DOK.FT_DOKVALUE.fixedtext.text"
+msgid "O~ffset"
+msgstr "অফসেট (~f)"
+
+#. mWqy
+#: flddok.src#TP_FLD_DOK.CB_DOKFIXEDCONTENT.checkbox.text
+msgctxt "flddok.src#TP_FLD_DOK.CB_DOKFIXEDCONTENT.checkbox.text"
+msgid "~Fixed content"
+msgstr "নির্ধারিত বিষয়বস্তু (~F)"
+
+#. d46p
+#: flddok.src#TP_FLD_DOK.STR_DOKDATEOFF.string.text
+msgid "Offs~et in days"
+msgstr "দৈনিক অফসেট (~e)"
+
+#. RShL
+#: flddok.src#TP_FLD_DOK.STR_DOKTIMEOFF.string.text
+msgid "Offs~et in minutes"
+msgstr "মিনিটে অফসেট (~e)"
+
+#. lrq1
+#: flddok.src#TP_FLD_DOK.tabpage.text
+msgctxt "flddok.src#TP_FLD_DOK.tabpage.text"
+msgid "Document"
+msgstr "নথি"
+
+#. odpW
+#: fldvar.src#TP_FLD_VAR.FT_VARTYPE.fixedtext.text
+msgctxt "fldvar.src#TP_FLD_VAR.FT_VARTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ধরন (~T)"
+
+#. iXGz
+#: fldvar.src#TP_FLD_VAR.FT_VARSELECTION.fixedtext.text
+msgctxt "fldvar.src#TP_FLD_VAR.FT_VARSELECTION.fixedtext.text"
+msgid "S~election"
+msgstr "নির্বাচন (~e)"
+
+#. Qohk
+#: fldvar.src#TP_FLD_VAR.FT_VARFORMAT.fixedtext.text
+msgctxt "fldvar.src#TP_FLD_VAR.FT_VARFORMAT.fixedtext.text"
+msgid "Format"
+msgstr "বিন্যাস"
+
+#. yqEw
+#: fldvar.src#TP_FLD_VAR.CB_VARINVISIBLE.checkbox.text
+msgid "Invisi~ble"
+msgstr "অদৃশ্য (~b)"
+
+#. tzGH
+#: fldvar.src#TP_FLD_VAR.FT_VARCHAPTERHEADER.fixedtext.text
+msgid "Numbering by chapter"
+msgstr "অধ্যায় অনুসারে সংখ্যায়ন"
+
+#. Kf8a
+#: fldvar.src#TP_FLD_VAR.FT_VARCHAPTERLEVEL.fixedtext.text
+msgid "~Level"
+msgstr "স্তর (~L)"
+
+#. E0hY
+#: fldvar.src#TP_FLD_VAR.LB_VARCHAPTERLEVEL.1.stringlist.text
+msgid "None"
+msgstr "কোনটি না"
+
+#. LxvV
+#: fldvar.src#TP_FLD_VAR.FT_VARSEPARATOR.fixedtext.text
+msgid "~Separator"
+msgstr "বিভাজক (~S)"
+
+#. gGkD
+#: fldvar.src#TP_FLD_VAR.FT_VARNAME.fixedtext.text
+msgctxt "fldvar.src#TP_FLD_VAR.FT_VARNAME.fixedtext.text"
+msgid "Na~me"
+msgstr "নাম (~m)"
+
+#. hJHq
+#: fldvar.src#TP_FLD_VAR.FT_VARVALUE.fixedtext.text
+msgctxt "fldvar.src#TP_FLD_VAR.FT_VARVALUE.fixedtext.text"
+msgid "~Value"
+msgstr "মান (~V)"
+
+#. Y0Wq
+#: fldvar.src#TP_FLD_VAR.TBX_VARNEWDEL.BT_VARAPPLY.toolboxitem.text
+msgid "Apply"
+msgstr "প্রয়োগ"
+
+#. ACM8
+#: fldvar.src#TP_FLD_VAR.TBX_VARNEWDEL.BT_VARDELETE.toolboxitem.text
+msgid "Delete"
+msgstr "অপসারণ"
+
+#. jSu1
+#: fldvar.src#TP_FLD_VAR.tabpage.text
+msgctxt "fldvar.src#TP_FLD_VAR.tabpage.text"
+msgid "Variables"
+msgstr "চলক"
+
+#. EJlA
+#: changedb.src#DLG_CHANGE_DB.FL_DBLIST.fixedline.text
+msgid "Exchange databases"
+msgstr "ডাটাবেস বিনিময়"
+
+#. uiSD
+#: changedb.src#DLG_CHANGE_DB.FT_USEDDB.fixedtext.text
+msgid "Databases in Use"
+msgstr "ব্যবহৃত ডাটাবেস"
+
+#. SsF3
+#: changedb.src#DLG_CHANGE_DB.FT_AVAILDB.fixedtext.text
+msgid "Available Databases"
+msgstr "বিদ্যমান ডাটাবেস"
+
+#. 1GJO
+#: changedb.src#DLG_CHANGE_DB.PB_ADDDB.pushbutton.text
+msgctxt "changedb.src#DLG_CHANGE_DB.PB_ADDDB.pushbutton.text"
+msgid "Browse..."
+msgstr "ব্রাউজ..."
+
+#. 56#p
+#: changedb.src#DLG_CHANGE_DB.FT_DESC.fixedtext.text
+msgid ""
+"Use this dialog to replace the databases you access in your document via "
+"database fields, with other databases. You can only make one change at a "
+"time. Multiple selection is possible in the list on the left.\n"
+"Use the browse button to select a database file."
+msgstr ""
+"ডাটাবেস ক্ষেত্র হয়ে, আপনার নথিতে ব্যবহৃত ডাটাবেস, অন্যান্য ডাটাবেস দিয়ে প্রতিস্থাপন "
+"করতে, এই ডায়ালগটি ব্যবহার করুন। আপনি একবারে শুধুমাত্র একটি পরিবর্তন করতে পারেন। "
+"বাম পাশের তালিকায় বহুবিধ নির্বাচন সম্ভব।\n"
+"ডাটাবেস ফাইল নির্বাচন করতে ব্রাউজ বোতাম ব্যবহার করুন।"
+
+#. hJLi
+#: changedb.src#DLG_CHANGE_DB.FT_DOCDBTEXT.fixedtext.text
+msgid "Database applied to document:"
+msgstr "নথিতে প্রয়োগকৃত ডাটাবেস:"
+
+#. 0PvM
+#: changedb.src#DLG_CHANGE_DB.FT_DOCDBNAME.fixedtext.text
+msgid "Addresses.Addresses"
+msgstr "প্রাপক.প্রাপক"
+
+#. n2cB
+#: changedb.src#DLG_CHANGE_DB.BT_OK.okbutton.text
+msgid "Define"
+msgstr "নির্ধারণ"
+
+#. X8TP
+#: changedb.src#DLG_CHANGE_DB.BT_CANCEL.cancelbutton.text
+msgctxt "changedb.src#DLG_CHANGE_DB.BT_CANCEL.cancelbutton.text"
+msgid "~Close"
+msgstr "বন্ধ (~C)"
+
+#. meWf
+#: changedb.src#DLG_CHANGE_DB.modaldialog.text
+msgid "Exchange Databases"
+msgstr "ডাটাবেস বিনিময়"
+
+#. 2mxs
+#: fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_DOK.pageitem.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_DOK.pageitem.text"
+msgid "Document"
+msgstr "নথি"
+
+#. wvRF
+#: fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_REF.pageitem.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_REF.pageitem.text"
+msgid "Cross-references"
+msgstr "প্রতিনির্দেশ"
+
+#. 30wo
+#: fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_FUNC.pageitem.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_FUNC.pageitem.text"
+msgid "Functions"
+msgstr "ফাংশন"
+
+#. yVoI
+#: fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_DOKINF.pageitem.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_DOKINF.pageitem.text"
+msgid "DocInformation"
+msgstr "নথির-তথ্য"
+
+#. 4v49
+#: fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_VAR.pageitem.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_VAR.pageitem.text"
+msgid "Variables"
+msgstr "ভ্যারিয়েবল"
+
+#. IpeD
+#: fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_DB.pageitem.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.1.TP_FLD_DB.pageitem.text"
+msgid "Database"
+msgstr "ডাটাবেস"
+
+#. xlhk
+#: fldtdlg.src#DLG_FLD_INSERT.STR_FLD_INSERT.string.text
+msgid "~Insert"
+msgstr "সন্নিবেশ (~I)"
+
+#. TP29
+#: fldtdlg.src#DLG_FLD_INSERT.STR_FLD_CLOSE.string.text
+msgctxt "fldtdlg.src#DLG_FLD_INSERT.STR_FLD_CLOSE.string.text"
+msgid "~Close"
+msgstr "বন্ধ (~C)"
+
+#. UjZi
+#: fldtdlg.src#DLG_FLD_INSERT.tabdialog.text
+msgid "Fields"
+msgstr "ক্ষেত্র"
+
+#. S34U
+#: flddb.src#TP_FLD_DB.FT_DBTYPE.fixedtext.text
+msgctxt "flddb.src#TP_FLD_DB.FT_DBTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ধরন (~T)"
+
+#. zkLH
+#: flddb.src#TP_FLD_DB.FT_DBCONDITION.fixedtext.text
+msgctxt "flddb.src#TP_FLD_DB.FT_DBCONDITION.fixedtext.text"
+msgid "~Condition"
+msgstr "শর্ত (~C)"
+
+#. Bw8w
+#: flddb.src#TP_FLD_DB.FT_DBSETNUMBER.fixedtext.text
+msgctxt "flddb.src#TP_FLD_DB.FT_DBSETNUMBER.fixedtext.text"
+msgid "Record number"
+msgstr "রেকর্ড নম্বর"
+
+#. HmuR
+#: flddb.src#TP_FLD_DB.FT_DBSELECTION.fixedtext.text
+msgid "Database s~election"
+msgstr "ডাটাবেস নির্বাচন (~e)"
+
+#. uSrm
+#: flddb.src#TP_FLD_DB.FT_ADDDB.fixedtext.text
+msgid "Add database file"
+msgstr "ডাটাবেস ফাইল যোগ"
+
+#. 03Pi
+#: flddb.src#TP_FLD_DB.PB_ADDDB.pushbutton.text
+msgctxt "flddb.src#TP_FLD_DB.PB_ADDDB.pushbutton.text"
+msgid "Browse..."
+msgstr "ব্রাউজ..."
+
+#. 0vvt
+#: flddb.src#TP_FLD_DB.RB_DBOWNFORMAT.radiobutton.text
+msgid "From database"
+msgstr "ডাটাবেস থেকে"
+
+#. Wlfp
+#: flddb.src#TP_FLD_DB.RB_DBFORMAT.radiobutton.text
+msgid "User-defined"
+msgstr "ব্যবহারকারী-নির্ধারিত"
+
+#. lVgX
+#: flddb.src#TP_FLD_DB.FL_DBFORMAT.fixedline.text
+msgctxt "flddb.src#TP_FLD_DB.FL_DBFORMAT.fixedline.text"
+msgid "Format"
+msgstr "বিন্যাস"
+
+#. tSea
+#: flddb.src#TP_FLD_DB.tabpage.text
+msgctxt "flddb.src#TP_FLD_DB.tabpage.text"
+msgid "Database"
+msgstr "ডাটাবেস"
+
+#. Gzdn
+#: javaedit.src#DLG_JAVAEDIT.FT_TYPE.fixedtext.text
+msgid "Script type"
+msgstr "স্ক্রিপ্টের ধরন"
+
+#. FJrS
+#: javaedit.src#DLG_JAVAEDIT.RB_URL.radiobutton.text
+msgid "URL"
+msgstr "URL"
+
+#. u#Vm
+#: javaedit.src#DLG_JAVAEDIT.RB_EDIT.radiobutton.text
+msgid "~Text"
+msgstr "লেখা (~T)"
+
+#. xLQQ
+#: javaedit.src#DLG_JAVAEDIT.FL_POSTIT.fixedline.text
+msgid "Contents"
+msgstr "বিষয়বস্তু"
+
+#. egdR
+#: javaedit.src#DLG_JAVAEDIT.STR_JAVA_EDIT.string.text
+msgctxt "javaedit.src#DLG_JAVAEDIT.STR_JAVA_EDIT.string.text"
+msgid "Edit Script"
+msgstr "স্ক্রিপ্ট সম্পাদনা"
+
+#. yoMF
+#: javaedit.src#DLG_JAVAEDIT.STR_JAVA_INSERT.string.text
+msgid "Insert Script"
+msgstr "স্ক্রিপ্ট সন্নিবেশ"
+
+#. alHZ
+#: javaedit.src#DLG_JAVAEDIT.modaldialog.text
+msgctxt "javaedit.src#DLG_JAVAEDIT.modaldialog.text"
+msgid "Edit Script"
+msgstr "স্ক্রিপ্ট সম্পাদনা"
+
+#. rH4Y
+#: inpdlg.src#DLG_FLD_INPUT.ED_LABEL.edit.text
+msgid "Input"
+msgstr "ইনপুট"
+
+#. J#oI
+#: inpdlg.src#DLG_FLD_INPUT.FL_EDIT.fixedline.text
+msgctxt "inpdlg.src#DLG_FLD_INPUT.FL_EDIT.fixedline.text"
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#. 3Bbj
+#: inpdlg.src#DLG_FLD_INPUT.PB_NEXT.pushbutton.text
+msgctxt "inpdlg.src#DLG_FLD_INPUT.PB_NEXT.pushbutton.text"
+msgid "~Next"
+msgstr "পরবর্তী (~N)"
+
+#. 81LV
+#: inpdlg.src#DLG_FLD_INPUT.modaldialog.text
+msgid "Input Field"
+msgstr "ইনপুট ক্ষেত্র"
+
+#. nTPX
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCTYPE.fixedtext.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.FT_FUNCTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ধরন (~T)"
+
+#. FyLX
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCSELECTION.fixedtext.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.FT_FUNCSELECTION.fixedtext.text"
+msgid "S~elect"
+msgstr "নির্বাচন (~e)"
+
+#. 9T_R
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCFORMAT.fixedtext.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.FT_FUNCFORMAT.fixedtext.text"
+msgid "F~ormat"
+msgstr "বিন্যাস (~o)"
+
+#. fg4C
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCNAME.fixedtext.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.FT_FUNCNAME.fixedtext.text"
+msgid "Na~me"
+msgstr "নাম (~m)"
+
+#. 7GgP
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCVALUE.fixedtext.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.FT_FUNCVALUE.fixedtext.text"
+msgid "~Value"
+msgstr "মান (~V)"
+
+#. Jk#D
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCCOND1.fixedtext.text
+msgid "Then"
+msgstr "তারপর"
+
+#. 1eAK
+#: fldfunc.src#TP_FLD_FUNC.FT_FUNCCOND2.fixedtext.text
+msgid "Else"
+msgstr "তাছাড়া"
+
+#. AKxB
+#: fldfunc.src#TP_FLD_FUNC.BT_FUNCMACRO.pushbutton.text
+msgid "~Macro..."
+msgstr "ম্যাক্রো... (~M)"
+
+#. xd9l
+#: fldfunc.src#TP_FLD_FUNC.FT_LISTITEM.fixedtext.text
+msgid "Ite~m"
+msgstr "বিষয় (~m)"
+
+#. FV7M
+#: fldfunc.src#TP_FLD_FUNC.PB_LISTADD.pushbutton.text
+msgid "~Add"
+msgstr "যোগ (~A)"
+
+#. iw_q
+#: fldfunc.src#TP_FLD_FUNC.FT_LISTITEMS.fixedtext.text
+msgid "Items on ~list"
+msgstr "তালিকার বিষয় (~l)"
+
+#. VaLz
+#: fldfunc.src#TP_FLD_FUNC.PB_LISTREMOVE.pushbutton.text
+msgid "~Remove"
+msgstr "অপসারণ (~R)"
+
+#. 5aB9
+#: fldfunc.src#TP_FLD_FUNC.PB_LISTUP.pushbutton.text
+msgid "Move ~Up"
+msgstr "উপরে উঠান (~U)"
+
+#. oNAw
+#: fldfunc.src#TP_FLD_FUNC.PB_LISTDOWN.pushbutton.text
+msgid "Move Do~wn"
+msgstr "নিচে নামান (~w)"
+
+#. 4nsF
+#: fldfunc.src#TP_FLD_FUNC.FT_LISTNAME.fixedtext.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.FT_LISTNAME.fixedtext.text"
+msgid "Na~me"
+msgstr "নাম (~m)"
+
+#. 0fp1
+#: fldfunc.src#TP_FLD_FUNC.tabpage.text
+msgctxt "fldfunc.src#TP_FLD_FUNC.tabpage.text"
+msgid "Functions"
+msgstr "ফাংশন"
+
+#. TMO6
+#: DropDownFieldDialog.src#DLG_FLD_DROPDOWN.FL_ITEMS.fixedline.text
+msgctxt "DropDownFieldDialog.src#DLG_FLD_DROPDOWN.FL_ITEMS.fixedline.text"
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#. AcrS
+#: DropDownFieldDialog.src#DLG_FLD_DROPDOWN.PB_NEXT.pushbutton.text
+msgctxt "DropDownFieldDialog.src#DLG_FLD_DROPDOWN.PB_NEXT.pushbutton.text"
+msgid "~Next"
+msgstr "পরবর্তী (~N)"
+
+#. 0F6s
+#: DropDownFieldDialog.src#DLG_FLD_DROPDOWN.PB_EDIT.pushbutton.text
+msgid "~Edit"
+msgstr "সম্পাদনা (~E)"
+
+#. PEb#
+#: DropDownFieldDialog.src#DLG_FLD_DROPDOWN.modaldialog.text
+msgid "Choose Item: "
+msgstr "বিষয় নির্বাচন:"
+
+#. TBtK
+#: flddinf.src#TP_FLD_DOKINF.FT_DOKINFTYPE.fixedtext.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.FT_DOKINFTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ধরন (~T)"
+
+#. zqOM
+#: flddinf.src#TP_FLD_DOKINF.FT_DOKINFSELECTION.fixedtext.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.FT_DOKINFSELECTION.fixedtext.text"
+msgid "S~elect"
+msgstr "নির্বাচন (~e)"
+
+#. wxkq
+#: flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.1.stringlist.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.1.stringlist.text"
+msgid "Author"
+msgstr "লেখক"
+
+#. M7N6
+#: flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.2.stringlist.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.2.stringlist.text"
+msgid "Time"
+msgstr "সময়"
+
+#. R2St
+#: flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.3.stringlist.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.3.stringlist.text"
+msgid "Date"
+msgstr "তারিখ"
+
+#. rD02
+#: flddinf.src#TP_FLD_DOKINF.LB_DOKINFSELECTION.4.stringlist.text
+msgid "Date Time Author"
+msgstr "তারিখ সময় লেখক"
+
+#. sCpa
+#: flddinf.src#TP_FLD_DOKINF.FT_DOKINFFORMAT.fixedtext.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.FT_DOKINFFORMAT.fixedtext.text"
+msgid "F~ormat"
+msgstr "বিন্যাস (~o)"
+
+#. JuJW
+#: flddinf.src#TP_FLD_DOKINF.CB_DOKINFFIXEDCONTENT.checkbox.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.CB_DOKINFFIXEDCONTENT.checkbox.text"
+msgid "~Fixed content"
+msgstr "নির্ধারিত বিষয়স্তু (~F)"
+
+#. 9jis
+#: flddinf.src#TP_FLD_DOKINF.STR_DOKINF_INFO.string.text
+msgid "Info"
+msgstr "তথ্য"
+
+#. BPzY
+#: flddinf.src#TP_FLD_DOKINF.tabpage.text
+msgctxt "flddinf.src#TP_FLD_DOKINF.tabpage.text"
+msgid "DocInformation"
+msgstr "নথির-তথ্য"
+
+#. hbrf
+#: fldref.src#TP_FLD_REF.FT_REFTYPE.fixedtext.text
+msgctxt "fldref.src#TP_FLD_REF.FT_REFTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ধরন (~T)"
+
+#. DCJf
+#: fldref.src#TP_FLD_REF.FT_REFSELECTION.fixedtext.text
+msgctxt "fldref.src#TP_FLD_REF.FT_REFSELECTION.fixedtext.text"
+msgid "S~election"
+msgstr "নির্বাচন (~e)"
+
+#. Y6Jo
+#: fldref.src#TP_FLD_REF.FT_REFFORMAT.fixedtext.text
+msgid "Insert ~reference to"
+msgstr "যেখানে রেফারেন্স সন্নিবেশ করবেন (~r)"
+
+#. pIe4
+#: fldref.src#TP_FLD_REF.FT_REFNAME.fixedtext.text
+msgctxt "fldref.src#TP_FLD_REF.FT_REFNAME.fixedtext.text"
+msgid "Na~me"
+msgstr "নাম (~m)"
+
+#. ZhhB
+#: fldref.src#TP_FLD_REF.FT_REFVALUE.fixedtext.text
+msgctxt "fldref.src#TP_FLD_REF.FT_REFVALUE.fixedtext.text"
+msgid "~Value"
+msgstr "মান (~V)"
+
+#. NZyY
+#: fldref.src#TP_FLD_REF.STR_REFBOOKMARK.string.text
+msgid "Bookmarks"
+msgstr "বুকমার্ক"
+
+#. 72SK
+#: fldref.src#TP_FLD_REF.STR_REFFOOTNOTE.string.text
+msgid "Footnotes"
+msgstr "পাদটীকা"
+
+#. oDAU
+#: fldref.src#TP_FLD_REF.STR_REFENDNOTE.string.text
+msgid "Endnotes"
+msgstr "প্রান্তটীকা"
+
+#. MvIz
+#: fldref.src#TP_FLD_REF.STR_REFHEADING.string.text
+msgid "Headings"
+msgstr "শিরোনাম"
+
+#. 0N2T
+#: fldref.src#TP_FLD_REF.STR_REFNUMITEM.string.text
+msgid "Numbered Paragraphs"
+msgstr "নম্বরযুক্ত অনুচ্ছেদ"
+
+#. 0asV
+#: fldref.src#TP_FLD_REF.tabpage.text
+msgctxt "fldref.src#TP_FLD_REF.tabpage.text"
+msgid "Cross-references"
+msgstr "প্রতিনির্দেশ"

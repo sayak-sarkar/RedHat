@@ -1,0 +1,546 @@
+#. extracted from sw/source/ui/ribbar.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Fribbar.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2011-04-05 10:52+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. LhLH
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_DATE.menuitem.text
+msgid "Date"
+msgstr "তারিখ"
+
+#. WHtQ
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_TIME.menuitem.text
+msgid "Time"
+msgstr "সময়"
+
+#. LiBE
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_PGNUMBER.menuitem.text
+msgid "Page Number"
+msgstr "পৃষ্ঠা নম্বর"
+
+#. abU6
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_PGCOUNT.menuitem.text
+msgid "Page Count"
+msgstr "মোট পৃষ্ঠা"
+
+#. zivd
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_TOPIC.menuitem.text
+msgid "Subject"
+msgstr "বিষয়"
+
+#. 2#dM
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_TITLE.menuitem.text
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. wyb0
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FLD_AUTHOR.menuitem.text
+msgid "Author"
+msgstr "লেখক"
+
+#. r42v
+#: workctrl.src#RID_INSERT_FIELD_CTRL.FN_INSERT_FIELD.menuitem.text
+msgid "Other..."
+msgstr "অন্যান্য..."
+
+#. emK9
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_TBL.string.text
+msgid "Table"
+msgstr "সারণি"
+
+#. dXUC
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_FRM.string.text
+msgid "Text Frame"
+msgstr "লেখা ফ্রেম"
+
+#. MhdU
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_PGE.string.text
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#. CQbk
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_DRW.string.text
+msgid "Drawing"
+msgstr "অঙ্কন"
+
+#. fXdV
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_CTRL.string.text
+msgid "Control"
+msgstr "কন্ট্রোল"
+
+#. R9OI
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_REG.string.text
+msgid "Section"
+msgstr "বিভাগ"
+
+#. v_K3
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_BKM.string.text
+msgid "Bookmark"
+msgstr "বুকমার্ক"
+
+#. cTmQ
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_GRF.string.text
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. EqBr
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_OLE.string.text
+msgid "OLE object"
+msgstr "OLE অবজেক্ট"
+
+#. BleS
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_OUTL.string.text
+msgid "Headings"
+msgstr "শিরোনাম"
+
+#. Qrs4
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_SEL.string.text
+msgid "Selection"
+msgstr "নির্বাচন"
+
+#. v4mL
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_FTN.string.text
+msgid "Footnote"
+msgstr "পাদটীকা"
+
+#. gB9o
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_MARK.string.text
+msgid "Reminder"
+msgstr "স্মারক"
+
+#. la#j
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_POSTIT.string.text
+msgid "Note"
+msgstr "নোট"
+
+#. ghXf
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_SRCH_REP.string.text
+msgid "Repeat search"
+msgstr "পুনরায় অনুসন্ধান"
+
+#. Srh1
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_INDEX_ENTRY.string.text
+msgid "Index entry"
+msgstr "সূচির ভুক্তি"
+
+#. Tg4z
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_TABLE_FORMULA.string.text
+msgid "Table formula"
+msgstr "সারণি সূত্র"
+
+#. vAQc
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.ST_TABLE_FORMULA_ERROR.string.text
+msgid "Wrong table formula"
+msgstr "ভুল সারণি সূত্র"
+
+#. 0LY_
+#: workctrl.src#RID_SCROLL_NAVIGATION_WIN.floatingwindow.text
+msgctxt "workctrl.src#RID_SCROLL_NAVIGATION_WIN.floatingwindow.text"
+msgid "Navigation"
+msgstr "ন্যাভিগেশন"
+
+#. LcgV
+#: workctrl.src#STR_IMGBTN_TBL_DOWN.string.text
+msgid "Next table"
+msgstr "পরবর্তী সারণি"
+
+#. nAca
+#: workctrl.src#STR_IMGBTN_FRM_DOWN.string.text
+msgid "Next text frame"
+msgstr "পরবর্তী লেখা ফ্রেম"
+
+#. q6cn
+#: workctrl.src#STR_IMGBTN_PGE_DOWN.string.text
+msgid "Next page"
+msgstr "পরবর্তী পৃষ্ঠা"
+
+#. uWqq
+#: workctrl.src#STR_IMGBTN_DRW_DOWN.string.text
+msgid "Next drawing"
+msgstr "পরবর্তী অঙ্কন"
+
+#. 9Cjr
+#: workctrl.src#STR_IMGBTN_CTRL_DOWN.string.text
+msgid "Next control"
+msgstr "পরবর্তী কন্ট্রোল"
+
+#. yvw6
+#: workctrl.src#STR_IMGBTN_REG_DOWN.string.text
+msgid "Next section"
+msgstr "পরবর্তী বিভাগ"
+
+#. tSaO
+#: workctrl.src#STR_IMGBTN_BKM_DOWN.string.text
+msgid "Next bookmark"
+msgstr "পরবর্তী বুকমার্ক"
+
+#. w37G
+#: workctrl.src#STR_IMGBTN_GRF_DOWN.string.text
+msgid "Next graphic"
+msgstr "পরবর্তী গ্রাফিক"
+
+#. phWr
+#: workctrl.src#STR_IMGBTN_OLE_DOWN.string.text
+msgid "Next OLE object"
+msgstr "পরবর্তী OLE অবজেক্ট"
+
+#. _QDu
+#: workctrl.src#STR_IMGBTN_OUTL_DOWN.string.text
+msgid "Next heading"
+msgstr "পরবর্তী শিরোনাম"
+
+#. tmRo
+#: workctrl.src#STR_IMGBTN_SEL_DOWN.string.text
+msgid "Next selection"
+msgstr "পরবর্তী নির্বাচন"
+
+#. JE1P
+#: workctrl.src#STR_IMGBTN_FTN_DOWN.string.text
+msgid "Next footnote"
+msgstr "পরবর্তী পাদটীকা"
+
+#. 7bCx
+#: workctrl.src#STR_IMGBTN_MARK_DOWN.string.text
+msgid "Next Reminder"
+msgstr "পরবর্তী স্মারক"
+
+#. o_zR
+#: workctrl.src#STR_IMGBTN_POSTIT_DOWN.string.text
+msgid "Next Note"
+msgstr "পরবর্তী নোট"
+
+#. g3YG
+#: workctrl.src#STR_IMGBTN_SRCH_REP_DOWN.string.text
+msgid "Continue search forward"
+msgstr "সামনের দিকে অনুসন্ধান বহাল রাখুন"
+
+#. AJ#Y
+#: workctrl.src#STR_IMGBTN_INDEX_ENTRY_DOWN.string.text
+msgid "Next index entry"
+msgstr "পরবর্তী সূচির ভুক্তি"
+
+#. Ecqx
+#: workctrl.src#STR_IMGBTN_TBL_UP.string.text
+msgid "Previous table"
+msgstr "পূর্ববর্তী সারণি"
+
+#. _Vge
+#: workctrl.src#STR_IMGBTN_FRM_UP.string.text
+msgid "Previous text frame"
+msgstr "পূর্ববর্তী লেখা ফ্রেম"
+
+#. O9Xf
+#: workctrl.src#STR_IMGBTN_PGE_UP.string.text
+msgid "Previous page"
+msgstr "পূর্ববর্তী পৃষ্ঠা"
+
+#. 2SnG
+#: workctrl.src#STR_IMGBTN_DRW_UP.string.text
+msgid "Previous drawing"
+msgstr "পূর্ববর্তী অঙ্কন"
+
+#. mqyq
+#: workctrl.src#STR_IMGBTN_CTRL_UP.string.text
+msgid "Previous control"
+msgstr "পূর্ববর্তী কন্ট্রোল"
+
+#. YcXV
+#: workctrl.src#STR_IMGBTN_REG_UP.string.text
+msgid "Previous section"
+msgstr "পূর্ববর্তী বিভাগ"
+
+#. Y9k0
+#: workctrl.src#STR_IMGBTN_BKM_UP.string.text
+msgid "Previous bookmark"
+msgstr "পূর্ববর্তী বুকমার্ক"
+
+#. Ohzt
+#: workctrl.src#STR_IMGBTN_GRF_UP.string.text
+msgid "Previous graphic"
+msgstr "পূর্ববর্তী গ্রাফিক"
+
+#. T_bh
+#: workctrl.src#STR_IMGBTN_OLE_UP.string.text
+msgid "Previous OLE object"
+msgstr "পূর্ববর্তী OLE অবজেক্ট"
+
+#. 9_Va
+#: workctrl.src#STR_IMGBTN_OUTL_UP.string.text
+msgid "Previous heading"
+msgstr "পূর্ববর্তী শিরোনাম"
+
+#. 5Is0
+#: workctrl.src#STR_IMGBTN_SEL_UP.string.text
+msgid "Previous selection"
+msgstr "পূর্ববর্তী নির্বাচন"
+
+#. EJ9r
+#: workctrl.src#STR_IMGBTN_FTN_UP.string.text
+msgid "Previous footnote"
+msgstr "পূর্ববর্তী পাদটীকা"
+
+#. CBL4
+#: workctrl.src#STR_IMGBTN_MARK_UP.string.text
+msgid "Previous Reminder"
+msgstr "পূর্ববর্তী স্মারক"
+
+#. CbNS
+#: workctrl.src#STR_IMGBTN_POSTIT_UP.string.text
+msgid "Previous Note"
+msgstr "পূর্ববর্তী নোট"
+
+#. qDPc
+#: workctrl.src#STR_IMGBTN_SRCH_REP_UP.string.text
+msgid "Continue search backwards"
+msgstr "পিছনের দিকে অনুসন্ধান বহাল রাখুন"
+
+#. O2Az
+#: workctrl.src#STR_IMGBTN_INDEX_ENTRY_UP.string.text
+msgid "Previous index entry"
+msgstr "পূর্ববর্তী সূচির ভুক্তি"
+
+#. aeyF
+#: workctrl.src#STR_IMGBTN_TBLFML_UP.string.text
+msgid "Previous table formula"
+msgstr "পূর্ববর্তী সারণির সূত্র"
+
+#. sDKM
+#: workctrl.src#STR_IMGBTN_TBLFML_DOWN.string.text
+msgid "Next table formula"
+msgstr "পরবর্তী সারণির সূত্র"
+
+#. 3yv2
+#: workctrl.src#STR_IMGBTN_TBLFML_ERR_UP.string.text
+msgid "Previous faulty table formula"
+msgstr "পূর্ববর্তী সারণির ভুল সূত্র"
+
+#. OnJE
+#: workctrl.src#STR_IMGBTN_TBLFML_ERR_DOWN.string.text
+msgid "Next faulty table formula"
+msgstr "পরবর্তী সারণির ভুল সূত্র"
+
+#. jICm
+#: workctrl.src#BTN_NAVI.ST_QUICK.string.text
+msgctxt "workctrl.src#BTN_NAVI.ST_QUICK.string.text"
+msgid "Navigation"
+msgstr "ন্যাভিগেশন"
+
+#. f2gZ
+#: inputwin.src#RID_TBX_FORMULA.FN_FORMULA_CALC.toolboxitem.text
+msgctxt "inputwin.src#RID_TBX_FORMULA.FN_FORMULA_CALC.toolboxitem.text"
+msgid "Formula"
+msgstr "সূত্র"
+
+#. BeBi
+#: inputwin.src#RID_TBX_FORMULA.FN_FORMULA_CANCEL.toolboxitem.text
+msgctxt "inputwin.src#RID_TBX_FORMULA.FN_FORMULA_CANCEL.toolboxitem.text"
+msgid "Cancel"
+msgstr "বাতিল"
+
+#. mWBY
+#: inputwin.src#RID_TBX_FORMULA.FN_FORMULA_APPLY.toolboxitem.text
+msgctxt "inputwin.src#RID_TBX_FORMULA.FN_FORMULA_APPLY.toolboxitem.text"
+msgid "Apply"
+msgstr "প্রয়োগ"
+
+#. Csd7
+#: inputwin.src#MN_CALC_POPUP.MN_CALC_SUM.menuitem.text
+msgid "Sum"
+msgstr "সমষ্টি"
+
+#. mqTh
+#: inputwin.src#MN_CALC_POPUP.MN_CALC_ROUND.menuitem.text
+msgid "Round"
+msgstr "রাউন্ড"
+
+#. Q81R
+#: inputwin.src#MN_CALC_POPUP.MN_CALC_PHD.menuitem.text
+msgid "Percent"
+msgstr "শতকরা"
+
+#. y8CJ
+#: inputwin.src#MN_CALC_POPUP.MN_CALC_SQRT.menuitem.text
+msgid "Square Root"
+msgstr "বর্গমূল"
+
+#. xdra
+#: inputwin.src#MN_CALC_POPUP.MN_CALC_POW.menuitem.text
+msgid "Power"
+msgstr "ঘাত"
+
+#. RESb
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_LISTSEP.menuitem.text
+msgid "List Separator"
+msgstr "তালিকা বিভাজক"
+
+#. xXeX
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_EQ.menuitem.text
+msgid "Equal"
+msgstr "সমান"
+
+#. gN#q
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_NEQ.menuitem.text
+msgid "Not Equal"
+msgstr "অসমান"
+
+#. BkCt
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_LEQ.menuitem.text
+msgid "Less Than or Equal"
+msgstr "সমান অথবা কম"
+
+#. Zq#A
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_GEQ.menuitem.text
+msgid "Greater Than or Equal"
+msgstr "সমান অথবা বেশি"
+
+#. Sqdu
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_LES.menuitem.text
+msgid "Less"
+msgstr "কম"
+
+#. 9O#R
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_GRE.menuitem.text
+msgid "Greater"
+msgstr "বেশি"
+
+#. DfOi
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_OR.menuitem.text
+msgid "Boolean Or"
+msgstr "বুলিয়ান Or"
+
+#. tPEZ
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_XOR.menuitem.text
+msgid "Boolean Xor"
+msgstr "বুলিয়ান Xor"
+
+#. hLKd
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_AND.menuitem.text
+msgid "Boolean And"
+msgstr "বুলিয়ান And"
+
+#. bnpf
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.MN_CALC_NOT.menuitem.text
+msgid "Boolean Not"
+msgstr "বুলিয়ান Not"
+
+#. p7ZF
+#: inputwin.src#MN_CALC_POPUP.MN_POP_OPS.menuitem.text
+msgid "Operators"
+msgstr "অপারেটর"
+
+#. N1Pz
+#: inputwin.src#MN_CALC_POPUP.MN_POP_STATISTICS.MN_CALC_MEAN.menuitem.text
+msgid "Mean"
+msgstr "গড়"
+
+#. #yz4
+#: inputwin.src#MN_CALC_POPUP.MN_POP_STATISTICS.MN_CALC_MIN.menuitem.text
+msgid "Minimum"
+msgstr "সর্বনিম্ন"
+
+#. c_OC
+#: inputwin.src#MN_CALC_POPUP.MN_POP_STATISTICS.MN_CALC_MAX.menuitem.text
+msgid "Maximum"
+msgstr "সর্বোচ্চ"
+
+#. YxKI
+#: inputwin.src#MN_CALC_POPUP.MN_POP_STATISTICS.menuitem.text
+msgid "Statistical Functions"
+msgstr "পরিসংখ্যান ভিত্তিক ফাংশন"
+
+#. qnzX
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_SIN.menuitem.text
+msgid "Sine"
+msgstr "সাইন"
+
+#. Vv16
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_COS.menuitem.text
+msgid "Cosine"
+msgstr "কোসাইন"
+
+#. uo6G
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_TAN.menuitem.text
+msgid "Tangent"
+msgstr "ট্যাঞ্জেন্ট"
+
+#. C5IV
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_ASIN.menuitem.text
+msgid "Arcsine"
+msgstr "পরিধির সাইন"
+
+#. dDku
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_ACOS.menuitem.text
+msgid "Arccosine"
+msgstr "পরিধির কোসাইন"
+
+#. 06fk
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.MN_CALC_ATAN.menuitem.text
+msgid "Arctangent"
+msgstr "পরিধির টেনজেন্ট"
+
+#. EhGg
+#: inputwin.src#MN_CALC_POPUP.MN_POP_FUNC.menuitem.text
+msgid "Functions"
+msgstr "ফাংশন"
+
+#. k8ke
+#: inputwin.src#STR_TBL_FORMULA.string.text
+msgid "Text formula"
+msgstr "লেখার সূত্র"
+
+#. hngt
+#: inputwin.src#TB_INPUT.FN_FORMULA_CALC.toolboxitem.text
+msgctxt "inputwin.src#TB_INPUT.FN_FORMULA_CALC.toolboxitem.text"
+msgid "Formula"
+msgstr "সূত্র"
+
+#. ql4S
+#: inputwin.src#TB_INPUT.FN_FORMULA_CANCEL.toolboxitem.text
+msgctxt "inputwin.src#TB_INPUT.FN_FORMULA_CANCEL.toolboxitem.text"
+msgid "Cancel"
+msgstr "বাতিল"
+
+#. hT9M
+#: inputwin.src#TB_INPUT.FN_FORMULA_APPLY.toolboxitem.text
+msgctxt "inputwin.src#TB_INPUT.FN_FORMULA_APPLY.toolboxitem.text"
+msgid "Apply"
+msgstr "প্রয়োগ"
+
+#. UwEw
+#: tbxanchr.src#MN_ANCHOR_POPUP.FN_TOOL_ANCHOR_PAGE.menuitem.text
+msgid "To Page"
+msgstr "পৃষ্ঠায়"
+
+#. Y7v8
+#: tbxanchr.src#MN_ANCHOR_POPUP.FN_TOOL_ANCHOR_PARAGRAPH.menuitem.text
+msgid "To Paragraph"
+msgstr "অনুচ্ছেদে"
+
+#. 8Bt5
+#: tbxanchr.src#MN_ANCHOR_POPUP.FN_TOOL_ANCHOR_AT_CHAR.menuitem.text
+msgid "To Character"
+msgstr "অক্ষরে"
+
+#. s9Xh
+#: tbxanchr.src#MN_ANCHOR_POPUP.FN_TOOL_ANCHOR_CHAR.menuitem.text
+msgid "As Character"
+msgstr "অক্ষর হিসেবে"
+
+#. 2IFv
+#: tbxanchr.src#MN_ANCHOR_POPUP.FN_TOOL_ANCHOR_FRAME.menuitem.text
+msgid "To Frame"
+msgstr "ফ্রেমে"

@@ -1,0 +1,363 @@
+#. extracted from reportbuilder/registry/data/org/openoffice/Office/UI.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+reportbuilder%2Fregistry%2Fdata%2Forg%2Fopenoffice%2FOffice%2FUI."
+"oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2011-04-07 11:16+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. 3qjf
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportHeaderFooter.Label.value.text
+msgid "Report Header/Footer"
+msgstr "প্রতিবেদনের শীর্ষচরণ/পাদচরণ"
+
+#. ugUK
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PageHeaderFooter.Label.value.text
+msgid "Page Header/Footer"
+msgstr "পৃষ্ঠার শীর্ষচরণ/পাদচরণ"
+
+#. kgQs
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ShowRuler.Label.value.text
+msgid "~Ruler"
+msgstr "মাপকাঠি (~R)"
+
+#. oBtB
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_DbSortingAndGrouping.Label.value.text
+msgid "~Sorting and Grouping"
+msgstr "সাজানো ও গ্রুপ করা হচ্ছে (~S)"
+
+# snigdha
+#. hNIZ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_AddField.Label.value.text
+msgid "~Add Field"
+msgstr "ফাইল যোগ করুন (~A)"
+
+#. Cb3R
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ConditionalFormatting.Label.value.text
+msgid "~Conditional Formatting..."
+msgstr "শর্তাধীন বিন্যাস... (~C)"
+
+#. BgAZ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PageDialog.Label.value.text
+msgid "Page Settings"
+msgstr "পৃষ্ঠার সেটিংস"
+
+#. g2pf
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PageDialog.ContextLabel.value.text
+msgid "~Page..."
+msgstr "পৃষ্ঠা... (~P)"
+
+#. GrMY
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ResetAttributes.Label.value.text
+#, fuzzy
+msgid "~Clear Direct Formatting"
+msgstr "বিন্যাস অপসারণ"
+
+#. LhHw
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_InsertPageNumberField.Label.value.text
+msgid "~Page Numbers..."
+msgstr "পৃষ্ঠা নাম্বার... (~P)"
+
+#. 0bJf
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_InsertDateTimeField.Label.value.text
+msgid "~Date and Time..."
+msgstr "তারিখ ও সময়... (~D)"
+
+#. #ycD
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectReport.Label.value.text
+msgid "~Select Report"
+msgstr "প্রতিবেদন নির্বাচন (~S)"
+
+#. mtFM
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SubReportInNewWindow.Label.value.text
+msgid "~Subreport in New Window..."
+msgstr "নতুন উইন্ডোতে সাবরিপোর্ট... (~S)"
+
+#. rhKU
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_FontColor.Label.value.text
+msgid "Font Color"
+msgstr "ফন্টের রং"
+
+#. s8dz
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_GridMenu.Label.value.text
+msgid "Gr~id"
+msgstr "গ্রিড (~i)"
+
+#. s7VO
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ColumnHeaderFooter.Label.value.text
+msgid "~Column Header/Footer"
+msgstr "কলামের শীর্ষচরণ/পাদচরণ (~C)"
+
+#. qo5V
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
+msgid "Paste ~Special..."
+msgstr "বিশেষ প্রতিলেপন... (~S)"
+
+#. _kSr
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ExecuteReport.Label.value.text
+msgid "Execute Report..."
+msgstr "রিপোর্ট এক্সিকিউট করা হবে..."
+
+#. aRS5
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ImageControl.Label.value.text
+msgid "Graphic..."
+msgstr "গ্রাফিক..."
+
+#. uY3h
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_TextDocument.Label.value.text
+msgid "Text Document"
+msgstr "পাঠ্য নথি"
+
+#. GkXG
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_Spreadsheet.Label.value.text
+msgid "Spreadsheet Document"
+msgstr "স্প্রেডশীট নথি"
+
+#. D8dM
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportNavigator.Label.value.text
+msgid "Report Navigator"
+msgstr "ন্যাভিগেটর রিপোর্ট করুন"
+
+#. LRss
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SmallestWidth.Label.value.text
+msgid "Fit to smallest width"
+msgstr "ক্ষুদ্রতর প্রস্থে মানানসই করা হবে"
+
+#. 4HDe
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SmallestHeight.Label.value.text
+msgid "Fit to smallest height"
+msgstr "ক্ষুদ্রতর উচ্চতায় মানানসই করা হবে"
+
+#. L#YA
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_GreatestWidth.Label.value.text
+msgid "Fit to greatest width"
+msgstr "বৃহত্তর প্রস্থে মানানসই করা হবে"
+
+#. fEAZ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_GreatestHeight.Label.value.text
+msgid "Fit to greatest height"
+msgstr "বৃহত্তর উচ্চতায় মানানসই করা হবে"
+
+#. _ymM
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ControlProperties.Label.value.text
+msgid "Properties"
+msgstr "বৈশিষ্ট্যাবলী"
+
+#. 63IJ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_Distribution.Label.value.text
+msgid "Distribution..."
+msgstr "বন্টন..."
+
+#. eI93
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectAllInSection.Label.value.text
+msgid "~Select Objects in Section"
+msgstr "সেকশনের অবজেক্টগুলো নির্বাচন করুন (~S)"
+
+#. k_jn
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignLeft.Label.value.text
+msgid "Left Align on Section"
+msgstr "সেকশনে বাম প্রান্তিককরণ"
+
+#. 0C9P
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignRight.Label.value.text
+msgid "Right Align on Section"
+msgstr "সেকশনে ডান প্রান্তিককরণ"
+
+#. dsDQ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignTop.Label.value.text
+msgid "Top Align on Section"
+msgstr "সেকশনে শীর্ষ প্রান্তিককরণ"
+
+#. WqGH
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignBottom.Label.value.text
+msgid "Bottom Align on Section"
+msgstr "সেকশনে নিম্ন প্রান্তিককরণ"
+
+#. j1po
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignCenter.Label.value.text
+msgid "Centered on Section"
+msgstr "সেকশনের কেন্দ্রস্থিত"
+
+#. zJzB
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignMiddle.Label.value.text
+msgid "Middle on Section"
+msgstr "সেকশনের মাঝখানে"
+
+#. ps#d
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectAllLabels.Label.value.text
+msgid "Select all Labels"
+msgstr "সব লেবেল নির্বাচন করুন"
+
+#. m5PW
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectAllEdits.Label.value.text
+msgid "Select all Formatted Fields"
+msgstr "সব ফরম্যাট করা ক্ষেত্রগুলো নির্বাচন করুন"
+
+#. Vhb_
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_EditShapeMenu.Label.value.text
+msgid "Shape Arrange"
+msgstr "আকৃতি সাজানো"
+
+#. g05N
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_EditControlMenu.Label.value.text
+msgid "Control"
+msgstr "কন্ট্রোল"
+
+#. lzbC
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_AlignmentMenu.Label.value.text
+msgid "Alignment"
+msgstr "প্রান্তিককরণ"
+
+#. _HRv
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ResizeMenu.Label.value.text
+msgid "Resize"
+msgstr "আকার পরিবর্তন"
+
+#. C258
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignmentMenu.Label.value.text
+msgid "Section alignment"
+msgstr "সেকশন প্রান্তিককরণ"
+
+#. MIbQ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportControlMenu.Label.value.text
+msgctxt ""
+"ReportCommands.xcu#.ReportCommands.UserInterface.Commands.."
+"uno_ReportControlMenu.Label.value.text"
+msgid "Report Controls"
+msgstr "রিপোর্ট কন্ট্রোল"
+
+#. u4bv
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ShapesMenu.Label.value.text
+msgid "Shapes"
+msgstr "আকৃতি"
+
+#. nQxI
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_BasicShapesMenu.Label.value.text
+msgid "Basic Shapes"
+msgstr "প্রাথমিক আকৃতি"
+
+#. 6b6i
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SymbolShapesMenu.Label.value.text
+msgid "Symbol Shapes"
+msgstr "প্রতীকী আকৃতি"
+
+#. DVeV
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ArrowShapesMenu.Label.value.text
+msgid "Arrow Shapes"
+msgstr "তীর আকৃতি"
+
+#. RP90
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_FlowChartShapesMenu.Label.value.text
+msgid "FlowChart Shapes"
+msgstr "FlowChart আকৃতি"
+
+#. fqTO
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_CalloutShapesMenu.Label.value.text
+msgid "Callout Shapes"
+msgstr "কলআউট আকৃতি"
+
+#. i0fO
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_StarShapesMenu.Label.value.text
+msgid "Star Shapes"
+msgstr "তারকা আকৃতি"
+
+#. 5MXN
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrinkMenu.Label.value.text
+msgid "Section"
+msgstr "সেকশন"
+
+#. mkHu
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrink.Label.value.text
+msgid "Shrink"
+msgstr "সংকোচন"
+
+#. DYQx
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrinkTop.Label.value.text
+msgid "Shrink from top"
+msgstr "উপর থেকে সংকোচন"
+
+#. #6Pr
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrinkBottom.Label.value.text
+msgid "Shrink from bottom"
+msgstr "নিচ থেকে সংকোচন"
+
+#. njp5
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ExportReportTo.Label.value.text
+msgid "Report Output Format"
+msgstr "আউটপুট ফরম্যাট রিপোর্ট"
+
+#. 4RgK
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_SnapLinesMenu.Label.value.text
+msgid "~Snap Lines"
+msgstr "স্ন্যাপ লাইন (~S)"
+
+#. #7a#
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ObjectResize.Label.value.text
+msgctxt ""
+"ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ObjectResize."
+"Label.value.text"
+msgid "Object Resizing"
+msgstr "অবজেক্টের আকার পরিবর্তন"
+
+#. R5rZ
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
+msgid "A~rrange"
+msgstr "সাজানো (~r)"
+
+#. CJnY
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
+msgid "Standard"
+msgstr "আদর্শ"
+
+#. dsqy
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/Formatting.UIName.value.text
+msgid "Formatting"
+msgstr "বিন্যাস করা হচ্ছে"
+
+#. rWu1
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/reportcontrols.UIName.value.text
+msgctxt ""
+"DbReportWindowState.xcu#.DbReportWindowState.UIElements.States."
+"private_resource/toolbar/reportcontrols.UIName.value.text"
+msgid "Report Controls"
+msgstr "রিপোর্ট কন্ট্রোল"
+
+#. 0RHj
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/drawbar.UIName.value.text
+msgid "Drawing objects"
+msgstr "অঙ্কনের বস্তু"
+
+#. eFXV
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/alignmentbar.UIName.value.text
+msgid "Align"
+msgstr "প্রান্তিককরণ"
+
+#. q1r#
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/sectionalignmentbar.UIName.value.text
+msgid "Align at Section"
+msgstr "সেকশনে প্রান্তিককরণ"
+
+#. IB04
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/sectionshrinkbar.UIName.value.text
+msgid "Shrink at Section"
+msgstr "সেকশনে সংকোচন"
+
+#. SxZQ
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/resizebar.UIName.value.text
+msgctxt ""
+"DbReportWindowState.xcu#.DbReportWindowState.UIElements.States."
+"private_resource/toolbar/resizebar.UIName.value.text"
+msgid "Object Resizing"
+msgstr "অবজেক্টের আকার পরিবর্তন"

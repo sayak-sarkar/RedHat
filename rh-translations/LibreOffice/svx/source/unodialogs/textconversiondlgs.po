@@ -1,0 +1,469 @@
+#. extracted from svx/source/unodialogs/textconversiondlgs.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svx%2Fsource%2Funodialogs%2Ftextconversiondlgs."
+"oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2011-06-16 15:19+0600\n"
+"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: bn_BD\n"
+
+#. #Tik
+#: chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline."
+"text"
+msgid "Conversion direction"
+msgstr "রূপান্তর নির্দেশনা"
+
+#. lPUq
+#: chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS."
+"checkbox.text"
+msgid "~Use Taiwan, Hong Kong SAR, and Macao SAR character variants"
+msgstr "তাইওয়ান, হংকং SAR, এবং ম্যাকাও SAR অক্ষরের ভেরিয়েন্ট ব্যবহার করা হবে (~U)"
+
+#. ZgF#
+#: chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS."
+"fixedline.text"
+msgid "Common terms"
+msgstr "অনুরূপ শব্দ"
+
+#. 8MBf
+#: chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox.text
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION."
+"CB_TRANSLATE_COMMONTERMS.checkbox.text"
+msgid "Translate ~common terms"
+msgstr "অনুরূপ শব্দের অনুবাদ (~c)"
+
+#. xXMA
+#: chinese_translationdialog.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton."
+"text"
+msgid "~Edit Terms..."
+msgstr "শব্দের সম্পাদনা (~E)... "
+
+#. rIIx
+#: chinese_translationdialog.src#DLG_CHINESETRANSLATION.modaldialog.text
+msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.modaldialog.text"
+msgid "Chinese Conversion"
+msgstr "চাইনিজ রূপান্তর"
+
+#. 3hpv
+#: chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED.radiobutton.text
+msgctxt ""
+"chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__."
+"RB_TO_SIMPLIFIED.radiobutton.text"
+msgid "~Traditional Chinese to simplified Chinese"
+msgstr "সনাতন চীনা থেকে সরলীকৃত চীনা (~T)"
+
+#. Nz_U
+#: chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL.radiobutton.text
+msgctxt ""
+"chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__."
+"RB_TO_TRADITIONAL.radiobutton.text"
+msgid "~Simplified Chinese to traditional Chinese"
+msgstr "সরলীকৃত চীনা থেকে সনাতন চীনা (~S)"
+
+#. 8o#S
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text"
+msgid "Reverse mapping"
+msgstr "বিপরীত ম্যাপিং"
+
+#. _wjz
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text"
+msgid "Term"
+msgstr "শর্ত"
+
+#. BWWm
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text"
+msgid "Mapping"
+msgstr "ম্যাপিং"
+
+#. IwS3
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text"
+msgid "Property"
+msgstr "বৈশিষ্ট্য"
+
+#. G90#
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text"
+msgid "Other"
+msgstr "অন্যান্য"
+
+#. yrvC
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text"
+msgid "Foreign"
+msgstr "বিদেশী "
+
+#. nmoz
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text"
+msgid "First name"
+msgstr "নামের প্রথমাংশ"
+
+#. V_k8
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text"
+msgid "Last name"
+msgstr "নামের শেষাংশ"
+
+#. Iwbv
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text"
+msgid "Title"
+msgstr "শিরোনাম "
+
+#. #6SB
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text"
+msgid "Status"
+msgstr "অবস্থা"
+
+#. p3Nw
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text"
+msgid "Place name"
+msgstr "স্থানের নাম"
+
+#. Pg00
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text"
+msgid "Business"
+msgstr "ব্যবসা"
+
+#. KlBn
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text"
+msgid "Adjective"
+msgstr "বিশেষণ"
+
+#. mQzk
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text"
+msgid "Idiom"
+msgstr "বাগধারা"
+
+#. zVsV
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text"
+msgid "Abbreviation"
+msgstr "শব্দের সংক্ষিপ্ত রূপ"
+
+#. HZFj
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text"
+msgid "Numerical"
+msgstr "সংখ্যাসূচক"
+
+#. Sc4S
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text"
+msgid "Noun"
+msgstr "বিশেষ্য"
+
+#. ofOf
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text"
+msgid "Verb"
+msgstr "ক্রিয়া"
+
+#. _iJO
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text"
+msgid "Brand name"
+msgstr "ব্র্যান্ডের নাম"
+
+#. cYrE
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text"
+msgid "~Add"
+msgstr "যোগ (~A)"
+
+#. IWw3
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text"
+msgid "~Modify"
+msgstr "পরিবর্তন (~M)"
+
+#. qhAm
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text"
+msgid "~Delete"
+msgstr "মুছে ফেলা (~D)"
+
+#. 5xhy
+#: chinese_dialogs.src#DLG_CHINESEDICTIONARY.modaldialog.text
+msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.modaldialog.text"
+msgid "Edit Dictionary"
+msgstr "অভিধান সম্পাদনা"
+
+#. YGi9
+#: chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text"
+msgid "Conversion direction"
+msgstr "রূপান্তর নির্দেশনা"
+
+#. EWeL
+#: chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text"
+msgid "~Use Taiwan, Hong Kong SAR, and Macao SAR character variants"
+msgstr "তাইওয়ান, হংকং SAR, এবং ম্যাকাও SAR অক্ষরের ভেরিয়েন্ট ব্যবহার করা হবে (~U)"
+
+#. 2JvV
+#: chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text"
+msgid "Common terms"
+msgstr "অনুরূপ শব্দ"
+
+#. tIOu
+#: chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox."
+"text"
+msgid "Translate ~common terms"
+msgstr "অনুরূপ শব্দের অনুবাদ (~c)"
+
+#. Egbx
+#: chinese_dialogs.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text"
+msgid "~Edit Terms..."
+msgstr "শব্দের সম্পাদনা (~E)... "
+
+#. Xh1C
+#: chinese_dialogs.src#DLG_CHINESETRANSLATION.modaldialog.text
+msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.modaldialog.text"
+msgid "Chinese Conversion"
+msgstr "চাইনিজ রূপান্তর"
+
+#. 1kcb
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text"
+msgid "Reverse mapping"
+msgstr "বিপরীত ম্যাপিং"
+
+#. G2mF
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text"
+msgid "Term"
+msgstr "শর্ত"
+
+#. EwfT
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text"
+msgid "Mapping"
+msgstr "ম্যাপিং"
+
+#. tMdy
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text"
+msgid "Property"
+msgstr "বৈশিষ্ট্য"
+
+#. 5J2Z
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist."
+"text"
+msgid "Other"
+msgstr "অন্যান্য"
+
+#. flxH
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist."
+"text"
+msgid "Foreign"
+msgstr "বিদেশী "
+
+#. agmW
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist."
+"text"
+msgid "First name"
+msgstr "নামের প্রথমাংশ"
+
+#. AbiL
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist."
+"text"
+msgid "Last name"
+msgstr "নামের শেষাংশ"
+
+#. 7Wda
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist."
+"text"
+msgid "Title"
+msgstr "শিরোনাম "
+
+#. hSUM
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist."
+"text"
+msgid "Status"
+msgstr "অবস্থা"
+
+#. cPLd
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist."
+"text"
+msgid "Place name"
+msgstr "স্থানের নাম"
+
+#. Cm2T
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist."
+"text"
+msgid "Business"
+msgstr "ব্যবসা"
+
+#. 1r9i
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist."
+"text"
+msgid "Adjective"
+msgstr "বিশেষণ"
+
+#. Zdft
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist."
+"text"
+msgid "Idiom"
+msgstr "বাগধারা"
+
+#. kYY6
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist."
+"text"
+msgid "Abbreviation"
+msgstr "শব্দের সংক্ষিপ্ত রূপ"
+
+#. 2URq
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist."
+"text"
+msgid "Numerical"
+msgstr "সংখ্যাসূচক"
+
+#. FRG5
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist."
+"text"
+msgid "Noun"
+msgstr "বিশেষ্য"
+
+#. XKCm
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist."
+"text"
+msgid "Verb"
+msgstr "ক্রিয়া"
+
+#. iH71
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist."
+"text"
+msgid "Brand name"
+msgstr "ব্র্যান্ডের নাম"
+
+#. 9Qey
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text"
+msgid "~Add"
+msgstr "যোগ (~A)"
+
+#. Nwpk
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text"
+msgid "~Modify"
+msgstr "পরিবর্তন (~M)"
+
+#. nn3T
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text"
+msgid "~Delete"
+msgstr "মুছে ফেলা (~D)"
+
+#. 1JaF
+#: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.modaldialog.text
+msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.modaldialog.text"
+msgid "Edit Dictionary"
+msgstr "অভিধান সম্পাদনা"
+
+#. bBO0
+#: chinese_direction_tmpl.hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED.radiobutton.text
+msgctxt ""
+"chinese_direction_tmpl."
+"hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED."
+"radiobutton.text"
+msgid "~Traditional Chinese to simplified Chinese"
+msgstr "সনাতন চীনা থেকে সরলীকৃত চীনা (~T)"
+
+#. ayD_
+#: chinese_direction_tmpl.hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL.radiobutton.text
+msgctxt ""
+"chinese_direction_tmpl."
+"hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL."
+"radiobutton.text"
+msgid "~Simplified Chinese to traditional Chinese"
+msgstr "সরলীকৃত চীনা থেকে সনাতন চীনা (~S)"

@@ -1,0 +1,1849 @@
+#. extracted from sw/source/ui/dbui.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Fdbui.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2011-04-05 10:47+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. qUuW
+#: dbtablepreviewdialog.src#DLG_MM_DBTABLEPREVIEWDIALOG.FI_DESCRIPTION.fixedtext.text
+msgid "The list below shows the contents of: %1"
+msgstr "নিচের তালিকাটি যে বিষয়বস্তু প্রদর্শন করে: %1"
+
+#. LO1F
+#: dbtablepreviewdialog.src#DLG_MM_DBTABLEPREVIEWDIALOG.PB_OK.okbutton.text
+msgctxt ""
+"dbtablepreviewdialog.src#DLG_MM_DBTABLEPREVIEWDIALOG.PB_OK.okbutton.text"
+msgid "~Close"
+msgstr "বন্ধ (~C)"
+
+#. 72Ui
+#: dbtablepreviewdialog.src#DLG_MM_DBTABLEPREVIEWDIALOG.modaldialog.text
+msgid "Mail Merge Recipients"
+msgstr "মেইল একত্রিতকরণ প্রাপক"
+
+#. yAo2
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_STARTING.string.text
+msgid "Select starting document"
+msgstr "শুরুকরণ নথি নির্বাচন করুন"
+
+#. CGZ0
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_DOCUMETNTYPE.string.text
+msgid "Select document type"
+msgstr "নথির ধরন নির্বাচন করুন"
+
+#. gMfX
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSBLOCK.string.text
+msgctxt "mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSBLOCK.string.text"
+msgid "Insert address block"
+msgstr "ঠিকানার ব্লক সন্নিবেশ করান"
+
+#. LrbQ
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_ADDRESSLIST.string.text
+msgid "Select address list"
+msgstr "ঠিকানার তালিকা নির্বাচন"
+
+#. nO_4
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_GREETINGSLINE.string.text
+msgid "Create salutation"
+msgstr "অভিবাদন তৈরি করুন"
+
+#. sbCN
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_LAYOUT.string.text
+msgid "Adjust layout"
+msgstr "বহির্বিন্যাস সমন্বয়"
+
+#. npbu
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_PREPAREMERGE.string.text
+msgid "Edit document"
+msgstr "নথির সম্পাদনা"
+
+#. KX2O
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_MERGE.string.text
+msgid "Personalize document"
+msgstr "ব্যক্তিগত নথি"
+
+#. 1CWZ
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_OUTPUT.string.text
+msgid "Save, print or send"
+msgstr "সংরক্ষণ, মুদ্রণ বা প্রেরণ"
+
+#. 8pGc
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.ST_FINISH.string.text
+msgid "~Finish"
+msgstr "শেষ (~F)"
+
+#. UVBm
+#: mailmergewizard.src#DLG_MAILMERGEWIZARD.modaldialog.text
+msgctxt "mailmergewizard.src#DLG_MAILMERGEWIZARD.modaldialog.text"
+msgid "Mail Merge Wizard"
+msgstr "মেইল একত্রীতকরণ উইজার্ড"
+
+#. Rrnr
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FI_HEADER.fixedtext.text
+msgid "Adjust layout of address block and salutation"
+msgstr "ঠিকানার ব্লক এবং অভিবাদনের বহির্বিন্যাস সমন্বয় করুন"
+
+#. kxDA
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FL_POSITION.fixedline.text
+msgid "Address block position"
+msgstr "ঠিকানা ব্লকের অবস্থান "
+
+#. 1ogX
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.CB_ALIGN.checkbox.text
+msgid "Align to text body"
+msgstr "মূল লেখা বরাবর প্রান্তিক"
+
+#. uE9r
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_LEFT.fixedtext.text
+msgid "From ~left"
+msgstr "বাম থেকে (~l)"
+
+#. SZ1f
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_TOP.fixedtext.text
+msgid "~From top"
+msgstr "উপর থেকে (~F)"
+
+#. XQMc
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FL_GREETINGLINE.fixedline.text
+msgid "Salutation position"
+msgstr "অভিবাদনের অবস্থার "
+
+#. bvuk
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_UP.fixedtext.text
+msgctxt "mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_UP.fixedtext.text"
+msgid "Move"
+msgstr "সরান"
+
+#. i3Te
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.MF_UP.pushbutton.text
+msgid "~Up"
+msgstr "উপরে (~U)"
+
+#. dDL9
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_DOWN.fixedtext.text
+msgctxt "mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_DOWN.fixedtext.text"
+msgid "Move"
+msgstr "সরান"
+
+#. UaUp
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.PB_DOWN.pushbutton.text
+msgid "~Down"
+msgstr "নিচে (~D)"
+
+#. uPsN
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.FT_ZOOM.fixedtext.text
+msgid "~Zoom"
+msgstr "জুম (~Z)"
+
+#. s#gQ
+#: mmlayoutpage.src#DLG_MM_LAYOUT_PAGE.LB_ZOOM.1.stringlist.text
+msgid "Entire page"
+msgstr "সম্পূর্ণ পৃষ্ঠা"
+
+#. 0q1q
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.FT_FIELDS.fixedtext.text
+msgid "A~ddress list elements"
+msgstr "ঠিকানা তালিকার উপাদান (~d)"
+
+#. NZSG
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_ADD.pushbutton.text
+msgctxt ""
+"customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_ADD."
+"pushbutton.text"
+msgid "~Add..."
+msgstr "যোগ... (~A)"
+
+#. 2HOb
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_DELETE.pushbutton.text
+msgctxt ""
+"customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_DELETE."
+"pushbutton.text"
+msgid "~Delete"
+msgstr "মুছুন (~D)"
+
+#. lVtL
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_RENAME.pushbutton.text
+msgid "~Rename..."
+msgstr "নতুন নামকরণ... (~R)"
+
+#. cj8I
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_UP.imagebutton.text
+msgctxt ""
+"customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_UP."
+"imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. LVlf
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_UP.imagebutton.quickhelptext
+msgctxt ""
+"customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_UP."
+"imagebutton.quickhelptext"
+msgid "Move up"
+msgstr "উপরে উঠান"
+
+#. esif
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_DOWN.imagebutton.text
+msgctxt ""
+"customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_DOWN."
+"imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. fOTq
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_DOWN.imagebutton.quickhelptext
+msgctxt ""
+"customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.PB_DOWN."
+"imagebutton.quickhelptext"
+msgid "Move down"
+msgstr "নিচে নামান"
+
+#. X12y
+#: customizeaddresslistdialog.src#DLG_MM_CUSTOMIZE_ADDRESS_LIST.modaldialog.text
+msgid "Customize Address List"
+msgstr "স্বনির্বাচিত ঠিকানার তালিকা"
+
+#. Temy
+#: customizeaddresslistdialog.src#DLG_MM_ADD_RENAME_ENTRY.FT_FIELDNAME.fixedtext.text
+msgid "Element ~name"
+msgstr "উপাদানের নাম (~n)"
+
+#. roJy
+#: customizeaddresslistdialog.src#DLG_MM_ADD_RENAME_ENTRY.ST_RENAME_TITLE.string.text
+msgid "Rename Element"
+msgstr "উপাদানের নতুন নাম দিন"
+
+#. 2T18
+#: customizeaddresslistdialog.src#DLG_MM_ADD_RENAME_ENTRY.ST_ADD_BUTTON.string.text
+msgid "Add"
+msgstr "যোগ"
+
+#. IPwP
+#: customizeaddresslistdialog.src#DLG_MM_ADD_RENAME_ENTRY.modaldialog.text
+msgid "Add Element"
+msgstr "উপাদান যোগ"
+
+#. #73k
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.FI_DESCRIPTION.fixedtext.text
+msgid ""
+"Select an address list. Click '%1' to select recipients from a different "
+"list. If you do not have an address list you can create one by clicking '%2'."
+msgstr ""
+"ঠিকানার তালিকা নির্বাচন করুন। ভিন্ন তালিকা থেকে প্রাপক নির্বাচন করতে '%1' ক্লিক "
+"করুন। আপনার যদি ঠিকানার তালিকা না থাকে, '%2' ক্লিক করে নতুন একটি তৈরি করতে "
+"পারেন।"
+
+#. FJkS
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.FT_LIST.fixedtext.text
+msgid "Your recipients are currently selected from:"
+msgstr "যেখান থেকে আপনার প্রাপকগণদের বর্তমানে নির্বাচন করা হয়েছে:"
+
+#. CC0w
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_LOADLIST.pushbutton.text
+msgctxt ""
+"addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_LOADLIST.pushbutton.text"
+msgid "~Add..."
+msgstr "যোগ... (~A)"
+
+#. w7Kp
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_CREATELIST.pushbutton.text
+msgid "~Create..."
+msgstr "তৈরি... (~C)"
+
+#. i1EH
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_FILTER.pushbutton.text
+msgid "~Filter..."
+msgstr "পরিশোধক... (~F)"
+
+#. xg71
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_EDIT.pushbutton.text
+msgctxt ""
+"addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_EDIT.pushbutton.text"
+msgid "~Edit..."
+msgstr "সম্পাদনা... (~E)"
+
+#. O64o
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.PB_TABLE.pushbutton.text
+msgid "Change ~Table..."
+msgstr "সারণি পরিবর্তন... (~T)"
+
+#. Ecxp
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.ST_NAME.string.text
+msgctxt "addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.ST_NAME.string.text"
+msgid "Name"
+msgstr "নাম"
+
+#. fX42
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.ST_TABLE.string.text
+msgctxt "addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.ST_TABLE.string.text"
+msgid "Table"
+msgstr "সারণি"
+
+#. MGoc
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.ST_CONNECTING.string.text
+msgid "Connecting to data source..."
+msgstr "ডাটা উৎসের সাথে সংযুক্ত হচ্ছে..."
+
+#. njf6
+#: addresslistdialog.src#DLG_MM_ADDRESSLISTDIALOG.modaldialog.text
+msgid "Select Address List"
+msgstr "ঠিকানার তালিকা নির্বাচন"
+
+#. z4A#
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FI_HEADER.fixedtext.text
+msgid "Preview and edit the document"
+msgstr "নথির প্রাকদর্শন এবং সম্পাদনা"
+
+#. cYiW
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FI_PREVIEW.fixedtext.text
+msgid ""
+"The preview of a merged document is visible now. To see the preview of "
+"another document click one of the arrows."
+msgstr ""
+"এখন একত্রিত নথির প্রাকদর্শন দৃশ্যমান। অন্য একটি নথির প্রাকদর্শন দেখতে, যেকোনো একটি "
+"তীর ক্লিক করুন।"
+
+#. rTij
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FT_RECIPIENT.fixedtext.text
+msgid "~Recipient"
+msgstr "প্রাপক (~R)"
+
+#. VhAn
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_FIRST.pushbutton.text
+msgctxt ""
+"mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_FIRST.pushbutton.text"
+msgid "-"
+msgstr "-"
+
+#. CuIL
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_FIRST.pushbutton.quickhelptext
+msgid "First"
+msgstr "প্রথম"
+
+#. t__#
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_PREV.pushbutton.text
+msgctxt ""
+"mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_PREV.pushbutton.text"
+msgid "-"
+msgstr "-"
+
+#. lWqB
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_PREV.pushbutton.quickhelptext
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+#. GuIW
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_NEXT.pushbutton.text
+msgctxt ""
+"mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_NEXT.pushbutton.text"
+msgid "-"
+msgstr "-"
+
+#. 4sfG
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_NEXT.pushbutton.quickhelptext
+msgid "Next"
+msgstr "পরবর্তী"
+
+#. iD7#
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_LAST.pushbutton.text
+msgctxt ""
+"mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_LAST.pushbutton.text"
+msgid "-"
+msgstr "-"
+
+#. mnV9
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_LAST.pushbutton.quickhelptext
+msgid "Last"
+msgstr "শেষ"
+
+#. mO9r
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.CB_EXCLUDE.checkbox.text
+msgid "E~xclude this recipient"
+msgstr "এই প্রাপককে বাদ দিন (~x)"
+
+#. qCkO
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FL_NOTEHEADER.fixedline.text
+msgid "Edit Document"
+msgstr "নথি সম্পাদনা"
+
+#. O8EQ
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.FI_EDIT.fixedtext.text
+msgid ""
+"Write or edit your document now if you have not already done so. The changes "
+"will effect all merged documents.\n"
+"\n"
+"Clicking 'Edit Document...' will temporarily reduce the wizard to a small "
+"window so you can edit the mail merge document. After editing the document, "
+"return to the wizard by clicking 'Return to Mail Merge Wizard' in the small "
+"window."
+msgstr ""
+"আপনি যদি ইতোমধ্যে তেমন কিছু না করেন, তবে আপনার নথিতে লিখুন বা সম্পাদনা করুন। এই "
+"পরিবর্তন সকল একত্রিত নথিতে প্রভাব ফেলবে। \n"
+"\n"
+"'নথি সম্পাদনা...' ক্লিক করলে, উইজার্ডটি অস্থায়ীভাবে ছোট উইন্ডোতে পরিবর্তিত হবে, "
+"ফলে আপনি মেইল একত্রীকরণ নথি সম্পাদনা করতে পারেন। নথিটি সম্পাদনা করার পরে, ছোট "
+"উইন্ডোর 'মেইল একত্রীকরণ উইজার্ডে ফিরে যান' ক্লিক করে উইজার্ডে ফেরত যান।"
+
+#. QHXA
+#: mmpreparemergepage.src#DLG_MM_PREPAREMERGE_PAGE.PB_EDIT.pushbutton.text
+msgid "~Edit Document..."
+msgstr "নথি সম্পাদনা... (~E)"
+
+#. leOG
+#: mmgreetingspage.src#_LB_FEMALECOLUMN.1.stringlist.text
+msgid "< not available >"
+msgstr "< বিদ্যমান নয় >"
+
+#. WtDX
+#: mmgreetingspage.src#GREETINGS_BODY.CB_PERSONALIZED.checkbox.text
+msgid "Insert personalized salutation"
+msgstr "নিজস্ব অভিবাদন সন্নিবেশ"
+
+#. 3End
+#: mmgreetingspage.src#GREETINGS_BODY.FT_FEMALE.fixedtext.text
+msgid "~Female"
+msgstr "মহিলা (~F)"
+
+#. 62Tl
+#: mmgreetingspage.src#GREETINGS_BODY.PB_FEMALE.pushbutton.text
+msgctxt "mmgreetingspage.src#GREETINGS_BODY.PB_FEMALE.pushbutton.text"
+msgid "~New..."
+msgstr "নতুন... (~N)"
+
+#. 5lVI
+#: mmgreetingspage.src#GREETINGS_BODY.FT_MALE.fixedtext.text
+msgid "~Male"
+msgstr "পুরুষ (~M)"
+
+#. zxbG
+#: mmgreetingspage.src#GREETINGS_BODY.PB_MALE.pushbutton.text
+msgid "N~ew..."
+msgstr "নতুন... (~e)"
+
+#. QLys
+#: mmgreetingspage.src#GREETINGS_BODY.FI_FEMALE.fixedtext.text
+msgid "Address list field indicating a female recipient"
+msgstr "ঠিকানার তালিকার ক্ষেত্র মহিলা প্রাপককে নির্দশ করছে"
+
+#. rddE
+#: mmgreetingspage.src#GREETINGS_BODY.FT_FEMALECOLUMN.fixedtext.text
+msgid "Field name"
+msgstr "ক্ষেত্রের নাম"
+
+#. wbz6
+#: mmgreetingspage.src#GREETINGS_BODY.FT_FEMALEFIELD.fixedtext.text
+msgid "Field value"
+msgstr "ক্ষেত্রের মান"
+
+#. wzza
+#: mmgreetingspage.src#GREETINGS_BODY.FT_NEUTRAL.fixedtext.text
+msgid "General salutation"
+msgstr "সাধারণ অভিবাদন"
+
+#. sX7c
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.FI_HEADER.fixedtext.text
+msgid "Create a salutation"
+msgstr "অভিবাদন তৈরি করুন"
+
+#. DA4R
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.CB_GREETINGLINE.checkbox.text
+msgid "This document should contain a salutation"
+msgstr "এই নথিতে একটি অভিবাদন থাকা উচিত"
+
+#. T6lJ
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.FI_PREVIEW.fixedtext.text
+msgctxt "mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.FI_PREVIEW.fixedtext.text"
+msgid "Preview"
+msgstr "প্রাকদর্শন"
+
+#. mpMo
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.PB_ASSIGN.pushbutton.text
+msgid "~Match fields..."
+msgstr "অনুরূপ ক্ষেত্র... (~M)"
+
+#. VaIk
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_PREVSET.imagebutton.text
+msgctxt "mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_PREVSET.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. 5vgC
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_PREVSET.imagebutton.quickhelptext
+msgid "Preview Previous Salutation"
+msgstr "পূর্ববর্তী অভিবাদনের প্রাকদর্শন"
+
+#. HyNC
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_NEXTSET.imagebutton.text
+msgctxt "mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_NEXTSET.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. Kj_j
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.IB_NEXTSET.imagebutton.quickhelptext
+msgid "Preview Next Salutation"
+msgstr "পরবর্তী অভিবাদনের প্রাকদর্শন"
+
+#. j9xd
+#: mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.STR_DOCUMENT.string.text
+msgctxt "mmgreetingspage.src#DLG_MM_GREETINGS_PAGE.STR_DOCUMENT.string.text"
+msgid "Document: %1"
+msgstr "নথি: %1"
+
+#. Rwba
+#: mmgreetingspage.src#DLG_MM_MAILBODY.CB_GREETINGLINE.checkbox.text
+msgid "This e-mail should contain a salutation"
+msgstr "এই ই‌-মেইলে একটি অভিবাদনের থাকা উচিত"
+
+#. BYQV
+#: mmgreetingspage.src#DLG_MM_MAILBODY.FT_BODY.fixedtext.text
+msgid "Write your message here"
+msgstr "এখানে আপনার বার্তা লিখুন"
+
+#. WMSY
+#: mmgreetingspage.src#DLG_MM_MAILBODY.modaldialog.text
+msgid "E-Mail Message"
+msgstr "ই-মেইল বার্তা"
+
+#. #Qza
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.FI_ADDRESSINFORMATION.fixedtext.text
+msgid "Address Information"
+msgstr "ঠিকানার তথ্য"
+
+#. NP_G
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_NEW.pushbutton.text
+msgid "~New"
+msgstr "নতুন (~N)"
+
+#. eKeq
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_DELETE.pushbutton.text
+msgctxt ""
+"createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_DELETE.pushbutton."
+"text"
+msgid "~Delete"
+msgstr "মুছুন (~D)"
+
+#. xwYb
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_FIND.pushbutton.text
+msgctxt ""
+"createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_FIND.pushbutton.text"
+msgid "~Find..."
+msgstr "অনুসন্ধান... (~F)"
+
+#. O5sb
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.PB_CUSTOMIZE.pushbutton.text
+msgid "C~ustomize..."
+msgstr "স্বনির্বাচন... (~u)"
+
+#. gbTF
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.FI_VIEWENTRIES.fixedtext.text
+msgid "Sho~w entry number"
+msgstr "ভুক্তি সংখ্যা প্রদর্শন (~w)"
+
+#. HmOa
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.ST_FILTERNAME.string.text
+msgid "%PRODUCTNAME Address List (.csv)"
+msgstr "%PRODUCTNAME ঠিকানার তালিকা (.csv)"
+
+#. i0xb
+#: createaddresslistdialog.src#DLG_MM_CREATEADDRESSLIST.modaldialog.text
+msgid "New Address List"
+msgstr "নতুন ঠিকানার তালিকা"
+
+#. a6Ku
+#: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.FT_FIND.fixedtext.text
+msgid "F~ind"
+msgstr "অনুসন্ধান (~i)"
+
+#. ljmS
+#: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.CB_FINDONLY.checkbox.text
+msgid "Find ~only in"
+msgstr "সুনির্দিষ্ট অনুসন্ধান  (~o)"
+
+#. 9YYP
+#: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.PB_FIND.pushbutton.text
+msgctxt "createaddresslistdialog.src#DLG_MM_FIND_ENTRY.PB_FIND.pushbutton.text"
+msgid "~Find"
+msgstr "অনুসন্ধান (~F)"
+
+#. 2Epi
+#: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.PB_CANCEL.cancelbutton.text
+msgctxt ""
+"createaddresslistdialog.src#DLG_MM_FIND_ENTRY.PB_CANCEL.cancelbutton.text"
+msgid "~Close"
+msgstr "বন্ধ (~C)"
+
+#. d9Wp
+#: createaddresslistdialog.src#DLG_MM_FIND_ENTRY.modelessdialog.text
+msgid "Find Entry"
+msgstr "ভুক্তি অনুসন্ধান"
+
+#. dwPw
+#: mmaddressblockpage.src#_ST_NONE_LIST.1.stringlist.text
+msgctxt "mmaddressblockpage.src#_ST_NONE_LIST.1.stringlist.text"
+msgid "< none >"
+msgstr "<কোনটি না>"
+
+#. MTq8
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_HEADER.fixedtext.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_HEADER.fixedtext.text"
+msgid "Insert address block"
+msgstr "ঠিকানার ব্লক সন্নিবেশ"
+
+#. 6r6a
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_FIRST.fixedtext.text
+msgid "1."
+msgstr "১."
+
+#. V#y#
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_ADDRESSLIST.fixedtext.text
+msgid ""
+"Select the address list containing the address data you want to use. This "
+"data is needed to create the address block."
+msgstr ""
+"ঠিকানার তালিকা নির্বাচন করুন, যাতে আপনার ব্যবহারের জন্য ঠিকানার ডাটা রয়েছে। "
+"ঠিকানার ব্লক তৈরি করতে এই ডাটার প্রয়োজন।"
+
+#. 1wQD
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.PB_ADDRESSLIST.pushbutton.text
+msgid "Select A~ddress List..."
+msgstr "ঠিকানার তালিকা নির্বাচন... (~d)"
+
+#. czDP
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.STR_CHANGEADDRESS.string.text
+msgid "Select Different A~ddress List..."
+msgstr "ভিন্ন ঠিকানার তালিকা নির্বাচন... (~d)"
+
+#. qofj
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_CURRENTADDRESS.fixedtext.text
+msgid "Current address list: %1"
+msgstr "বর্তমান ঠিকানার তালিকা: %1"
+
+#. _bsw
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_SECOND.fixedtext.text
+msgid "2."
+msgstr "২."
+
+#. FAK7
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.CB_ADDRESS.checkbox.text
+msgid "~This document shall contain an address block"
+msgstr "এই নথিটি ঠিকানার ব্লক ধারণ করবে (~T)"
+
+#. ct5s
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.PB_SETTINGS.pushbutton.text
+msgid "~More..."
+msgstr "আরও... (~M)"
+
+#. VJ6s
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.CB_HIDE_EMPTY_PARA.checkbox.text
+msgid "~Suppress lines with just empty fields"
+msgstr "শুধুমাত্র ফাঁকা ক্ষেত্র যুক্ত লাইন দমন (~S)"
+
+#. npI_
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_THIRD.fixedtext.text
+msgid "3."
+msgstr "৩."
+
+#. u8Kh
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_MATCH_FIELDS.fixedtext.text
+msgid ""
+"Match the field name used in the mail merge to the column headers in your "
+"data source."
+msgstr ""
+"মেইল একত্রীকরণে ব্যবহৃত ক্ষেত্রের নাম, আপনার ডাটা উংসের কলাম শিরোনামের সাথে "
+"মিলান। "
+
+#. xpOe
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.PB_ASSIGN.pushbutton.text
+msgid "Match ~Fields..."
+msgstr "ক্ষেত্রসমূহ মিলানো হবে... (~F)"
+
+#. MKyV
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_FOURTH.fixedtext.text
+msgid "4."
+msgstr "৪."
+
+#. M6X9
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.FI_PREVIEW.fixedtext.text
+msgid "Check if the address data matches correctly."
+msgstr "ঠিকানা ডাটা সঠিকভাবে মিলে কিনা পরীক্ষা করুন।"
+
+#. b2Y3
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_PREVSET.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_PREVSET.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. A2aB
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_PREVSET.imagebutton.quickhelptext
+msgid "Preview Previous Address Block"
+msgstr "পূর্ববর্তী ঠিকানার ব্লক প্রাকবীক্ষণ"
+
+#. hQdX
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_NEXTSET.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_NEXTSET.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. RMng
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.IB_NEXTSET.imagebutton.quickhelptext
+msgid "Preview Next Address Block"
+msgstr "পরবর্তী ঠিকানার ব্লক প্রাকবীক্ষণ"
+
+#. Dr89
+#: mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.STR_DOCUMENT.string.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_ADDRESSBLOCK_PAGE.STR_DOCUMENT.string.text"
+msgid "Document: %1"
+msgstr "নথি: %1"
+
+#. FEJZ
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.FT_SELECT.fixedtext.text
+msgid "~Select your preferred address block"
+msgstr "আপনার পছন্দের ঠিকানা ব্লক নির্বাচন (~S)"
+
+#. xnxL
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_NEW.pushbutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_NEW.pushbutton.text"
+msgid "~New..."
+msgstr "নতুন... (~N)"
+
+#. cJAL
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_CUSTOMIZE.pushbutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_CUSTOMIZE.pushbutton.text"
+msgid "~Edit..."
+msgstr "সম্পাদনা... (~E)"
+
+#. i5tJ
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_DELETE.pushbutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.PB_DELETE.pushbutton.text"
+msgid "~Delete"
+msgstr "মুছুন (~D)"
+
+#. Op#V
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.FI_SETTINGS.fixedtext.text
+msgid "Address block settings"
+msgstr "ঠিকানা ব্লকের সেটিং"
+
+#. G_Ux
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_NEVER.radiobutton.text
+msgid "N~ever include the country/region"
+msgstr "কখনো দেশ/অঞ্চল অন্তর্ভুক্ত করবেন না (~e)"
+
+#. ruGl
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_ALWAYS.radiobutton.text
+msgid "~Always include the country/region"
+msgstr "সর্বদা দেশ/অঞ্চল অন্তর্ভুক্ত করুন (~A)"
+
+#. 0q3O
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.RB_DEPENDENT.radiobutton.text
+msgid "Only ~include the country/region if it is not:"
+msgstr "শুধুমাত্র দেশ/অঞ্চল অন্তর্ভুক্ত করুন, যদি এটি না থাকে: (~i)"
+
+#. Eif_
+#: mmaddressblockpage.src#DLG_MM_SELECTADDRESSBLOCK.modaldialog.text
+msgid "Select Address Block"
+msgstr "ঠিকানা ব্লক নির্বাচন"
+
+#. _i8j
+#: mmaddressblockpage.src#WORKAROUND.#define.text
+msgid "New Address Block"
+msgstr "নতুন ঠিকানার ব্লক"
+
+#. U3IB
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_EDIT.string.text
+msgid "Edit Address Block"
+msgstr "ঠিকানার ব্লক সম্পাদনা"
+
+#. cdDm
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_MALE.string.text
+msgid "Custom Salutation (Male Recipients)"
+msgstr "পছন্দনীয় অভিবাদন (পুরুষ গ্রাহক)"
+
+#. Vt0X
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TITLE_FEMALE.string.text
+msgid "Custom Salutation (Female Recipients)"
+msgstr "পছন্দনীয় অভিবাদন (মহিলা গ্রাহক)"
+
+#. tswU
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_ADDRESSELEMENTS.fixedtext.text
+msgid "Address ~elements"
+msgstr "ঠিকানার উপাদান (~e)"
+
+#. ejC8
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_SALUTATIONELEMENTS.string.text
+msgid "Salutation e~lements"
+msgstr "অভিবাদন উপাদান (~l)"
+
+#. 24k0
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_INSERTFIELD.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_INSERTFIELD."
+"imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. 8oLu
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_INSERTFIELD.imagebutton.quickhelptext
+msgid "Add to address"
+msgstr "ঠিকানায় যোগ করুন"
+
+#. ZkMd
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_INSERTSALUTATIONFIELD.string.text
+msgid "Add to salutation"
+msgstr "অভিবাদনে যোগ করুন"
+
+#. mLj1
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_REMOVEFIELD.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_REMOVEFIELD."
+"imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. AeN0
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_REMOVEFIELD.imagebutton.quickhelptext
+msgid "Remove from address"
+msgstr "ঠিকানা থেকে অপসারণ করুন"
+
+#. BiQu
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_REMOVESALUTATIONFIELD.string.text
+msgid "Remove from salutation"
+msgstr "অভিবাদন থেকে অপসারণ করুন"
+
+#. hBuD
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_DRAG.fixedtext.text
+msgid "1. Drag address elements here"
+msgstr "১. ঠিকানার উপাদান এখানে টানুন"
+
+#. 2HLx
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_DRAGSALUTATION.string.text
+msgid "1. ~Drag salutation elements into the box below"
+msgstr "১. অভিবাদনের উপাদান নিচের বাক্সে টানুন (~D)"
+
+#. STTo
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_UP.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_UP.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. aFwH
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_UP.imagebutton.quickhelptext
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_UP.imagebutton."
+"quickhelptext"
+msgid "Move up"
+msgstr "উপরে উঠান"
+
+#. YkBL
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_LEFT.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_LEFT.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. dw_U
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_LEFT.imagebutton.quickhelptext
+msgid "Move left"
+msgstr "বামে সরান"
+
+#. j8JV
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_RIGHT.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_RIGHT.imagebutton.text"
+msgid "-"
+msgstr " - "
+
+#. e#tM
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_RIGHT.imagebutton.quickhelptext
+msgid "Move right"
+msgstr "ডানে সরান"
+
+#. rhcb
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_DOWN.imagebutton.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_DOWN.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. U_Iw
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_DOWN.imagebutton.quickhelptext
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.IB_DOWN.imagebutton."
+"quickhelptext"
+msgid "Move down"
+msgstr "নিচে নামান"
+
+#. nusN
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FT_FIELD.fixedtext.text
+msgid "2. Customi~ze salutation"
+msgstr "২. পছন্দনীয় অভিবাদন (~z)"
+
+#. gBdu
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FI_PREVIEW.fixedtext.text
+msgctxt ""
+"mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.FI_PREVIEW.fixedtext.text"
+msgid "Preview"
+msgstr "প্রাকদর্শন"
+
+#. Js20
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_SALUTATION.string.text
+msgid "Salutation"
+msgstr "অভিবাদন"
+
+#. u1UY
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_PUNCTUATION.string.text
+msgid "Punctuation Mark"
+msgstr "বিরাম চিহ্ন"
+
+#. otf_
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.ST_TEXT.string.text
+msgid "Text"
+msgstr "লেখা"
+
+#. lGmR
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.1.itemlist.text
+msgid "Dear Mr. <2>,"
+msgstr "প্রিয় জনাব <2>,"
+
+#. E#SZ
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.2.itemlist.text
+msgid "Mr. <2>,"
+msgstr "জনাব <2>,"
+
+#. uARK
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.3.itemlist.text
+msgid "Dear <1>,"
+msgstr "প্রিয় <1>,"
+
+#. tGXp
+#: mmaddressblockpage.src#DLG_MM_CUSTOMIZEADDRESSBLOCK.4.itemlist.text
+msgid "Hello <1>,"
+msgstr "হ্যালো <1>,"
+
+#. Nsmw
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.FI_MATCHING.fixedtext.text
+msgid "Assign the fields from your data source to match the address elements."
+msgstr "ঠিকানার উপাদানের সাথে মিলাতে, আপনার ডাটা উৎসের ক্ষেত্র নির্ধারণ করুন। "
+
+#. hnEN
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONMATCHING.string.text
+msgid ""
+"Assign the fields from your data source to match the salutation elements."
+msgstr "অভিবাদন উপাদানের সাথে মিলাতে, আপনার ডাটা উৎসের ক্ষেত্র নির্ধারণ করুন।"
+
+#. rlx0
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.FI_PREVIEW.fixedtext.text
+msgid "Address block preview"
+msgstr "ঠিকানা ব্লকের প্রাকদর্শন"
+
+#. BTsz
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONPREVIEW.string.text
+msgid "Salutation preview"
+msgstr "অভিবাদন প্রাকদর্শন"
+
+#. 0ZXh
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_ADDRESSELEMENT.string.text
+msgid "Address elements"
+msgstr "ঠিকানার উপাদান"
+
+#. eW4m
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_SALUTATIONELEMENT.string.text
+msgid "Salutation elements"
+msgstr "অভিবাদন উপাদান"
+
+#. fFMJ
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_MATCHESTO.string.text
+msgid "Matches to field:"
+msgstr "ক্ষেত্রের সাথে মেলায়:"
+
+#. Qgqd
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_PREVIEW.string.text
+msgctxt "mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_PREVIEW.string.text"
+msgid "Preview"
+msgstr "প্রাকদর্শন"
+
+#. CtHQ
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_NONE.string.text
+msgctxt "mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.ST_NONE.string.text"
+msgid "< none >"
+msgstr "< কোনটি না >"
+
+#. Gczb
+#: mmaddressblockpage.src#DLG_MM_ASSIGNFIELDS.modaldialog.text
+msgid "Match Fields"
+msgstr "অনুরূপ ক্ষেত্র"
+
+#. b4Pf
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.FI_HEADER.fixedtext.text
+msgid "Select starting document for the mail merge"
+msgstr "মেইল একত্রীকরণের জন্য শুরুকরণ নথি নির্বাচন করুন"
+
+#. I6n9
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.FT_HOWTO.fixedtext.text
+msgid "Select the document upon which to base the mail merge document"
+msgstr "নথি নির্বাচন করুন, যার উপর মেইল একত্রীকরণ নথি নির্ভর করে"
+
+#. lqN4
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_CURRENTDOC.radiobutton.text
+msgid "Use the current ~document"
+msgstr "বর্তমান নথির ব্যবহার (~d)"
+
+#. slQI
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_NEWDOC.radiobutton.text
+msgid "Create a ne~w document"
+msgstr "নতুন নথির তৈরি (~w)"
+
+#. rPih
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_LOADDOC.radiobutton.text
+msgid "Start from ~existing document"
+msgstr "বিদ্যমান নথি থেকে শুরু (~e)"
+
+#. Z_W#
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.PB_LOADDOC.pushbutton.text
+msgctxt "mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.PB_LOADDOC.pushbutton.text"
+msgid "B~rowse..."
+msgstr "ব্রাউজ... (~r)"
+
+#. 7faE
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_LOADTEMPLATE.radiobutton.text
+msgid "Start from a t~emplate"
+msgstr "ফর্মা থেকে শুরু (~e)"
+
+#. ah3a
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.PB_BROWSETEMPLATE.pushbutton.text
+msgctxt ""
+"mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.PB_BROWSETEMPLATE.pushbutton.text"
+msgid "B~rowse..."
+msgstr "ব্রাউজ... (~r) "
+
+#. AvDj
+#: mmdocselectpage.src#DLG_MM_DOCSELECT_PAGE.RB_RECENTDOC.radiobutton.text
+msgid "Start fro~m a recently saved starting document"
+msgstr "সাম্প্রতিক সংরক্ষিত শুরুকরণ নথি থেকে আরাম্ভ করুন (~m)"
+
+#. ugqu
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.FI_SELECT.fixedtext.text
+msgid ""
+"The file you have selected contains more than one table. Please select the "
+"table containing the address list you want to use."
+msgstr ""
+"আপনার নির্বাচিত ফাইলে একাধিক সারণি রয়েছে। অনুগ্রহ করে এমন সারণি নির্বাচন করুন, "
+"যাতে ঠিকানার তালিকা রয়েছে, যেটি আপনি ব্যবহার করতে চান।"
+
+#. HcUx
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.PB_PREVIEW.pushbutton.text
+msgid "~Preview"
+msgstr "প্রাকদর্শন (~P)"
+
+#. ZIQD
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_NAME.string.text
+msgctxt ""
+"selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_NAME.string.text"
+msgid "Name"
+msgstr "নাম"
+
+#. C1o0
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_TYPE.string.text
+msgid "Type"
+msgstr "ধরন"
+
+#. BfKt
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_TABLE.string.text
+msgctxt ""
+"selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_TABLE.string.text"
+msgid "Table"
+msgstr "সারণি"
+
+#. cs8D
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.ST_QUERY.string.text
+msgid "Query"
+msgstr "কোয়েরি"
+
+#. jm42
+#: selectdbtabledialog.src#DLG_MM_SELECTDBTABLEDDIALOG.modaldialog.text
+msgid "Select Table"
+msgstr "সারণি নির্বাচন"
+
+#. GaSK
+#: mailmergechildwindow.src#WORKAROUND.#define.text
+msgid "Return to Mail Merge Wizard"
+msgstr "মেইল একত্রীকরণ উইজার্ডে ফিরিয়ে দিন"
+
+#. B6mS
+#: mailmergechildwindow.src#DLG_MAILMERGECHILD.floatingwindow.text
+msgctxt "mailmergechildwindow.src#DLG_MAILMERGECHILD.floatingwindow.text"
+msgid "Mail Merge Wizard"
+msgstr "মেইল একত্রীকরণ উইজার্ড"
+
+#. sBwn
+#: mailmergechildwindow.src#FL_STATUS.fixedline.text
+msgid "Connection status"
+msgstr "সংযোগ অবস্থা"
+
+#. 4lS8
+#: mailmergechildwindow.src#FT_STATUS1.fixedtext.text
+msgid "The connection to the outgoing mail server has been established"
+msgstr "বর্হিগামী মেইল সার্ভারের সাথে সংযোগ প্রতিষ্ঠা করা হয়েছে"
+
+#. tN03
+#: mailmergechildwindow.src#ST_SEND.string.text
+msgid "Sending e-mails..."
+msgstr "ই-মেইল পাঠাচ্ছে..."
+
+#. fOj3
+#: mailmergechildwindow.src#FL_TRANSFERSTATUS.fixedline.text
+msgid "Transfer status"
+msgstr "স্থানান্তর অবস্থা"
+
+#. 8d4H
+#: mailmergechildwindow.src#FT_TRANSFERSTATUS.fixedtext.text
+msgid "%1 of %2 e-mails sent"
+msgstr "%2টি ই-মেইলের %1টি পাঠানো হয়েছে"
+
+#. r77v
+#: mailmergechildwindow.src#FI_PAUSED.fixedtext.text
+msgid "Sending paused"
+msgstr "পাঠানো স্থগিত করা হয়েছে"
+
+#. ufNU
+#: mailmergechildwindow.src#FT_ERRORSTATUS.fixedtext.text
+msgid "E-mails not sent: %1"
+msgstr "ই-মেইল পাঠানো হয়নি: %1"
+
+#. RaIM
+#: mailmergechildwindow.src#PB_DETAILS.pushbutton.text
+msgid "More >>"
+msgstr "অধিক >>"
+
+#. ptUz
+#: mailmergechildwindow.src#ST_LESS.string.text
+msgid "<< Less"
+msgstr "<< কম"
+
+#. lMRV
+#: mailmergechildwindow.src#PB_STOP.pushbutton.text
+msgid "~Stop"
+msgstr "থামুন (~S)"
+
+#. iOIX
+#: mailmergechildwindow.src#PB_CLOSE.pushbutton.text
+msgid "C~lose"
+msgstr "বন্ধ (~l)"
+
+#. NDka
+#: mailmergechildwindow.src#ST_CONTINUE.string.text
+msgid "~Continue"
+msgstr "পরবর্তী (~C)"
+
+#. HbGl
+#: mailmergechildwindow.src#.modelessdialog.text
+msgid "Sending E-mail messages"
+msgstr "ই-মেইল বার্তা পাঠাচ্ছে"
+
+#. fHjm
+#: mailmergechildwindow.src#ST_TASK.string.text
+msgid "Task"
+msgstr "কাজ"
+
+#. 0IbJ
+#: mailmergechildwindow.src#ST_STATUS.string.text
+msgid "Status"
+msgstr "অবস্থা"
+
+#. 2yh7
+#: mailmergechildwindow.src#ST_SENDINGTO.string.text
+msgid "Sending to: %1"
+msgstr "পাঠাচ্ছে: %1"
+
+#. XNmw
+#: mailmergechildwindow.src#ST_COMPLETED.string.text
+msgid "Successfully sent"
+msgstr "সফলভাবে পাঠানো হয়েছে"
+
+#. F6P2
+#: mailmergechildwindow.src#ST_FAILED.string.text
+#, fuzzy
+msgid "Sending failed"
+msgstr "পাঠানো স্থগিত করা হয়েছে"
+
+#. aQ1#
+#: mailmergechildwindow.src#ST_TERMINATEQUERY.string.text
+msgid ""
+"There are still e-mail messages in your %PRODUCTNAME Outbox.\n"
+"Would you like to exit anyway?"
+msgstr ""
+"আপনার %PRODUCTNAME আউটবক্সে এখনো ই‌-মেইল বার্তা রয়েছে ।\n"
+"আপনি কি যেকোনো উপায়ে বের হতে চান? "
+
+#. MlHQ
+#: mailmergechildwindow.src#DLG_MM_SENDWARNING.FI_WARNING.fixedtext.text
+msgid "The following error occurred:"
+msgstr "নিম্নবর্ণিত ত্রুটি হয়েছে:"
+
+#. bjhg
+#: mailmergechildwindow.src#DLG_MM_SENDWARNING.FT_DETAILS.fixedtext.text
+msgid "Detailed information"
+msgstr "বিস্তারিত তথ্য"
+
+#. 4JPX
+#: mailmergechildwindow.src#DLG_MM_SENDWARNING.modaldialog.text
+msgid "E-Mails could not be sent"
+msgstr "ই‌-মেইল পাঠানো হয়নি"
+
+#. aERW
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.FI_HEADER.fixedtext.text
+msgid "Personalize the mail merge documents"
+msgstr "মেইল একত্রীকরণ নথি ব্যক্তিগতকরণ"
+
+#. Rtqs
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.FI_EDIT.fixedtext.text
+msgid ""
+"You can personalize particular documents. Clicking '%1' will temporarily "
+"reduce the wizard to a small window so you can edit your document. After "
+"editing the document, return to the wizard by clicking 'Return to Mail Merge "
+"Wizard' in the small window."
+msgstr ""
+"আপনি নির্দিষ্ট নথি ব্যক্তিগত করতে পারেন। '%1' এ ক্লিক করলে, উইজার্ডটি অস্থায়ীভাবে "
+"ছোট উইন্ডোতে পরিবর্তিত হয়, ফলে আপনি আপনার নথি সম্পাদনা করতে পারবেন। নথি "
+"সম্পাদনার পরে, ছোট উইন্ডোর 'মেইল একত্রীকরণ উইজার্ডে ফিরিয়ে দিন' ক্লিক করে  "
+"উইজার্ডে ফিরে যান।"
+
+#. ePvS
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.PB_EDIT.pushbutton.text
+msgid "~Edit individual document..."
+msgstr "পৃথক ফাইল সম্পাদনা... (~E)"
+
+#. YpOO
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.FL_FIND.fixedline.text
+msgctxt "mmmergepage.src#DLG_MM_MERGE_PAGE.FL_FIND.fixedline.text"
+msgid "~Find"
+msgstr "খোঁজা (~F)"
+
+#. Lcvo
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.FT_FIND.fixedtext.text
+msgid "~Search for:"
+msgstr "অনুসন্ধান (~S):"
+
+#. KnPc
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.PB_FIND.pushbutton.text
+msgctxt "mmmergepage.src#DLG_MM_MERGE_PAGE.PB_FIND.pushbutton.text"
+msgid "~Find..."
+msgstr "খোঁজা... (~F)"
+
+#. 7MM3
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.CB_WHOLEWORDS.checkbox.text
+msgid "Whole wor~ds only"
+msgstr "শুধুমাত্র সম্পূর্ণ  শব্দ (~d)"
+
+#. fEGk
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.CB_BACKWARDS.checkbox.text
+msgid "Back~wards"
+msgstr "পিছনে (~w)"
+
+#. OD0q
+#: mmmergepage.src#DLG_MM_MERGE_PAGE.CB_MATCHCASE.checkbox.text
+msgid "Ma~tch case"
+msgstr "অক্ষর মিলান (~t)"
+
+#. 0lJu
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FI_HEADER.fixedtext.text
+msgid "Save, print or send the document"
+msgstr "নথির সংরক্ষণ, মুদ্রণ বা প্রেরণ"
+
+#. R9NO
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FI_OPTIONS.fixedtext.text
+msgid "Select one of the options below:"
+msgstr "নিচের যেকোনো একটি অপশন নির্বাচন করুন:"
+
+#. t7WX
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVESTARTDOC.radiobutton.text
+msgid "~Save starting document"
+msgstr "শুরুকরণ নথির সংরক্ষণ (~S)"
+
+#. K383
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVEMERGEDDOC.radiobutton.text
+msgid "Save ~merged document"
+msgstr "একত্রিত নথির সংরক্ষণ (~m)"
+
+#. rday
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_PRINT.radiobutton.text
+msgid "~Print merged document"
+msgstr "একত্রিত নথির মুদ্রণ (~P) "
+
+#. 5Bkg
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SENDMAIL.radiobutton.text
+msgid "Send merged document as ~E-Mail"
+msgstr "ই-মেইল হিসেবে একত্রিত নথির প্রেরণ (~E)"
+
+#. qbpX
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_SAVESTARTDOC.pushbutton.text
+msgid "Save starting ~document"
+msgstr "শুরুকরণ নথির সংরক্ষণ (~d)"
+
+#. q4Ei
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVEASONE.radiobutton.text
+msgid "S~ave as single document"
+msgstr "পৃথক নথি হিসেবে সংরক্ষণ (~a)"
+
+#. jqAi
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_SAVEINDIVIDUAL.radiobutton.text
+msgid "Sa~ve as individual documents"
+msgstr "পৃথক নথি হিসেবে সংরক্ষণ (~v) "
+
+#. Ih7E
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_FROM.radiobutton.text
+msgid "~From"
+msgstr "প্রেরক (~F)"
+
+#. tZDg
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FT_TO.fixedtext.text
+msgid "~To"
+msgstr "পর্যন্ত (~T)"
+
+#. RPrN
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_SAVENOW.pushbutton.text
+msgid "Save Do~cuments"
+msgstr "নথি সংরক্ষণ (~c)"
+
+#. 28W3
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FT_PRINT.fixedtext.text
+msgid "~Printer"
+msgstr "মুদ্রণযন্ত্র (~P)"
+
+#. Q7F1
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_PRINTERSETTINGS.pushbutton.text
+msgid "P~roperties..."
+msgstr "বৈশিষ্ট্যবলী... (~r)"
+
+#. iDI3
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.RB_PRINTALL.radiobutton.text
+msgid "Print ~all documents"
+msgstr "সকল নথির মুদ্রণ (~a)"
+
+#. k#IO
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_PRINTNOW.pushbutton.text
+msgid "Prin~t Documents"
+msgstr "নথির মুদ্রণ (~t)"
+
+#. dW57
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FT_MAILTO.fixedtext.text
+msgid "T~o"
+msgstr "প্রাপক (~o)"
+
+#. 71_a
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.PB_COPYTO.pushbutton.text
+msgid "~Copy to..."
+msgstr "অতিরিক্ত প্রাপক... (~C)"
+
+#. u7Ra
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FT_SUBJECT.fixedtext.text
+msgid "S~ubject"
+msgstr "বিষয় (~u)"
+
+#. eBP8
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.FT_SENDAS.fixedtext.text
+msgid "Sen~d as"
+msgstr "যেভাবে পাঠাবেন (~d)"
+
+#. RUuG
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.1.stringlist.text
+msgid "OpenDocument Text"
+msgstr "ওপেন-ডকুমেন্ট লেখা"
+
+#. tY1Y
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.2.stringlist.text
+msgid "Adobe PDF-Document"
+msgstr "Adobe PDF-নথি"
+
+#. wdAJ
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.3.stringlist.text
+msgid "Microsoft Word Document"
+msgstr "Microsoft Word নথি"
+
+#. KeMc
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.4.stringlist.text
+msgid "HTML Message"
+msgstr "HTML বার্তা"
+
+#. PjTN
+#: mmoutputpage.src#DLG_MM_OUTPUT_PAGE.5.stringlist.text
+msgid "Plain Text"
+msgstr "সরল লেখা"
+
+#. S9D5
+#: mmoutputpage.src#PB_SENDAS.pushbutton.text
+msgctxt "mmoutputpage.src#PB_SENDAS.pushbutton.text"
+msgid "Pr~operties..."
+msgstr "বৈশিষ্ট্যবলী... (‍~o)"
+
+#. fjF4
+#: mmoutputpage.src#FT_ATTACHMENT.fixedtext.text
+msgid "Name of the a~ttachment"
+msgstr "সংযুক্তির নাম (~t)"
+
+#. USmY
+#: mmoutputpage.src#RB_SENDALL.radiobutton.text
+msgid "S~end all documents"
+msgstr "সকল নথির প্রেরণ (~e)"
+
+#. Nf2K
+#: mmoutputpage.src#PB_SENDDOCUMENTS.pushbutton.text
+msgid "Se~nd documents"
+msgstr "নথির প্রেরণ (~n)"
+
+#. WMsX
+#: mmoutputpage.src#ST_SAVESTART.string.text
+msgid "Save ~starting document"
+msgstr "প্রথম নথি সংরক্ষণ (~s)"
+
+#. pXnt
+#: mmoutputpage.src#ST_SAVEMERGED.string.text
+msgid "Save merged document"
+msgstr "একত্রিত নথি সংরক্ষণ"
+
+#. 3Ct3
+#: mmoutputpage.src#ST_PRINT.string.text
+msgid "Print settings"
+msgstr "মুদ্রণ সেটিং"
+
+#. LXxJ
+#: mmoutputpage.src#ST_SENDMAIL.string.text
+msgid "E-Mail settings"
+msgstr "ই-মেইল সেটিং"
+
+#. u8Rf
+#: mmoutputpage.src#ST_DEFAULTATTACHMENT.string.text
+msgid "Untitled"
+msgstr "শিরোনামহীন"
+
+#. xvbP
+#: mmoutputpage.src#ST_SUBJECTQUERY.string.text
+msgid ""
+"You did not specify a subject for this message. If you would like to provide "
+"one, please type it now."
+msgstr ""
+"আপনি এই বার্তার কোনো বিষয় উল্লেখ করেননি। আপনি যদি বিষয় যোগ করতে চান, অনুগ্রহ করে "
+"এখনই এটা লিখুন।"
+
+#. OsJw
+#: mmoutputpage.src#ST_NOSUBJECT.string.text
+msgid "No subject"
+msgstr "কোনো বিষয় নেই"
+
+#. YkNW
+#: mmoutputpage.src#ST_NOATTACHMENTNAME.string.text
+msgid ""
+"You did not specify a new name for the attachment. If you would like to "
+"provide one, please type it now."
+msgstr ""
+"আপনি সংযুক্তির কোনো নতুন নাম উল্লেখ করেননি। আপনি যদি নাম দিতে চান, অনুগ্রহ করে "
+"এখনই এটা লিখুন।"
+
+#. C_aK
+#: mmoutputpage.src#ST_CONFIGUREMAIL.string.text
+#, fuzzy
+msgid ""
+"In order to be able to send mail merge documents by e-mail, %PRODUCTNAME "
+"requires information about the e-mail account to be used.\n"
+"\n"
+"Do you want to enter e-mail account information now?"
+msgstr ""
+"ইমেইলের মাধ্যমে মেইল একত্রীকরণ নথি প্রেরণে সক্ষম হতে, %PRODUCTNAME ব্যবহার করার "
+"জন্য, এটার ইমেইল একাউন্ট সম্পর্কিত তথ্যের প্রয়োজন হয়।\n"
+" \n"
+" আপনি কি এখন ইমেইল একাউন্টের তথ্য সন্নিবেশ করাতে চান?"
+
+#. 4vNr
+#: mmoutputpage.src#DLG_MM_COPYTO.FI_DESCRIPTION.fixedtext.text
+msgid "Send a copy of this mail to:"
+msgstr "এই মেইলের অনুলিপি যেখানে পাঠাবেন:"
+
+#. _wiu
+#: mmoutputpage.src#DLG_MM_COPYTO.FT_CC.fixedtext.text
+msgid "~Cc"
+msgstr "অঅ (~C)"
+
+#. np4p
+#: mmoutputpage.src#DLG_MM_COPYTO.FT_BCC.fixedtext.text
+msgid "~Bcc"
+msgstr "অঅঅ(~B)"
+
+#. Mgjb
+#: mmoutputpage.src#DLG_MM_COPYTO.FI_NOTE.fixedtext.text
+msgid ""
+"Note:\n"
+"Separate e-mail addresses with a semicolon (;)."
+msgstr ""
+"নোট:\n"
+"ই-মেইল ঠিকানা সেমিকোলন দিয়ে পৃথক করুন (;)। "
+
+#. U4ws
+#: mmoutputpage.src#DLG_MM_COPYTO.modaldialog.text
+msgid "Copy To"
+msgstr "অতিরিক্ত প্রাপক"
+
+#. Iyg5
+#: mmoutputpage.src#DLG_MM_SAVEWARNING.FI_WARNING.fixedtext.text
+msgid ""
+"A document with the name '%1' already exists. Please save this document "
+"under a different name."
+msgstr ""
+"ইতোমধ্যে '%1' নামের ফাইল বিদ্যমান আছে। অনুগ্রহ করে এই নথিটি ভিন্ন নামে সংরক্ষণ করুন।"
+
+#. fVfs
+#: mmoutputpage.src#DLG_MM_SAVEWARNING.FT_FILENAME.fixedtext.text
+msgid "New document name"
+msgstr "নতুন নথির নাম"
+
+#. jUBp
+#: dbui.src#DLG_DBSELECTION.modaldialog.text
+msgid "Database Selection"
+msgstr "ডাটাবেস নির্বাচন"
+
+#. Pj7E
+#: dbui.src#DLG_PRINTMONITOR.FT_PRINTING.fixedtext.text
+msgid "is being prepared for printing on"
+msgstr "মুদ্রণের জন্য প্রস্তুত হচ্ছে"
+
+#. bfHS
+#: dbui.src#DLG_PRINTMONITOR.FT_SENDING.fixedtext.text
+msgid "is being sent to"
+msgstr "পাঠানো হয়েছে"
+
+#. Ojg4
+#: dbui.src#DLG_PRINTMONITOR.FT_SAVING.fixedtext.text
+msgid "is being saved to"
+msgstr "সংরক্ষণ করা হয়েছে"
+
+#. cvES
+#: dbui.src#DLG_PRINTMONITOR.STR_EMAILMON.string.text
+msgid "Send-Monitor"
+msgstr "প্রেরণ পর্যবেক্ষক"
+
+#. KYZ9
+#: dbui.src#DLG_PRINTMONITOR.STR_SAVEMON.string.text
+msgid "Save-Monitor"
+msgstr "সংরক্ষণ পর্যবেক্ষক"
+
+#. lAuE
+#: dbui.src#DLG_PRINTMONITOR.modelessdialog.text
+msgid "Print monitor"
+msgstr "মুদ্রণ পর্যবেক্ষক"
+
+#. VQCl
+#: dbui.src#STR_DB_EMAIL.string.text
+msgid "E-mail"
+msgstr "ইমেইল"
+
+#. BmSn
+#: dbui.src#SA_ADDRESS_HEADER.1.itemlist.text
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. gUm9
+#: dbui.src#SA_ADDRESS_HEADER.2.itemlist.text
+msgid "First Name"
+msgstr "নামের প্রথমাংশ"
+
+#. Sgt#
+#: dbui.src#SA_ADDRESS_HEADER.3.itemlist.text
+msgid "Last Name"
+msgstr "নামের শেষাংশ, পদবি"
+
+#. JmDP
+#: dbui.src#SA_ADDRESS_HEADER.4.itemlist.text
+msgid "Company Name"
+msgstr "কোম্পানির নাম"
+
+#. b4Ak
+#: dbui.src#SA_ADDRESS_HEADER.5.itemlist.text
+msgid "Address Line 1"
+msgstr "ঠিকানার লাইন ১"
+
+#. 4gcM
+#: dbui.src#SA_ADDRESS_HEADER.6.itemlist.text
+msgid "Address Line 2"
+msgstr "ঠিকানার লাইন ২"
+
+#. oUXX
+#: dbui.src#SA_ADDRESS_HEADER.7.itemlist.text
+msgid "City"
+msgstr "শহর"
+
+#. Xjsu
+#: dbui.src#SA_ADDRESS_HEADER.8.itemlist.text
+msgid "State"
+msgstr "রাষ্ট্র"
+
+#. NPnF
+#: dbui.src#SA_ADDRESS_HEADER.9.itemlist.text
+msgid "ZIP"
+msgstr "জিপ কোড"
+
+#. TPi2
+#: dbui.src#SA_ADDRESS_HEADER.10.itemlist.text
+msgid "Country"
+msgstr "দেশ"
+
+#. hjhr
+#: dbui.src#SA_ADDRESS_HEADER.11.itemlist.text
+msgid "Telephone private"
+msgstr "ব্যক্তিগত টোলিফোন"
+
+#. A37D
+#: dbui.src#SA_ADDRESS_HEADER.12.itemlist.text
+msgid "Telephone business"
+msgstr "ব্যবসায়িক টেলিফোন"
+
+#. yt0w
+#: dbui.src#SA_ADDRESS_HEADER.13.itemlist.text
+msgid "E-mail Address"
+msgstr "ই-মেইল ঠিকানা"
+
+#. pjwT
+#: dbui.src#SA_ADDRESS_HEADER.14.itemlist.text
+msgid "Gender"
+msgstr "লিঙ্গ"
+
+#. o5fN
+#: dbui.src#STR_NOTASSIGNED.string.text
+msgid " not yet matched "
+msgstr "এখন পর্যন্ত মিলেনি"
+
+#. ixRa
+#: dbui.src#STR_FILTER_ALL.string.text
+msgid "All files (*.*)"
+msgstr "সকল ফাইল (*.*)"
+
+#. reTB
+#: dbui.src#STR_FILTER_ALL_DATA.string.text
+msgid "Address lists(*.*)"
+msgstr "ঠিকানার তালিকা(*.*)"
+
+#. WIH6
+#: dbui.src#STR_FILTER_SXB.string.text
+msgid "%PRODUCTNAME Base (*.odb)"
+msgstr "%PRODUCTNAME বেস (*.odb)"
+
+#. t1VV
+#: dbui.src#STR_FILTER_SXC.string.text
+msgid "%PRODUCTNAME Calc (*.ods;*.sxc)"
+msgstr "%PRODUCTNAME ক্যালক (*.ods;*.sxc)"
+
+#. Liv1
+#: dbui.src#STR_FILTER_DBF.string.text
+msgid "dBase (*.dbf)"
+msgstr "ডিবেস (*.dbf)"
+
+#. 9BD0
+#: dbui.src#STR_FILTER_XLS.string.text
+msgid "Microsoft Excel (*.xls)"
+msgstr "Microsoft Excel  (*.xls)"
+
+#. wgT3
+#: dbui.src#STR_FILTER_TXT.string.text
+msgid "Plain text (*.txt)"
+msgstr "সরল লেখা  (*.txt)"
+
+#. Gw0a
+#: dbui.src#STR_FILTER_CSV.string.text
+msgid "Text Comma Separated (*.csv)"
+msgstr "কমা দ্বারা পৃথক লেখা (*.csv)"
+
+#. _Vo_
+#: dbui.src#STR_FILTER_MDB.string.text
+msgid "Microsoft Access (*.mdb)"
+msgstr "Microsoft এক্সেস (*.mdb)"
+
+#. Sr7T
+#: dbui.src#STR_FILTER_ACCDB.string.text
+msgid "Microsoft Access 2007 (*.accdb)"
+msgstr "Microsoft এক্সেস ২০০৭ (*.accdb)"
+
+#. ejVt
+#: dbui.src#DLG_MM_CREATIONMONITOR.FT_STATUS.fixedtext.text
+msgid "Status:"
+msgstr "অবস্থা:"
+
+#. UC_a
+#: dbui.src#DLG_MM_CREATIONMONITOR.FT_PROGRESS.fixedtext.text
+msgid "Progress:"
+msgstr "অগ্রগতি:"
+
+#. U6uI
+#: dbui.src#DLG_MM_CREATIONMONITOR.FT_CREATEDOCUMENTS.fixedtext.text
+msgid "Creating documents..."
+msgstr "নথি তৈরি হচ্ছে..."
+
+#. SRqk
+#: dbui.src#DLG_MM_CREATIONMONITOR.FT_COUNTING.fixedtext.text
+msgid "%X of %Y"
+msgstr "%Y এর %X"
+
+#. umeQ
+#: dbui.src#DLG_MM_CREATIONMONITOR.modelessdialog.text
+msgid "Mail Merge"
+msgstr "মেইল একত্রীকরণ"
+
+#. 8ghM
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FT_INSERT_DATA.fixedtext.text
+msgid "Insert data as:"
+msgstr "যেভাবে ডাটা সন্নিবেশ করবেন:"
+
+#. VgQB
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_AS_TABLE.radiobutton.text
+msgid "T~able"
+msgstr "সারণি (~a)"
+
+#. TvT7
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_AS_FIELD.radiobutton.text
+msgid "~Fields"
+msgstr "ক্ষেত্র (~F)"
+
+#. WL19
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_AS_TEXT.radiobutton.text
+msgid "~Text"
+msgstr "লেখা (~T)"
+
+#. cSuh
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FT_DB_COLUMN.fixedtext.text
+msgid "Database ~columns"
+msgstr "ডাটাবেস কলাম (~c)"
+
+#. ABbg
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FL_FORMAT.fixedline.text
+msgid "For~mat"
+msgstr "ফরম্যাট (~m)"
+
+#. 98tO
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_DBFMT_FROM_DB.radiobutton.text
+msgid "From ~database"
+msgstr "ডাটাবেস থেকে (~d)"
+
+#. 5qks
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FT_DB_PARA_COLL.fixedtext.text
+msgid "Paragraph ~Style:"
+msgstr "অনুচ্ছেদ শৈলী (~S):"
+
+#. KTI3
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.FT_TABLE_COL.fixedtext.text
+msgid "Tab~le column(s)"
+msgstr "সারণি কলাম (~l)"
+
+#. iNri
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.CB_TABLE_HEADON.checkbox.text
+msgid "Insert table heading"
+msgstr "সারণির শিরোনাম সন্নিবেশ"
+
+#. NREB
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_HEADL_COLNMS.radiobutton.text
+msgid "Apply column ~name"
+msgstr "কলামের নাম প্রয়োগ (~n)"
+
+#. LP7h
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.RB_HEADL_EMPTY.radiobutton.text
+msgid "Create row only"
+msgstr "শুধুমাত্র সারি তৈরি"
+
+#. syvX
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.PB_TBL_FORMAT.pushbutton.text
+msgctxt "dbinsdlg.src#DLG_AP_INSERT_DB_SEL.PB_TBL_FORMAT.pushbutton.text"
+msgid "Pr~operties..."
+msgstr "বৈশিষ্ট্যসমূহ... (~o)"
+
+#. B638
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.PB_TBL_AUTOFMT.pushbutton.text
+msgid "Aut~oFormat..."
+msgstr "স্বয়ংক্রিয়-বিন্যাস... (~o)"
+
+#. HVi3
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.STR_NOTEMPL.string.text
+msgid "<none>"
+msgstr "<কোনটি না>"
+
+#. L1na
+#: dbinsdlg.src#DLG_AP_INSERT_DB_SEL.modaldialog.text
+msgid "Insert Database Columns"
+msgstr "ডাটাবেস কলাম সন্নিবেশ"
+
+#. ZN9Y
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.FI_HEADER.fixedtext.text
+msgid "Select a document type"
+msgstr "নথির ধরন নির্বাচন করুন"
+
+#. h0E4
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.FT_TYPE.fixedtext.text
+msgid "What type of document do you want to create?"
+msgstr "আপনি কি ধরনের নথি তৈরি করতে চান?"
+
+#. t_KR
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.RB_LETTER.radiobutton.text
+msgid "~Letter"
+msgstr "চিঠি (~L)"
+
+#. rpM5
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.RB_MAIL.radiobutton.text
+msgid "~E-mail message"
+msgstr "ই-মেইল বার্তা (~E)"
+
+#. Zlk6
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.ST_LETTERHINTHEADER.string.text
+msgid "Letter:"
+msgstr "চিঠি:"
+
+#. VzdC
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.ST_MAILHINTHEADER.string.text
+msgid "E-Mail Message:"
+msgstr "ই-মেইল বার্তা:"
+
+#. ssuw
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.ST_LETTERHINT.string.text
+msgid ""
+"Send letters to a group of recipients. The letters can contain an address "
+"block and a salutation. The letters can be personalized for each recipient."
+msgstr ""
+"এক গ্রুপ প্রাপকের নিকট চিঠি পাঠান। চিঠির একটি ঠিকানা ব্লক ও অভিবাদন থাকতে পারে। "
+"চিঠিটি প্রত্যেক প্রাপকের নিকট ব্যক্তিগত হতে পারে।"
+
+#. p7a3
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.ST_MAILHINT.string.text
+msgid ""
+"Send e-mail messages to a group of recipients. The e-mail messages can "
+"contain a salutation. The e-mail messages can be personalized for each "
+"recipient."
+msgstr ""
+"এক গ্রুপ প্রাপকের নিকট ই-মেইল বার্তা পাঠান। ই-মেইল বার্তায় অভিবাদন থাকতে পারে। ই-"
+"মেইল বার্তাটি প্রত্যেক প্রাপকের নিকট ব্যক্তিগত হতে পারে।"
+
+#. IRSs
+#: mmoutputtypepage.src#DLG_MM_OUTPUTTYPE_PAGE.FT_NOMAILHINT.fixedtext.text
+msgid ""
+"%PRODUCTNAME was unable to find a Java Mail connection. In order to send e-"
+"mail with %PRODUCTNAME, you need to install the latest version of Java Mail. "
+"You can find further information about Java Mail on the internet at 'http://"
+"java.sun.com/products/javamail/'."
+msgstr ""
+"%PRODUCTNAME, Java মেইল সংযোগ খুঁজতে সমর্থ ছিল না। %PRODUCTNAME দিয়ে ই-মেইল "
+"পাঠাতে, আপনাকে Java মেইলের সর্বশেষ সংস্করণ ইনস্টল করতে হবে।  আপনি ইন্টারনেটের "
+"'http://java.sun.com/products/javamail/' ঠিকানায়, Java মেইল সম্পর্কিত আরও তথ্য "
+"খুঁজে পাবেন।"

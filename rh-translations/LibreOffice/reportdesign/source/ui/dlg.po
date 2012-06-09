@@ -1,0 +1,663 @@
+#. extracted from reportdesign/source/ui/dlg.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+reportdesign%2Fsource%2Fui%2Fdlg.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2011-04-05 10:46+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. Vdi6
+#: GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR2.fixedline.text
+msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR2.fixedline.text"
+msgid "Groups"
+msgstr "গ্রুপ"
+
+#. XKVc
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_MOVELABEL.fixedtext.text
+msgid "Group actions"
+msgstr "গ্রুপ অনুসারে কাজ"
+
+#. vXiO
+#: GroupsSorting.src#RID_GROUPS_SORTING.TB_TOOLBOX.SID_RPT_GROUPSORT_MOVE_UP.toolboxitem.text
+msgid "Move up"
+msgstr "উপরে সরানো"
+
+#. HBzl
+#: GroupsSorting.src#RID_GROUPS_SORTING.TB_TOOLBOX.SID_RPT_GROUPSORT_MOVE_DOWN.toolboxitem.text
+msgid "Move down"
+msgstr "নিচে সরানো"
+
+#. m0Hp
+#: GroupsSorting.src#RID_GROUPS_SORTING.TB_TOOLBOX.SID_RPT_GROUPSORT_DELETE.toolboxitem.text
+msgid "~Delete"
+msgstr "মুছে ফেলা (~D)"
+
+#. uBZk
+#: GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR3.fixedline.text
+msgid "Properties"
+msgstr "বৈশিষ্ট্যাবলী"
+
+#. uT1E
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_ORDER.fixedtext.text
+msgid "Sorting"
+msgstr "সাজানো"
+
+#. rl3O
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_ORDER.1.stringlist.text
+msgid "Ascending"
+msgstr "আরোহী"
+
+#. PJwg
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_ORDER.2.stringlist.text
+msgid "Descending"
+msgstr "অবরোহী"
+
+#. U_M#
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_HEADER.fixedtext.text
+msgid "Group Header"
+msgstr "গ্রুপের শীর্ষচরণ"
+
+#. sWVA
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.1.stringlist.text
+msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.1.stringlist.text"
+msgid "Present"
+msgstr "উপস্থিত"
+
+#. QScu
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.2.stringlist.text
+msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.LST_HEADERLST.2.stringlist.text"
+msgid "Not present"
+msgstr "অনুপস্থিত"
+
+#. fvDD
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_FOOTER.fixedtext.text
+msgid "Group Footer"
+msgstr "গ্রুপের পাদচরণ"
+
+#. 1kRm
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.1.stringlist.text
+msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.1.stringlist.text"
+msgid "Present"
+msgstr "উপস্থিত"
+
+#. jIY2
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.2.stringlist.text
+msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.LST_FOOTERLST.2.stringlist.text"
+msgid "Not present"
+msgstr "অনুপস্থিত"
+
+#. sLUo
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_GROUPON.fixedtext.text
+msgid "Group On"
+msgstr "গ্রুপ করা হবে"
+
+#. 4U7I
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_GROUPONLST.1.stringlist.text
+msgid "Each Value"
+msgstr "প্রত্যেক মান"
+
+#. 2ODY
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_GROUPINTERVAL.fixedtext.text
+msgid "Group Interval"
+msgstr "গ্রুপ ব্যবধান"
+
+#. O8u2
+#: GroupsSorting.src#RID_GROUPS_SORTING.FT_KEEPTOGETHER.fixedtext.text
+msgid "Keep Together"
+msgstr "একত্রে রাখা"
+
+#. wjnm
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_KEEPTOGETHERLST.1.stringlist.text
+msgid "No"
+msgstr "না"
+
+#. MH82
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_KEEPTOGETHERLST.2.stringlist.text
+msgid "Whole Group"
+msgstr "পুরো গ্রুপ"
+
+#. RK3p
+#: GroupsSorting.src#RID_GROUPS_SORTING.LST_KEEPTOGETHERLST.3.stringlist.text
+msgid "With First Detail"
+msgstr "প্রথম বর্ণনাসহ"
+
+#. DXOV
+#: GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR1.fixedline.text
+msgctxt "GroupsSorting.src#RID_GROUPS_SORTING.FL_SEPARATOR1.fixedline.text"
+msgid "Help"
+msgstr "সহায়তা"
+
+#. qWZe
+#: GroupsSorting.src#RID_GROUPS_SORTING.floatingwindow.text
+msgid "Sorting and Grouping"
+msgstr "সাজানো ও গ্রুপ করা হচ্ছে"
+
+#. _AcY
+#: GroupsSorting.src#STR_RPT_EXPRESSION.string.text
+msgid "Field/Expression"
+msgstr "ক্ষেত্র/এক্সপ্রেশন"
+
+#. 5Z4L
+#: GroupsSorting.src#STR_RPT_SORTING.string.text
+msgid "Sort Order"
+msgstr "সাজানোর ক্রম"
+
+#. MCKP
+#: GroupsSorting.src#STR_RPT_PREFIXCHARS.string.text
+msgid "Prefix Characters"
+msgstr "উপসর্গের অক্ষর"
+
+#. f4WF
+#: GroupsSorting.src#STR_RPT_YEAR.string.text
+msgid "Year"
+msgstr "বছর"
+
+#. 9ac4
+#: GroupsSorting.src#STR_RPT_QUARTER.string.text
+msgid "Quarter"
+msgstr "ত্রৈমাসিক"
+
+#. Hx5m
+#: GroupsSorting.src#STR_RPT_MONTH.string.text
+msgid "Month"
+msgstr "মাস"
+
+#. vUPz
+#: GroupsSorting.src#STR_RPT_WEEK.string.text
+msgid "Week"
+msgstr "সপ্তাহ"
+
+#. l1Hz
+#: GroupsSorting.src#STR_RPT_DAY.string.text
+msgid "Day"
+msgstr "দিন"
+
+#. Ur3J
+#: GroupsSorting.src#STR_RPT_HOUR.string.text
+msgid "Hour"
+msgstr "ঘন্টা"
+
+#. f3tO
+#: GroupsSorting.src#STR_RPT_MINUTE.string.text
+msgid "Minute"
+msgstr "মিনিট"
+
+#. LD1f
+#: GroupsSorting.src#STR_RPT_INTERVAL.string.text
+msgid "Interval"
+msgstr "বিরতি"
+
+#. ueTY
+#: GroupsSorting.src#STR_RPT_HELP_FIELD.string.text
+msgid "Select a field or type an expression to sort or group on."
+msgstr ""
+"সাজাতে বা গ্রুপভুক্ত করতে একটি ক্ষেত্র নির্বাচন করুন অথবা কোনো এক্সপ্রেশন টাইপ করুন।"
+
+#. CPo5
+#: GroupsSorting.src#STR_RPT_HELP_HEADER.string.text
+msgid "Display a header for this group?"
+msgstr "এই গ্রুপের জন্য শীর্ষচরণ প্রদর্শন করা হবে কি?"
+
+#. cG6#
+#: GroupsSorting.src#STR_RPT_HELP_FOOTER.string.text
+msgid "Display a footer for this group?"
+msgstr "এই গ্রুপের জন্য পাদচরণ প্রদর্শন করা হবে কি?"
+
+#. EQxQ
+#: GroupsSorting.src#STR_RPT_HELP_GROUPON.string.text
+msgid "Select the value or range of values that starts a new group."
+msgstr "নতুন গ্রুপ শুরু করে এমন মান বা মানের পরিসর নির্বাচন করুন।"
+
+#. JhYt
+#: GroupsSorting.src#STR_RPT_HELP_INTERVAL.string.text
+msgid "Interval or number of characters to group on."
+msgstr "গ্রুপবদ্ধ করার ব্যবধান বা মোট অক্ষর।"
+
+#. IkSw
+#: GroupsSorting.src#STR_RPT_HELP_KEEP.string.text
+msgid "Keep group together on one page?"
+msgstr "গ্রুপগুলো এক পৃষ্ঠায় একত্রে রাখা হবে কি?"
+
+#. fGcc
+#: GroupsSorting.src#STR_RPT_HELP_SORT.string.text
+msgid ""
+"Select ascending or descending sort order. Ascending means from A to Z or 0 "
+"to 9"
+msgstr ""
+"আরোহী বা অবরোহী ক্রমবিন্যাস নির্বাচন করুন। আরোহী মানে A থেকে Z পর্যন্ত বা ০ থেকে ৯ "
+"পর্যন্ত"
+
+#. wZey
+#: CondFormat.src#WIN_CONDITION.LB_COND_TYPE.1.stringlist.text
+msgid "Field Value Is"
+msgstr "ক্ষেত্রের মান হলো"
+
+#. MVHE
+#: CondFormat.src#WIN_CONDITION.LB_COND_TYPE.2.stringlist.text
+msgid "Expression Is"
+msgstr "এক্সপ্রেশন হলো"
+
+#. USVF
+#: CondFormat.src#WIN_CONDITION.LB_OP.1.stringlist.text
+msgid "between"
+msgstr "মধ্যবর্তী"
+
+#. oWcz
+#: CondFormat.src#WIN_CONDITION.LB_OP.2.stringlist.text
+msgid "not between"
+msgstr "মধ্যবর্তী নয়"
+
+#. _bjC
+#: CondFormat.src#WIN_CONDITION.LB_OP.3.stringlist.text
+msgid "equal to"
+msgstr "সমান"
+
+#. Hgnv
+#: CondFormat.src#WIN_CONDITION.LB_OP.4.stringlist.text
+msgid "not equal to"
+msgstr "সমান নয়"
+
+#. Slw8
+#: CondFormat.src#WIN_CONDITION.LB_OP.5.stringlist.text
+msgid "greater than"
+msgstr "অপেক্ষাকৃত বড়"
+
+#. mJ3w
+#: CondFormat.src#WIN_CONDITION.LB_OP.6.stringlist.text
+msgid "less than"
+msgstr "অপেক্ষাকৃত ছোট"
+
+#. zM8B
+#: CondFormat.src#WIN_CONDITION.LB_OP.7.stringlist.text
+msgid "greater than or equal to"
+msgstr "অপেক্ষাকৃত বড় বা সমান"
+
+#. N_Vn
+#: CondFormat.src#WIN_CONDITION.LB_OP.8.stringlist.text
+msgid "less than or equal to"
+msgstr "অপেক্ষাকৃত ছোট বা সমান"
+
+#. BHqy
+#: CondFormat.src#WIN_CONDITION.FT_AND.fixedtext.text
+msgid "and"
+msgstr "এবং"
+
+#. CvRh
+#: CondFormat.src#WIN_CONDITION.CRTL_FORMAT_PREVIEW.window.text
+msgid "Example"
+msgstr "উদাহরণ"
+
+#. r45g
+#: CondFormat.src#RID_CONDFORMAT.PB_HELP.helpbutton.text
+msgctxt "CondFormat.src#RID_CONDFORMAT.PB_HELP.helpbutton.text"
+msgid "~Help"
+msgstr "সহায়তা (~H)"
+
+#. IN0V
+#: CondFormat.src#RID_CONDFORMAT.modaldialog.text
+msgid "Conditional Formatting"
+msgstr "শর্তাধীন বিন্যাস"
+
+#. TmB0
+#: CondFormat.src#STR_NUMBERED_CONDITION.string.text
+msgid "Condition $number$"
+msgstr "শর্ত $number$"
+
+#. tu9u
+#: CondFormat.src#STR_COLOR_WHITE.string.text
+msgid "White"
+msgstr "সাদা"
+
+#. xaoW
+#: CondFormat.src#STR_CHARCOLOR.string.text
+msgid "Font color"
+msgstr "ফন্টের রং"
+
+#. Dm6k
+#: CondFormat.src#STR_CHARBACKGROUND.string.text
+msgctxt "CondFormat.src#STR_CHARBACKGROUND.string.text"
+msgid "Background"
+msgstr "পটভূমি"
+
+#. 7dQ4
+#: CondFormat.src#STR_TRANSPARENT.string.text
+msgid "No Fill"
+msgstr "কোন ভরাট নয়"
+
+#. amwc
+#: CondFormat.src#RID_TB_SORTING.SID_FM_SORTUP.toolboxitem.text
+msgid "Sort Ascending"
+msgstr "আরোহী ক্রমানুসারে সাজানো"
+
+#. S2vQ
+#: CondFormat.src#RID_TB_SORTING.SID_FM_SORTDOWN.toolboxitem.text
+msgid "Sort Descending"
+msgstr "অবরোহী ক্রমানুসারে সাজানো"
+
+#. 2ty2
+#: CondFormat.src#RID_TB_SORTING.SID_FM_REMOVE_FILTER_SORT.toolboxitem.text
+msgid "Remove sorting"
+msgstr "ক্রমানুসারে সাজানো অপসারণ"
+
+#. UIGU
+#: CondFormat.src#RID_TB_SORTING.SID_ADD_CONTROL_PAIR.toolboxitem.text
+msgid "Insert"
+msgstr "সন্নিবেশ"
+
+#. Q48S
+#: CondFormat.src#ADDFIELD_FL_HELP_SEPARATOR.fixedline.text
+msgctxt "CondFormat.src#ADDFIELD_FL_HELP_SEPARATOR.fixedline.text"
+msgid "Help"
+msgstr "সহায়তা"
+
+#. xGkU
+#: CondFormat.src#ADDFIELD_HELP_FIELD.fixedtext.text
+msgid ""
+"Highlight the fields to insert into the selected section of the template, "
+"then click Insert or press Enter."
+msgstr ""
+"ফর্মার নির্বাচিত সেকশনে যে ক্ষেত্রসমূহ সন্নিবেশ করতে হবে তা হাইলাইট করা হবে, অতঃপর "
+"\"সন্নিবেশ\" ক্লিক করুন বা Enter চাপুন।"
+
+#. EEFw
+#: Navigator.src#RID_NAVIGATOR.floatingwindow.text
+msgid "Report navigator"
+msgstr "রিপোর্ট ন্যাভিগেটর"
+
+#. w4Tk
+#: Navigator.src#RID_STR_FUNCTIONS.string.text
+msgid "Functions"
+msgstr "ফাংশন"
+
+#. nwc6
+#: Navigator.src#RID_STR_GROUPS.string.text
+msgctxt "Navigator.src#RID_STR_GROUPS.string.text"
+msgid "Groups"
+msgstr "গ্রুপ"
+
+#. tIzI
+#: Navigator.src#RID_MENU_NAVIGATOR.SID_SORTINGANDGROUPING.menuitem.text
+msgid "Sorting and Grouping..."
+msgstr "সাজানো ও গ্রুপ করা হচ্ছে..."
+
+#. xaZq
+#: Navigator.src#RID_MENU_NAVIGATOR.SID_PAGEHEADERFOOTER.menuitem.text
+msgid "Page Header/Footer..."
+msgstr "পৃষ্ঠা শীর্ষচরণ/পাদচরণ..."
+
+#. L#ck
+#: Navigator.src#RID_MENU_NAVIGATOR.SID_REPORTHEADERFOOTER.menuitem.text
+msgid "Report Header/Footer..."
+msgstr "প্রতিবেদন শীর্ষচরণ/পাদচরণ..."
+
+#. htI8
+#: Navigator.src#RID_MENU_NAVIGATOR.SID_RPT_NEW_FUNCTION.menuitem.text
+msgid "New Function"
+msgstr "নতুন ফাংশন"
+
+#. 3IJj
+#: Navigator.src#RID_MENU_NAVIGATOR.SID_SHOW_PROPERTYBROWSER.menuitem.text
+msgid "Properties..."
+msgstr "বৈশিষ্ট্যাবলী..."
+
+#. CH6m
+#: DateTime.src#RID_DATETIME_DLG.CB_DATE.checkbox.text
+msgid "Include Date"
+msgstr "তারিখ অন্তর্ভুক্ত"
+
+#. AUvu
+#: DateTime.src#RID_DATETIME_DLG.FT_DATE_FORMAT.fixedtext.text
+msgctxt "DateTime.src#RID_DATETIME_DLG.FT_DATE_FORMAT.fixedtext.text"
+msgid "Format"
+msgstr "বিন্যাস"
+
+#. vhax
+#: DateTime.src#RID_DATETIME_DLG.CB_TIME.checkbox.text
+msgid "Include Time"
+msgstr "সময় অন্তর্ভুক্ত"
+
+#. thCn
+#: DateTime.src#RID_DATETIME_DLG.FT_TIME_FORMAT.fixedtext.text
+msgctxt "DateTime.src#RID_DATETIME_DLG.FT_TIME_FORMAT.fixedtext.text"
+msgid "Format"
+msgstr "বিন্যাস"
+
+#. PEET
+#: DateTime.src#RID_DATETIME_DLG.PB_HELP.helpbutton.text
+msgctxt "DateTime.src#RID_DATETIME_DLG.PB_HELP.helpbutton.text"
+msgid "~Help"
+msgstr "সহায়তা (~H)"
+
+#. C_wI
+#: DateTime.src#RID_DATETIME_DLG.modaldialog.text
+msgid "Date and Time"
+msgstr "তারিখ ও সময়"
+
+#. ihio
+#: PageNumber.src#RID_PAGENUMBERS.FL_FORMAT.fixedline.text
+msgctxt "PageNumber.src#RID_PAGENUMBERS.FL_FORMAT.fixedline.text"
+msgid "Format"
+msgstr "বিন্যাস"
+
+#. 0Dvq
+#: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_N.radiobutton.text
+msgid "Page N"
+msgstr "পৃষ্ঠা N"
+
+#. z061
+#: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_N_OF_M.radiobutton.text
+msgid "Page N of M"
+msgstr "পৃষ্ঠা M এর N"
+
+#. XI5m
+#: PageNumber.src#RID_PAGENUMBERS.FL_POSITION.fixedline.text
+msgctxt "PageNumber.src#RID_PAGENUMBERS.FL_POSITION.fixedline.text"
+msgid "Position"
+msgstr "অবস্থান"
+
+#. w_gO
+#: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_TOPPAGE.radiobutton.text
+msgid "Top of Page (Header)"
+msgstr "পৃষ্ঠার উপরে (শীর্ষচরণ)"
+
+#. tYnx
+#: PageNumber.src#RID_PAGENUMBERS.RB_PAGE_BOTTOMPAGE.radiobutton.text
+msgid "Bottom of Page (Footer)"
+msgstr "পৃষ্ঠার নিচে (পাদচরণ)"
+
+#. YG7c
+#: PageNumber.src#RID_PAGENUMBERS.FL_MISC.fixedline.text
+msgid "General"
+msgstr "সাধারণ"
+
+#. LxH5
+#: PageNumber.src#RID_PAGENUMBERS.FL_ALIGNMENT.fixedtext.text
+msgid "Alignment:"
+msgstr "প্রান্তিককরণ:"
+
+#. 7S5R
+#: PageNumber.src#RID_PAGENUMBERS.LST_ALIGNMENT.1.stringlist.text
+msgid "Left"
+msgstr "বাম"
+
+#. hWyf
+#: PageNumber.src#RID_PAGENUMBERS.LST_ALIGNMENT.2.stringlist.text
+msgid "Center"
+msgstr "কেন্দ্র"
+
+#. cbtO
+#: PageNumber.src#RID_PAGENUMBERS.LST_ALIGNMENT.3.stringlist.text
+msgid "Right"
+msgstr "ডান"
+
+#. aXWA
+#: PageNumber.src#RID_PAGENUMBERS.CB_SHOWNUMBERONFIRSTPAGE.checkbox.text
+msgid "Show Number on First Page"
+msgstr "প্রথম পৃষ্ঠায় নম্বর প্রদর্শন করা হবে"
+
+#. Meue
+#: PageNumber.src#RID_PAGENUMBERS.PB_HELP.helpbutton.text
+msgctxt "PageNumber.src#RID_PAGENUMBERS.PB_HELP.helpbutton.text"
+msgid "~Help"
+msgstr "সহায়তা (~H)"
+
+#. F05E
+#: PageNumber.src#RID_PAGENUMBERS.modaldialog.text
+msgid "Page Numbers"
+msgstr "পৃষ্ঠা নম্বর"
+
+#. EQ3r
+#: PageNumber.src#STR_RPT_PN_PAGE.string.text
+msgid "\"Page \" & #PAGENUMBER#"
+msgstr "\"পৃষ্ঠা \" & #PAGENUMBER#"
+
+#. wte1
+#: PageNumber.src#STR_RPT_PN_PAGE_OF.string.text
+msgid " & \" of \" & #PAGECOUNT#"
+msgstr "& #PAGECOUNT#  \" এর \" &"
+
+#. BtAP
+#: dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_PAGE.pageitem.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_PAGE.pageitem.text"
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#. iXO3
+#: dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_BACKGROUND.pageitem.text
+msgctxt ""
+"dlgpage.src#RID_PAGEDIALOG_PAGE.1.RID_SVXPAGE_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "পটভূমি"
+
+#. _7nx
+#: dlgpage.src#RID_PAGEDIALOG_PAGE.1.pushbutton.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_PAGE.1.pushbutton.text"
+msgid "Return"
+msgstr "ফিরিয়ে আনুন"
+
+#. sDse
+#: dlgpage.src#RID_PAGEDIALOG_PAGE.1.string.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_PAGE.1.string.text"
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#. Fua3
+#: dlgpage.src#RID_PAGEDIALOG_PAGE.2.string.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_PAGE.2.string.text"
+msgid "Background"
+msgstr "পটভূমি"
+
+#. Uusq
+#: dlgpage.src#RID_PAGEDIALOG_PAGE.tabdialog.text
+msgid "Page Setup"
+msgstr "পৃষ্ঠা সেটআপ"
+
+#. Vxe4
+#: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.pushbutton.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.pushbutton.text"
+msgid "Return"
+msgstr "ফিরিয়ে আনুন"
+
+#. rJSq
+#: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.string.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_BACKGROUND.1.string.text"
+msgid "Background"
+msgstr "পটভূমি"
+
+#. XIWB
+#: dlgpage.src#RID_PAGEDIALOG_BACKGROUND.tabdialog.text
+msgid "Section Setup"
+msgstr "সেকশন সেটআপ"
+
+#. nLr0
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_CHAR.pageitem.text
+msgid "Font"
+msgstr "ফন্ট"
+
+#. yGLY
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_EFFECTS.pageitem.text
+msgid "Font Effects"
+msgstr "ফন্টের আবহ"
+
+#. NoE8
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_POSITION.pageitem.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_POSITION.pageitem.text"
+msgid "Position"
+msgstr "অবস্থান"
+
+#. Rjrj
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_TWOLN.pageitem.text
+msgid "Asian Layout"
+msgstr "এশীয় বহির্বিন্যাস"
+
+#. AKZe
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_BACKGROUND.pageitem.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "পটভূমি"
+
+#. jaIY
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.RID_PAGE_ALIGNMENT.pageitem.text
+msgid "Alignment"
+msgstr "প্রান্তিককরণ"
+
+#. hM5c
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.pushbutton.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_CHAR.1.pushbutton.text"
+msgid "Return"
+msgstr "ফিরিয়ে আনুন"
+
+#. U#Pv
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.1.string.text
+msgid "Character"
+msgstr "অক্ষর"
+
+#. WOnB
+#: dlgpage.src#RID_PAGEDIALOG_CHAR.tabdialog.text
+msgid "Character Settings"
+msgstr "অক্ষর সেটিংসমূহ"
+
+#. jGm6
+#: dlgpage.src#RID_PAGEDIALOG_LINE.1.RID_SVXPAGE_LINE.pageitem.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_LINE.1.RID_SVXPAGE_LINE.pageitem.text"
+msgid "Line"
+msgstr "লাইন"
+
+#. kbhX
+#: dlgpage.src#RID_PAGEDIALOG_LINE.1.RID_SVXPAGE_LINE_DEF.pageitem.text
+msgid "Line Styles"
+msgstr "লাইন শৈলী"
+
+#. 4J9p
+#: dlgpage.src#RID_PAGEDIALOG_LINE.1.RID_SVXPAGE_LINEEND_DEF.pageitem.text
+msgid "Arrow Styles"
+msgstr "তীর শৈলী"
+
+#. JAh6
+#: dlgpage.src#RID_PAGEDIALOG_LINE.1.pushbutton.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_LINE.1.pushbutton.text"
+msgid "Return"
+msgstr "ফিরিয়ে আনুন"
+
+#. Zbko
+#: dlgpage.src#RID_PAGEDIALOG_LINE.1.string.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_LINE.1.string.text"
+msgid "Line"
+msgstr "লাইন"
+
+#. dJyQ
+#: dlgpage.src#RID_PAGEDIALOG_LINE.tabdialog.text
+msgctxt "dlgpage.src#RID_PAGEDIALOG_LINE.tabdialog.text"
+msgid "Line"
+msgstr "লাইন"

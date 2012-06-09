@@ -1,0 +1,265 @@
+#. extracted from sw/source/ui/fmtui.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Ffmtui.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:41+0200\n"
+"PO-Revision-Date: 2011-04-05 10:52+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. Hzux
+#: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_STD.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_STD.pageitem.text"
+msgid "Font"
+msgstr "ফন্ট"
+
+#. Ampx
+#: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_EXT.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_EXT.pageitem.text"
+msgid "Font Effects"
+msgstr "ফন্টের আবহ"
+
+#. 5fPc
+#: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_POS.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_POS.pageitem.text"
+msgid "Position"
+msgstr "অবস্থান"
+
+#. mytP
+#: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_TWOLN.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_TWOLN.pageitem.text"
+msgid "Asian Layout"
+msgstr "এশিয় বহির্বিন্যাস"
+
+#. AaOq
+#: tmpdlg.src#DLG_TEMPLATE_1.1.TP_BACKGROUND.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "প্রেক্ষাপট"
+
+#. 40fV
+#: tmpdlg.src#DLG_TEMPLATE_1.tabdialog.text
+msgid "Character Style"
+msgstr "অক্ষর শৈলী"
+
+#. ylY1
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_STD.pageitem.text
+msgid "Indents & Spacing"
+msgstr "ইন্ডেন্ট এবং স্পেসিং"
+
+#. hrGe
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_ALIGN.pageitem.text
+msgid "Alignment"
+msgstr "প্রান্তিককরণ"
+
+#. dYf1
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_EXT.pageitem.text
+msgid "Text Flow"
+msgstr "লেখ প্রবাহ"
+
+#. YLEa
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_ASIAN.pageitem.text
+msgid "Asian Typography"
+msgstr "এশীয় মুদ্রণশৈলী"
+
+#. Cbrp
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_STD.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_STD.pageitem.text"
+msgid "Font"
+msgstr "ফন্ট"
+
+#. Ne#p
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_EXT.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_EXT.pageitem.text"
+msgid "Font Effects"
+msgstr "ফন্টের আবহ"
+
+#. OnKk
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_POS.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_POS.pageitem.text"
+msgid "Position"
+msgstr "অবস্থান"
+
+#. xZsR
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_TWOLN.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_TWOLN.pageitem.text"
+msgid "Asian Layout"
+msgstr "এশিয় বহির্বিন্যাস"
+
+#. 4lEA
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_NUMPARA.pageitem.text
+msgid "Outline & Numbering"
+msgstr "রূপরেখা এবং সংখ্যায়ন"
+
+#. wfVV
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_TABULATOR.pageitem.text
+msgid "Tabs"
+msgstr "ট্যাব"
+
+#. BKzu
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_DROPCAPS.pageitem.text
+msgid "Drop Caps"
+msgstr "ড্রপ ক্যাপ"
+
+#. 1xPs
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_BACKGROUND.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "প্রেক্ষাপট"
+
+#. 96CR
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_BORDER.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_BORDER.pageitem.text"
+msgid "Borders"
+msgstr "সীমানা"
+
+#. Gebh
+#: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CONDCOLL.pageitem.text
+msgid "Condition"
+msgstr "শর্ত"
+
+#. M6T6
+#: tmpdlg.src#DLG_TEMPLATE_2.tabdialog.text
+msgid "Paragraph Style"
+msgstr "অনুচ্ছেদ শৈলী"
+
+#. N5Ro
+#: tmpdlg.src#DLG_TEMPLATE_4.1.TP_BACKGROUND.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_4.1.TP_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "প্রেক্ষাপট"
+
+#. oArr
+#: tmpdlg.src#DLG_TEMPLATE_4.tabdialog.text
+msgid "Page Style"
+msgstr "পৃষ্ঠা শৈলী"
+
+#. yiW6
+#: tmpdlg.src#STR_PAGE_STD.string.text
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#. FzRv
+#: tmpdlg.src#STR_PAGE_BORDER.string.text
+msgctxt "tmpdlg.src#STR_PAGE_BORDER.string.text"
+msgid "Borders"
+msgstr "সীমানা"
+
+#. gpsn
+#: tmpdlg.src#STR_PAGE_HEADER.string.text
+msgid "Header"
+msgstr "শীর্ষচরণ"
+
+#. 0w2A
+#: tmpdlg.src#STR_PAGE_FOOTER.string.text
+msgid "Footer"
+msgstr "পাদচরণ"
+
+#. vE4P
+#: tmpdlg.src#STR_PAGE_TEXTGRID.string.text
+msgid "Text Grid"
+msgstr "লেখার গ্রিড"
+
+#. ygVp
+#: tmpdlg.src#STR_PAGE_COLUMN.string.text
+msgctxt "tmpdlg.src#STR_PAGE_COLUMN.string.text"
+msgid "Columns"
+msgstr "কলাম"
+
+#. wXNO
+#: tmpdlg.src#STR_PAGE_FOOTNOTE.string.text
+msgid "Footnote"
+msgstr "পাদটীকা"
+
+#. 4ua9
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_STD.pageitem.text
+msgid "Type"
+msgstr "ধরন"
+
+#. fKFT
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_ADD.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_ADD.pageitem.text"
+msgid "Options"
+msgstr "অপশন"
+
+#. eBVb
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_WRAP.pageitem.text
+msgid "Wrap"
+msgstr "মোড়ান"
+
+#. unct
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_BACKGROUND.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "প্রেক্ষাপট"
+
+#. g9m_
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_BORDER.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_BORDER.pageitem.text"
+msgid "Borders"
+msgstr "সীমানা"
+
+#. CRss
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_COLUMN.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_COLUMN.pageitem.text"
+msgid "Columns"
+msgstr "কলাম"
+
+#. _uXk
+#: tmpdlg.src#DLG_TEMPLATE_3.1.TP_MACRO_ASSIGN.pageitem.text
+msgid "Macro"
+msgstr "ম্যাক্রো"
+
+#. ngIk
+#: tmpdlg.src#DLG_TEMPLATE_3.tabdialog.text
+msgid "Frame Style"
+msgstr "ফ্রেম শৈলী"
+
+#. jU71
+#: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_BULLET.pageitem.text
+msgid "Bullets"
+msgstr "বুলেট"
+
+#. ZQUf
+#: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text"
+msgid "Numbering Style"
+msgstr "সংখ্যায়ন শৈলী"
+
+#. 7ZAI
+#: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_NUM.pageitem.text
+msgid "Outline"
+msgstr "রূপরেখা"
+
+#. WhET
+#: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_BMP.pageitem.text
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. zSKS
+#: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_POSITION.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_POSITION.pageitem.text"
+msgid "Position"
+msgstr "অবস্থান"
+
+#. rMGY
+#: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text"
+msgid "Options"
+msgstr "অপশন"
+
+#. LcwT
+#: tmpdlg.src#DLG_TEMPLATE_5.tabdialog.text
+msgctxt "tmpdlg.src#DLG_TEMPLATE_5.tabdialog.text"
+msgid "Numbering Style"
+msgstr "সংখ্যায়ন শৈলী"

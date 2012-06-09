@@ -1,0 +1,2602 @@
+#. extracted from sw/source/ui/utlui.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Futlui.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:41+0200\n"
+"PO-Revision-Date: 2011-06-21 13:19+0600\n"
+"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: bn_BD\n"
+
+#. #Z45
+#: navipi.src#DLG_NAVIGATION_PI.window.text
+msgid "Navigator"
+msgstr "ন্যাভিগেটর"
+
+#. _qN5
+#: navipi.src#TB_CONTENT.FN_GLOBAL_SWITCH.toolboxitem.text
+msgctxt "navipi.src#TB_CONTENT.FN_GLOBAL_SWITCH.toolboxitem.text"
+msgid "Toggle"
+msgstr "টগল"
+
+#. Y4EZ
+#: navipi.src#TB_CONTENT.FN_CREATE_NAVIGATION.toolboxitem.text
+msgid "Navigation"
+msgstr "ন্যাভিগেটর"
+
+#. 9s5I
+#: navipi.src#TB_CONTENT.FN_UP.toolboxitem.text
+msgid "Back"
+msgstr "পিছনে"
+
+#. O8Wk
+#: navipi.src#TB_CONTENT.FN_DOWN.toolboxitem.text
+msgid "Forward"
+msgstr "সামনে"
+
+#. 6abi
+#: navipi.src#TB_CONTENT.FN_DROP_REGION.toolboxitem.text
+msgctxt "navipi.src#TB_CONTENT.FN_DROP_REGION.toolboxitem.text"
+msgid "Drag Mode"
+msgstr "টানার মোড"
+
+#. 9C4C
+#: navipi.src#TB_CONTENT.FN_ITEM_UP.toolboxitem.text
+msgid "Promote Chapter"
+msgstr "অধ্যায় উন্নীত করা"
+
+#. DK0h
+#: navipi.src#TB_CONTENT.FN_ITEM_DOWN.toolboxitem.text
+msgid "Demote Chapter"
+msgstr "অধ্যায় অবনত করা"
+
+#. HCRu
+#: navipi.src#TB_CONTENT.FN_SHOW_CONTENT_BOX.toolboxitem.text
+msgid "List Box On/Off"
+msgstr "তালিকা বাক্স চালু/বন্ধ"
+
+#. kujt
+#: navipi.src#TB_CONTENT.FN_SHOW_ROOT.toolboxitem.text
+msgctxt "navipi.src#TB_CONTENT.FN_SHOW_ROOT.toolboxitem.text"
+msgid "Content View"
+msgstr "বিষয়বস্তুর প্রদর্শন"
+
+#. XLg3
+#: navipi.src#TB_CONTENT.FN_SELECT_SET_AUTO_BOOKMARK.toolboxitem.text
+msgid "Set Reminder"
+msgstr "স্মারক নির্ধারণ"
+
+#. Qgja
+#: navipi.src#TB_CONTENT.FN_SELECT_HEADER.toolboxitem.text
+msgctxt "navipi.src#TB_CONTENT.FN_SELECT_HEADER.toolboxitem.text"
+msgid "Header"
+msgstr "শীর্ষচরণ"
+
+#. T1As
+#: navipi.src#TB_CONTENT.FN_SELECT_FOOTER.toolboxitem.text
+msgctxt "navipi.src#TB_CONTENT.FN_SELECT_FOOTER.toolboxitem.text"
+msgid "Footer"
+msgstr "পাদচরণ"
+
+#. z3lI
+#: navipi.src#TB_CONTENT.FN_SELECT_FOOTNOTE.toolboxitem.text
+msgid "Anchor<->Text"
+msgstr "নোঙ্গর<-> লেখা"
+
+#. Koqf
+#: navipi.src#TB_CONTENT.FN_OUTLINE_LEVEL.toolboxitem.text
+msgid "Heading Levels Shown"
+msgstr "শিরোনাম স্তর প্রদর্শিত"
+
+#. QHjR
+#: navipi.src#TB_CONTENT.FN_ITEM_LEFT.toolboxitem.text
+msgid "Promote Level"
+msgstr "স্তর উন্নীত"
+
+#. Dpvz
+#: navipi.src#TB_CONTENT.FN_ITEM_RIGHT.toolboxitem.text
+msgid "Demote Level"
+msgstr "স্তর অবনত করা"
+
+#. FLk6
+#: navipi.src#TB_GLOBAL.FN_GLOBAL_SWITCH.toolboxitem.text
+msgctxt "navipi.src#TB_GLOBAL.FN_GLOBAL_SWITCH.toolboxitem.text"
+msgid "Toggle"
+msgstr "টগল"
+
+#. 3ujf
+#: navipi.src#TB_GLOBAL.FN_GLOBAL_EDIT.toolboxitem.text
+msgctxt "navipi.src#TB_GLOBAL.FN_GLOBAL_EDIT.toolboxitem.text"
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#. x764
+#: navipi.src#TB_GLOBAL.FN_GLOBAL_UPDATE.toolboxitem.text
+msgid "Update"
+msgstr "হালনাগাদ"
+
+#. zEh4
+#: navipi.src#TB_GLOBAL.FN_GLOBAL_OPEN.toolboxitem.text
+msgctxt "navipi.src#TB_GLOBAL.FN_GLOBAL_OPEN.toolboxitem.text"
+msgid "Insert"
+msgstr "সন্নিবেশ"
+
+#. yVUR
+#: navipi.src#TB_GLOBAL.FN_GLOBAL_SAVE_CONTENT.toolboxitem.text
+msgid "Save Contents as well"
+msgstr "বিষয়বস্তুও সংরক্ষণ করুন"
+
+#. 4b1R
+#: navipi.src#TB_GLOBAL.FN_ITEM_UP.toolboxitem.text
+msgid "Move Up"
+msgstr "উপরে উঠান"
+
+#. eWh0
+#: navipi.src#TB_GLOBAL.FN_ITEM_DOWN.toolboxitem.text
+msgid "Move Down"
+msgstr "নিচে নামান"
+
+#. 17Ta
+#: navipi.src#ST_OUTLINE_LEVEL.string.text
+msgid "Outline Level"
+msgstr "রূপরেখার স্তর"
+
+#. VIta
+#: navipi.src#ST_DRAGMODE.string.text
+msgctxt "navipi.src#ST_DRAGMODE.string.text"
+msgid "Drag Mode"
+msgstr "টানার মোড"
+
+#. oyJf
+#: navipi.src#ST_HYPERLINK.string.text
+msgid "Insert as Hyperlink"
+msgstr "হাইপারলিংক হিসেবে সন্নিবেশ"
+
+#. U_V9
+#: navipi.src#ST_LINK_REGION.string.text
+msgid "Insert as Link"
+msgstr "লিংক হিসেবে সন্নিবেশ"
+
+#. vyn9
+#: navipi.src#ST_COPY_REGION.string.text
+msgid "Insert as Copy"
+msgstr "অনুলিপি হিসেবে সন্নিবেশ"
+
+#. mXm8
+#: navipi.src#ST_DISPLAY.string.text
+msgid "Display"
+msgstr "প্রদর্শন"
+
+#. tXwV
+#: navipi.src#ST_ACTIVE_VIEW.string.text
+msgid "Active Window"
+msgstr "কার্যকর উইন্ডো"
+
+#. j2to
+#: navipi.src#ST_HIDDEN.string.text
+msgctxt "navipi.src#ST_HIDDEN.string.text"
+msgid "hidden"
+msgstr "লুকায়িত"
+
+#. o1Aq
+#: navipi.src#ST_ACTIVE.string.text
+msgid "active"
+msgstr "সক্রিয়"
+
+#. BmKL
+#: navipi.src#ST_INACTIVE.string.text
+msgid "inactive"
+msgstr "নিষ্ক্রিয়"
+
+#. 3092
+#: navipi.src#ST_EDIT_ENTRY.string.text
+msgid "Edit..."
+msgstr "সম্পাদনা..."
+
+#. M3Jt
+#: navipi.src#ST_UPDATE.string.text
+msgid "~Update"
+msgstr "হালনাগাদ (~U)"
+
+#. bvCN
+#: navipi.src#ST_EDIT_CONTENT.string.text
+msgctxt "navipi.src#ST_EDIT_CONTENT.string.text"
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#. 07wD
+#: navipi.src#ST_EDIT_LINK.string.text
+msgid "Edit link"
+msgstr "লিংক সম্পাদনা"
+
+#. evPe
+#: navipi.src#ST_INSERT.string.text
+msgctxt "navipi.src#ST_INSERT.string.text"
+msgid "Insert"
+msgstr "সন্নিবেশ"
+
+#. u7k9
+#: navipi.src#ST_INDEX.string.text
+msgid "~Index"
+msgstr "সূচি (~I)"
+
+#. 1wqV
+#: navipi.src#ST_FILE.string.text
+msgid "File"
+msgstr "ফাইল"
+
+#. 7eyK
+#: navipi.src#ST_NEW_FILE.string.text
+msgid "New Document"
+msgstr "নতুন নথি"
+
+#. MAd6
+#: navipi.src#ST_TEXT.string.text
+msgctxt "navipi.src#ST_TEXT.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. wQGd
+#: navipi.src#ST_DELETE.string.text
+msgid "Delete"
+msgstr "মুছে ফেলা"
+
+#. sm0g
+#: navipi.src#ST_DELETE_ENTRY.string.text
+msgid "~Delete"
+msgstr "মুছে ফেলা (~D)"
+
+#. rvKS
+#: navipi.src#ST_UPDATE_SEL.string.text
+msgid "Selection"
+msgstr "নির্বাচন"
+
+#. QiK9
+#: navipi.src#ST_UPDATE_INDEX.string.text
+msgctxt "navipi.src#ST_UPDATE_INDEX.string.text"
+msgid "Indexes"
+msgstr "সূচি"
+
+#. U5l0
+#: navipi.src#ST_UPDATE_LINK.string.text
+msgid "Links"
+msgstr "লিংক"
+
+#. THCG
+#: navipi.src#ST_UPDATE_ALL.string.text
+msgctxt "navipi.src#ST_UPDATE_ALL.string.text"
+msgid "All"
+msgstr "সব"
+
+#. 0ux_
+#: navipi.src#ST_REMOVE_INDEX.string.text
+msgid "~Remove Index"
+msgstr "সূচি অপসারণ (~R)"
+
+#. LrRA
+#: navipi.src#ST_REMOVE_TBL_PROTECTION.string.text
+msgid "~Unprotect"
+msgstr "অরক্ষিতকরণ (~U)"
+
+#. ykzt
+#: navipi.src#ST_INVISIBLE.string.text
+msgctxt "navipi.src#ST_INVISIBLE.string.text"
+msgid "hidden"
+msgstr "লুকায়িত"
+
+#. UNeU
+#: navipi.src#ST_BROKEN_LINK.string.text
+msgid "File not found: "
+msgstr "ফাইল পাওয়া যায়নি:"
+
+#. JEqq
+#: navipi.src#ST_RENAME.string.text
+msgid "~Rename"
+msgstr "পুনঃনামকরণ (~R)"
+
+#. U3Js
+#: navipi.src#ST_READONLY_IDX.string.text
+msgid "Read-~only"
+msgstr "শুধুমাত্র-পাঠযোগ্য (~O)"
+
+#. sqfo
+#: navipi.src#ST_POSTIT_SHOW.string.text
+msgid "Show All"
+msgstr "সব প্রদর্শন"
+
+#. E2SO
+#: navipi.src#ST_POSTIT_HIDE.string.text
+msgid "Hide All"
+msgstr "সব আড়াল"
+
+#. oQ1u
+#: navipi.src#ST_POSTIT_DELETE.string.text
+msgid "Delete All"
+msgstr "সব মুছে ফেলা"
+
+#. 90Ch
+#: navipi.src#STR_ACCESS_TL_GLOBAL.string.text
+msgid "Global View"
+msgstr "সাধারণ দৃশ্যপট"
+
+#. nqyC
+#: navipi.src#STR_ACCESS_TL_CONTENT.string.text
+msgctxt "navipi.src#STR_ACCESS_TL_CONTENT.string.text"
+msgid "Content View"
+msgstr "বিষয়বস্তুর প্রদর্শন"
+
+#. gArp
+#: initui.src#RID_SW_SHELLRES.STR_POSTIT_PAGE.string.text
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+#. z3kT
+#: initui.src#RID_SW_SHELLRES.STR_POSTIT_LINE.string.text
+msgid "Line"
+msgstr "লাইন"
+
+#. Oje#
+#: initui.src#RID_SW_SHELLRES.STR_POSTIT_AUTHOR.string.text
+msgid "Author"
+msgstr "লেখক"
+
+#. vaPA
+#: initui.src#RID_SW_SHELLRES.STR_CALC_SYNTAX.string.text
+msgid "** Syntax Error **"
+msgstr "** সিনট্যাক্স ত্রুটি **"
+
+#. xf8h
+#: initui.src#RID_SW_SHELLRES.STR_CALC_ZERODIV.string.text
+msgid "** Division by zero **"
+msgstr "** শূন্য দিয়ে বিভাজন **"
+
+#. yS_p
+#: initui.src#RID_SW_SHELLRES.STR_CALC_BRACK.string.text
+msgid "** Wrong use of brackets **"
+msgstr "** বন্ধনীর ভুল ব্যবহার **"
+
+#. #aU9
+#: initui.src#RID_SW_SHELLRES.STR_CALC_POW.string.text
+msgid "** Square function overflow **"
+msgstr "** স্কয়ার ফাংশন ওভারফ্লো **"
+
+#. LQyV
+#: initui.src#RID_SW_SHELLRES.STR_CALC_VARNFND.string.text
+msgid "** Variable not found **"
+msgstr "** চলক পাওয়া যায়নি **"
+
+#. StR3
+#: initui.src#RID_SW_SHELLRES.STR_CALC_OVERFLOW.string.text
+msgid "** Overflow **"
+msgstr "** ওভারফ্লো **"
+
+#. rkuy
+#: initui.src#RID_SW_SHELLRES.STR_CALC_WRONGTIME.string.text
+msgid "** Wrong time format **"
+msgstr "** ভুল সময় বিন্যাস **"
+
+#. aSAH
+#: initui.src#RID_SW_SHELLRES.STR_CALC_DEFAULT.string.text
+msgid "** Error **"
+msgstr "** ত্রুটি **"
+
+#. 0QkW
+#: initui.src#RID_SW_SHELLRES.STR_CALC_ERROR.string.text
+msgid "** Expression is faulty **"
+msgstr "**এক্সপ্রেশন ভুল**"
+
+#. bEhM
+#: initui.src#RID_SW_SHELLRES.STR_GETREFFLD_UP.string.text
+msgid "above"
+msgstr "উপরে"
+
+#. 6Cvz
+#: initui.src#RID_SW_SHELLRES.STR_GETREFFLD_DOWN.string.text
+msgid "below"
+msgstr "নিচে"
+
+#. _0dq
+#: initui.src#RID_SW_SHELLRES.STR_GETREFFLD_REFITEMNOTFOUND.string.text
+msgid "Error: Reference source not found"
+msgstr "ত্রুটি: রেফারেন্স উৎস পাওয়া যায়নি"
+
+#. pTmy
+#: initui.src#RID_SW_SHELLRES.STR_ALLPAGE_HEADFOOT.string.text
+msgctxt "initui.src#RID_SW_SHELLRES.STR_ALLPAGE_HEADFOOT.string.text"
+msgid "All"
+msgstr "সব"
+
+#. I59c
+#: initui.src#RID_SW_SHELLRES.STR_TEMPLATE_NONE.string.text
+msgid "None"
+msgstr "কোনটি না"
+
+#. vkKp
+#: initui.src#RID_SW_SHELLRES.STR_FIELD_FIXED.string.text
+msgid "(fixed)"
+msgstr "(স্থায়ী)"
+
+#. fGUe
+#: initui.src#RID_SW_SHELLRES.STR_DURATION_FORMAT.string.text
+msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+msgstr " ব: %1 মা: %2 দি: %3 ঘ: %4 মি: %5 সে: %6"
+
+#. B5nB
+#: initui.src#RID_SW_SHELLRES.STR_TOI.string.text
+msgid "Alphabetical Index"
+msgstr "বর্ণানুক্রমিক নির্ঘন্ট"
+
+#. #yWH
+#: initui.src#RID_SW_SHELLRES.STR_TOU.string.text
+msgid "User-Defined"
+msgstr "ব্যবহারকারী-নির্ধারিত"
+
+#. hUMp
+#: initui.src#RID_SW_SHELLRES.STR_TOC.string.text
+msgid "Table of Contents"
+msgstr "সূচিপত্র"
+
+#. JZsN
+#: initui.src#RID_SW_SHELLRES.STR_TOX_AUTH.string.text
+msgid "Bibliography"
+msgstr "তথ্যসূত্র"
+
+#. OyYx
+#: initui.src#RID_SW_SHELLRES.STR_TOX_TBL.string.text
+msgid "Index of Tables"
+msgstr "সারণির সূচি"
+
+#. l2TM
+#: initui.src#RID_SW_SHELLRES.STR_TOX_OBJ.string.text
+msgid "Table of Objects"
+msgstr "বস্তুর সূচি"
+
+#. Uur4
+#: initui.src#RID_SW_SHELLRES.STR_TOX_ILL.string.text
+msgid "Illustration Index"
+msgstr "চিত্র সূচি"
+
+#. dDUu
+#: initui.src#RID_SW_SHELLRES.STR_HYPERLINK_CLICK.string.text
+msgid "%s-click to open hyperlink"
+msgstr "হাইপারলিংক খুলতে  %s-ক্লিক করুন"
+
+#. jEOQ
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_TITEL.string.text
+msgctxt "initui.src#RID_SW_SHELLRES.FLD_DOCINFO_TITEL.string.text"
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. dxl8
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_THEMA.string.text
+msgid "Subject"
+msgstr "বিষয়"
+
+#. QU52
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_KEYS.string.text
+msgid "Keywords"
+msgstr "কী-ওয়ার্ড"
+
+#. fSEj
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_COMMENT.string.text
+msgctxt "initui.src#RID_SW_SHELLRES.FLD_DOCINFO_COMMENT.string.text"
+msgid "Comments"
+msgstr "মন্তব্য"
+
+#. OaYh
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_CREATE.string.text
+msgid "Created"
+msgstr "তৈরি"
+
+#. LAq4
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_CHANGE.string.text
+msgid "Modified"
+msgstr "পরিবর্তিত"
+
+#. 6iho
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_PRINT.string.text
+msgid "Last printed"
+msgstr "সর্বশেষ মুদ্রিত"
+
+#. yDq9
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_DOCNO.string.text
+msgid "Revision number"
+msgstr "পরিমার্জন সংখ্যা"
+
+#. uOIZ
+#: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_EDIT.string.text
+msgid "Total editing time"
+msgstr "মোট সম্পাদনা সময়"
+
+#. jsk6
+#: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_NAME.string.text
+msgid "Convert $(ARG1)"
+msgstr "$(ARG1) রূপান্তর"
+
+#. uB_m
+#: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_FIRSTNAME.string.text
+msgid "First convert $(ARG1)"
+msgstr "প্রথমে, $(ARG1) রূপান্তর"
+
+#. Ywl1
+#: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_FOLLOWNAME.string.text
+msgid "Next convert $(ARG1)"
+msgstr "পরবর্তীতে, $(ARG1) রূপান্তর"
+
+#. ZWqv
+#: initui.src#STR_AUTH_TYPE_ARTICLE.string.text
+msgid "Article"
+msgstr "নিবন্ধ"
+
+#. CH5c
+#: initui.src#STR_AUTH_TYPE_BOOK.string.text
+msgid "Book"
+msgstr "বই"
+
+#. XVmt
+#: initui.src#STR_AUTH_TYPE_BOOKLET.string.text
+msgid "Brochures"
+msgstr "বিবরণপত্র"
+
+#. KTqh
+#: initui.src#STR_AUTH_TYPE_CONFERENCE.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_CONFERENCE.string.text"
+msgid "Conference proceedings"
+msgstr "কনফারেন্স কার্যক্রম"
+
+#. SxTC
+#: initui.src#STR_AUTH_TYPE_INBOOK.string.text
+msgid "Book excerpt"
+msgstr "বইয়ের উদ্ধৃতাংশ"
+
+#. #BKM
+#: initui.src#STR_AUTH_TYPE_INCOLLECTION.string.text
+msgid "Book excerpt with title"
+msgstr "শিরোনাম যুক্ত বইয়ের উদ্ধৃতাংশ"
+
+#. zS5Y
+#: initui.src#STR_AUTH_TYPE_INPROCEEDINGS.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_INPROCEEDINGS.string.text"
+msgid "Conference proceedings"
+msgstr "কনফারেন্স কার্যক্রম"
+
+#. 4TNe
+#: initui.src#STR_AUTH_TYPE_JOURNAL.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_JOURNAL.string.text"
+msgid "Journal"
+msgstr "সাময়িকি"
+
+#. EKFE
+#: initui.src#STR_AUTH_TYPE_MANUAL.string.text
+msgid "Techn. documentation"
+msgstr "প্রযুক্তিগত ডকুমেনটেশন"
+
+#. rz#Q
+#: initui.src#STR_AUTH_TYPE_MASTERSTHESIS.string.text
+msgid "Thesis"
+msgstr "থীসিস"
+
+#. Z5Fe
+#: initui.src#STR_AUTH_TYPE_MISC.string.text
+msgid "Miscellaneous"
+msgstr "বিবিধ"
+
+#. I75t
+#: initui.src#STR_AUTH_TYPE_PHDTHESIS.string.text
+msgid "Dissertation"
+msgstr "গবেষণামূলক নিবন্ধ"
+
+#. u2t3
+#: initui.src#STR_AUTH_TYPE_PROCEEDINGS.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_PROCEEDINGS.string.text"
+msgid "Conference proceedings"
+msgstr "কনফারেন্স কার্যক্রম"
+
+#. pKbK
+#: initui.src#STR_AUTH_TYPE_TECHREPORT.string.text
+msgid "Research report"
+msgstr "গবেষণামূলক প্রতিবেদন"
+
+#. #V1i
+#: initui.src#STR_AUTH_TYPE_UNPUBLISHED.string.text
+msgid "Unpublished"
+msgstr "অপ্রকাশিত"
+
+#. q1Ur
+#: initui.src#STR_AUTH_TYPE_EMAIL.string.text
+msgid "e-mail"
+msgstr "ইমেইল"
+
+#. bSt4
+#: initui.src#STR_AUTH_TYPE_WWW.string.text
+msgid "WWW document"
+msgstr "WWW নথি"
+
+#. Hn47
+#: initui.src#STR_AUTH_TYPE_CUSTOM1.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM1.string.text"
+msgid "User-defined1"
+msgstr "ব্যবহারকারী-নির্ধারিত১"
+
+#. e4Mi
+#: initui.src#STR_AUTH_TYPE_CUSTOM2.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM2.string.text"
+msgid "User-defined2"
+msgstr "ব্যবহারকারী-নির্ধারিত২"
+
+#. _NOr
+#: initui.src#STR_AUTH_TYPE_CUSTOM3.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM3.string.text"
+msgid "User-defined3"
+msgstr "ব্যবহারকারী-নির্ধারিত৩"
+
+#. XSNR
+#: initui.src#STR_AUTH_TYPE_CUSTOM4.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM4.string.text"
+msgid "User-defined4"
+msgstr "ব্যবহারকারী-নির্ধারিত৪"
+
+#. sFP2
+#: initui.src#STR_AUTH_TYPE_CUSTOM5.string.text
+msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM5.string.text"
+msgid "User-defined5"
+msgstr "ব্যবহারকারী-নির্ধারিত৫"
+
+#. _R4N
+#: initui.src#STR_AUTH_FIELD_IDENTIFIER.string.text
+msgid "Short name"
+msgstr "সংক্ষিপ্ত নাম"
+
+#. Zs9M
+#: initui.src#STR_AUTH_FIELD_AUTHORITY_TYPE.string.text
+msgid "Type"
+msgstr "ধরন"
+
+#. S9bi
+#: initui.src#STR_AUTH_FIELD_ADDRESS.string.text
+msgid "Address"
+msgstr "ঠিকানা"
+
+#. w#UZ
+#: initui.src#STR_AUTH_FIELD_ANNOTE.string.text
+msgid "Annotation"
+msgstr "অ্যনোটেশন"
+
+#. 08_1
+#: initui.src#STR_AUTH_FIELD_AUTHOR.string.text
+msgid "Author(s)"
+msgstr "লেখক"
+
+#. BGGt
+#: initui.src#STR_AUTH_FIELD_BOOKTITLE.string.text
+msgid "Book title"
+msgstr "বইয়ের শিরোনাম"
+
+#. 2pug
+#: initui.src#STR_AUTH_FIELD_CHAPTER.string.text
+msgid "Chapter"
+msgstr "অধ্যায়"
+
+#. 8DCY
+#: initui.src#STR_AUTH_FIELD_EDITION.string.text
+msgid "Edition"
+msgstr "সংস্করণ"
+
+#. uR1y
+#: initui.src#STR_AUTH_FIELD_EDITOR.string.text
+msgid "Editor"
+msgstr "সম্পাদক"
+
+#. zkh2
+#: initui.src#STR_AUTH_FIELD_HOWPUBLISHED.string.text
+msgid "Publication type"
+msgstr "প্রকাশনার ধরন"
+
+#. F6qc
+#: initui.src#STR_AUTH_FIELD_INSTITUTION.string.text
+msgid "Institution"
+msgstr "প্রতিষ্ঠান"
+
+#. #zoA
+#: initui.src#STR_AUTH_FIELD_JOURNAL.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_JOURNAL.string.text"
+msgid "Journal"
+msgstr "সাময়িকি"
+
+#. F0s7
+#: initui.src#STR_AUTH_FIELD_MONTH.string.text
+msgid "Month"
+msgstr "মাস"
+
+#. k6ak
+#: initui.src#STR_AUTH_FIELD_NOTE.string.text
+msgid "Note"
+msgstr "নোট"
+
+#. 596z
+#: initui.src#STR_AUTH_FIELD_NUMBER.string.text
+msgid "Number"
+msgstr "নম্বর"
+
+#. lSzK
+#: initui.src#STR_AUTH_FIELD_ORGANIZATIONS.string.text
+msgid "Organization"
+msgstr "প্রতিষ্ঠান"
+
+#. T5Bz
+#: initui.src#STR_AUTH_FIELD_PAGES.string.text
+msgid "Page(s)"
+msgstr "পৃষ্ঠা"
+
+#. bZBA
+#: initui.src#STR_AUTH_FIELD_PUBLISHER.string.text
+msgid "Publisher"
+msgstr "প্রকাশক"
+
+#. MXq#
+#: initui.src#STR_AUTH_FIELD_SCHOOL.string.text
+msgid "University"
+msgstr "বিশ্ববিদ্যালয়"
+
+#. 1qlH
+#: initui.src#STR_AUTH_FIELD_SERIES.string.text
+msgid "Series"
+msgstr "ধারা"
+
+#. s4Wd
+#: initui.src#STR_AUTH_FIELD_TITLE.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_TITLE.string.text"
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. Ku0T
+#: initui.src#STR_AUTH_FIELD_TYPE.string.text
+msgid "Type of report"
+msgstr "প্রতিবেদনের ধরন"
+
+#. ltQn
+#: initui.src#STR_AUTH_FIELD_VOLUME.string.text
+msgid "Volume"
+msgstr "ভলিউম"
+
+#. b5pY
+#: initui.src#STR_AUTH_FIELD_YEAR.string.text
+msgid "Year"
+msgstr "বছর"
+
+#. snEi
+#: initui.src#STR_AUTH_FIELD_URL.string.text
+msgid "URL"
+msgstr "URL"
+
+#. hHXb
+#: initui.src#STR_AUTH_FIELD_CUSTOM1.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM1.string.text"
+msgid "User-defined1"
+msgstr "ব্যবহারকারী-নির্ধারিত১"
+
+#. IapE
+#: initui.src#STR_AUTH_FIELD_CUSTOM2.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM2.string.text"
+msgid "User-defined2"
+msgstr "ব্যবহারকারী-নির্ধারিত২"
+
+#. 5tzN
+#: initui.src#STR_AUTH_FIELD_CUSTOM3.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM3.string.text"
+msgid "User-defined3"
+msgstr "ব্যবহারকারী-নির্ধারিত৩"
+
+#. Ryov
+#: initui.src#STR_AUTH_FIELD_CUSTOM4.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM4.string.text"
+msgid "User-defined4"
+msgstr "ব্যবহারকারী-নির্ধারিত৪"
+
+#. ClyW
+#: initui.src#STR_AUTH_FIELD_CUSTOM5.string.text
+msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM5.string.text"
+msgid "User-defined5"
+msgstr "ব্যবহারকারী-নির্ধারিত৫"
+
+#. 0x2K
+#: initui.src#STR_AUTH_FIELD_ISBN.string.text
+msgid "ISBN"
+msgstr "ISBN"
+
+#. pmSu
+#: attrdesc.src#STR_DROP_OVER.string.text
+msgid "Drop Caps over"
+msgstr "ড্রপ ক্যাপ উপরিভাগে"
+
+#. 7Wa3
+#: attrdesc.src#STR_DROP_LINES.string.text
+msgid "rows"
+msgstr "সারি"
+
+#. EGi0
+#: attrdesc.src#STR_NO_DROP_LINES.string.text
+msgid "No Drop Caps"
+msgstr "কোনো ড্রপ ক্যাপ নেই"
+
+#. 15qS
+#: attrdesc.src#STR_NO_PAGEDESC.string.text
+msgid "No page break"
+msgstr "কোনো পৃষ্ঠা বিভাজক নয়"
+
+#. S30O
+#: attrdesc.src#STR_NO_MIRROR.string.text
+msgid "Don't mirror"
+msgstr "প্রতিফলিত করা হবে না"
+
+#. LIP1
+#: attrdesc.src#STR_VERT_MIRROR.string.text
+msgid "Flip vertically"
+msgstr "উল্লম্বভাবে উল্টানো"
+
+#. RrW5
+#: attrdesc.src#STR_HORI_MIRROR.string.text
+msgid "Flip horizontal"
+msgstr "অনুভূমিকভাবে উল্টানো"
+
+#. 8ADa
+#: attrdesc.src#STR_BOTH_MIRROR.string.text
+msgid "Horizontal and Vertical Flip"
+msgstr "উল্লম্ব এবং অনুভূমিক উল্টানো"
+
+#. CgyG
+#: attrdesc.src#STR_MIRROR_TOGGLE.string.text
+msgid "+ mirror horizontal on even pages"
+msgstr "+ জোড় পৃষ্ঠায় অনুভূমিক প্রতিফলন"
+
+#. LudV
+#: attrdesc.src#STR_CHARFMT.string.text
+msgid "Character Style"
+msgstr "অক্ষর শৈলী"
+
+#. 96zn
+#: attrdesc.src#STR_NO_CHARFMT.string.text
+msgid "No Character Style"
+msgstr "কোনো অক্ষর শৈলী নেই"
+
+#. eNWK
+#: attrdesc.src#STR_FOOTER.string.text
+msgctxt "attrdesc.src#STR_FOOTER.string.text"
+msgid "Footer"
+msgstr "পাদচরণ"
+
+#. 5ALB
+#: attrdesc.src#STR_NO_FOOTER.string.text
+msgid "No footer"
+msgstr "কোনো পাদচরণ নেই"
+
+#. 2UKl
+#: attrdesc.src#STR_HEADER.string.text
+msgctxt "attrdesc.src#STR_HEADER.string.text"
+msgid "Header"
+msgstr "শীর্ষচরণ"
+
+#. l3Xm
+#: attrdesc.src#STR_NO_HEADER.string.text
+msgid "No header"
+msgstr "কোনো শীর্ষচরণ নেই"
+
+#. 0M42
+#: attrdesc.src#STR_SURROUND_IDEAL.string.text
+msgid "Optimal wrap"
+msgstr "উপযুক্ত মোড়ানো"
+
+#. f28P
+#: attrdesc.src#STR_SURROUND_NONE.string.text
+msgid "No wrap"
+msgstr "মোড়ানো নয়"
+
+#. Wn1i
+#: attrdesc.src#STR_SURROUND_THROUGHT.string.text
+msgid "Through"
+msgstr "মধ্য দিয়ে"
+
+#. 5gHj
+#: attrdesc.src#STR_SURROUND_PARALLEL.string.text
+msgid "Parallel wrap"
+msgstr "সমান্তরালভাবে মোড়ানো"
+
+#. nXux
+#: attrdesc.src#STR_SURROUND_COLUMN.string.text
+msgid "Column Wrap"
+msgstr "কলাম অনুযায়ী মোড়ানো"
+
+#. wkaI
+#: attrdesc.src#STR_SURROUND_LEFT.string.text
+msgid "Left wrap"
+msgstr "বামে মোড়ানো"
+
+#. D8n0
+#: attrdesc.src#STR_SURROUND_RIGHT.string.text
+msgid "Right wrap"
+msgstr "ডানে মোড়ানো"
+
+#. ruoB
+#: attrdesc.src#STR_SURROUND_INSIDE.string.text
+msgid "Inner wrap"
+msgstr "অভ্যন্তরীণ মোড়ানো"
+
+#. zjmn
+#: attrdesc.src#STR_SURROUND_OUTSIDE.string.text
+msgid "Outer wrap"
+msgstr "বহিঃস্থ মোড়ানো"
+
+#. 1KFX
+#: attrdesc.src#STR_SURROUND_ANCHORONLY.string.text
+msgid "(Anchor only)"
+msgstr "(শুধুমাত্র নোঙ্গর)"
+
+#. 3P1p
+#: attrdesc.src#STR_FRM_WIDTH.string.text
+msgid "Width:"
+msgstr "প্রস্থ:"
+
+#. uvYt
+#: attrdesc.src#STR_FRM_FIXEDHEIGHT.string.text
+msgid "Fixed height:"
+msgstr "নির্দিষ্ট উচ্চতা:"
+
+#. uDjf
+#: attrdesc.src#STR_FRM_MINHEIGHT.string.text
+msgid "Min. height:"
+msgstr "সর্বনিম্ন উচ্চতা:"
+
+#. ulor
+#: attrdesc.src#STR_FLY_AT_PARA.string.text
+msgid "to paragraph"
+msgstr "অনুচ্ছেদে"
+
+#. cnbw
+#: attrdesc.src#STR_FLY_AS_CHAR.string.text
+msgid "to character"
+msgstr "অক্ষরে"
+
+#. Qfla
+#: attrdesc.src#STR_FLY_AT_PAGE.string.text
+msgid "to page"
+msgstr "পৃষ্ঠায়"
+
+#. dHT4
+#: attrdesc.src#STR_POS_X.string.text
+msgid "X Coordinate:"
+msgstr "X স্থানাঙ্ক:"
+
+#. m2JT
+#: attrdesc.src#STR_POS_Y.string.text
+msgid "Y Coordinate:"
+msgstr "Y স্থানাঙ্ক:"
+
+#. yTfi
+#: attrdesc.src#STR_VERT_TOP.string.text
+msgid "at top"
+msgstr "উপরে"
+
+#. 5ljy
+#: attrdesc.src#STR_VERT_CENTER.string.text
+msgid "Centered vertically"
+msgstr "উল্লম্বভাবে কেন্দ্রস্থিত"
+
+#. w_X9
+#: attrdesc.src#STR_VERT_BOTTOM.string.text
+msgid "at bottom"
+msgstr "নিচে"
+
+#. d0As
+#: attrdesc.src#STR_LINE_TOP.string.text
+msgid "Top of line"
+msgstr "লাইনের শীর্ষে"
+
+#. g2wn
+#: attrdesc.src#STR_LINE_CENTER.string.text
+msgid "Line centered"
+msgstr "কেন্দ্রস্থিত রেখা"
+
+#. LIs4
+#: attrdesc.src#STR_LINE_BOTTOM.string.text
+msgid "Bottom of line"
+msgstr "লাইনের নিচে"
+
+#. SxfQ
+#: attrdesc.src#STR_REGISTER_ON.string.text
+msgid "Register-true"
+msgstr "রেজিষ্টার-ট্রু"
+
+#. Z2Tv
+#: attrdesc.src#STR_REGISTER_OFF.string.text
+msgid "Not register-true"
+msgstr "রেজিষ্টার-ট্রু নয়"
+
+#. hXyo
+#: attrdesc.src#STR_HORI_RIGHT.string.text
+msgid "at the right"
+msgstr "ডানে"
+
+#. B8Ku
+#: attrdesc.src#STR_HORI_CENTER.string.text
+msgid "Centered horizontally"
+msgstr "অনুভূমিকভাবে কেন্দ্রস্থিত"
+
+#. gVvm
+#: attrdesc.src#STR_HORI_LEFT.string.text
+msgid "at the left"
+msgstr "বামে"
+
+#. wrYV
+#: attrdesc.src#STR_HORI_INSIDE.string.text
+msgid "inside"
+msgstr "ভিতরে"
+
+#. TNkd
+#: attrdesc.src#STR_HORI_OUTSIDE.string.text
+msgid "outside"
+msgstr "বাইরে"
+
+#. #Tsm
+#: attrdesc.src#STR_HORI_FULL.string.text
+msgid "Full width"
+msgstr "সম্পূর্ণ প্রস্থ"
+
+#. rkPo
+#: attrdesc.src#STR_COLUMNS.string.text
+msgid "Columns"
+msgstr "কলাম"
+
+#. Eg34
+#: attrdesc.src#STR_LINE_WIDTH.string.text
+msgid "Separator Width:"
+msgstr "বিভাজক প্রস্থ:"
+
+#. YDsF
+#: attrdesc.src#STR_MAX_FTN_HEIGHT.string.text
+msgid "Max. footnote area:"
+msgstr "সর্বোচ্চ পাদটীকা এলাকা:"
+
+#. FFPv
+#: attrdesc.src#STR_EDIT_IN_READONLY.string.text
+msgid "Editable in read-only document"
+msgstr "শুধুমাত্র-পাঠযোগ্য নথিতে সম্পাদনাযোগ্য "
+
+#. eOcN
+#: attrdesc.src#STR_LAYOUT_SPLIT.string.text
+msgid "Split"
+msgstr "বিভক্ত"
+
+#. P1uK
+#: attrdesc.src#STR_NUMRULE_ON.string.text
+msgid "Numbering"
+msgstr "সংখ্যায়ন"
+
+#. 1SG5
+#: attrdesc.src#STR_NUMRULE_OFF.string.text
+msgid "no numbering"
+msgstr "কোনো সংখ্যায়ন নেই"
+
+#. QBGA
+#: attrdesc.src#STR_CONNECT1.string.text
+msgid "linked to "
+msgstr "যার সাথে সংযুক্ত"
+
+#. Z#2X
+#: attrdesc.src#STR_CONNECT2.string.text
+msgid "and "
+msgstr "এবং"
+
+#. 1qeV
+#: attrdesc.src#STR_LINECOUNT.string.text
+msgid "Count lines"
+msgstr "লাইন গণনা করা"
+
+#. fUKU
+#: attrdesc.src#STR_DONTLINECOUNT.string.text
+msgid "don't count lines"
+msgstr "লাইন গণনা করবেন না"
+
+#. tmAa
+#: attrdesc.src#STR_LINCOUNT_START.string.text
+msgid "restart line count with: "
+msgstr "যেখান থেকে লাইন গণনা পুনরায় শুরু করা হবে: "
+
+#. FJBx
+#: attrdesc.src#STR_LUMINANCE.string.text
+msgid "Brightness: "
+msgstr "উজ্জ্বলতা:"
+
+#. C6od
+#: attrdesc.src#STR_CHANNELR.string.text
+msgid "Red: "
+msgstr "লাল:"
+
+#. WHMk
+#: attrdesc.src#STR_CHANNELG.string.text
+msgid "Green: "
+msgstr "সবুজ:"
+
+#. Gy5o
+#: attrdesc.src#STR_CHANNELB.string.text
+msgid "Blue: "
+msgstr "নীল:"
+
+#. PdZk
+#: attrdesc.src#STR_CONTRAST.string.text
+msgid "Contrast: "
+msgstr "বৈসাদৃশ্য:"
+
+#. S7iI
+#: attrdesc.src#STR_GAMMA.string.text
+msgid "Gamma: "
+msgstr "গামা:"
+
+#. 35j6
+#: attrdesc.src#STR_TRANSPARENCY.string.text
+msgid "Transparency: "
+msgstr "স্বচ্ছতা:"
+
+#. q95d
+#: attrdesc.src#STR_INVERT.string.text
+msgid "Invert"
+msgstr "বিপরীতমুখী"
+
+#. 8ONk
+#: attrdesc.src#STR_INVERT_NOT.string.text
+msgid "do not invert"
+msgstr "বিপরীতমুখী করবেন না"
+
+#. Z5w5
+#: attrdesc.src#STR_DRAWMODE.string.text
+msgid "Graphics mode: "
+msgstr "গ্রাফিক্স মোড:"
+
+#. 1mYP
+#: attrdesc.src#STR_DRAWMODE_STD.string.text
+msgid "Standard"
+msgstr "আদর্শ"
+
+#. ddvi
+#: attrdesc.src#STR_DRAWMODE_GREY.string.text
+msgid "Grayscales"
+msgstr "গ্রেস্কেল"
+
+#. yg_e
+#: attrdesc.src#STR_DRAWMODE_BLACKWHITE.string.text
+msgid "Black & White"
+msgstr "সাদা ও কালো"
+
+#. P2zn
+#: attrdesc.src#STR_DRAWMODE_WATERMARK.string.text
+msgctxt "attrdesc.src#STR_DRAWMODE_WATERMARK.string.text"
+msgid "Watermark"
+msgstr "জলছাপ"
+
+#. MsFm
+#: attrdesc.src#STR_ROTATION.string.text
+msgid "Rotation"
+msgstr "ঘূর্ণন"
+
+#. dGLV
+#: attrdesc.src#STR_GRID_NONE.string.text
+msgid "No grid"
+msgstr "কোনো গ্রিড নেই"
+
+#. EMMo
+#: attrdesc.src#STR_GRID_LINES_ONLY.string.text
+msgid "Grid (lines only)"
+msgstr "গ্রিড (শুধুমাত্র লাইন)"
+
+#. y2g6
+#: attrdesc.src#STR_GRID_LINES_CHARS.string.text
+msgid "Grid (lines and characters)"
+msgstr "গ্রিড (লাইন এবং অক্ষর)"
+
+#. wwDA
+#: attrdesc.src#STR_FOLLOW_TEXT_FLOW.string.text
+msgid "Follow text flow"
+msgstr "লেখার প্রবাহ অনুসরণ"
+
+#. kXb5
+#: attrdesc.src#STR_DONT_FOLLOW_TEXT_FLOW.string.text
+msgid "Do not follow text flow"
+msgstr "লেখার প্রবাহ অনুসরণ করবেন না"
+
+#. Rq1D
+#: attrdesc.src#STR_CONNECT_BORDER_ON.string.text
+msgid "Merge borders"
+msgstr "সীমানা মিলিত করা"
+
+#. jWa0
+#: attrdesc.src#STR_CONNECT_BORDER_OFF.string.text
+msgid "Do not merge borders"
+msgstr "সীমানা মিলিত করা হবে না"
+
+#. rN3v
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_EMPTY_PARA_1.string.text
+msgid "Remove empty paragraphs"
+msgstr "ফাঁকা অনুচ্ছেদ অপসারণ"
+
+#. i8d4
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USE_REPLACE_1.string.text
+msgid "Use replacement table"
+msgstr "প্রতিস্থাপিত সারণির ব্যবহার"
+
+#. WNdv
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_WORD_1.string.text
+msgid "Correct TWo INitial CApitals"
+msgstr "প্রারম্ভিক দুইটি বড় হাতের অক্ষর ঠিক করা"
+
+#. jZ8k
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_SENT_1.string.text
+msgid "Capitalize first letter of sentences"
+msgstr "বাক্যের প্রথম বর্ণ বড় হাতের বর্ণে রূপান্তর"
+
+#. sxub
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_TYPO_1.string.text
+msgid "Replace \"standard\" quotes with %1 \\bcustom%2 quotes"
+msgstr "\"standard\" উদ্ধ্বৃতি %1 \\\\bcustom%2 উদ্ধ্বৃতি দ্বারা প্রতিস্থাপন করুন"
+
+#. 2yxX
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USER_STYLE_1.string.text
+msgid "Replace Custom Styles"
+msgstr "স্বনির্বাচিত শৈলীর প্রতিস্থাপন"
+
+#. B_P#
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BULLET_1.string.text
+msgid "Bullets replaced"
+msgstr "বুলেট প্রতিস্থাপিত"
+
+#. T5wn
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_UNDER_1.string.text
+msgid "Automatic _underline_"
+msgstr "স্বয়ংক্রিয় _নিম্নরেখা_"
+
+#. LfMR
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BOLD_1.string.text
+msgid "Automatic *bold*"
+msgstr "স্বয়ংক্রিয় *গাঢ়*"
+
+#. p4tG
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_FRACTION_1.string.text
+msgid "Replace 1/2 ... with ½ ..."
+msgstr "½ ... দিয়ে 1/2 ... প্রতিস্থাপন করা"
+
+#. GNYE
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DETECT_URL_1.string.text
+msgid "URL recognition"
+msgstr "URL শনাক্তকরণ"
+
+#. Nebh
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DASH_1.string.text
+msgid "Replace dashes"
+msgstr "ড্যাশ প্রতিস্থাপন"
+
+#. Gjy9
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_ORDINAL_1.string.text
+msgid "Replace 1st... with 1^st..."
+msgstr "1^st... দিয়ে 1st... প্রতিস্থাপন করা"
+
+#. HJca
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_RIGHT_MARGIN_1.string.text
+msgid "Combine single line paragraphs"
+msgstr "এক লাইণের অনুচ্ছেদ একত্রীকরণ"
+
+#. U5uY
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT__1.string.text
+msgid "Set \"Text body\" Style"
+msgstr "\"লেখা বডি\" শৈলী নির্ধারণ করা"
+
+#. IdaI
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1.string.text
+#, fuzzy
+msgctxt ""
+"utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1."
+"string.text"
+msgid "Set \"Text body indent\" Style"
+msgstr "\"লেখা বডির ইন্ডেন্ট\" শৈলী নির্ধারণ করা"
+
+#. hm07
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_NEG_INDENT___1.string.text
+msgid "Set \"Hanging indent\" Style"
+msgstr "\"ঝুলন্ত ইন্ডেন্ট\" শৈলী নির্ধারণ করা"
+
+#. l299
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1.string.text
+msgctxt ""
+"utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1."
+"string.text"
+msgid "Set \"Text body indent\" Style"
+msgstr "\"লেখা বডির ইন্ডেন্ট\" শৈলী নির্ধারণ করা"
+
+#. uvQW
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_HEADLINE__1.string.text
+msgid "Set \"Heading $(ARG1)\" Style"
+msgstr "\"শিরোনাম $(ARG1)\" শৈলী নির্ধারণ করা"
+
+#. zSKs
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_NUMBULET__1.string.text
+msgid "Set \"Bullet\" or \"Numbering\" Style"
+msgstr "\"বুলেট\" বা \"সংখ্যায়ন\" শৈলী নির্ধারণ করা"
+
+#. 2hm0
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_MORELINES__1.string.text
+msgid "Combine paragraphs"
+msgstr "অনুচ্ছেদ একত্রীকরণ"
+
+#. 93iu
+#: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_NON_BREAK_SPACE__1.string.text
+msgid "Add non breaking space"
+msgstr "টানা ফাঁকা জায়গা যোগ"
+
+#. #4vg
+#: utlui.src#STR_EVENT_OBJECT_SELECT.string.text
+msgid "Click object"
+msgstr "বস্তুতে ক্লিক করুন"
+
+#. 6Apa
+#: utlui.src#STR_EVENT_START_INS_GLOSSARY.string.text
+msgid "Before inserting AutoText"
+msgstr "স্বয়ংক্রিয়-লেখা প্রবেশের পূর্বে"
+
+#. fzv6
+#: utlui.src#STR_EVENT_END_INS_GLOSSARY.string.text
+msgid "After inserting AutoText"
+msgstr "স্বয়ংক্রিয়-লেখা প্রবেশের পরে"
+
+#. HSN6
+#: utlui.src#STR_EVENT_MOUSEOVER_OBJECT.string.text
+msgid "Mouse over object"
+msgstr "বস্তুর উপর মাউস"
+
+#. KIKp
+#: utlui.src#STR_EVENT_MOUSECLICK_OBJECT.string.text
+msgid "Trigger hyperlink"
+msgstr "হাইপারলিংক ট্রিগার করা হবে"
+
+#. GYTq
+#: utlui.src#STR_EVENT_MOUSEOUT_OBJECT.string.text
+msgid "Mouse leaves object"
+msgstr "মাউসের বস্তু থেকে সরে যায়"
+
+#. Ka34
+#: utlui.src#STR_EVENT_IMAGE_LOAD.string.text
+msgid "Graphics load successful"
+msgstr "গ্রাফিক্স লোড সফল"
+
+#. WusA
+#: utlui.src#STR_EVENT_IMAGE_ABORT.string.text
+msgid "Graphics load terminated"
+msgstr "গ্রাফিক্স লোড সমাপ্ত"
+
+#. Bctg
+#: utlui.src#STR_EVENT_IMAGE_ERROR.string.text
+msgid "Graphics load faulty"
+msgstr "গ্রাফিক্স লোডে ভুল"
+
+#. Q3Nl
+#: utlui.src#STR_EVENT_FRM_KEYINPUT_A.string.text
+msgid "Input of alphanumeric characters"
+msgstr "আলফানিউমেরিক অক্ষরের ইনপুট"
+
+#. Q9bV
+#: utlui.src#STR_EVENT_FRM_KEYINPUT_NOA.string.text
+msgid "Input of non-alphanumeric characters"
+msgstr "আলফানিউমেরিক ব্যতীত অক্ষরের ইনপুট"
+
+#. 3g59
+#: utlui.src#STR_EVENT_FRM_RESIZE.string.text
+msgid "Resize frame"
+msgstr "ফ্রেমের আকার পরিবর্তন"
+
+#. kucD
+#: utlui.src#STR_EVENT_FRM_MOVE.string.text
+msgid "Move frame"
+msgstr "ফ্রেম সরানো"
+
+#. pIms
+#: utlui.src#STR_CONTENT_TYPE_OUTLINE.string.text
+msgid "Headings"
+msgstr "শিরোনাম"
+
+#. RCjC
+#: utlui.src#STR_CONTENT_TYPE_TABLE.string.text
+msgid "Tables"
+msgstr "সারণি"
+
+#. V7wX
+#: utlui.src#STR_CONTENT_TYPE_FRAME.string.text
+msgid "Text frames"
+msgstr "লেখা ফ্রেম"
+
+#. xeFE
+#: utlui.src#STR_CONTENT_TYPE_GRAPHIC.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_GRAPHIC.string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. Jjkf
+#: utlui.src#STR_CONTENT_TYPE_OLE.string.text
+msgid "OLE objects"
+msgstr "OLE অবজেক্ট"
+
+#. bieh
+#: utlui.src#STR_CONTENT_TYPE_BOOKMARK.string.text
+msgid "Bookmarks"
+msgstr "বুকমার্ক"
+
+#. bmM7
+#: utlui.src#STR_CONTENT_TYPE_REGION.string.text
+msgid "Sections"
+msgstr "বিভাগ"
+
+#. TJbB
+#: utlui.src#STR_CONTENT_TYPE_URLFIELD.string.text
+msgid "Hyperlinks"
+msgstr "হাইপারলিংক"
+
+#. WI4#
+#: utlui.src#STR_CONTENT_TYPE_REFERENCE.string.text
+msgid "References"
+msgstr "রেফারেন্স"
+
+#. Uhnu
+#: utlui.src#STR_CONTENT_TYPE_INDEX.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_INDEX.string.text"
+msgid "Indexes"
+msgstr "সূচিপত্র"
+
+#. u4ZP
+#: utlui.src#STR_CONTENT_TYPE_DRAWOBJECT.string.text
+msgid "Draw objects"
+msgstr "অঙ্কন বস্তু"
+
+#. dLKH
+#: utlui.src#STR_CONTENT_TYPE_POSTIT.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_POSTIT.string.text"
+msgid "Comments"
+msgstr "মন্তব্য"
+
+#. RUWU
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_OUTLINE.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_OUTLINE.string.text"
+msgid "Heading"
+msgstr "শিরোনাম"
+
+#. CMHv
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_TABLE.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_TABLE.string.text"
+msgid "Table"
+msgstr "সারণি"
+
+#. 8T6K
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_FRAME.string.text
+msgid "Text frame"
+msgstr "লেখা ফ্রেম"
+
+#. JaVc
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_GRAPHIC.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_GRAPHIC.string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. bNj5
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_OLE.string.text
+msgid "OLE object"
+msgstr "OLE অবজেক্ট"
+
+#. Jc75
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_BOOKMARK.string.text
+msgid "Bookmark"
+msgstr "বুকমার্ক"
+
+#. Dxog
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_REGION.string.text
+msgid "Section"
+msgstr "বিভাগ"
+
+#. hPAb
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_URLFIELD.string.text
+msgid "Hyperlink"
+msgstr "হাইপারলিংক"
+
+#. Gvts
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_REFERENCE.string.text
+msgid "Reference"
+msgstr "রেফারেন্স"
+
+#. 9nDD
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_INDEX.string.text
+msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_INDEX.string.text"
+msgid "Index"
+msgstr "সূচি"
+
+#. FUmy
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_POSTIT.string.text
+msgid "Comment"
+msgstr "মন্তব্য"
+
+#. da8N
+#: utlui.src#STR_CONTENT_TYPE_SINGLE_DRAWOBJECT.string.text
+msgid "Draw object"
+msgstr "অঙ্কন বস্তু"
+
+#. PTMr
+#: utlui.src#STR_DEFINE_NUMBERFORMAT.string.text
+msgid "Additional formats..."
+msgstr "অতিরিক্ত বিন্যাস..."
+
+#. LjMy
+#: utlui.src#RID_STR_SYSTEM.string.text
+msgid "[System]"
+msgstr "[সিস্টেম]"
+
+#. S5Zo
+#: utlui.src#STR_MULT_INTERACT_SPELL_WARN.string.text
+msgid ""
+"The interactive spellcheck is already active\n"
+"in a different document"
+msgstr ""
+"একটি ভিন্ন নথিতে\n"
+"মিথস্ক্রিয়া বানান-পরীক্ষক ইতোমধ্যে সক্রিয়"
+
+#. COMP
+#: utlui.src#STR_MULT_INTERACT_HYPH_WARN.string.text
+msgid ""
+"The interactive hyphenation is already active\n"
+"in a different document"
+msgstr ""
+"একটি ভিন্ন নথিতে\n"
+"মিথস্ক্রিয়া হাইফেন প্রয়োগ ইতোমধ্যে সক্রিয়"
+
+#. WZk9
+#: utlui.src#STR_SPELL_TITLE.string.text
+msgid "Spellcheck"
+msgstr "বানান-পরীক্ষণ"
+
+#. xKMJ
+#: utlui.src#STR_HYPH_TITLE.string.text
+msgid "Hyphenation"
+msgstr "হাইফেন প্রয়োগ"
+
+#. iQZz
+#: utlui.src#STR_HYPERCTRL_SEL.string.text
+msgid "SEL"
+msgstr "SEL"
+
+#. Uk0s
+#: utlui.src#STR_HYPERCTRL_HYP.string.text
+msgid "HYP"
+msgstr "HYP"
+
+#. iIzi
+#: gloslst.src#DLG_GLOSSARY_DECIDE_DLG.FL_GLOSS.fixedline.text
+msgid "AutoText - Group"
+msgstr "স্বয়ংক্রিয়-লেখা - গ্রুপ"
+
+#. hbZx
+#: gloslst.src#DLG_GLOSSARY_DECIDE_DLG.modaldialog.text
+msgid "Select AutoText:"
+msgstr "স্বয়ংক্রিয়-লেখা নির্বাচন:"
+
+#. JDZ2
+#: poolfmt.src#STR_POOLCHR_FOOTNOTE.string.text
+msgid "Footnote Characters"
+msgstr "পাদটীকার অক্ষর"
+
+#. h28E
+#: poolfmt.src#STR_POOLCHR_PAGENO.string.text
+msgid "Page Number"
+msgstr "পৃষ্ঠা নম্বর"
+
+#. sXv3
+#: poolfmt.src#STR_POOLCHR_LABEL.string.text
+msgid "Caption Characters"
+msgstr "ক্যাপশন অক্ষর"
+
+#. umGw
+#: poolfmt.src#STR_POOLCHR_DROPCAPS.string.text
+msgid "Drop Caps"
+msgstr "ড্রপ ক্যাপ"
+
+#. ZZ2p
+#: poolfmt.src#STR_POOLCHR_NUM_LEVEL.string.text
+msgid "Numbering Symbols"
+msgstr "সংখ্যায়ন প্রতীক"
+
+#. zIYS
+#: poolfmt.src#STR_POOLCHR_BUL_LEVEL.string.text
+msgid "Bullets"
+msgstr "বুলেট"
+
+#. 13gi
+#: poolfmt.src#STR_POOLCHR_INET_NORMAL.string.text
+msgid "Internet Link"
+msgstr "ইন্টারনেট লিংক"
+
+#. xJ3b
+#: poolfmt.src#STR_POOLCHR_INET_VISIT.string.text
+msgid "Visited Internet Link"
+msgstr "পরিদর্শিত ইন্টারনেট লিংক"
+
+#. TSeX
+#: poolfmt.src#STR_POOLCHR_JUMPEDIT.string.text
+msgid "Placeholder"
+msgstr "স্থানধারক"
+
+#. N30l
+#: poolfmt.src#STR_POOLCHR_TOXJUMP.string.text
+msgid "Index Link"
+msgstr "সূচির লিংক"
+
+#. tmJW
+#: poolfmt.src#STR_POOLCHR_ENDNOTE.string.text
+msgid "Endnote Characters"
+msgstr "প্রান্তটীকার অক্ষর"
+
+#. JQUM
+#: poolfmt.src#STR_POOLPAGE_LANDSCAPE.string.text
+msgid "Landscape"
+msgstr "আড়াআড়ি"
+
+#. 3xYQ
+#: poolfmt.src#STR_POOLCHR_LINENUM.string.text
+msgid "Line numbering"
+msgstr "লাইন সংখ্যায়ন"
+
+#. HuEc
+#: poolfmt.src#STR_POOLCHR_IDX_MAIN_ENTRY.string.text
+msgid "Main index entry"
+msgstr "প্রধান সূচির ভুক্তি"
+
+#. FuzQ
+#: poolfmt.src#STR_POOLCHR_FOOTNOTE_ANCHOR.string.text
+msgid "Footnote anchor"
+msgstr "পাদটীকার নোঙ্গর"
+
+#. 62cv
+#: poolfmt.src#STR_POOLCHR_ENDNOTE_ANCHOR.string.text
+msgid "Endnote anchor"
+msgstr "প্রান্তটীকার নোঙ্গর"
+
+#. dWkY
+#: poolfmt.src#STR_POOLCHR_HTML_EMPHASIS.string.text
+msgid "Emphasis"
+msgstr "গুরুত্ব"
+
+#. 0rHF
+#: poolfmt.src#STR_POOLCHR_HTML_CITIATION.string.text
+msgid "Quotation"
+msgstr "উদ্ধৃতি"
+
+#. _80S
+#: poolfmt.src#STR_POOLCHR_HTML_STRONG.string.text
+msgid "Strong Emphasis"
+msgstr "বিশেষ গুরুত্ব"
+
+#. 4nxD
+#: poolfmt.src#STR_POOLCHR_HTML_CODE.string.text
+msgid "Source Text"
+msgstr "সোর্স লেখা"
+
+#. NjBa
+#: poolfmt.src#STR_POOLCHR_HTML_SAMPLE.string.text
+msgid "Example"
+msgstr "উদাহরণ"
+
+#. TLl3
+#: poolfmt.src#STR_POOLCHR_HTML_KEYBOARD.string.text
+msgid "User Entry"
+msgstr "ব্যবহারকারী ভুক্তি"
+
+#. S#SU
+#: poolfmt.src#STR_POOLCHR_HTML_VARIABLE.string.text
+msgid "Variable"
+msgstr "চলক"
+
+#. mkVw
+#: poolfmt.src#STR_POOLCHR_HTML_DEFINSTANCE.string.text
+msgid "Definition"
+msgstr "সংজ্ঞা"
+
+#. eYVH
+#: poolfmt.src#STR_POOLCHR_HTML_TELETYPE.string.text
+msgid "Teletype"
+msgstr "টেলিটাইপ"
+
+#. DZ#Z
+#: poolfmt.src#STR_POOLFRM_FRAME.string.text
+msgid "Frame"
+msgstr "ফ্রেম"
+
+#. TU7B
+#: poolfmt.src#STR_POOLFRM_GRAPHIC.string.text
+msgctxt "poolfmt.src#STR_POOLFRM_GRAPHIC.string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#. dvmN
+#: poolfmt.src#STR_POOLFRM_OLE.string.text
+msgid "OLE"
+msgstr "OLE"
+
+#. ry2W
+#: poolfmt.src#STR_POOLFRM_FORMEL.string.text
+msgid "Formula"
+msgstr "সূত্র"
+
+#. 31pb
+#: poolfmt.src#STR_POOLFRM_MARGINAL.string.text
+msgctxt "poolfmt.src#STR_POOLFRM_MARGINAL.string.text"
+msgid "Marginalia"
+msgstr "মার্জিনালিয়া"
+
+#. R_QV
+#: poolfmt.src#STR_POOLFRM_WATERSIGN.string.text
+msgctxt "poolfmt.src#STR_POOLFRM_WATERSIGN.string.text"
+msgid "Watermark"
+msgstr "জলছাপ"
+
+#. W_CJ
+#: poolfmt.src#STR_POOLFRM_LABEL.string.text
+msgid "Labels"
+msgstr "স্তর"
+
+#. dPSt
+#: poolfmt.src#STR_POOLCOLL_STANDARD.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_STANDARD.string.text"
+msgid "Default"
+msgstr "পূর্বনির্ধারিত"
+
+#. Miex
+#: poolfmt.src#STR_POOLCOLL_TEXT.string.text
+msgid "Text body"
+msgstr "লেখা বডি"
+
+#. t3ua
+#: poolfmt.src#STR_POOLCOLL_TEXT_IDENT.string.text
+msgid "First line indent"
+msgstr "প্রথম লাইন ইন্ডেন্ট"
+
+#. 4R9Y
+#: poolfmt.src#STR_POOLCOLL_TEXT_NEGIDENT.string.text
+msgid "Hanging indent"
+msgstr "ঝুলন্ত ইন্ডেন্ট"
+
+#. 6sAn
+#: poolfmt.src#STR_POOLCOLL_TEXT_MOVE.string.text
+msgid "Text body indent"
+msgstr "লেখা বডি ইন্ডেন্ট"
+
+#. iqEE
+#: poolfmt.src#STR_POOLCOLL_GREETING.string.text
+msgid "Complimentary close"
+msgstr "শ্রদ্ধাজ্ঞাপক সমাপ্তি"
+
+#. g5uP
+#: poolfmt.src#STR_POOLCOLL_SIGNATURE.string.text
+msgid "Signature"
+msgstr "স্বাক্ষর"
+
+#. T6m9
+#: poolfmt.src#STR_POOLCOLL_HEADLINE_BASE.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_HEADLINE_BASE.string.text"
+msgid "Heading"
+msgstr "শিরোনাম"
+
+#. T9RE
+#: poolfmt.src#STR_POOLCOLL_NUMBUL_BASE.string.text
+msgid "List"
+msgstr "তালিকা"
+
+#. u#ys
+#: poolfmt.src#STR_POOLCOLL_REGISTER_BASE.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_REGISTER_BASE.string.text"
+msgid "Index"
+msgstr "সূচি"
+
+#. nW1q
+#: poolfmt.src#STR_POOLCOLL_CONFRONTATION.string.text
+msgid "List Indent"
+msgstr "তালিকা ইন্ডেন্ট"
+
+#. 0Hp5
+#: poolfmt.src#STR_POOLCOLL_MARGINAL.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_MARGINAL.string.text"
+msgid "Marginalia"
+msgstr "মার্জিনালিয়া"
+
+#. 6FTm
+#: poolfmt.src#STR_POOLCOLL_HEADLINE1.string.text
+msgid "Heading 1"
+msgstr "শিরোনাম ১"
+
+#. _wFR
+#: poolfmt.src#STR_POOLCOLL_HEADLINE2.string.text
+msgid "Heading 2"
+msgstr "শিরোনাম ২"
+
+#. ef12
+#: poolfmt.src#STR_POOLCOLL_HEADLINE3.string.text
+msgid "Heading 3"
+msgstr "শিরোনাম ৩"
+
+#. sYEi
+#: poolfmt.src#STR_POOLCOLL_HEADLINE4.string.text
+msgid "Heading 4"
+msgstr "শিরোনাম ৪"
+
+#. Xn0r
+#: poolfmt.src#STR_POOLCOLL_HEADLINE5.string.text
+msgid "Heading 5"
+msgstr "শিরোনাম ৫"
+
+#. O4IU
+#: poolfmt.src#STR_POOLCOLL_HEADLINE6.string.text
+msgid "Heading 6"
+msgstr "শিরোনাম ৬"
+
+#. FNS7
+#: poolfmt.src#STR_POOLCOLL_HEADLINE7.string.text
+msgid "Heading 7"
+msgstr "শিরোনাম ৭"
+
+#. VXeZ
+#: poolfmt.src#STR_POOLCOLL_HEADLINE8.string.text
+msgid "Heading 8"
+msgstr "শিরোনাম ৮"
+
+#. 8ocw
+#: poolfmt.src#STR_POOLCOLL_HEADLINE9.string.text
+msgid "Heading 9"
+msgstr "শিরোনাম ৯"
+
+#. X0ks
+#: poolfmt.src#STR_POOLCOLL_HEADLINE10.string.text
+msgid "Heading 10"
+msgstr "শিরোনাম ১০"
+
+#. Hkn#
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1S.string.text
+msgid "Numbering 1 Start"
+msgstr "সংখ্যায়ন ১ শুরু"
+
+#. kPFz
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL1.string.text"
+msgid "Numbering 1"
+msgstr ""
+
+#. 4C7S
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1E.string.text
+msgid "Numbering 1 End"
+msgstr "সংখ্যায়ন ১ শেষ"
+
+#. Q1Dy
+#: poolfmt.src#STR_POOLCOLL_NUM_NONUM1.string.text
+msgid "Numbering 1 Cont."
+msgstr "সংখ্যায়ন ১ চলছে"
+
+#. __TN
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2S.string.text
+msgid "Numbering 2 Start"
+msgstr "সংখ্যায়ন ২ শুরু"
+
+#. NiTM
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL2.string.text"
+msgid "Numbering 2"
+msgstr ""
+
+#. gThr
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2E.string.text
+msgid "Numbering 2 End"
+msgstr "সংখ্যায়ন ২ শেষ"
+
+#. ZqVN
+#: poolfmt.src#STR_POOLCOLL_NUM_NONUM2.string.text
+msgid "Numbering 2 Cont."
+msgstr "সংখ্যায়ন ২ চলছে"
+
+#. bmvF
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3S.string.text
+msgid "Numbering 3 Start"
+msgstr "সংখ্যায়ন ৩ শুরু"
+
+#. 0_JF
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL3.string.text"
+msgid "Numbering 3"
+msgstr ""
+
+#. mIFj
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3E.string.text
+msgid "Numbering 3 End"
+msgstr "সংখ্যায়ন ৩ শেষ"
+
+#. qdHE
+#: poolfmt.src#STR_POOLCOLL_NUM_NONUM3.string.text
+msgid "Numbering 3 Cont."
+msgstr "সংখ্যায়ন ৩ চলছে"
+
+#. OlXb
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4S.string.text
+msgid "Numbering 4 Start"
+msgstr "সংখ্যায়ন ৪ শুরু"
+
+#. UqSX
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL4.string.text"
+msgid "Numbering 4"
+msgstr ""
+
+#. DDN7
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4E.string.text
+msgid "Numbering 4 End"
+msgstr "সংখ্যায়ন ৪ শেষ"
+
+#. giUW
+#: poolfmt.src#STR_POOLCOLL_NUM_NONUM4.string.text
+msgid "Numbering 4 Cont."
+msgstr "সংখ্যায়ন ৪ চলছে"
+
+#. 2W5z
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5S.string.text
+msgid "Numbering 5 Start"
+msgstr "সংখ্যায়ন ৫ শুরু"
+
+#. 9dIu
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL5.string.text"
+msgid "Numbering 5"
+msgstr ""
+
+#. N2pV
+#: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5E.string.text
+msgid "Numbering 5 End"
+msgstr "সংখ্যায়ন ৫ শেষ"
+
+#. z_Gv
+#: poolfmt.src#STR_POOLCOLL_NUM_NONUM5.string.text
+msgid "Numbering 5 Cont."
+msgstr "সংখ্যায়ন ৫ চলছে"
+
+#. MkXR
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1S.string.text
+msgid "List 1 Start"
+msgstr "তালিকা ১ শুরু"
+
+#. _9ik
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL1.string.text"
+msgid "List 1"
+msgstr ""
+
+#. 3CNv
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1E.string.text
+msgid "List 1 End"
+msgstr "তালিকা ১ শেষ"
+
+#. BHkl
+#: poolfmt.src#STR_POOLCOLL_BUL_NONUM1.string.text
+msgid "List 1 Cont."
+msgstr "তালিকা ১ চলছে"
+
+#. u_Do
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2S.string.text
+msgid "List 2 Start"
+msgstr "তালিকা ২ শুরু"
+
+#. 6y#5
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL2.string.text"
+msgid "List 2"
+msgstr ""
+
+#. jTxG
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2E.string.text
+msgid "List 2 End"
+msgstr "তালিকা ২ শেষ"
+
+#. oay4
+#: poolfmt.src#STR_POOLCOLL_BUL_NONUM2.string.text
+msgid "List 2 Cont."
+msgstr "তালিকা ২ চলছে"
+
+#. Ymfg
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3S.string.text
+msgid "List 3 Start"
+msgstr "তালিকা ৩ শুরু"
+
+#. HlmS
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL3.string.text"
+msgid "List 3"
+msgstr ""
+
+#. tIV8
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3E.string.text
+msgid "List 3 End"
+msgstr "তালিকা ৩ শেষ"
+
+#. btoT
+#: poolfmt.src#STR_POOLCOLL_BUL_NONUM3.string.text
+msgid "List 3 Cont."
+msgstr "তালিকা ৩ চলছে"
+
+#. Vln0
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4S.string.text
+msgid "List 4 Start"
+msgstr "তালিকা ৪ শুরু"
+
+#. Fa_o
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL4.string.text"
+msgid "List 4"
+msgstr ""
+
+#. AD7Y
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4E.string.text
+msgid "List 4 End"
+msgstr "তালিকা ৪ শেষ"
+
+#. xyzp
+#: poolfmt.src#STR_POOLCOLL_BUL_NONUM4.string.text
+msgid "List 4 Cont."
+msgstr "তালিকা ৪ চলছে"
+
+#. 5WLO
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5S.string.text
+msgid "List 5 Start"
+msgstr "তালিকা ৫ শুরু"
+
+#. Otnh
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL5.string.text"
+msgid "List 5"
+msgstr ""
+
+#. G2Zw
+#: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5E.string.text
+msgid "List 5 End"
+msgstr "তালিকা ৫ শেষ"
+
+#. ilpg
+#: poolfmt.src#STR_POOLCOLL_BUL_NONUM5.string.text
+msgid "List 5 Cont."
+msgstr "তালিকা ৫ চলছে"
+
+#. EH38
+#: poolfmt.src#STR_POOLCOLL_HEADER.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_HEADER.string.text"
+msgid "Header"
+msgstr "শীর্ষচরণ"
+
+#. 3IKW
+#: poolfmt.src#STR_POOLCOLL_HEADERL.string.text
+msgid "Header left"
+msgstr "বাম শীর্ষচরণ"
+
+#. ODP8
+#: poolfmt.src#STR_POOLCOLL_HEADERR.string.text
+msgid "Header right"
+msgstr "ডান শীর্ষচরণ"
+
+#. aOtp
+#: poolfmt.src#STR_POOLCOLL_FOOTER.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_FOOTER.string.text"
+msgid "Footer"
+msgstr "পাদচরণ"
+
+#. oK#s
+#: poolfmt.src#STR_POOLCOLL_FOOTERL.string.text
+msgid "Footer left"
+msgstr "বাম পাদচরণ"
+
+#. fBpU
+#: poolfmt.src#STR_POOLCOLL_FOOTERR.string.text
+msgid "Footer right"
+msgstr "ডান পাদচরণ"
+
+#. ANZV
+#: poolfmt.src#STR_POOLCOLL_TABLE.string.text
+msgid "Table Contents"
+msgstr "সারণির বিষয়বস্তু"
+
+#. Uz4z
+#: poolfmt.src#STR_POOLCOLL_TABLE_HDLN.string.text
+msgid "Table Heading"
+msgstr "সারণির শিরোনাম"
+
+#. ESqo
+#: poolfmt.src#STR_POOLCOLL_FRAME.string.text
+msgid "Frame contents"
+msgstr "ফ্রেমের বিষয়বস্তু"
+
+#. UauB
+#: poolfmt.src#STR_POOLCOLL_FOOTNOTE.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_FOOTNOTE.string.text"
+msgid "Footnote"
+msgstr "পাদটীকা"
+
+#. ROI8
+#: poolfmt.src#STR_POOLCOLL_ENDNOTE.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_ENDNOTE.string.text"
+msgid "Endnote"
+msgstr "প্রান্তটীকা"
+
+#. Z062
+#: poolfmt.src#STR_POOLCOLL_LABEL.string.text
+msgid "Caption"
+msgstr "ক্যাপশন"
+
+#. eAdp
+#: poolfmt.src#STR_POOLCOLL_LABEL_ABB.string.text
+msgid "Illustration"
+msgstr "চিত্র"
+
+#. _PBx
+#: poolfmt.src#STR_POOLCOLL_LABEL_TABLE.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_LABEL_TABLE.string.text"
+msgid "Table"
+msgstr "সারণি"
+
+#. xISM
+#: poolfmt.src#STR_POOLCOLL_LABEL_FRAME.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_LABEL_FRAME.string.text"
+msgid "Text"
+msgstr "লেখা"
+
+#. 96Rl
+#: poolfmt.src#STR_POOLCOLL_LABEL_DRAWING.string.text
+msgid "Drawing"
+msgstr "অঙ্কন"
+
+#. Fl_c
+#: poolfmt.src#STR_POOLCOLL_JAKETADRESS.string.text
+msgid "Addressee"
+msgstr "প্রাপক"
+
+#. iu0m
+#: poolfmt.src#STR_POOLCOLL_SENDADRESS.string.text
+msgid "Sender"
+msgstr "প্রেরক"
+
+#. WISv
+#: poolfmt.src#STR_POOLCOLL_TOX_IDXH.string.text
+msgid "Index Heading"
+msgstr "সূচির শিরোনাম"
+
+#. MeAY
+#: poolfmt.src#STR_POOLCOLL_TOX_IDX1.string.text
+msgid "Index 1"
+msgstr "সূচি ১"
+
+#. lTO9
+#: poolfmt.src#STR_POOLCOLL_TOX_IDX2.string.text
+msgid "Index 2"
+msgstr "সূচি ২"
+
+#. uEMG
+#: poolfmt.src#STR_POOLCOLL_TOX_IDX3.string.text
+msgid "Index 3"
+msgstr "সূচি ৩"
+
+#. dJAc
+#: poolfmt.src#STR_POOLCOLL_TOX_IDXBREAK.string.text
+msgid "Index Separator"
+msgstr "সূচি বিভাজক"
+
+#. PRvy
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNTH.string.text
+msgid "Contents Heading"
+msgstr "বিষয়বস্তুর শিরোনাম"
+
+#. lXld
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT1.string.text
+msgid "Contents 1"
+msgstr "বিষয়বস্তু ১"
+
+#. MKzC
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT2.string.text
+msgid "Contents 2"
+msgstr "বিষয়বস্তু ২"
+
+#. 17pL
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT3.string.text
+msgid "Contents 3"
+msgstr "বিষয়বস্তু ৩"
+
+#. VCyx
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT4.string.text
+msgid "Contents 4"
+msgstr "বিষয়বস্তু ৪"
+
+#. 8VoY
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT5.string.text
+msgid "Contents 5"
+msgstr "বিষয়বস্তু ৫"
+
+#. ngW9
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT6.string.text
+msgid "Contents 6"
+msgstr "বিষয়বস্তু ৬"
+
+#. cvkG
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT7.string.text
+msgid "Contents 7"
+msgstr "বিষয়বস্তু ৭"
+
+#. sFQq
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT8.string.text
+msgid "Contents 8"
+msgstr "বিষয়বস্তু ৮"
+
+#. XSKj
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT9.string.text
+msgid "Contents 9"
+msgstr "বিষয়বস্তু ৯"
+
+#. Kfr4
+#: poolfmt.src#STR_POOLCOLL_TOX_CNTNT10.string.text
+msgid "Contents 10"
+msgstr "বিষয়বস্তু ১০"
+
+#. O#GX
+#: poolfmt.src#STR_POOLCOLL_TOX_USERH.string.text
+msgid "User Index Heading"
+msgstr "ব্যবহারকারী সূচির শিরোনাম"
+
+#. k46w
+#: poolfmt.src#STR_POOLCOLL_TOX_USER1.string.text
+msgid "User Index 1"
+msgstr "ব্যবহারকারী সূচি ১"
+
+#. NnKH
+#: poolfmt.src#STR_POOLCOLL_TOX_USER2.string.text
+msgid "User Index 2"
+msgstr "ব্যবহারকারী সূচি ২"
+
+#. 0YQ8
+#: poolfmt.src#STR_POOLCOLL_TOX_USER3.string.text
+msgid "User Index 3"
+msgstr "ব্যবহারকারী সূচি ৩"
+
+#. UfLc
+#: poolfmt.src#STR_POOLCOLL_TOX_USER4.string.text
+msgid "User Index 4"
+msgstr "ব্যবহারকারী সূচি ৪"
+
+#. 9wR_
+#: poolfmt.src#STR_POOLCOLL_TOX_USER5.string.text
+msgid "User Index 5"
+msgstr "ব্যবহারকারী সূচি ৫"
+
+#. mF9K
+#: poolfmt.src#STR_POOLCOLL_TOX_USER6.string.text
+msgid "User Index 6"
+msgstr "ব্যবহারকারী সূচি ৬"
+
+#. dS7D
+#: poolfmt.src#STR_POOLCOLL_TOX_USER7.string.text
+msgid "User Index 7"
+msgstr "ব্যবহারকারী সূচি ৭"
+
+#. tgpf
+#: poolfmt.src#STR_POOLCOLL_TOX_USER8.string.text
+msgid "User Index 8"
+msgstr "ব্যবহারকারী সূচি ৮"
+
+#. Wvzm
+#: poolfmt.src#STR_POOLCOLL_TOX_USER9.string.text
+msgid "User Index 9"
+msgstr "ব্যবহারকারী সূচি ৯"
+
+#. AGnG
+#: poolfmt.src#STR_POOLCOLL_TOX_USER10.string.text
+msgid "User Index 10"
+msgstr "ব্যবহারকারী সূচি ১০"
+
+#. B0gM
+#: poolfmt.src#STR_POOLCOLL_TOX_ILLUSH.string.text
+msgid "Illustration Index Heading"
+msgstr "চিত্র সূচির শিরোনাম"
+
+#. zwyD
+#: poolfmt.src#STR_POOLCOLL_TOX_ILLUS1.string.text
+msgid "Illustration Index 1"
+msgstr "চিত্র সূচি ১"
+
+#. ko63
+#: poolfmt.src#STR_POOLCOLL_TOX_OBJECTH.string.text
+msgid "Object index heading"
+msgstr "বস্তু সূচির শিরোনাম"
+
+#. O8GO
+#: poolfmt.src#STR_POOLCOLL_TOX_OBJECT1.string.text
+msgid "Object index 1"
+msgstr "বস্তু সূচি ১"
+
+#. uZhS
+#: poolfmt.src#STR_POOLCOLL_TOX_TABLESH.string.text
+msgid "Table index heading"
+msgstr "সারণি সূচির শিরোনাম"
+
+#. EPz7
+#: poolfmt.src#STR_POOLCOLL_TOX_TABLES1.string.text
+msgid "Table index 1"
+msgstr "সারণি সূচি ১"
+
+#. n84N
+#: poolfmt.src#STR_POOLCOLL_TOX_AUTHORITIESH.string.text
+msgid "Bibliography Heading"
+msgstr "তথ্যসূত্র শিরোনাম"
+
+#. 7oIC
+#: poolfmt.src#STR_POOLCOLL_TOX_AUTHORITIES1.string.text
+msgid "Bibliography 1"
+msgstr "তথ্যসূত্র ১"
+
+#. IUZt
+#: poolfmt.src#STR_POOLCOLL_DOC_TITEL.string.text
+msgctxt "poolfmt.src#STR_POOLCOLL_DOC_TITEL.string.text"
+msgid "Title"
+msgstr "শিরোনাম"
+
+#. Py9g
+#: poolfmt.src#STR_POOLCOLL_DOC_SUBTITEL.string.text
+msgid "Subtitle"
+msgstr "উপশিরোনাম"
+
+#. dMAg
+#: poolfmt.src#STR_POOLCOLL_HTML_BLOCKQUOTE.string.text
+msgid "Quotations"
+msgstr "উদ্ধৃতি"
+
+#. v2Eo
+#: poolfmt.src#STR_POOLCOLL_HTML_PRE.string.text
+msgid "Preformatted Text"
+msgstr "পূর্ববিন্যাসিত লেখা"
+
+#. DcIp
+#: poolfmt.src#STR_POOLCOLL_HTML_HR.string.text
+msgid "Horizontal Line"
+msgstr "অনুভূমিক লাইন"
+
+#. jMuL
+#: poolfmt.src#STR_POOLCOLL_HTML_DD.string.text
+msgid "List Contents"
+msgstr "বিষয়বস্তুর তালিকা"
+
+#. niF0
+#: poolfmt.src#STR_POOLCOLL_HTML_DT.string.text
+msgid "List Heading"
+msgstr "শিরোনামের তালিকা"
+
+#. ENVd
+#: poolfmt.src#STR_POOLPAGE_STANDARD.string.text
+msgctxt "poolfmt.src#STR_POOLPAGE_STANDARD.string.text"
+msgid "Default"
+msgstr "পূর্বনির্ধারিত"
+
+#. 6ngp
+#: poolfmt.src#STR_POOLPAGE_FIRST.string.text
+msgid "First Page"
+msgstr "প্রথম পৃষ্ঠা"
+
+#. ydr_
+#: poolfmt.src#STR_POOLPAGE_LEFT.string.text
+msgid "Left Page"
+msgstr "বাম পৃষ্ঠা"
+
+#. JRY_
+#: poolfmt.src#STR_POOLPAGE_RIGHT.string.text
+msgid "Right Page"
+msgstr "ডান পৃষ্ঠা"
+
+#. WzQN
+#: poolfmt.src#STR_POOLPAGE_JAKET.string.text
+msgid "Envelope"
+msgstr "খাম"
+
+#. SbNm
+#: poolfmt.src#STR_POOLPAGE_REGISTER.string.text
+msgctxt "poolfmt.src#STR_POOLPAGE_REGISTER.string.text"
+msgid "Index"
+msgstr "সূচি"
+
+#. 2UMd
+#: poolfmt.src#STR_POOLPAGE_HTML.string.text
+msgid "HTML"
+msgstr "HTML"
+
+#. tgxR
+#: poolfmt.src#STR_POOLPAGE_FOOTNOTE.string.text
+msgctxt "poolfmt.src#STR_POOLPAGE_FOOTNOTE.string.text"
+msgid "Footnote"
+msgstr "পাদটীকা"
+
+#. w#ze
+#: poolfmt.src#STR_POOLPAGE_ENDNOTE.string.text
+msgctxt "poolfmt.src#STR_POOLPAGE_ENDNOTE.string.text"
+msgid "Endnote"
+msgstr "প্রান্তটীকা"
+
+#. CnZq
+#: poolfmt.src#STR_POOLNUMRULE_NUM1.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM1.string.text"
+msgid "Numbering 1"
+msgstr "সংখ্যায়ন ১"
+
+#. r4nV
+#: poolfmt.src#STR_POOLNUMRULE_NUM2.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM2.string.text"
+msgid "Numbering 2"
+msgstr "সংখ্যায়ন ২"
+
+#. YN_6
+#: poolfmt.src#STR_POOLNUMRULE_NUM3.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM3.string.text"
+msgid "Numbering 3"
+msgstr "সংখ্যায়ন ৩"
+
+#. ySme
+#: poolfmt.src#STR_POOLNUMRULE_NUM4.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM4.string.text"
+msgid "Numbering 4"
+msgstr "সংখ্যায়ন ৪"
+
+#. hF#n
+#: poolfmt.src#STR_POOLNUMRULE_NUM5.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM5.string.text"
+msgid "Numbering 5"
+msgstr "সংখ্যায়ন ৫"
+
+#. bKpg
+#: poolfmt.src#STR_POOLNUMRULE_BUL1.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL1.string.text"
+msgid "List 1"
+msgstr "তালিকা ১"
+
+#. SXX1
+#: poolfmt.src#STR_POOLNUMRULE_BUL2.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL2.string.text"
+msgid "List 2"
+msgstr "তালিকা ২"
+
+#. BolO
+#: poolfmt.src#STR_POOLNUMRULE_BUL3.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL3.string.text"
+msgid "List 3"
+msgstr "তালিকা ৩"
+
+#. LvWs
+#: poolfmt.src#STR_POOLNUMRULE_BUL4.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL4.string.text"
+msgid "List 4"
+msgstr "তালিকা ৪"
+
+#. 2gkl
+#: poolfmt.src#STR_POOLNUMRULE_BUL5.string.text
+msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL5.string.text"
+msgid "List 5"
+msgstr "তালিকা ৫"
+
+#. Y5a_
+#: poolfmt.src#STR_POOLCHR_RUBYTEXT.string.text
+msgid "Rubies"
+msgstr "রুবি"
+
+#. bDlW
+#: poolfmt.src#STR_COLUMN_VALUESET_ITEM0.string.text
+msgid "1 column"
+msgstr "কলাম"
+
+#. oUXv
+#: poolfmt.src#STR_COLUMN_VALUESET_ITEM1.string.text
+msgid "2 columns with equal size"
+msgstr "সমান আকার সম্বলিত ২ কলাম"
+
+#. BhpI
+#: poolfmt.src#STR_COLUMN_VALUESET_ITEM2.string.text
+msgid "3 columns with equal size"
+msgstr "সমান আকার সম্বলিত ৩ কলাম"
+
+#. SuzB
+#: poolfmt.src#STR_COLUMN_VALUESET_ITEM3.string.text
+msgid "2 columns with different size (left > right)"
+msgstr "ভিন্ন আকার সম্বলিত ২ কলাম (বাম > ডান)"
+
+#. 2pob
+#: poolfmt.src#STR_COLUMN_VALUESET_ITEM4.string.text
+msgid "2 columns with different size (left < right)"
+msgstr "ভিন্ন আকার সম্বলিত ২ কলাম (বাম < ডান)"
+
+#. U1vQ
+#: poolfmt.src#STR_POOLCHR_VERT_NUM.string.text
+msgid "Vertical Numbering Symbols"
+msgstr "উল্লম্ব সংখ্যায়ন প্রতীক"
+
+#. ohBr
+#: unotools.src#DLG_RENAME_XNAMED.FT_NEW_NAME.fixedtext.text
+msgid "New name"
+msgstr "নতুন নাম"
+
+#. QwIk
+#: unotools.src#DLG_RENAME_XNAMED.FL_NAME.fixedline.text
+msgid "Change name"
+msgstr "নাম পরিবর্তন"
+
+#. EDRR
+#: unotools.src#DLG_RENAME_XNAMED.modaldialog.text
+msgid "Rename object: "
+msgstr "বস্তু পুনঃনামকরণ:"
+
+#. WC2F
+#: unotools.src#STR_SERVICE_UNAVAILABLE.string.text
+msgid "The following service is not available: "
+msgstr "নিম্নের পরিসেবাটি বিদ্যমান নয়:"
+
+#. psmo
+#: unotools.src#RES_FRMEX_MENU.1.1.itemlist.text
+msgid "~Zoom"
+msgstr "জুম (~Z)"
+
+#. IOSA
+#: unotools.src#RES_FRMEX_MENU.1.2.itemlist.text
+msgid "~Upwards"
+msgstr "ঊর্ধ্বমুখী (~U)"
+
+#. aiRz
+#: unotools.src#RES_FRMEX_MENU.1.3.itemlist.text
+msgid "Do~wnwards"
+msgstr "নিম্নমুখী (~W)"
+
+#, fuzzy
+#~ msgid "Numbering 1"
+#~ msgstr "সংখ্যায়ন ১"
+
+#, fuzzy
+#~ msgid "Numbering 2"
+#~ msgstr "সংখ্যায়ন ২"
+
+#, fuzzy
+#~ msgid "Numbering 3"
+#~ msgstr "সংখ্যায়ন ৩"
+
+#, fuzzy
+#~ msgid "Numbering 4"
+#~ msgstr "সংখ্যায়ন ৪"
+
+#, fuzzy
+#~ msgid "Numbering 5"
+#~ msgstr "সংখ্যায়ন ৫"
+
+#, fuzzy
+#~ msgid "List 1"
+#~ msgstr "তালিকা ১"
+
+#, fuzzy
+#~ msgid "List 2"
+#~ msgstr "তালিকা ২"
+
+#, fuzzy
+#~ msgid "List 3"
+#~ msgstr "তালিকা ৩"
+
+#, fuzzy
+#~ msgid "List 4"
+#~ msgstr "তালিকা ৪"
+
+#, fuzzy
+#~ msgid "List 5"
+#~ msgstr "তালিকা ৫"

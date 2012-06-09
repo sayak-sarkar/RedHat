@@ -1,0 +1,1513 @@
+#. extracted from formula/source/core/resource.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+formula%2Fsource%2Fcore%2Fresource.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2011-04-05 10:46+0200\n"
+"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#. jAXS
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IF.string.text
+msgid "IF"
+msgstr "IF"
+
+#. 2yPN
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHOSE.string.text
+msgid "CHOOSE"
+msgstr "CHOOSE"
+
+#. XtdF
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_AND.string.text
+msgid "AND"
+msgstr "AND"
+
+#. nUt#
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_OR.string.text
+msgid "OR"
+msgstr "OR"
+
+#. qnZR
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NOT.string.text
+msgid "NOT"
+msgstr "NOT"
+
+#. 3ycJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NEG.string.text
+msgid "NEG"
+msgstr "NEG"
+
+#. DM9e
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PI.string.text
+msgid "PI"
+msgstr "PI"
+
+#. I2Eo
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RANDOM.string.text
+msgid "RAND"
+msgstr "RAND"
+
+#. Je6t
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TRUE.string.text
+msgid "TRUE"
+msgstr "TRUE"
+
+#. f4pr
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FALSE.string.text
+msgid "FALSE"
+msgstr "FALSE"
+
+#. 0RRZ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_ACT_DATE.string.text
+msgid "TODAY"
+msgstr "TODAY"
+
+#. e1a4
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_ACT_TIME.string.text
+msgid "NOW"
+msgstr "NOW"
+
+#. 6HKK
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NO_VALUE.string.text
+msgid "NA"
+msgstr "NA"
+
+#. iOxR
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CURRENT.string.text
+msgid "CURRENT"
+msgstr "CURRENT"
+
+#. 8FWY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DEG.string.text
+msgid "DEGREES"
+msgstr "DEGREES"
+
+#. Ox46
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RAD.string.text
+msgid "RADIANS"
+msgstr "RADIANS"
+
+#. e8CE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SIN.string.text
+msgid "SIN"
+msgstr "SIN"
+
+#. kJGZ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COS.string.text
+msgid "COS"
+msgstr "COS"
+
+#. 1EUk
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TAN.string.text
+msgid "TAN"
+msgstr "TAN"
+
+#. mOVD
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COT.string.text
+msgid "COT"
+msgstr "COT"
+
+#. gVk9
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_SIN.string.text
+msgid "ASIN"
+msgstr "ASIN"
+
+#. i4oa
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_COS.string.text
+msgid "ACOS"
+msgstr "ACOS"
+
+#. 3Pyf
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_TAN.string.text
+msgid "ATAN"
+msgstr "ATAN"
+
+#. oFzA
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_COT.string.text
+msgid "ACOT"
+msgstr "ACOT"
+
+#. rTsw
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SIN_HYP.string.text
+msgid "SINH"
+msgstr "SINH"
+
+#. 1137
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COS_HYP.string.text
+msgid "COSH"
+msgstr "COSH"
+
+#. lnQg
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TAN_HYP.string.text
+msgid "TANH"
+msgstr "TANH"
+
+#. lEVo
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COT_HYP.string.text
+msgid "COTH"
+msgstr "COTH"
+
+#. 6YZg
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_SIN_HYP.string.text
+msgid "ASINH"
+msgstr "ASINH"
+
+#. o#MN
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_COS_HYP.string.text
+msgid "ACOSH"
+msgstr "ACOSH"
+
+#. SEFw
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_TAN_HYP.string.text
+msgid "ATANH"
+msgstr "ATANH"
+
+#. SnAY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_COT_HYP.string.text
+msgid "ACOTH"
+msgstr "ACOTH"
+
+#. clCN
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COSECANT.string.text
+msgid "CSC"
+msgstr ""
+
+#. KIZl
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SECANT.string.text
+msgid "SEC"
+msgstr ""
+
+#. Sg__
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COSECANT_HYP.string.text
+msgid "CSCH"
+msgstr ""
+
+#. qCRu
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SECANT_HYP.string.text
+msgid "SECH"
+msgstr ""
+
+#. Vktz
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EXP.string.text
+msgid "EXP"
+msgstr "EXP"
+
+#. gsAD
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LN.string.text
+msgid "LN"
+msgstr "LN"
+
+#. 7Gio
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SQRT.string.text
+msgid "SQRT"
+msgstr "SQRT"
+
+#. WKrQ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FACT.string.text
+msgid "FACT"
+msgstr "FACT"
+
+#. oUHr
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_YEAR.string.text
+msgid "YEAR"
+msgstr "YEAR"
+
+#. 1YUN
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_MONTH.string.text
+msgid "MONTH"
+msgstr "MONTH"
+
+#. gIBn
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_DAY.string.text
+msgid "DAY"
+msgstr "DAY"
+
+#. 5lof
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_HOUR.string.text
+msgid "HOUR"
+msgstr "HOUR"
+
+#. aYn4
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_MIN.string.text
+msgid "MINUTE"
+msgstr "MINUTE"
+
+#. 96ga
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_SEC.string.text
+msgid "SECOND"
+msgstr "SECOND"
+
+#. #GNS
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PLUS_MINUS.string.text
+msgid "SIGN"
+msgstr "SIGN"
+
+#. MK3m
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ABS.string.text
+msgid "ABS"
+msgstr "ABS"
+
+#. Xaza
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_INT.string.text
+msgid "INT"
+msgstr "INT"
+
+#. DYB0
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PHI.string.text
+msgid "PHI"
+msgstr "PHI"
+
+#. OVRp
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GAUSS.string.text
+msgid "GAUSS"
+msgstr "GAUSS"
+
+#. 7pei
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_EMPTY.string.text
+msgid "ISBLANK"
+msgstr "ISBLANK"
+
+#. K5AZ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_STRING.string.text
+msgid "ISTEXT"
+msgstr "ISTEXT"
+
+#. eCV#
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_NON_STRING.string.text
+msgid "ISNONTEXT"
+msgstr "ISNONTEXT"
+
+#. xAiG
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_LOGICAL.string.text
+msgid "ISLOGICAL"
+msgstr "ISLOGICAL"
+
+#. dkNg
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TYPE.string.text
+msgid "TYPE"
+msgstr "TYPE"
+
+#. nk3T
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CELL.string.text
+msgid "CELL"
+msgstr "CELL"
+
+#. sI4Y
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_REF.string.text
+msgid "ISREF"
+msgstr "ISREF"
+
+#. EZ3v
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_VALUE.string.text
+msgid "ISNUMBER"
+msgstr "ISNUMBER"
+
+#. GjEH
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_FORMULA.string.text
+msgid "ISFORMULA"
+msgstr "ISFORMULA"
+
+#. MwF#
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_NV.string.text
+msgid "ISNA"
+msgstr "ISNA"
+
+#. mBZi
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_ERR.string.text
+msgid "ISERR"
+msgstr "ISERR"
+
+#. 6Wmr
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_ERROR.string.text
+msgid "ISERROR"
+msgstr "ISERROR"
+
+#. Ikms
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_EVEN.string.text
+msgid "ISEVEN"
+msgstr "ISEVEN"
+
+#. 5p_2
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IS_ODD.string.text
+msgid "ISODD"
+msgstr "ISODD"
+
+#. iQ0P
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_N.string.text
+msgid "N"
+msgstr "N"
+
+#. 0CZp
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_DATE_VALUE.string.text
+msgid "DATEVALUE"
+msgstr "DATEVALUE"
+
+#. k#tr
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_TIME_VALUE.string.text
+msgid "TIMEVALUE"
+msgstr "TIMEVALUE"
+
+#. 5lOu
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CODE.string.text
+msgid "CODE"
+msgstr "CODE"
+
+#. a#ns
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TRIM.string.text
+msgid "TRIM"
+msgstr "TRIM"
+
+#. sbC3
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_UPPER.string.text
+msgid "UPPER"
+msgstr "UPPER"
+
+#. G#TL
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PROPPER.string.text
+msgid "PROPER"
+msgstr "PROPER"
+
+#. TblI
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LOWER.string.text
+msgid "LOWER"
+msgstr "LOWER"
+
+#. D8uF
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LEN.string.text
+msgid "LEN"
+msgstr "LEN"
+
+#. GxGq
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_T.string.text
+msgid "T"
+msgstr "T"
+
+#. 6OOP
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VALUE.string.text
+msgid "VALUE"
+msgstr "VALUE"
+
+#. N6zx
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CLEAN.string.text
+msgid "CLEAN"
+msgstr "CLEAN"
+
+#. 15A_
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHAR.string.text
+msgid "CHAR"
+msgstr "CHAR"
+
+#. ZU6O
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_JIS.string.text
+msgid "JIS"
+msgstr "JIS"
+
+#. SO0o
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ASC.string.text
+msgid "ASC"
+msgstr "ASC"
+
+#. IrI8
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_UNICODE.string.text
+msgid "UNICODE"
+msgstr "UNICODE"
+
+#. MV0F
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_UNICHAR.string.text
+msgid "UNICHAR"
+msgstr "UNICHAR"
+
+#. qjUE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LOG10.string.text
+msgid "LOG10"
+msgstr "LOG10"
+
+#. bOed
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EVEN.string.text
+msgid "EVEN"
+msgstr "EVEN"
+
+#. MoNN
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ODD.string.text
+msgid "ODD"
+msgstr "ODD"
+
+#. mXtV
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_STD_NORM_DIST.string.text
+msgid "NORMSDIST"
+msgstr "NORMSDIST"
+
+#. 6qqL
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FISHER.string.text
+msgid "FISHER"
+msgstr "FISHER"
+
+#. d4jE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FISHER_INV.string.text
+msgid "FISHERINV"
+msgstr "FISHERINV"
+
+#. 1ML7
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_S_NORM_INV.string.text
+msgid "NORMSINV"
+msgstr "NORMSINV"
+
+#. YbjG
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GAMMA_LN.string.text
+msgid "GAMMALN"
+msgstr "GAMMALN"
+
+#. B_DU
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_TYPE.string.text
+msgid "ERRORTYPE"
+msgstr "ERRORTYPE"
+
+#. VogA
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FORMULA.string.text
+msgid "FORMULA"
+msgstr "FORMULA"
+
+#. 7YPv
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARABIC.string.text
+msgid "ARABIC"
+msgstr "ARABIC"
+
+#. nd#L
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ARC_TAN_2.string.text
+msgid "ATAN2"
+msgstr "ATAN2"
+
+#. ulJ6
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CEIL.string.text
+msgid "CEILING"
+msgstr "CEILING"
+
+#. dsGJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FLOOR.string.text
+msgid "FLOOR"
+msgstr "FLOOR"
+
+#. umz4
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ROUND.string.text
+msgid "ROUND"
+msgstr "ROUND"
+
+#. fJ83
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ROUND_UP.string.text
+msgid "ROUNDUP"
+msgstr "ROUNDUP"
+
+#. Te83
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ROUND_DOWN.string.text
+msgid "ROUNDDOWN"
+msgstr "ROUNDDOWN"
+
+#. LkG9
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TRUNC.string.text
+msgid "TRUNC"
+msgstr "TRUNC"
+
+#. 6ajg
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LOG.string.text
+msgid "LOG"
+msgstr "LOG"
+
+#. JyM4
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_POWER.string.text
+msgid "POWER"
+msgstr "POWER"
+
+#. umXL
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GGT.string.text
+msgid "GCD"
+msgstr "GCD"
+
+#. aB66
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KGV.string.text
+msgid "LCM"
+msgstr "LCM"
+
+#. 9bus
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MOD.string.text
+msgid "MOD"
+msgstr "MOD"
+
+#. acCX
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM_PRODUCT.string.text
+msgid "SUMPRODUCT"
+msgstr "SUMPRODUCT"
+
+#. lnlx
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM_SQ.string.text
+msgid "SUMSQ"
+msgstr "SUMSQ"
+
+#. Sd3Q
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM_X2MY2.string.text
+msgid "SUMX2MY2"
+msgstr "SUMX2MY2"
+
+#. swfJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM_X2DY2.string.text
+msgid "SUMX2PY2"
+msgstr "SUMX2PY2"
+
+#. sQAp
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM_XMY2.string.text
+msgid "SUMXMY2"
+msgstr "SUMXMY2"
+
+#. ByAY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_DATE.string.text
+msgid "DATE"
+msgstr "DATE"
+
+#. Zcr5
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_TIME.string.text
+msgid "TIME"
+msgstr "TIME"
+
+#. By_V
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_DIFF_DATE.string.text
+msgid "DAYS"
+msgstr "DAYS"
+
+#. OYT9
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_DIFF_DATE_360.string.text
+msgid "DAYS360"
+msgstr "DAYS360"
+
+#. EkZy
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MIN.string.text
+msgid "MIN"
+msgstr "MIN"
+
+#. caC2
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MIN_A.string.text
+msgid "MINA"
+msgstr "MINA"
+
+#. zGzP
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAX.string.text
+msgid "MAX"
+msgstr "MAX"
+
+#. #dfA
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAX_A.string.text
+msgid "MAXA"
+msgstr "MAXA"
+
+#. eMIk
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM.string.text
+msgid "SUM"
+msgstr "SUM"
+
+#. p9ip
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PRODUCT.string.text
+msgid "PRODUCT"
+msgstr "PRODUCT"
+
+#. ZLui
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_AVERAGE.string.text
+msgid "AVERAGE"
+msgstr "AVERAGE"
+
+#. qq7W
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_AVERAGE_A.string.text
+msgid "AVERAGEA"
+msgstr "AVERAGEA"
+
+#. X3M#
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COUNT.string.text
+msgid "COUNT"
+msgstr "COUNT"
+
+#. AQb2
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COUNT_2.string.text
+msgid "COUNTA"
+msgstr "COUNTA"
+
+#. YP9i
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NBW.string.text
+msgid "NPV"
+msgstr "NPV"
+
+#. 63nD
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_IKV.string.text
+msgid "IRR"
+msgstr "IRR"
+
+#. JP#P
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MIRR.string.text
+msgid "MIRR"
+msgstr "MIRR"
+
+#. 5#ey
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ISPMT.string.text
+msgid "ISPMT"
+msgstr "ISPMT"
+
+#. Zjax
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VAR.string.text
+msgid "VAR"
+msgstr "VAR"
+
+#. L2AO
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VAR_A.string.text
+msgid "VARA"
+msgstr "VARA"
+
+#. UhpK
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VAR_P.string.text
+msgid "VARP"
+msgstr "VARP"
+
+#. RRIs
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VAR_P_A.string.text
+msgid "VARPA"
+msgstr "VARPA"
+
+#. O3Cx
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ST_DEV.string.text
+msgid "STDEV"
+msgstr "STDEV"
+
+#. k5EY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ST_DEV_A.string.text
+msgid "STDEVA"
+msgstr "STDEVA"
+
+#. bitk
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ST_DEV_P.string.text
+msgid "STDEVP"
+msgstr "STDEVP"
+
+#. 1TLf
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ST_DEV_P_A.string.text
+msgid "STDEVPA"
+msgstr "STDEVPA"
+
+#. 5PcM
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_B.string.text
+msgid "B"
+msgstr "B"
+
+#. A_Fz
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NORM_DIST.string.text
+msgid "NORMDIST"
+msgstr "NORMDIST"
+
+#. Zvgi
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EXP_DIST.string.text
+msgid "EXPONDIST"
+msgstr "EXPONDIST"
+
+#. 13ar
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BINOM_DIST.string.text
+msgid "BINOMDIST"
+msgstr "BINOMDIST"
+
+#. 4zhj
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_POISSON_DIST.string.text
+msgid "POISSON"
+msgstr "POISSON"
+
+#. VAPQ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KOMBIN.string.text
+msgid "COMBIN"
+msgstr "COMBIN"
+
+#. hrfx
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KOMBIN_2.string.text
+msgid "COMBINA"
+msgstr "COMBINA"
+
+#. I6NV
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VARIATIONEN.string.text
+msgid "PERMUT"
+msgstr "PERMUT"
+
+#. rU8f
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VARIATIONEN_2.string.text
+msgid "PERMUTATIONA"
+msgstr "PERMUTATIONA"
+
+#. kkS#
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BW.string.text
+msgid "PV"
+msgstr "PV"
+
+#. q5zH
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DIA.string.text
+msgid "SYD"
+msgstr "SYD"
+
+#. wsfr
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GDA.string.text
+msgid "DDB"
+msgstr "DDB"
+
+#. IleQ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GDA_2.string.text
+msgid "DB"
+msgstr "DB"
+
+#. OU#m
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_VBD.string.text
+msgid "VDB"
+msgstr "VDB"
+
+#. iJS9
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LAUFZ.string.text
+msgid "DURATION"
+msgstr "DURATION"
+
+#. eiGl
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LIA.string.text
+msgid "SLN"
+msgstr "SLN"
+
+#. ssLg
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RMZ.string.text
+msgid "PMT"
+msgstr "PMT"
+
+#. aHKm
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COLUMNS.string.text
+msgid "COLUMNS"
+msgstr "COLUMNS"
+
+#. HGJT
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ROWS.string.text
+msgid "ROWS"
+msgstr "ROWS"
+
+#. 6PWO
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TABLES.string.text
+msgid "SHEETS"
+msgstr "SHEETS"
+
+#. VX0Q
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COLUMN.string.text
+msgid "COLUMN"
+msgstr "COLUMN"
+
+#. yurD
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ROW.string.text
+msgid "ROW"
+msgstr "ROW"
+
+#. oCca
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TABLE.string.text
+msgid "SHEET"
+msgstr "SHEET"
+
+#. uTOY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ZGZ.string.text
+msgid "RRI"
+msgstr "RRI"
+
+#. 4Bas
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ZW.string.text
+msgid "FV"
+msgstr "FV"
+
+#. L4Bx
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ZZR.string.text
+msgid "NPER"
+msgstr "NPER"
+
+#. wOLP
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ZINS.string.text
+msgid "RATE"
+msgstr "RATE"
+
+#. ibFY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ZINS_Z.string.text
+msgid "IPMT"
+msgstr "IPMT"
+
+#. HV8l
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KAPZ.string.text
+msgid "PPMT"
+msgstr "PPMT"
+
+#. hTUv
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KUM_ZINS_Z.string.text
+msgid "CUMIPMT"
+msgstr "CUMIPMT"
+
+#. b6XN
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KUM_KAP_Z.string.text
+msgid "CUMPRINC"
+msgstr "CUMPRINC"
+
+#. RBrR
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EFFEKTIV.string.text
+msgid "EFFECTIVE"
+msgstr "EFFECTIVE"
+
+#. SXh7
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NOMINAL.string.text
+msgid "NOMINAL"
+msgstr "NOMINAL"
+
+#. 4s#G
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUB_TOTAL.string.text
+msgid "SUBTOTAL"
+msgstr "SUBTOTAL"
+
+#. DhME
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_SUM.string.text
+msgid "DSUM"
+msgstr "DSUM"
+
+#. B#PE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_COUNT.string.text
+msgid "DCOUNT"
+msgstr "DCOUNT"
+
+#. l1YV
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_COUNT_2.string.text
+msgid "DCOUNTA"
+msgstr "DCOUNTA"
+
+#. 6E_n
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_AVERAGE.string.text
+msgid "DAVERAGE"
+msgstr "DAVERAGE"
+
+#. fJj4
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_GET.string.text
+msgid "DGET"
+msgstr "DGET"
+
+#. Ojvv
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_MAX.string.text
+msgid "DMAX"
+msgstr "DMAX"
+
+#. hJdS
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_MIN.string.text
+msgid "DMIN"
+msgstr "DMIN"
+
+#. MIhk
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_PRODUCT.string.text
+msgid "DPRODUCT"
+msgstr "DPRODUCT"
+
+#. qd1D
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_STD_DEV.string.text
+msgid "DSTDEV"
+msgstr "DSTDEV"
+
+#. ViSr
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_STD_DEV_P.string.text
+msgid "DSTDEVP"
+msgstr "DSTDEVP"
+
+#. 6GWR
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_VAR.string.text
+msgid "DVAR"
+msgstr "DVAR"
+
+#. qMya
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DB_VAR_P.string.text
+msgid "DVARP"
+msgstr "DVARP"
+
+#. mplv
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_INDIRECT.string.text
+msgid "INDIRECT"
+msgstr "INDIRECT"
+
+#. Ken9
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ADDRESS.string.text
+msgid "ADDRESS"
+msgstr "ADDRESS"
+
+#. i_hp
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MATCH.string.text
+msgid "MATCH"
+msgstr "MATCH"
+
+#. Ffkf
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COUNT_EMPTY_CELLS.string.text
+msgid "COUNTBLANK"
+msgstr "COUNTBLANK"
+
+#. IiHB
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COUNT_IF.string.text
+msgid "COUNTIF"
+msgstr "COUNTIF"
+
+#. pxdv
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUM_IF.string.text
+msgid "SUMIF"
+msgstr "SUMIF"
+
+#. 7oNF
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LOOKUP.string.text
+msgid "LOOKUP"
+msgstr "LOOKUP"
+
+#. 6LAZ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_V_LOOKUP.string.text
+msgid "VLOOKUP"
+msgstr "VLOOKUP"
+
+#. aWyJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_H_LOOKUP.string.text
+msgid "HLOOKUP"
+msgstr "HLOOKUP"
+
+#. Uu3z
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MULTI_AREA.string.text
+msgid "MULTIRANGE"
+msgstr "MULTIRANGE"
+
+#. 6yjp
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_OFFSET.string.text
+msgid "OFFSET"
+msgstr "OFFSET"
+
+#. thwG
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_INDEX.string.text
+msgid "INDEX"
+msgstr "INDEX"
+
+#. MCH5
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_AREAS.string.text
+msgid "AREAS"
+msgstr "AREAS"
+
+#. YShb
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CURRENCY.string.text
+msgid "DOLLAR"
+msgstr "DOLLAR"
+
+#. 90ib
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_REPLACE.string.text
+msgid "REPLACE"
+msgstr "REPLACE"
+
+#. QdVM
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FIXED.string.text
+msgid "FIXED"
+msgstr "FIXED"
+
+#. FQNj
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FIND.string.text
+msgid "FIND"
+msgstr "FIND"
+
+#. 7uvt
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EXACT.string.text
+msgid "EXACT"
+msgstr "EXACT"
+
+#. G7lh
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LEFT.string.text
+msgid "LEFT"
+msgstr "LEFT"
+
+#. pjA3
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RIGHT.string.text
+msgid "RIGHT"
+msgstr "RIGHT"
+
+#. PJYy
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SEARCH.string.text
+msgid "SEARCH"
+msgstr "SEARCH"
+
+#. kr44
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MID.string.text
+msgid "MID"
+msgstr "MID"
+
+#. xd2S
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TEXT.string.text
+msgid "TEXT"
+msgstr "TEXT"
+
+#. ##LQ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SUBSTITUTE.string.text
+msgid "SUBSTITUTE"
+msgstr "SUBSTITUTE"
+
+#. vt2e
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_REPT.string.text
+msgid "REPT"
+msgstr "REPT"
+
+#. PtrE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CONCAT.string.text
+msgid "CONCATENATE"
+msgstr "CONCATENATE"
+
+#. O5Y6
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAT_VALUE.string.text
+msgid "MVALUE"
+msgstr "MVALUE"
+
+#. DCU1
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAT_DET.string.text
+msgid "MDETERM"
+msgstr "MDETERM"
+
+#. lEwB
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAT_INV.string.text
+msgid "MINVERSE"
+msgstr "MINVERSE"
+
+#. EIKq
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAT_MULT.string.text
+msgid "MMULT"
+msgstr "MMULT"
+
+#. wSq0
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MAT_TRANS.string.text
+msgid "TRANSPOSE"
+msgstr "TRANSPOSE"
+
+#. FlDt
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MATRIX_UNIT.string.text
+msgid "MUNIT"
+msgstr "MUNIT"
+
+#. NTrF
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BACK_SOLVER.string.text
+msgid "GOALSEEK"
+msgstr "GOALSEEK"
+
+#. 503L
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_HYP_GEOM_DIST.string.text
+msgid "HYPGEOMDIST"
+msgstr "HYPGEOMDIST"
+
+#. 1eAC
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LOG_NORM_DIST.string.text
+msgid "LOGNORMDIST"
+msgstr "LOGNORMDIST"
+
+#. WNn5
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_T_DIST.string.text
+msgid "TDIST"
+msgstr "TDIST"
+
+#. #EtW
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_F_DIST.string.text
+msgid "FDIST"
+msgstr "FDIST"
+
+#. pag6
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHI_DIST.string.text
+msgid "CHIDIST"
+msgstr "CHIDIST"
+
+#. ABrP
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_WEIBULL.string.text
+msgid "WEIBULL"
+msgstr "WEIBULL"
+
+#. JpZM
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NEG_BINOM_VERT.string.text
+msgid "NEGBINOMDIST"
+msgstr "NEGBINOMDIST"
+
+#. Rkqc
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KRIT_BINOM.string.text
+msgid "CRITBINOM"
+msgstr "CRITBINOM"
+
+#. FnJW
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_KURT.string.text
+msgid "KURT"
+msgstr "KURT"
+
+#. 33GT
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_HAR_MEAN.string.text
+msgid "HARMEAN"
+msgstr "HARMEAN"
+
+#. ZDuJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GEO_MEAN.string.text
+msgid "GEOMEAN"
+msgstr "GEOMEAN"
+
+#. 5la0
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_STANDARD.string.text
+msgid "STANDARDIZE"
+msgstr "STANDARDIZE"
+
+#. #2_b
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_AVE_DEV.string.text
+msgid "AVEDEV"
+msgstr "AVEDEV"
+
+#. V8Hj
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SCHIEFE.string.text
+msgid "SKEW"
+msgstr "SKEW"
+
+#. 6mqU
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DEV_SQ.string.text
+msgid "DEVSQ"
+msgstr "DEVSQ"
+
+#. Mhxt
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MEDIAN.string.text
+msgid "MEDIAN"
+msgstr "MEDIAN"
+
+#. RIB6
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_MODAL_VALUE.string.text
+msgid "MODE"
+msgstr "MODE"
+
+#. Savn
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_Z_TEST.string.text
+msgid "ZTEST"
+msgstr "ZTEST"
+
+#. MJ4j
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_T_TEST.string.text
+msgid "TTEST"
+msgstr "TTEST"
+
+#. MwJy
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RANK.string.text
+msgid "RANK"
+msgstr "RANK"
+
+#. 5LdX
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PERCENTILE.string.text
+msgid "PERCENTILE"
+msgstr "PERCENTILE"
+
+#. q2V_
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PERCENT_RANK.string.text
+msgid "PERCENTRANK"
+msgstr "PERCENTRANK"
+
+#. rA17
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LARGE.string.text
+msgid "LARGE"
+msgstr "LARGE"
+
+#. NfNy
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SMALL.string.text
+msgid "SMALL"
+msgstr "SMALL"
+
+#. Idw7
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FREQUENCY.string.text
+msgid "FREQUENCY"
+msgstr "FREQUENCY"
+
+#. VvcS
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_QUARTILE.string.text
+msgid "QUARTILE"
+msgstr "QUARTILE"
+
+#. kGWa
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NORM_INV.string.text
+msgid "NORMINV"
+msgstr "NORMINV"
+
+#. Be34
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CONFIDENCE.string.text
+msgid "CONFIDENCE"
+msgstr "CONFIDENCE"
+
+#. 8A28
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_F_TEST.string.text
+msgid "FTEST"
+msgstr "FTEST"
+
+#. WQkg
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TRIM_MEAN.string.text
+msgid "TRIMMEAN"
+msgstr "TRIMMEAN"
+
+#. 2#gY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PROB.string.text
+msgid "PROB"
+msgstr "PROB"
+
+#. QOFs
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CORREL.string.text
+msgid "CORREL"
+msgstr "CORREL"
+
+#. IsBS
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_COVAR.string.text
+msgid "COVAR"
+msgstr "COVAR"
+
+#. HpsK
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_PEARSON.string.text
+msgid "PEARSON"
+msgstr "PEARSON"
+
+#. CBun
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RSQ.string.text
+msgid "RSQ"
+msgstr "RSQ"
+
+#. 6OD2
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_STEYX.string.text
+msgid "STEYX"
+msgstr "STEYX"
+
+#. r7nY
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_SLOPE.string.text
+msgid "SLOPE"
+msgstr "SLOPE"
+
+#. aHcl
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_INTERCEPT.string.text
+msgid "INTERCEPT"
+msgstr "INTERCEPT"
+
+#. 84Wx
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TREND.string.text
+msgid "TREND"
+msgstr "TREND"
+
+#. ygZ4
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GROWTH.string.text
+msgid "GROWTH"
+msgstr "GROWTH"
+
+#. 4lIa
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RGP.string.text
+msgid "LINEST"
+msgstr "LINEST"
+
+#. nzEW
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_RKP.string.text
+msgid "LOGEST"
+msgstr "LOGEST"
+
+#. zyfE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_FORECAST.string.text
+msgid "FORECAST"
+msgstr "FORECAST"
+
+#. 7Zz#
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHI_INV.string.text
+msgid "CHIINV"
+msgstr "CHIINV"
+
+#. YPfu
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GAMMA_DIST.string.text
+msgid "GAMMADIST"
+msgstr "GAMMADIST"
+
+#. HVzv
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GAMMA_INV.string.text
+msgid "GAMMAINV"
+msgstr "GAMMAINV"
+
+#. S3BJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_T_INV.string.text
+msgid "TINV"
+msgstr "TINV"
+
+#. rskE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_F_INV.string.text
+msgid "FINV"
+msgstr "FINV"
+
+#. 5WVk
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHI_TEST.string.text
+msgid "CHITEST"
+msgstr "CHITEST"
+
+#. uH80
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_LOG_INV.string.text
+msgid "LOGINV"
+msgstr "LOGINV"
+
+#. glpn
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_TABLE_OP.string.text
+msgid "MULTIPLE.OPERATIONS"
+msgstr "MULTIPLE.OPERATIONS"
+
+#. C82Q
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BETA_DIST.string.text
+msgid "BETADIST"
+msgstr "BETADIST"
+
+#. ORjI
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BETA_INV.string.text
+msgid "BETAINV"
+msgstr "BETAINV"
+
+#. 69Td
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_WEEK.string.text
+msgid "WEEKNUM"
+msgstr "WEEKNUM"
+
+#. 4vD8
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EASTERSUNDAY.string.text
+msgid "EASTERSUNDAY"
+msgstr "EASTERSUNDAY"
+
+#. 7G17
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_DAY_OF_WEEK.string.text
+msgid "WEEKDAY"
+msgstr "WEEKDAY"
+
+#. 9xNF
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NO_NAME.string.text
+msgid "#NAME!"
+msgstr "#NAME!"
+
+#. GsMe
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_STYLE.string.text
+msgid "STYLE"
+msgstr "STYLE"
+
+#. ycO8
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DDE.string.text
+msgid "DDE"
+msgstr "DDE"
+
+#. sYFR
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BASE.string.text
+msgid "BASE"
+msgstr "BASE"
+
+#. QKlD
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_DECIMAL.string.text
+msgid "DECIMAL"
+msgstr "DECIMAL"
+
+#. idyn
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CONVERT.string.text
+msgid "CONVERT"
+msgstr "CONVERT"
+
+#. SWup
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ROMAN.string.text
+msgid "ROMAN"
+msgstr "ROMAN"
+
+#. Wn2R
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_HYPERLINK.string.text
+msgid "HYPERLINK"
+msgstr "HYPERLINK"
+
+#. muip
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_INFO.string.text
+msgid "INFO"
+msgstr "INFO"
+
+#. UJxT
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BAHTTEXT.string.text
+msgid "BAHTTEXT"
+msgstr "BAHTTEXT"
+
+#. xT6v
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GET_PIVOT_DATA.string.text
+msgid "GETPIVOTDATA"
+msgstr "GETPIVOTDATA"
+
+#. uHfE
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_EUROCONVERT.string.text
+msgid "EUROCONVERT"
+msgstr "EUROCONVERT"
+
+#. gmqf
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_NUMBERVALUE.string.text
+msgid "NUMBERVALUE"
+msgstr "NUMBERVALUE"
+
+#. u#cC
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_GAMMA.string.text
+msgid "GAMMA"
+msgstr "GAMMA"
+
+#. n1Y6
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHISQ_DIST.string.text
+msgid "CHISQDIST"
+msgstr "CHISQDIST"
+
+#. #dTC
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_CHISQ_INV.string.text
+msgid "CHISQINV"
+msgstr "CHISQINV"
+
+#. kVO3
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BITAND.string.text
+msgid "BITAND"
+msgstr ""
+
+#. jfNa
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BITOR.string.text
+msgid "BITOR"
+msgstr ""
+
+#. 8EVi
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BITXOR.string.text
+msgid "BITXOR"
+msgstr ""
+
+#. XAvu
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BITRSHIFT.string.text
+msgid "BITRSHIFT"
+msgstr ""
+
+#. ROB5
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_BITLSHIFT.string.text
+msgid "BITLSHIFT"
+msgstr ""
+
+#. AOTR
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_NULL.string.text
+msgid "#NULL!"
+msgstr "#NULL!"
+
+#. 0x4v
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_DIVZERO.string.text
+msgid "#DIV/0!"
+msgstr "#DIV/0!"
+
+#. 2m0g
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_VALUE.string.text
+msgid "#VALUE!"
+msgstr "#VALUE!"
+
+#. Feo6
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_REF.string.text
+msgid "#REF!"
+msgstr "#REF!"
+
+#. aibJ
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_NAME.string.text
+msgid "#NAME?"
+msgstr "#NAME?"
+
+#. 5bFL
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_NUM.string.text
+msgid "#NUM!"
+msgstr "#NUM!"
+
+#. 6P6t
+#: core_resource.src#RID_STRLIST_FUNCTION_NAMES.SC_OPCODE_ERROR_NA.string.text
+msgid "#N/A"
+msgstr "#N/A"
