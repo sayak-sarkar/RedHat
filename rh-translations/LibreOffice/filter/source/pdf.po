@@ -1,20 +1,21 @@
 #. extracted from filter/source/pdf.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+filter%2Fsource%2Fpdf.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-20 02:49+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. MEGN
@@ -29,15 +30,13 @@ msgstr "এক্সপোর্ট (~x)"
 
 #. RfO3
 #: impdialog.src#STR_PDF_EXPORT_UDPWD.string.text
-#, fuzzy
 msgid "Set open password"
-msgstr "উন্মুক্ত পাসওয়ার্ড নির্ধারণ করুন... (~o)"
+msgstr "উন্মুক্ত পাসওয়ার্ড নির্ধারণ করুন... "
 
 #. swsH
 #: impdialog.src#STR_PDF_EXPORT_ODPWD.string.text
-#, fuzzy
 msgid "Set permission password"
-msgstr "অনুমোদন পাসওয়ার্ড নির্ধারণ... (~p)"
+msgstr "অনুমোদন পাসওয়ার্ড নির্ধারণ... "
 
 #. 136y
 #: impdialog.src#RID_PDF_TAB_GENER.FL_PAGES.fixedline.text
@@ -149,9 +148,8 @@ msgstr "টীকার পৃষ্ঠা এক্সপোর্ট (~n)"
 # 75%
 #. KQ22
 #: impdialog.src#CB_EXPORTHIDDENSLIDES.checkbox.text
-#, fuzzy
 msgid "Export ~hidden pages"
-msgstr "টীকার পৃষ্ঠা এক্সপোর্ট (~n)"
+msgstr "গোপনীয় পৃষ্ঠা এক্সপোর্ট (~h)"
 
 #. sx59
 #: impdialog.src#CB_EXPORTEMPTYPAGES.checkbox.text
@@ -172,9 +170,8 @@ msgstr ""
 
 #. F1f7
 #: impdialog.src#RID_PDF_WARNPDFAPASSWORD.warningbox.title
-#, fuzzy
 msgid "PDF/A Export"
-msgstr "Dif এক্সপোর্ট"
+msgstr "PDF/A এক্সপোর্ট"
 
 #. cllR
 #: impdialog.src#RID_PDF_TAB_OPNFTR.FL_INITVIEW.fixedline.text
@@ -345,21 +342,18 @@ msgstr "ব্যবহারকারী ইন্টারফেস"
 
 #. s_Jp
 #: impdialog.src#RID_PDF_TAB_SECURITY.FL_PWD_GROUP.fixedline.text
-#, fuzzy
 msgid "File encryption and permission"
-msgstr "ফাইল এনক্রিপশন পাসওয়ার্ড"
+msgstr "ফাইল এনক্রিপশন এবং অনুমোদন"
 
 #. iXKF
 #: impdialog.src#RID_PDF_TAB_SECURITY.BTN_SET_PWD.pushbutton.text
-#, fuzzy
 msgid "Set ~passwords..."
-msgstr "উন্মুক্ত পাসওয়ার্ড নির্ধারণ করুন... (~o)"
+msgstr "পাসওয়ার্ডসমূহ নির্ধারণ করুন... (~p)"
 
 #. cnRT
 #: impdialog.src#RID_PDF_TAB_SECURITY.STR_SET_PWD.string.text
-#, fuzzy
 msgid "Set passwords"
-msgstr "পাসওয়ার্ড নির্ধারণ"
+msgstr "পাসওয়ার্ডসমূহ নির্ধারণ করুন"
 
 #. hqnd
 #: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_SET.string.text
@@ -383,9 +377,8 @@ msgstr "PDF নথি এনক্রিপ্ট করা হবে"
 
 #. BO3T
 #: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_PDFA.string.text
-#, fuzzy
 msgid "PDF document will not be encrypted due to PDF/A export."
-msgstr "PDF নথি এনক্রিপ্ট করা হবে"
+msgstr "PDF নথি এনক্রিপ্ট করা হবেনা PDF/A এক্সপোর্টের জন্য।"
 
 #. DHrS
 #: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_SET.string.text
@@ -409,9 +402,8 @@ msgstr "PDF নথি সীমিত করা হবে না"
 
 #. C9GA
 #: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_PDFA.string.text
-#, fuzzy
 msgid "PDF document will not be restricted due to PDF/A export."
-msgstr "PDF নথি সীমিত করা হবে"
+msgstr "PDF নথি সীমিত করা হবেনা PDF/A এক্সপোর্টের জন্য।"
 
 #. 4EPu
 #: impdialog.src#RID_PDF_TAB_SECURITY.FL_PRINT_PERMISSIONS.fixedline.text
@@ -568,7 +560,8 @@ msgstr "PDF/A স্বচ্ছতা"
 msgid ""
 "PDF/A forbids transparency. A transparent object was painted opaque instead."
 msgstr ""
-"PDF/A স্বচ্ছতা সমর্থন করে না। একটি স্বচ্ছ বস্তুকে স্বচ্ছতার পরিবর্তে অস্বচ্ছ রঙ করা "
+"PDF/A স্বচ্ছতা সমর্থন করে না। একটি স্বচ্ছ বস্তুকে স্বচ্ছতার পরিবর্তে অস্বচ্ছ "
+"রঙ করা "
 "হয়েছে।"
 
 #. 9nNt
@@ -582,7 +575,8 @@ msgid ""
 "Transparency is not supported in PDF versions earlier than PDF 1.4. A "
 "transparent object was painted opaque instead"
 msgstr ""
-"PDF 1.4 এর আগের সংস্করণগুলো PDF স্বচ্ছতা সমর্থন করেনা। স্বচ্ছতার পরিবর্তে একটি বস্তুকে "
+"PDF 1.4 এর আগের সংস্করণগুলো PDF স্বচ্ছতা সমর্থন করেনা। স্বচ্ছতার পরিবর্তে "
+"একটি বস্তুকে "
 "অস্বচ্ছ করা হয়েছে।"
 
 #. uhsL
@@ -596,7 +590,8 @@ msgid ""
 "A form control contained an action not supported by the PDF/A standard. The "
 "action was skipped"
 msgstr ""
-"ফর্ম কন্ট্রোল এমন একটি ক্রিয়া ধারণ করে যা PDF/A দ্বারা সমর্থিত নয়। ক্রিয়াটি এড়িয়ে "
+"ফর্ম কন্ট্রোল এমন একটি ক্রিয়া ধারণ করে যা PDF/A দ্বারা সমর্থিত নয়। "
+"ক্রিয়াটি এড়িয়ে "
 "যাওয়া হয়েছে"
 
 #. Bvqf
@@ -607,8 +602,10 @@ msgid ""
 "better results can be achieved if you remove the transparent objects before "
 "exporting."
 msgstr ""
-"স্বচ্ছতা সরিয়ে দিতে কিছু বস্তুকে একটি চিত্রে রূপান্তর করা হয়েছিল, কারণ গন্তব্য PDF "
-"ফরম্যাট স্বচ্ছতা সমর্থন করে না। সম্ভবত ভাল ফলাফল অর্জন করা যাবে যদি আপনি এক্সপোর্ট "
+"স্বচ্ছতা সরিয়ে দিতে কিছু বস্তুকে একটি চিত্রে রূপান্তর করা হয়েছিল, কারণ "
+"গন্তব্য PDF "
+"ফরম্যাট স্বচ্ছতা সমর্থন করে না। সম্ভবত ভাল ফলাফল অর্জন করা যাবে যদি আপনি "
+"এক্সপোর্ট "
 "করার পূর্বে স্বচ্ছ বস্তুসমূহ সরিয়ে দিন।"
 
 #. th0P
@@ -620,3 +617,4 @@ msgstr "স্বচ্ছতাসমূহ সরিয়ে ফেলা হ
 #: impdialog.src#RID_PDF_ERROR_DLG.modaldialog.text
 msgid "Problems during PDF export"
 msgstr "PDF এক্সপোর্ট করার সময় ত্রুটি "
+

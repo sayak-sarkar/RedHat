@@ -1,20 +1,21 @@
 #. extracted from wizards/source/euro.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+wizards%2Fsource%2Feuro.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-04-05 10:47+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-20 01:19+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. l5X#
@@ -43,7 +44,8 @@ msgid ""
 "Note: Currency amounts from external links and currency conversion factors "
 "in formulas cannot be converted."
 msgstr ""
-"নোট: সূত্রের বাহ্যিক লিংক থেকে মুদ্রার পরিমাণ এবং মুদ্রা রূপান্তর সম্পর্কিত বিষয়সমূহ "
+"নোট: সূত্রের বাহ্যিক লিংক থেকে মুদ্রার পরিমাণ এবং মুদ্রা রূপান্তর সম্পর্কিত "
+"বিষয়সমূহ "
 "রূপান্তর করা যাবে না।"
 
 #. VGqJ
@@ -263,7 +265,8 @@ msgid ""
 "The Wizard cannot edit this document as cell formats cannot be modified in "
 "documents containing protected spreadsheets."
 msgstr ""
-"উইজার্ড এই নথি সম্পাদনা করতে পারবেনা কারণ যেসব নথিতে সুরক্ষিত স্প্রেডশীট আছে তাতে "
+"উইজার্ড এই নথি সম্পাদনা করতে পারবেনা কারণ যেসব নথিতে সুরক্ষিত স্প্রেডশীট আছে "
+"তাতে "
 "ঘরের ফরম্যাট পরিবর্তন করা যাচ্ছে না।"
 
 #. 8GbT
@@ -271,7 +274,8 @@ msgstr ""
 msgid ""
 "Please note that the Euro Converter will, otherwise, not be able to edit "
 "this document!"
-msgstr "মনে রাখবেন, ইউরো রূপান্তরক পারবে, অন্যথায় এই নথি সম্পাদনা করতে পারবেনা!"
+msgstr ""
+"মনে রাখবেন, ইউরো রূপান্তরক পারবে, অন্যথায় এই নথি সম্পাদনা করতে পারবেনা!"
 
 #. V3h4
 #: euro.src#MESSAGES___15.string.text
@@ -406,7 +410,7 @@ msgstr "স্লোভাক করুনা"
 #. QWb_
 #: euro.src#CURRENCIES___16.string.text
 msgid "Estonian Kroon"
-msgstr ""
+msgstr "এসটোনিয়ান ক্রণ"
 
 #. Dphc
 #: euro.src#CURRENCIES___17.string.text
@@ -445,3 +449,4 @@ msgstr "সেটিংসমূহ:"
 #: euro.src#STEP_LASTPAGE___4.string.text
 msgid "Sheet is always unprotected"
 msgstr "শীটটি সবসময় অরক্ষিত থাকে"
+

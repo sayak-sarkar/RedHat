@@ -1,4 +1,5 @@
 #. extracted from scp2/source/extensions.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: 6thmarch2011\n"
@@ -6,88 +7,77 @@ msgstr ""
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+scp2%2Fsource%2Fextensions.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-06-30 13:19+0600\n"
-"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-20 02:59+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. V58u
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
-#, fuzzy
 msgid "English"
 msgstr "ইংরেজি"
 
 #. pFOh
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
-#, fuzzy
 msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ ইংরেজি সাপোর্ট ইনস্টল "
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ ইংরেজি সাপোর্ট ইনস্টল করে"
 
 #. VL8v
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
-#, fuzzy
 msgid "German"
 msgstr "জার্মান"
 
 #. jEBY
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
-#, fuzzy
 msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ জার্মান সাপোর্ট ইনস্টল "
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ জার্মান সাপোর্ট ইনস্টল করে"
 
 #. vfhJ
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
-#, fuzzy
 msgid "French"
 msgstr "ফ্রেঞ্চ"
 
 #. Boe8
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
-#, fuzzy
 msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ ফ্রেঞ্চ সাপোর্ট ইনস্টল "
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ ফ্রেঞ্চ সাপোর্ট ইনস্টল করে"
 
 #. DA0u
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
-#, fuzzy
 msgid "Italian"
 msgstr "ইটালিয়ান"
 
 #. _H3Z
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
-#, fuzzy
 msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ ইটালিয়ান সাপোর্ট ইনস্টল "
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ ইটালিয়ান সাপোর্ট ইনস্টল করে"
 
 #. 28Zp
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
-#, fuzzy
 msgid "Spanish"
 msgstr "স্প্যানিশ"
 
 #. mJWe
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
-#, fuzzy
 msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ স্প্যানিশ সাপোর্ট ইনস্টল "
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ স্প্যানিশ সাপোর্ট ইনস্টল করে"
 
 #. XnZN
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
-#, fuzzy
 msgid "Hungarian"
 msgstr "হাঙ্গেরিয়"
 
 #. JgWC
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
-#, fuzzy
 msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ হাঙ্গেরিয় সাপোর্ট ইনস্টল "
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ হাঙ্গেরিয় সাপোর্ট ইনস্টল করে"
 
 #. LO_o
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS.LngText.text
@@ -207,7 +197,8 @@ msgid ""
 "articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number "
 "combination in cross-references."
 msgstr ""
-"টুলবার যা স্বয়ংক্রিয় শর্তাধীন হাঙ্গেরিয় নিবন্ধসহ প্রতিনির্দেশ যোগ করে (eg. *az* 5. "
+"টুলবার যা স্বয়ংক্রিয় শর্তাধীন হাঙ্গেরিয় নিবন্ধসহ প্রতিনির্দেশ যোগ করে (eg. "
+"*az* 5. "
 "ábra, *a* 6. ábra) যাতে করে প্রতিনির্দেশে ভুল নিবন্ধ ও সংখ্যার মিশ্রণ না থাকে।"
 
 #. JDhA
@@ -223,9 +214,12 @@ msgid ""
 "minus sign, real superscript and subscript, German umlaut variants, "
 "fractions."
 msgstr ""
-"গ্রাফাইট স্মার্ট ফন্টের বৈশিষ্ট্যের টুলবার: লিগেচার, ক্ষুদ্রাকৃতির বড় হাতের অক্ষর, পুরনো "
-"শৈলীর সংখ্যা, আনুপাতিক বা মনোস্পেসযুক্ত সংখ্যা, স্বয়ংক্রিয় এক হাজার বিভাজক, বিয়োগ "
-"চিহ্ন, বাস্তবসম্মত ঊর্ধ্বলিপি ও নিম্নলিপি, জার্মান umlaut ভ্যারিয়েন্ট, ভগ্নাংশ।"
+"গ্রাফাইট স্মার্ট ফন্টের বৈশিষ্ট্যের টুলবার: লিগেচার, ক্ষুদ্রাকৃতির বড় হাতের "
+"অক্ষর, পুরনো "
+"শৈলীর সংখ্যা, আনুপাতিক বা মনোস্পেসযুক্ত সংখ্যা, স্বয়ংক্রিয় এক হাজার বিভাজক, "
+"বিয়োগ "
+"চিহ্ন, বাস্তবসম্মত ঊর্ধ্বলিপি ও নিম্নলিপি, জার্মান umlaut ভ্যারিয়েন্ট, "
+"ভগ্নাংশ।"
 
 #. Tenp
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text

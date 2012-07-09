@@ -1,20 +1,21 @@
 #. extracted from sysui/desktop/share.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sysui%2Fdesktop%2Fshare.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-07-11 11:26+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-13 21:05+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. seqx
@@ -32,7 +33,8 @@ msgid ""
 "Create and edit presentations for slideshows, meeting and Web pages by using "
 "Impress."
 msgstr ""
-"ইমপ্রেস ব্যবহার করে স্লাইড-প্রদর্শনী, মিটিং এবং ওয়েবপেজের জন্য উপস্থাপনা তৈরি এবং "
+"ইমপ্রেস ব্যবহার করে স্লাইড-প্রদর্শনী, মিটিং এবং ওয়েবপেজের জন্য উপস্থাপনা "
+"তৈরি এবং "
 "সম্পাদনা করুন।"
 
 #. s1nI
@@ -42,17 +44,18 @@ msgstr "ড্র ব্যবহার করে অঙ্কন, প্রব�
 
 #. LFFj
 #: launcher_comment.ulf#calc.LngText.text
-#, fuzzy
 msgid ""
 "Perform calculations, analyze information and manage lists in spreadsheets "
 "by using Calc."
 msgstr ""
-"ক্যালক ব্যবহার করে স্প্রেডশীটে হিসাব, তথ্য বিশ্লেষণ,এবং তালিকা ব্যবস্থাপনা করুন।"
+"ক্যাল্ক ব্যবহার করে স্প্রেডশীটের হিসাব, তথ্য বিশ্লেষণ,এবং তালিকা ব্যবস্থাপনা "
+"করুন।"
 
 #. bc5g
 #: launcher_comment.ulf#math.LngText.text
 msgid "Create and edit scientific formulas and equations by using Math."
-msgstr "ম্যাথ ব্যবহার করে বৈজ্ঞানিক ফর্মূলা এবং সমীকরণ তৈরি এবং সম্পাদনা করুন। "
+msgstr ""
+"ম্যাথ ব্যবহার করে বৈজ্ঞানিক ফর্মূলা এবং সমীকরণ তৈরি এবং সম্পাদনা করুন। "
 
 #. l8Gh
 #: launcher_comment.ulf#base.LngText.text
@@ -60,7 +63,8 @@ msgid ""
 "Manage databases, create queries and reports to track and manage your "
 "information by using Base."
 msgstr ""
-"বেস ব্যবহার করে আপনার তথ্য অনুসরণ এবং ব্যবস্থাপনা করতে, ডাটাবেস ব্যবস্থাপনা, কোয়েরি "
+"বেস ব্যবহার করে আপনার তথ্য অনুসরণ এবং ব্যবস্থাপনা করতে, ডাটাবেস ব্যবস্থাপনা, "
+"কোয়েরি "
 "এবং প্রতিবেদন তৈরি করুন।"
 
 #. 8PL0
@@ -69,7 +73,8 @@ msgid ""
 "The office productivity suite compatible to the open and standardized ODF "
 "document format. Supported by The Document Foundation."
 msgstr ""
-"অফিস প্রোডাক্টিভিটি স্যুট মুক্ত ও আদর্শ ODF নথি বিন্যাসের সাথে সঙ্গতিপূর্ণ। নথি "
+"অফিস প্রোডাক্টিভিটি স্যুট মুক্ত ও আদর্শ ODF নথি বিন্যাসের সাথে সঙ্গতিপূর্ণ। "
+"নথি "
 "ফাউন্ডেশন দ্বারা সমর্থিত।"
 
 #. hqyP
@@ -348,3 +353,4 @@ msgstr "মাইক্রোসফট ওয়ার্ড নথির ফর্
 msgctxt "documents.ulf#ms_excel_sheet_binary_12.LngText.text"
 msgid "Microsoft Excel Worksheet"
 msgstr "মাইক্রোসফট এক্সেল ওয়ার্কশীট"
+

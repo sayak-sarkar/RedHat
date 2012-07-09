@@ -1,20 +1,21 @@
 #. extracted from svtools/source/misc.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+svtools%2Fsource%2Fmisc.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-20 02:30+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -176,7 +177,7 @@ msgstr "আরবি (ইয়েমেন)"
 #. KrI7
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARAGONESE.pairedlist.text
 msgid "Aragonese"
-msgstr ""
+msgstr "আরাগোনিস্স"
 
 #. enxw
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARMENIAN.pairedlist.text
@@ -226,7 +227,7 @@ msgstr "কাটালান"
 #. ziZB
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_CATALAN_VALENCIAN.pairedlist.text
 msgid "Catalan (Valencian)"
-msgstr ""
+msgstr "ক্যাটালান (ভ্যেলেশিয়ান)স"
 
 #. 6ZLI
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CHINESE_TRADITIONAL.pairedlist.text
@@ -1516,7 +1517,7 @@ msgstr "বোচি"
 #. SpG2
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TEKE_EBOO.pairedlist.text
 msgid "Teke-Eboo"
-msgstr ""
+msgstr "টেকে-এবু"
 
 #. fddk
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TEKE_IBALI.pairedlist.text
@@ -1536,12 +1537,12 @@ msgstr "ভিলি"
 #. W1Z3
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KEYID.pairedlist.text
 msgid "KeyID"
-msgstr ""
+msgstr "কি-আইডি"
 
 #. 9Ehu
 #: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_PALI_LATIN.pairedlist.text
 msgid "Pali Latin"
-msgstr ""
+msgstr "পালি ল্যাটিন"
 
 #. enNH
 #: undo.src#STR_UNDO.string.text
@@ -1719,35 +1720,32 @@ msgstr "ডাটাবেস "
 # 94%
 #. BBVd
 #: imagemgr.src#STR_DESCRIPTION_CALC_TEMPLATE.string.text
-#, fuzzy
 msgid ""
 "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Spreadsheet Template"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION স্প্রেডশীট"
+msgstr ""
+"%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION স্প্রেডশীট ফর্মা"
 
 # 80%
 #. oMZt
 #: imagemgr.src#STR_DESCRIPTION_DRAW_TEMPLATE.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Drawing Template"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION অঙ্কন ফর্মা"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION অঙ্কন ফর্মা"
 
 # 80%
 # 95%
 #. 7xdG
 #: imagemgr.src#STR_DESCRIPTION_IMPRESS_TEMPLATE.string.text
-#, fuzzy
 msgid ""
 "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Presentation Template"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION উপস্থাপনা"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION উপস্থাপনা ফর্মা"
 
 # 80%
 # 97%
 #. _e9a
 #: imagemgr.src#STR_DESCRIPTION_WRITER_TEMPLATE.string.text
-#, fuzzy
 msgid ""
 "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Text Document Template"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION লেখা নথি"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION লেখা নথি ফর্মা"
 
 #. 1U3U
 #: imagemgr.src#STR_DESCRIPTION_LOCALE_VOLUME.string.text
@@ -1787,51 +1785,44 @@ msgstr "এমএস PowerPoint প্রদর্শনী"
 # 79%
 #. MMeb
 #: imagemgr.src#STR_DESCRIPTION_SXMATH_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Formula"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION সূত্র"
+msgstr "%PRODUCTXMLFILEFORMATNAME  %PRODUCTXMLFILEFORMATVERSION সূত্র"
 
 # 78%
 #. 1WQR
 #: imagemgr.src#STR_DESCRIPTION_SXCHART_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Chart"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION লেখচিত্র"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION লেখচিত্র"
 
 # 79%
 #. 1b06
 #: imagemgr.src#STR_DESCRIPTION_SXDRAW_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Drawing"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION অঙ্কন"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION অঙ্কন"
 
 # 80%
 #. DuYJ
 #: imagemgr.src#STR_DESCRIPTION_SXCALC_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Spreadsheet"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION স্প্রেডশীট"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION স্প্রেডশীট"
 
 # 80%
 #. AMGJ
 #: imagemgr.src#STR_DESCRIPTION_SXIMPRESS_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Presentation"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION উপস্থাপনা"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION উপস্থাপনা"
 
 # 80%
 #. wTM7
 #: imagemgr.src#STR_DESCRIPTION_SXWRITER_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Text Document"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION লেখা নথি"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION লেখা নথি"
 
 # 81%
 #. 2d39
 #: imagemgr.src#STR_DESCRIPTION_SXGLOBAL_DOC.string.text
-#, fuzzy
 msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Master Document"
-msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION মাস্টার নথি"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION মাস্টার নথি"
 
 #. 1V85
 #: imagemgr.src#STR_DESCRIPTION_MATHML_DOC.string.text

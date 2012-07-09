@@ -1,21 +1,23 @@
 #. extracted from sw/source/ui/config.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sw%2Fsource%2Fui%2Fconfig.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-06-21 13:19+0600\n"
-"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-14 23:52+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. VXyF
 #: redlopt.src#TP_REDLINE_OPT.FL_TE.fixedline.text
@@ -206,7 +208,7 @@ msgstr "গাইড"
 #. XTdq
 #: optdlg.src#TP_CONTENT_OPT.CB_CROSS.checkbox.text
 msgid "Helplines ~While Moving"
-msgstr ""
+msgstr "স্থানান্তরের জন্য হেল্পলাইনস্স"
 
 #. pX5m
 #: optdlg.src#TP_CONTENT_OPT.FL_WINDOW.fixedline.text
@@ -938,7 +940,8 @@ msgstr "%WRITERCOMPATIBILITYVERSIONOOO11 বস্তু অবস্থিত�
 #. RUz6
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_USE_OURTEXTWRAPPING.string.text
 msgid "Use %WRITERCOMPATIBILITYVERSIONOOO11 text wrapping around objects"
-msgstr "%WRITERCOMPATIBILITYVERSIONOOO11 বস্তুর চতুর্দিকে লেখা মোড়ানো ব্যবহার করুন"
+msgstr ""
+"%WRITERCOMPATIBILITYVERSIONOOO11 বস্তুর চতুর্দিকে লেখা মোড়ানো ব্যবহার করুন"
 
 #. wgQY
 #: optcomp.src#TP_OPTCOMPATIBILITY_PAGE.STR_CONSIDER_WRAPPINGSTYLE.string.text
@@ -950,7 +953,8 @@ msgstr "বস্তু অবস্থিতকরণের সময় মোড
 msgid ""
 "Expand word space on lines with manual line breaks in justified paragraphs"
 msgstr ""
-"উভয়প্রান্তিক অনুচ্ছেদে স্বনির্ধারিত লাইন বিভাজক থাকলে, শব্দের মধ্যবর্তী ফাঁকাস্থান "
+"উভয়প্রান্তিক অনুচ্ছেদে স্বনির্ধারিত লাইন বিভাজক থাকলে, শব্দের মধ্যবর্তী "
+"ফাঁকাস্থান "
 "বর্ধিত করা হবে"
 
 #. w1bF
@@ -1071,7 +1075,8 @@ msgid ""
 "the port and the secure connections settings"
 msgstr ""
 "%PRODUCTNAME বহির্গামী মেইল সার্ভারের সাথে সংযুক্ত হতে পারেনি। আপনার সিস্টেম "
-"সেটিং এবং %PRODUCTNAME সেটিং পরীক্ষা করুন। সার্ভারের নাম, পোর্ট এবং নিরাপদ সংযোগ "
+"সেটিং এবং %PRODUCTNAME সেটিং পরীক্ষা করুন। সার্ভারের নাম, পোর্ট এবং নিরাপদ "
+"সংযোগ "
 "সেটিং পরীক্ষা করুন"
 
 #. D8Ai
@@ -1082,7 +1087,8 @@ msgstr "বহির্গামী মেইল সার্ভারের (SM
 #. qgPf
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.RB_SEP_AUTHENTICATION.radiobutton.text
 msgid "The outgoing mail server (SMTP) requires ~separate authentication"
-msgstr "বহির্গামী মেইল সার্ভারের (SMTP) পৃথক কার্যকারিতা নিশ্চিতকরণ প্রয়োজন (~s)"
+msgstr ""
+"বহির্গামী মেইল সার্ভারের (SMTP) পৃথক কার্যকারিতা নিশ্চিতকরণ প্রয়োজন (~s)"
 
 #. inq8
 #: mailconfigpage.src#DLG_MM_SERVERAUTHENTICATION.FT_OUTGOINGSERVER.fixedtext.text
@@ -1105,7 +1111,8 @@ msgid ""
 "The outgoing mail server uses the same authentication as the ~incoming mail "
 "server. Enter the settings of the incoming mail server."
 msgstr ""
-"বহির্গামী মেইল সার্ভার, অন্তর্গামী মেইল সার্ভারের মতো একই কার্যকারিতা নিশ্চিতকরণ "
+"বহির্গামী মেইল সার্ভার, অন্তর্গামী মেইল সার্ভারের মতো একই কার্যকারিতা "
+"নিশ্চিতকরণ "
 "ব্যবহার করছে। অন্তর্গামী মেইল সার্ভারের সেটিং সন্নিবেশ করুন। (~i)"
 
 #. icct

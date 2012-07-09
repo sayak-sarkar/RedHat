@@ -7,7 +7,7 @@ msgstr ""
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+connectivity%2Fsource%2Fdrivers%2Fpostgresql.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2012-06-08 17:27+0530\n"
+"PO-Revision-Date: 2012-06-13 13:56+0530\n"
 "Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
 "Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. 4Q1c
 #: postgresql.xcu#.Drivers.Installed.sdbc_postgresql__.DriverTypeDisplayName.value.text
-#, fuzzy
 msgid "PostgreSQL"
-msgstr "পোস্টগ্রোএসকিউএল"
+msgstr "পোস্টগ্রে এস কিউ এল"
+
 

@@ -1,20 +1,21 @@
 #. extracted from fpicker/source/office.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+fpicker%2Fsource%2Foffice.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-04-07 11:15+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-14 00:15+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. CxT2
@@ -140,9 +141,8 @@ msgstr "বর্তমান সংস্করণ"
 
 #. pXBO
 #: iodlg.src#DLG_SVT_EXPLORERFILE.STR_PREVIEW.string.text
-#, fuzzy
 msgid "File Preview"
-msgstr "প্রাকদর্শন নিষ্ক্রিয়"
+msgstr "ফাইল প্রাকদর্শন"
 
 #. opzY
 #: iodlg.src#DLG_SVT_QUERYFOLDERNAME.FT_SVT_QUERYFOLDERNAME_DLG_NAME.fixedtext.text
@@ -175,13 +175,12 @@ msgstr "সব ফাইল (*.*)"
 
 #. rZ8b
 #: iodlg.src#STR_SVT_ALREADYEXISTOVERWRITE.string.text
-#, fuzzy
 msgid ""
 "A file named \"$filename$\" already exists.\n"
 "\n"
 "Do you want to replace it?"
 msgstr ""
-"এই নামের একটি নকশা ইতিমধ্যেই বিদ্যমান।\n"
+"এই নামের একটি ফাইল ইতিমধ্যেই বিদ্যমান।\n"
 "আপনি কি এটি প্রতিস্থাপন করতে চান?"
 
 #. WT9T
@@ -196,7 +195,8 @@ msgid ""
 "Make sure it is plugged in properly and try again."
 msgstr ""
 "কোন স্থানান্তরযোগ্য স্টোরেজ ডিভাইস পাওয়া যায়নি।\n"
-"অনুগ্রহ করে নিশ্চিত হোন যে এটি সঠিকভাবে সংযুক্ত করা হয়েছে এবং আবার চেষ্টা করুন।"
+"অনুগ্রহ করে নিশ্চিত হোন যে এটি সঠিকভাবে সংযুক্ত করা হয়েছে এবং আবার চেষ্টা "
+"করুন।"
 
 #. XZ2U
 #: iodlg.src#STR_SVT_ALLFORMATS.string.text
@@ -275,3 +275,4 @@ msgstr "পাথ নির্বাচন"
 #: OfficeFilePicker.src#STR_SVT_FOLDERPICKER_DEFAULT_DESCRIPTION.string.text
 msgid "Please select a folder."
 msgstr "অনুগ্রহ করে একটি ফোল্ডার নির্বাচন করুন।"
+

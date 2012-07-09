@@ -1,20 +1,21 @@
 #. extracted from cui/source/tabpages.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+cui%2Fsource%2Ftabpages.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-07-03 12:46+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. g5rI
@@ -29,9 +30,8 @@ msgstr "আরোপিত ম্যাক্রো"
 
 #. ugcM
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.FT_LABEL4LB_MACROS.fixedtext.text
-#, fuzzy
 msgid "~Existing macros\n"
-msgstr "বিদ্যমান ম্যাক্রো (~E):\n"
+msgstr "বিদ্যমান ম্যাক্রো (~E) \n"
 
 #. UlPV
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.PB_ASSIGN.pushbutton.text
@@ -627,9 +627,8 @@ msgstr "i, ii, iii, ..."
 # 95%
 #. UbDC
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.6.stringlist.text
-#, fuzzy
 msgid "A, .., AA, .., AAA, ..."
-msgstr "A, .., AA, .., AAA, ... "
+msgstr "A, .., AA, .., AAA, ..."
 
 #. JW6z
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.7.stringlist.text
@@ -1229,7 +1228,6 @@ msgstr "ভরাটকৃত"
 # 75%
 #. fT3v
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.7.stringlist.text
-#, fuzzy
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.7.stringlist.text"
 msgid "Distributed"
 msgstr "বিতরণ"
@@ -1279,7 +1277,6 @@ msgstr "উভয়প্রান্তিককৃত"
 # 75%
 #. HMKo
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.6.stringlist.text
-#, fuzzy
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.6.stringlist.text"
 msgid "Distributed"
 msgstr "বিতরণ"
@@ -1551,28 +1548,24 @@ msgstr "স্বচ্ছ"
 
 #. 0HEZ
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_FAMILY.string.text
-#, fuzzy
 msgid "Family"
-msgstr "তামিল"
+msgstr "পরিবার"
 
 #. TlaS
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_FONT.string.text
-#, fuzzy
 msgid "Font"
 msgstr "ফন্ট"
 
 #. PcYs
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_STYLE.string.text
-#, fuzzy
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_STYLE.string.text"
 msgid "Style"
 msgstr "শৈলী"
 
 #. AmgZ
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TYPEFACE.string.text
-#, fuzzy
 msgid "Typeface"
-msgstr "টাইপফেইস (~y)"
+msgstr "টাইপফেইস"
 
 #. #cAM
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_FONTCOLOR.fixedtext.text
@@ -2504,64 +2497,54 @@ msgstr "স্বয়ংক্রিয় অন্তর্ভূক্ত(~u)"
 
 #. vjeb
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_NEWABBREV.string.text
-#, fuzzy
 msgid "New abbreviations"
-msgstr "শব্দের সংক্ষিপ্ত রূপ"
+msgstr "নতুন বর্ণমালা"
 
 #. wDzB
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DELABBREV.string.text
-#, fuzzy
 msgid "Delete abbreviations"
-msgstr "মুছে ফেলার অপশন"
+msgstr "বর্ণমালা মুছে ফেলুন"
 
 #. TCKD
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_NEWDOUBLECAPS.string.text
-#, fuzzy
 msgid "New words with two initial capitals"
-msgstr "প্রারম্ভিক দু'টি বড় হাতের অক্ষরসহ শব্দ"
+msgstr "দুইটি বড় হাতের অক্ষরসহ নতুন শব্দ"
 
 #. vVYa
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DELDOUBLECAPS.string.text
-#, fuzzy
 msgid "Delete words with two initial capitals"
-msgstr "প্রারম্ভিক দু'টি বড় হাতের অক্ষরসহ শব্দ"
+msgstr "দুইটি বড় হাতের অক্ষরসহ শব্দ মুছে ফেলুন"
 
 #. 6MHU
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_SGL_STD.string.text
-#, fuzzy
 msgid "Single quotes default"
-msgstr "একক উদ্ধৃতি চিহ্ন"
+msgstr "একক উদ্ধৃতি চিহ্ন ডিফল্ট"
 
 #. gAG2
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DBL_STD.string.text
-#, fuzzy
 msgid "Double quotes default"
-msgstr "উদ্ধৃতি চিহ্ন"
+msgstr "উদ্ধৃতি চিহ্ন ডিফল্ট"
 
 #. vXQK
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_SGL_START.string.text
-#, fuzzy
 msgid "Start quote of single quotes"
-msgstr "একক উদ্ধৃতি চিহ্ন"
+msgstr "একক উদ্ধৃতি চিহ্নের মূল্যউদ্ধৃতি শুরু"
 
 # 85%
 #. O48z
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DBL_START.string.text
-#, fuzzy
 msgid "Start quote of double quotes"
-msgstr "একক উদ্ধৃতি চিহ্ন"
+msgstr "উদ্ধৃতি চিহ্নের মূল্যউদ্ধৃতি শুরু"
 
 #. YYZh
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_SGL_END.string.text
-#, fuzzy
 msgid "End quote of single quotes"
-msgstr "একক উদ্ধৃতি চিহ্ন"
+msgstr "একক উদ্ধৃতি চিহ্নের শেষ উদ্ধৃতি চিহ্ন"
 
 #. E#Yt
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DBL_END.string.text
-#, fuzzy
 msgid "End quote of double quotes"
-msgstr "উদ্ধৃতি চিহ্ন"
+msgstr "উদ্ধৃতি চিহ্নের শেষ উদ্ধৃতি চিহ্ন"
 
 #. KFTk
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER1.string.text
@@ -2684,7 +2667,8 @@ msgstr "শব্দ সংগ্রহ (~o)"
 msgid ""
 "~When closing a document, remove the words collected from it from the list"
 msgstr ""
-"নথি বন্ধ করার সময়, এখান থেকে যেসব শব্দ সংগৃহীত হয়েছে তা তালিকা থেকে অপসারণ করুন "
+"নথি বন্ধ করার সময়, এখান থেকে যেসব শব্দ সংগৃহীত হয়েছে তা তালিকা থেকে অপসারণ "
+"করুন "
 "(~W)"
 
 #. a8jI
@@ -2846,7 +2830,6 @@ msgstr "বিন্যাস (~m)"
 
 #. jRjU
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.1.stringlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.1.stringlist.text"
 msgid "A, B, C, ..."
 msgstr "A, B, C, ..."
@@ -2859,21 +2842,18 @@ msgstr "a, b, c, ..."
 
 #. CYVT
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text"
 msgid "I, II, III, ..."
 msgstr "I, II, III, ..."
 
 #. Yj3e
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text"
 msgid "i, ii, iii, ..."
 msgstr "i, ii, iii, ..."
 
 #. le8P
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.5.stringlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.5.stringlist.text"
 msgid "1, 2, 3, ..."
 msgstr "1, 2, 3, ..."
@@ -2940,161 +2920,137 @@ msgstr ""
 
 #. ZMcC
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.1.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.1.itemlist.text"
 msgid "A6"
-msgstr "৬"
+msgstr "A6"
 
 #. 2uAq
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.2.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.2.itemlist.text"
 msgid "A5"
 msgstr "A5"
 
 #. qCD3
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.3.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.3.itemlist.text"
 msgid "A4"
 msgstr "A4"
 
 #. xMta
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.4.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.4.itemlist.text"
 msgid "A3"
 msgstr "A3"
 
 #. DYmJ
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.5.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.5.itemlist.text"
 msgid "B6 (ISO)"
 msgstr "B6 (ISO)"
 
 #. iCSh
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.6.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.6.itemlist.text"
 msgid "B5 (ISO)"
 msgstr "B5 (ISO)"
 
 #. QuRS
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.7.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.7.itemlist.text"
 msgid "B4 (ISO)"
 msgstr "B4 (ISO)"
 
 #. 9BC5
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.8.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.8.itemlist.text"
 msgid "Letter"
 msgstr "অক্ষর"
 
 #. __Bo
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.9.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.9.itemlist.text"
 msgid "Legal"
 msgstr "আইনি"
 
 #. Sfst
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.10.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.10.itemlist.text"
 msgid "Long Bond"
 msgstr "দীর্ঘ অঙ্গীকারপত্র"
 
 #. gTn0
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.11.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.11.itemlist.text"
 msgid "Tabloid"
 msgstr "ট্যাবলয়েড"
 
 #. BpTu
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.12.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.12.itemlist.text"
 msgid "B6 (JIS)"
 msgstr "B6 (JIS)"
 
 #. z7QF
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.13.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.13.itemlist.text"
 msgid "B5 (JIS)"
 msgstr "B5 (JIS)"
 
 #. oTWe
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.14.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.14.itemlist.text"
 msgid "B4 (JIS)"
 msgstr "B4 (JIS)"
 
 #. 4fdV
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.15.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.15.itemlist.text"
 msgid "16 Kai"
 msgstr "১৬ কাই"
 
 #. b7Bd
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.16.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.16.itemlist.text"
 msgid "32 Kai"
 msgstr "৩২ কাই"
 
 #. JpCG
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.17.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.17.itemlist.text"
 msgid "Big 32 Kai"
 msgstr "বড় ৩২ কাই"
 
 #. 00R9
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.18.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.18.itemlist.text"
 msgid "User"
 msgstr "ব্যবহারকারী"
 
-#. sqS#
-#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text
-#, fuzzy
+#. sqS#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text"
 msgid "DL Envelope"
 msgstr "DL খাম"
 
 #. El2k
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.20.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.20.itemlist.text"
 msgid "C6 Envelope"
 msgstr "C6 খাম"
 
 #. uR5P
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.21.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.21.itemlist.text"
 msgid "C6/5 Envelope"
 msgstr "C6/5 খাম"
 
 #. PrfX
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.22.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.22.itemlist.text"
 msgid "C5 Envelope"
 msgstr "C5 খাম"
 
 #. l1kM
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.23.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.23.itemlist.text"
 msgid "C4 Envelope"
 msgstr "C4 খাম"
@@ -3131,28 +3087,24 @@ msgstr "#12 খাম"
 
 #. C3V4
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.1.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.1.itemlist.text"
 msgid "A6"
-msgstr "৬"
+msgstr "A6"
 
 #. jjpy
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.2.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.2.itemlist.text"
 msgid "A5"
 msgstr "A5"
 
 #. RPqB
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.3.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.3.itemlist.text"
 msgid "A4"
 msgstr "A4"
 
 #. K3Ei
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.4.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.4.itemlist.text"
 msgid "A3"
 msgstr "A3"
@@ -3174,133 +3126,114 @@ msgstr "A0"
 
 #. cUrD
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.8.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.8.itemlist.text"
 msgid "B6 (ISO)"
 msgstr "B6 (ISO)"
 
 #. Ggow
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.9.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.9.itemlist.text"
 msgid "B5 (ISO)"
 msgstr "B5 (ISO)"
 
 #. 3raI
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.10.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.10.itemlist.text"
 msgid "B4 (ISO)"
 msgstr "B4 (ISO)"
 
 #. r1Zb
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.11.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.11.itemlist.text"
 msgid "Letter"
 msgstr "অক্ষর"
 
 #. KlFT
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.12.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.12.itemlist.text"
 msgid "Legal"
 msgstr "আইনি"
 
 #. YR8g
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.13.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.13.itemlist.text"
 msgid "Long Bond"
 msgstr "দীর্ঘ অঙ্গীকারপত্র"
 
 #. j1oD
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.14.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.14.itemlist.text"
 msgid "Tabloid"
 msgstr "ট্যাবলয়েড"
 
 #. Rrrw
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.15.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.15.itemlist.text"
 msgid "B6 (JIS)"
 msgstr "B6 (JIS)"
 
 #. wRP2
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.16.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.16.itemlist.text"
 msgid "B5 (JIS)"
 msgstr "B5 (JIS)"
 
 #. ClUr
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.17.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.17.itemlist.text"
 msgid "B4 (JIS)"
 msgstr "B4 (JIS)"
 
 #. VS9i
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.18.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.18.itemlist.text"
 msgid "16 Kai"
 msgstr "১৬ কাই"
 
 #. feER
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.19.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.19.itemlist.text"
 msgid "32 Kai"
 msgstr "৩২ কাই"
 
 #. HpGB
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.20.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.20.itemlist.text"
 msgid "Big 32 Kai"
 msgstr "বড় ৩২ কাই"
 
 #. d7Ny
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text"
 msgid "User"
 msgstr "ব্যবহারকারী"
 
 #. 6fx4
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text"
 msgid "DL Envelope"
 msgstr "DL খাম"
 
 #. mTyp
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text"
 msgid "C6 Envelope"
 msgstr "C6 খাম"
 
 #. _76K
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.24.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.24.itemlist.text"
 msgid "C6/5 Envelope"
 msgstr "C6/5 খাম"
 
 #. 9p1Z
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.25.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.25.itemlist.text"
 msgid "C5 Envelope"
 msgstr "C5 খাম"
 
 #. eTjR
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.26.itemlist.text
-#, fuzzy
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.26.itemlist.text"
 msgid "C4 Envelope"
 msgstr "C4 খাম"
@@ -3536,7 +3469,7 @@ msgstr "স্বয়ংক্রিয় (~A)"
 #. 8Rzn
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.MTR_FLD_DELAY.metricfield.text
 msgid " ms"
-msgstr ""
+msgstr " ms"
 
 #. Wqct
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.tabpage.text
@@ -3590,7 +3523,6 @@ msgstr "শৈলী (~y)"
 
 #. Yzx3
 #: border.src#RID_SVXPAGE_BORDER.FT_WIDTH.fixedtext.text
-#, fuzzy
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "প্রস্থ (~W)"
@@ -3845,7 +3777,7 @@ msgstr "আদি আকার (~O)"
 #. oJll
 #: grfpage.src#STR_PPI.string.text
 msgid "(%1 PPI)"
-msgstr ""
+msgstr "(%1 PPI)"
 
 #. PM8B
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FL_TEXT.fixedline.text
@@ -4627,14 +4559,12 @@ msgstr "এশীয় মুদ্রণশৈলী"
 
 #. YJ9k
 #: paragrph.src#STR_EXAMPLE.string.text
-#, fuzzy
 msgctxt "paragrph.src#STR_EXAMPLE.string.text"
 msgid "Example"
 msgstr "উদাহরণ"
 
 #. SUWx
 #: paragrph.src#STR_PAGE_STYLE.string.text
-#, fuzzy
 msgid "Page Style"
 msgstr "পৃষ্ঠা শৈলী"
 
@@ -4983,46 +4913,39 @@ msgstr "অনুপাত বজায় রাখা হবে"
 
 #. L#qD
 #: tabline.src#RID_SVXPAGE_LINE.STR_STYLE.string.text
-#, fuzzy
 msgctxt "tabline.src#RID_SVXPAGE_LINE.STR_STYLE.string.text"
 msgid "Style"
 msgstr "শৈলী"
 
 #. W_JU
 #: tabline.src#RID_SVXPAGE_LINE.STR_LB_START_STYLE.string.text
-#, fuzzy
 msgid "Start style"
-msgstr "শুরুর তারিখ"
+msgstr "শৈলী শুরু"
 
 #. seeY
 #: tabline.src#RID_SVXPAGE_LINE.STR_LB_END_STYLE.string.text
-#, fuzzy
 msgid "End style"
-msgstr "রেখার শৈলী"
+msgstr "শেষ শৈলী"
 
 #. aLDq
 #: tabline.src#RID_SVXPAGE_LINE.STR_MTR_FLD_START_WIDTH.string.text
-#, fuzzy
 msgid "Start width"
-msgstr "এটি থেকে শুরু করুন (~S)"
+msgstr "শুরুর প্রস্থ"
 
 #. xraC
 #: tabline.src#RID_SVXPAGE_LINE.STR_MTR_FLD_END_WIDTH.string.text
-#, fuzzy
 msgid "End width"
-msgstr "রেখার প্রস্থ"
+msgstr "শেষের প্রস্থ"
 
 #. rNBT
 #: tabline.src#RID_SVXPAGE_LINE.STR_CENTER_START.string.text
-#, fuzzy
 msgid "Start with center"
-msgstr "আরম্ভ-কেন্দ্র"
+msgstr "সেন্টারে শুরু করুন"
 
 #. SQHG
 #: tabline.src#RID_SVXPAGE_LINE.STR_CENTER_END.string.text
-#, fuzzy
 msgid "End with center"
-msgstr "ডান কেন্দ্র"
+msgstr "সেন্টারে শেষ করুন"
 
 #. nVTV
 #: tabline.src#RID_SVXPAGE_LINE.tabpage.text
@@ -5135,39 +5058,33 @@ msgstr "রেখার শৈলী সংরক্ষণ"
 
 #. FBGk
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_TYPE.string.text
-#, fuzzy
 msgid "Start type"
-msgstr "লে‌খচিত্রের ধরন"
+msgstr "শুরুর ধরন"
 
 #. FZCD
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_TYPE.string.text
-#, fuzzy
 msgid "End type"
-msgstr "যেকোন ধরনের"
+msgstr "শেষের ধরন"
 
 #. #5LX
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_NUM.string.text
-#, fuzzy
 msgid "Start number"
-msgstr "সংখ্যায়ন পুনরায় শুরু"
+msgstr "প্রথম সংখ্যা"
 
 #. qoTX
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_NUM.string.text
-#, fuzzy
 msgid "End number"
-msgstr "রেকর্ড নম্বর"
+msgstr "শেষ সংখ্যা"
 
 #. ZCHs
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_LENGTH.string.text
-#, fuzzy
 msgid "Start length"
-msgstr "যেখান থেকে শুরু হবে"
+msgstr "শুরুর দৈর্ঘ্য"
 
 #. Ip16
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_LENGTH.string.text
-#, fuzzy
 msgid "End length"
-msgstr "রেখার দৈর্ঘ্য"
+msgstr "শেষের দৈর্ঘ্য"
 
 #. ##Qr
 #: tabline.src#RID_SVXPAGE_LINE_DEF.tabpage.text
@@ -5357,7 +5274,6 @@ msgstr "ডান/নিচে (~t)"
 
 #. QeOL
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_FILLCHAR_OTHER.string.text
-#, fuzzy
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_FILLCHAR_OTHER.string.text"
 msgid "Character"
 msgstr "অক্ষর"
@@ -5853,29 +5769,29 @@ msgstr "মুছে ফেলা (~D)..."
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. _Pcz
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Hatches List"
-msgstr ""
+msgstr "হ্যাচেস্ তালিকা লোড করুন"
 
 #. WeoF
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. JoLM
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Hatches List"
-msgstr ""
+msgstr "হ্যাচেস্ তালিকা সংরক্ষণ করুন"
 
 #. 6Hin
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_EMBED.checkbox.text"
 msgid "Embed"
-msgstr ""
+msgstr "নিহিত করুন"
 
 #. OfE7
 #: tabarea.src#RID_SVXPAGE_HATCH.tabpage.text
@@ -5938,29 +5854,29 @@ msgstr "মুছে ফেলা (~D)..."
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. i4yE
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Bitmap List"
-msgstr ""
+msgstr "বিটম্যাপ তালিকা লোড করুন"
 
 #. pd7G
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. 0lFb
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Bitmap List"
-msgstr ""
+msgstr "বিটম্যাপ তালিকা সংরক্ষণ করুন"
 
 #. siSh
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_EMBED.checkbox.text"
 msgid "Embed"
-msgstr ""
+msgstr "নিহিত করুন"
 
 #. pF1F
 #: tabarea.src#RID_SVXPAGE_BITMAP.tabpage.text
@@ -6076,29 +5992,29 @@ msgstr "মুছে ফেলা (~D)..."
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. dixP
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Gradients List"
-msgstr ""
+msgstr "গ্রেডিয়েন্ট তালিকা লোড করুন"
 
 #. VM0j
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. B78o
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Gradients List"
-msgstr ""
+msgstr "গ্রেডিয়েন্ট তালিকা সংরক্ষণ করুন"
 
 #. yYl7
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_EMBED.checkbox.text"
 msgid "Embed"
-msgstr ""
+msgstr "নিহিত করুন"
 
 #. HvIE
 #: tabarea.src#RID_SVXPAGE_GRADIENT.tabpage.text
@@ -6141,22 +6057,22 @@ msgstr "CMYK"
 #. _KOL
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_1.fixedtext.text
 msgid "~C"
-msgstr ""
+msgstr "~C"
 
 #. jIiC
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_2.fixedtext.text
 msgid "~M"
-msgstr ""
+msgstr "~M"
 
 #. A#Za
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_3.fixedtext.text
 msgid "~Y"
-msgstr ""
+msgstr "~Y"
 
 #. 9U4_
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_4.fixedtext.text
 msgid "~K"
-msgstr ""
+msgstr "~K"
 
 #. Amfp
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_ADD.pushbutton.text
@@ -6184,29 +6100,29 @@ msgstr "পরিবর্তন (~M)"
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. 17ja
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Color List"
-msgstr ""
+msgstr "রংয়ের তালিকা লোড করুন"
 
 #. yxMu
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. jiUF
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Color List"
-msgstr ""
+msgstr "রংয়ের তালিকা সংরক্ষণ করুন"
 
 #. VyPW
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_EMBED.checkbox.text"
 msgid "Embed"
-msgstr ""
+msgstr "নিহিত করুন"
 
 #. q6QF
 #: tabarea.src#RID_SVXPAGE_COLOR.tabpage.text
@@ -6263,15 +6179,13 @@ msgstr "এলাকা"
 
 #. 4QU0
 #: tabarea.src#STR_LB_HATCHINGSTYLE.string.text
-#, fuzzy
 msgid "Hatching Style"
-msgstr "হ্যাচিং"
+msgstr "হ্যাচিং স্টাইল"
 
 #. ZOWB
 #: tabarea.src#STR_CUI_COLORMODEL.string.text
-#, fuzzy
 msgid "Color Mode"
-msgstr "কনট্যুর মোড"
+msgstr "রঙের মোড"
 
 #~ msgid "1, 2, 3, ... "
 #~ msgstr "1, 2, 3, ..."

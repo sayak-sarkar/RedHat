@@ -1,21 +1,22 @@
 #. extracted from filter/source/config/fragments/filters.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+filter%2Fsource%2Fconfig%2Ffragments%2Ffilters."
 "oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-20 02:55+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. t8yi
@@ -88,9 +89,8 @@ msgstr "%productname% %formatversion% সূত্র"
 # 82%
 #. FVSE
 #: MS_Word_2007_XML_ui.xcu#MS_Word_2007_XML.UIName.value.text
-#, fuzzy
 msgid "Microsoft Word 2007/2010 XML"
-msgstr "মাইক্রোসফট ওয়ার্ড ২০০৭ XML"
+msgstr "মাইক্রোসফট ওয়ার্ড ২০০৭/২০১০ XML"
 
 #. 2FM6
 #: StarWriter_3_0_Vorlage_Template_ui.xcu#StarWriter_3.0_Vorlage/Template.UIName.value.text
@@ -140,12 +140,11 @@ msgstr "HTML নথি ফর্মা"
 # 88%
 #. SY7w
 #: impress_MS_PowerPoint_2007_XML_Template_ui.xcu#Impress_MS_PowerPoint_2007_XML_Template.UIName.value.text
-#, fuzzy
 msgctxt ""
 "impress_MS_PowerPoint_2007_XML_Template_ui."
 "xcu#Impress_MS_PowerPoint_2007_XML_Template.UIName.value.text"
 msgid "Microsoft PowerPoint 2007/2010 XML Template"
-msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭ XML ফর্মা"
+msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭/২০১০ XML ফর্মা"
 
 #. 0BpF
 #: MS_Excel_5_0_95_Vorlage_Template_ui.xcu#MS_Excel_5.0/95_Vorlage/Template.UIName.value.text
@@ -170,16 +169,14 @@ msgstr "স্টার রাইটার 5.0 মাস্টার নথি"
 # 87%
 #. ALqC
 #: MS_Excel_97_Vorlage_Template_ui.xcu#MS_Excel_97_Vorlage/Template.UIName.value.text
-#, fuzzy
 msgid "Microsoft Excel 97/2000/XP/2003 Template"
-msgstr "মাইক্রোসফট এক্সেল 97/2000/XP ফর্মা"
+msgstr "মাইক্রোসফট এক্সেল 97/2000/XP/২০০৩ ফর্মা"
 
 # 88%
 #. vNtw
 #: impress_MS_PowerPoint_2007_XML_AutoPlay.xcu#Impress_MS_PowerPoint_2007_XML_AutoPlay.UIName.value.text
-#, fuzzy
 msgid "Microsoft PowerPoint 2007/2010 XML AutoPlay"
-msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭ XML ফর্মা"
+msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭/২০১০ XML ফর্মা"
 
 #. n6_y
 #: draw_html_Export_ui.xcu#draw_html_Export.UIName.value.text
@@ -189,11 +186,10 @@ msgstr "HTML নথি (%productname% ড্র)"
 # 86%
 #. VPCe
 #: MS_Word_2007_XML_Template.xcu#MS_Word_2007_XML_Template.UIName.value.text
-#, fuzzy
 msgctxt ""
 "MS_Word_2007_XML_Template.xcu#MS_Word_2007_XML_Template.UIName.value.text"
 msgid "Microsoft Word 2007/2010 XML Template"
-msgstr "মাইক্রোসফট ওয়ার্ড 2007 XML ফর্মা"
+msgstr "মাইক্রোসফট ওয়ার্ড ২০০৭/২০১০ XML ফর্মা"
 
 #. y4Iu
 #: StarCalc_5_0_Vorlage_Template_ui.xcu#StarCalc_5.0_Vorlage/Template.UIName.value.text
@@ -208,9 +204,8 @@ msgstr "ODF স্প্রেডশীট"
 # 87%
 #. 3srn
 #: MS_Word_97_Vorlage_ui.xcu#MS_Word_97_Vorlage.UIName.value.text
-#, fuzzy
 msgid "Microsoft Word 97/2000/XP/2003 Template"
-msgstr "মাইক্রোসফট ওয়ার্ড 97/2000/XP ফর্মা"
+msgstr "মাইক্রোসফট ওয়ার্ড 97/2000/XP/২০০৩ ফর্মা"
 
 #. wxwb
 #: StarCalc_4_0_Vorlage_Template_ui.xcu#StarCalc_4.0_Vorlage/Template.UIName.value.text
@@ -261,9 +256,8 @@ msgstr "%productname% %formatversion% নথি"
 # 85%
 #. tISI
 #: impress_MS_PowerPoint_2007_XML_ui.xcu#Impress_MS_PowerPoint_2007_XML.UIName.value.text
-#, fuzzy
 msgid "Microsoft PowerPoint 2007/2010 XML"
-msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট 2007 XML"
+msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭/২০১০ XML"
 
 #. 5a#F
 #: HTML_MasterDoc_ui.xcu#HTML_MasterDoc.UIName.value.text
@@ -303,9 +297,8 @@ msgstr "ODF সূত্র"
 # 82%
 #. f4ky
 #: calc_MS_Excel_2007_XML_ui.xcu#Calc_MS_Excel_2007_XML.UIName.value.text
-#, fuzzy
 msgid "Microsoft Excel 2007/2010 XML"
-msgstr "Microsoft Excel 2007 XML"
+msgstr "Microsoft Excel ২০০৭/২০১০ XML"
 
 #. ls2J
 #: StarOffice_XML__Chart__ui.xcu#StarOffice_XML__Chart_.UIName.value.text
@@ -315,11 +308,10 @@ msgstr "%productname% %formatversion% লেখচিত্র"
 # 86%
 #. mAns
 #: MS_Word_2007_XML_Template_ui.xcu#MS_Word_2007_XML_Template.UIName.value.text
-#, fuzzy
 msgctxt ""
 "MS_Word_2007_XML_Template_ui.xcu#MS_Word_2007_XML_Template.UIName.value.text"
 msgid "Microsoft Word 2007/2010 XML Template"
-msgstr "মাইক্রোসফট ওয়ার্ড 2007 XML ফর্মা"
+msgstr "মাইক্রোসফট ওয়ার্ড ২০০৭/২০১০ XML ফর্মা"
 
 #. i2fF
 #: HTML__StarWriter__ui.xcu#HTML__StarWriter_.UIName.value.text
@@ -354,19 +346,17 @@ msgstr "অফিস ওপেন XML স্প্রেডশীট ফর্�
 # 86%
 #. IK7G
 #: calc_MS_Excel_2007_XML_Template_ui.xcu#Calc_MS_Excel_2007_XML_Template.UIName.value.text
-#, fuzzy
 msgid "Microsoft Excel 2007/2010 XML Template"
-msgstr "মাইক্রোসফট এক্সেল 2007 XML ফর্মা"
+msgstr "মাইক্রোসফট এক্সেল ২০০৭/২০১০ XML ফর্মা"
 
 # 88%
 #. Z5sU
 #: impress_MS_PowerPoint_2007_XML_Template.xcu#Impress_MS_PowerPoint_2007_XML_Template.UIName.value.text
-#, fuzzy
 msgctxt ""
 "impress_MS_PowerPoint_2007_XML_Template."
 "xcu#Impress_MS_PowerPoint_2007_XML_Template.UIName.value.text"
 msgid "Microsoft PowerPoint 2007/2010 XML Template"
-msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭ XML ফর্মা"
+msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট ২০০৭/২০১০ XML ফর্মা"
 
 #. ko_d
 #: HTML_ui.xcu#HTML.UIName.value.text
@@ -402,9 +392,8 @@ msgstr "%productname% %formatversion% উপস্থাপনা"
 # 88%
 #. UjyJ
 #: MS_PowerPoint_97_Vorlage_ui.xcu#MS_PowerPoint_97_Vorlage.UIName.value.text
-#, fuzzy
 msgid "Microsoft PowerPoint 97/2000/XP/2003 Template"
-msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট 97/2000/XP ফর্মা"
+msgstr "মাইক্রোসফট পাওয়ার পয়েন্ট 97/2000/XP/২০০৩স ফর্মা"
 
 #. S#eB
 #: Text__encoded__ui.xcu#Text__encoded_.UIName.value.text
@@ -505,3 +494,4 @@ msgstr "পাঠ্য CSV"
 #: HTML__StarCalc__ui.xcu#HTML__StarCalc_.UIName.value.text
 msgid "HTML Document (%productname% Calc)"
 msgstr "HTML নথি (%productname% ক্যালক)"
+

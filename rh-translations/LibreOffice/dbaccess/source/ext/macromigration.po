@@ -1,20 +1,21 @@
 #. extracted from dbaccess/source/ext/macromigration.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+dbaccess%2Fsource%2Fext%2Fmacromigration.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-20 02:14+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -70,7 +71,8 @@ msgstr ""
 "সন্নিবেশিত করা হয়েছিল তা নথিটি নিজেই সরিয়ে নেবে। এ বিষয়ে, লাইব্রেরিসমূহ "
 "প্রয়োজনানুসারে পুনঃনামকরণ করা হবে।\n"
 "\n"
-"যদি আপনার ফরম ও প্রতিবেদন ঐ ম্যাক্রোসমূহের রেফারেন্স ধারণ করে, তবে যতটুকু সম্ভব, "
+"যদি আপনার ফরম ও প্রতিবেদন ঐ ম্যাক্রোসমূহের রেফারেন্স ধারণ করে, তবে যতটুকু "
+"সম্ভব, "
 "সমন্বয় করা হবে।\n"
 "\n"
 "স্থানান্তর আরম্ভ করার আগে, এই নথির অধীনস্থ সব ফরম, প্রতিবেদন, কোয়েরি ও টেবিল "
@@ -82,7 +84,8 @@ msgid ""
 "Not all objects could be closed. Please close them manually, and re-start "
 "the wizard."
 msgstr ""
-"সব অবজেক্ট বন্ধ করা যাবে না। অনুগ্রহ করে এদেরকে নিজ হাতে বন্ধ করুন, এবং উইজার্ডটি "
+"সব অবজেক্ট বন্ধ করা যাবে না। অনুগ্রহ করে এদেরকে নিজ হাতে বন্ধ করুন, এবং "
+"উইজার্ডটি "
 "পুনরায় শুরু করুন।"
 
 #. ydTd
@@ -98,8 +101,10 @@ msgid ""
 "by the wizard will be made to the original document, the backup will stay "
 "untouched."
 msgstr ""
-"প্রয়োজনে আপনি যাতে স্থানান্তরের আগের অবস্থায় ফিরে যেতে পারেন, সেজন্য ডাটাবেস নথি "
-"আপনার পছন্দের কোনো অবস্থানে সংরক্ষিত হবে। উইজার্ড দ্বারা সম্পন্ন প্রতিটি পরিবর্তন আসল "
+"প্রয়োজনে আপনি যাতে স্থানান্তরের আগের অবস্থায় ফিরে যেতে পারেন, সেজন্য ডাটাবেস "
+"নথি "
+"আপনার পছন্দের কোনো অবস্থানে সংরক্ষিত হবে। উইজার্ড দ্বারা সম্পন্ন প্রতিটি "
+"পরিবর্তন আসল "
 "নথিতে পরিবর্তিত হবে, ব্যাকআপ নথিটি অপরিবর্তিত অবস্থায় থাকবে।"
 
 #. Xgql
@@ -117,7 +122,8 @@ msgstr "ব্রাউজ ..."
 msgid ""
 "Press 'Next' to save a copy of your document, and to begin the migration."
 msgstr ""
-"আপনার নথির একটি অনুলিপি সংরক্ষণ করতে এবং স্থানান্তর আরম্ভ করতে 'পরবর্তী' চাপুন।"
+"আপনার নথির একটি অনুলিপি সংরক্ষণ করতে এবং স্থানান্তর আরম্ভ করতে 'পরবর্তী' "
+"চাপুন।"
 
 #. Egwi
 #: macromigration.src#TP_MIGRATE.FT_HEADER.fixedtext.text
@@ -160,7 +166,8 @@ msgid ""
 "All forms and reports have been successfully processed. Press 'Next' to show "
 "a detailed summary."
 msgstr ""
-"সব ফরম এবং প্রতিবেদনসমূহ সফলভাবে প্রসেস করা হয়েছে। বিস্তারিত সারসংক্ষেপ দেখার জন্য "
+"সব ফরম এবং প্রতিবেদনসমূহ সফলভাবে প্রসেস করা হয়েছে। বিস্তারিত সারসংক্ষেপ "
+"দেখার জন্য "
 "'পরবর্তী' চাপুন।"
 
 #. CHfG
@@ -175,7 +182,8 @@ msgid ""
 "The migration was successful. Below is a log of the actions which have been "
 "taken to your document."
 msgstr ""
-"স্থানান্তর সফল হয়েছে। নিম্নে আপনার নথিতে কার্যকরকৃত কাজের একটি কার্যবিবরণী দেয়া "
+"স্থানান্তর সফল হয়েছে। নিম্নে আপনার নথিতে কার্যকরকৃত কাজের একটি কার্যবিবরণী "
+"দেয়া "
 "হলো।"
 
 #. iuRe
@@ -184,7 +192,8 @@ msgid ""
 "The migration was not successful. Examine the migration log below for "
 "details."
 msgstr ""
-"স্থানান্তর সফল হয়নি। বিস্তারিত জানতে নিম্নোক্ত স্থানান্তর কার্যবিবরণী পর্যবেক্ষণ করুন।"
+"স্থানান্তর সফল হয়নি। বিস্তারিত জানতে নিম্নোক্ত স্থানান্তর কার্যবিবরণী "
+"পর্যবেক্ষণ করুন।"
 
 #. jCj6
 #: macromigration.src#STR_FORM.string.text
@@ -270,7 +279,6 @@ msgstr "সতর্কীকরণ"
 # 94%
 #. 0iqa
 #: macromigration.src#STR_EXCEPTION.string.text
-#, fuzzy
 msgid "caught exception:"
 msgstr "ব্যতিক্রম ধরা হয়েছে:"
 
@@ -278,7 +286,8 @@ msgstr "ব্যতিক্রম ধরা হয়েছে:"
 #: macromigration.src#ERR_INVALID_BACKUP_LOCATION.errorbox.text
 msgid ""
 "You need to choose a backup location other than the document location itself."
-msgstr "নথির নিজস্ব অবস্থানের পরিবর্তে আপনার একটি ব্যাকআপ অবস্থান পছন্দ করতে হবে।"
+msgstr ""
+"নথির নিজস্ব অবস্থানের পরিবর্তে আপনার একটি ব্যাকআপ অবস্থান পছন্দ করতে হবে।"
 
 #. bd#t
 #: macromigration.src#STR_INVALID_NUMBER_ARGS.string.text

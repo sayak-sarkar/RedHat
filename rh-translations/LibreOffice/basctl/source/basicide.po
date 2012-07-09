@@ -7,7 +7,7 @@ msgstr ""
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+basctl%2Fsource%2Fbasicide.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2012-06-08 12:51+0530\n"
+"PO-Revision-Date: 2012-06-13 13:57+0530\n"
 "Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
 "Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: moduldlg.src#RID_TD_ORGANIZE.RID_TC_ORGANIZE.RID_TP_MOD.pageitem.text
 msgctxt "moduldlg.src#RID_TD_ORGANIZE.RID_TC_ORGANIZE.RID_TP_MOD.pageitem.text"
 msgid "Modules"
-msgstr "মডিউল"
+msgstr "মডিউলস্"
 
 #. p9FX
 #: moduldlg.src#RID_TD_ORGANIZE.RID_TC_ORGANIZE.RID_TP_DLG.pageitem.text
@@ -998,4 +998,5 @@ msgstr "রান"
 #: macrodlg.src#RID_STR_RECORD.string.text
 msgid "~Save"
 msgstr "সংরক্ষণ (~S)"
+
 

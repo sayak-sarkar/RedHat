@@ -1,21 +1,23 @@
 #. extracted from sw/source/ui/app.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sw%2Fsource%2Fui%2Fapp.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-06-21 13:19+0600\n"
-"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-14 23:34+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. krKd
 #: mn.src#MN_TXT.FN_FORMAT_PAGE_DLG.menuitem.text
@@ -489,7 +491,7 @@ msgstr "ফ্রেমে (~F)"
 #. xk1X
 #: mn.src#MN_ANCHOR.FN_TOOL_ANCHOR.FN_TOOL_ANCHOR_PAGE.menuitem.text
 msgid "To P~age"
-msgstr ""
+msgstr "পৃষ্ঠায় যান (~a)"
 
 #. 8kun
 #: mn.src#MN_ANCHOR.FN_TOOL_ANCHOR.FN_TOOL_ANCHOR_PARAGRAPH.menuitem.text
@@ -509,7 +511,7 @@ msgstr "অক্ষর হিসেবে (~h)"
 #. xXN3
 #: mn.src#MN_ANCHOR.FN_TOOL_ANCHOR.menuitem.text
 msgid "An~chor"
-msgstr ""
+msgstr "নোঙ্গর (~c)"
 
 #. dlOM
 #: mn.src#MN_DRAWFORM_POPUPMENU.string.text
@@ -656,17 +658,17 @@ msgstr "মিডিয়া অবজেক্ট"
 #. uPNz
 #: mn.src#MN_HEADERFOOTER_BUTTON.FN_HEADERFOOTER_BORDERBACK.menuitem.text
 msgid "Border and Background..."
-msgstr ""
+msgstr "বর্ডার এবং পৃষ্ঠভূমি ..."
 
 #. nv8D
 #: mn.src#MN_PAGEBREAK_BUTTON.FN_PAGEBREAK_EDIT.menuitem.text
 msgid "Edit Page Break..."
-msgstr ""
+msgstr "পৃষ্ঠা বিরতি সম্পাদনা..."
 
 #. bDy2
 #: mn.src#MN_PAGEBREAK_BUTTON.FN_PAGEBREAK_DELETE.menuitem.text
 msgid "Delete Page Break"
-msgstr ""
+msgstr "পৃষ্ঠা বিরতি মুছুন"
 
 #. 9Hdu
 #: app.src#STR_PRINT_MERGE_MACRO.string.text
@@ -1001,7 +1003,8 @@ msgid ""
 "To proceed with this action, you must first turn off the \"undo\" function. "
 "Do you want to turn off the \"undo\" function?"
 msgstr ""
-"এই কাজে অগ্রসর হতে, আপনাকে প্রথমে \"পূর্বাবস্থা\" ফাংশন বন্ধ করতে হবে। আপনি কি "
+"এই কাজে অগ্রসর হতে, আপনাকে প্রথমে \"পূর্বাবস্থা\" ফাংশন বন্ধ করতে হবে। আপনি "
+"কি "
 "\"পূর্বাবস্থা\" ফাংশনটি বন্ধ করতে চান?"
 
 #. RKEt
@@ -1069,7 +1072,8 @@ msgid ""
 "format.\n"
 "Would you like to save the document as HTML?"
 msgstr ""
-"নথিটি যদি HTML ফরম্যাটে সংরক্ষণ করা হয়, তবেই শুধুমাত্র সোর্স কোড প্রদর্শিত হবে।\n"
+"নথিটি যদি HTML ফরম্যাটে সংরক্ষণ করা হয়, তবেই শুধুমাত্র সোর্স কোড প্রদর্শিত "
+"হবে।\n"
 "আপনি কি নথিটি HTML হিসেবে সংরক্ষণ করতে চান?"
 
 #. uC7u
@@ -1130,7 +1134,8 @@ msgid ""
 "continue formatting?"
 msgstr ""
 "এটি করলে, পূর্বাবস্থায় ফিরিয়ে নেয়ার কাজের তালিকাটি মুছে যাবে। নথির পূর্ববর্তী "
-"পরিবর্তনগুলো ঠিকই থাকবে, কিন্তু তা আর পূর্বাবস্থায় ফিরিয়ে নেয়া যাবে না। আপনি কি "
+"পরিবর্তনগুলো ঠিকই থাকবে, কিন্তু তা আর পূর্বাবস্থায় ফিরিয়ে নেয়া যাবে না। আপনি "
+"কি "
 "বিন্যাসকরণ অব্যাহত রাখতে চান? "
 
 #. wJIZ
@@ -1149,7 +1154,8 @@ msgid ""
 "\n"
 "Please check the connections settings."
 msgstr ""
-"ডাটা উৎস \\\\'%1\\\\' পাওয়া যায়নি। সুতরাং ডাটা উৎসের সাথে সংযোগ প্রতিষ্ঠা করা "
+"ডাটা উৎস \\\\'%1\\\\' পাওয়া যায়নি। সুতরাং ডাটা উৎসের সাথে সংযোগ প্রতিষ্ঠা "
+"করা "
 "সম্ভব হয়নি।\n"
 "\n"
 "অনুগ্রহ করে সংযোগ সেটিং পরীক্ষা করুন।"
@@ -1190,8 +1196,10 @@ msgid ""
 "In large documents, delays can occur when the document is edited. Do you "
 "want to show the changes to avoid delays?"
 msgstr ""
-"বর্তমান নথিতে, পরিবর্তনসমূহ রেকর্ড করা হচ্ছে, কিন্তু তা দেখানো হচ্ছে না। বড় নথিতে, "
-"নথি সম্পাদনার সময় বিলম্ব হতে পারে। আপনি কি বিলম্ব এড়িয়ে যেতে, পরিবর্তনগুলো প্রদর্শন "
+"বর্তমান নথিতে, পরিবর্তনসমূহ রেকর্ড করা হচ্ছে, কিন্তু তা দেখানো হচ্ছে না। বড় "
+"নথিতে, "
+"নথি সম্পাদনার সময় বিলম্ব হতে পারে। আপনি কি বিলম্ব এড়িয়ে যেতে, পরিবর্তনগুলো "
+"প্রদর্শন "
 "করতে চান?"
 
 #. hvO9
@@ -1259,7 +1267,8 @@ msgid ""
 "WinWord option 'Allow Fast Saves' and save the file again."
 msgstr ""
 "এই ফাইলটি WinWord দিয়ে 'দ্রুত সংরক্ষণ' মোডে সংরক্ষণ করা হয়েছিল। অনুগ্রহ করে "
-"WinWord অপশনের 'দ্রুত সংরক্ষণ অনুমোদন' টিক চিহ্ন তুলে দিন এবং ফাইলটি পুনরায় সংরক্ষণ "
+"WinWord অপশনের 'দ্রুত সংরক্ষণ অনুমোদন' টিক চিহ্ন তুলে দিন এবং ফাইলটি পুনরায় "
+"সংরক্ষণ "
 "করুন। "
 
 #. b_Q7
@@ -1361,8 +1370,10 @@ msgid ""
 "This file was saved with WinWord in 'Fast Save' mode. Please unmark the "
 "WinWord option 'Allow Fast Saves' and save the file again."
 msgstr ""
-"এই ফাইলটি WinWord  দিয়ে 'দ্রুত সংরক্ষণ' মোডে সংরক্ষণ করা হয়েছিল। অনুগ্রহ করে "
-"WinWord অপশনের 'দ্রুত সংরক্ষণ অনুমোদন' টিক চিহ্ন তুলে দিন এবং ফাইলটি পুনরায় সংরক্ষণ "
+"এই ফাইলটি WinWord  দিয়ে 'দ্রুত সংরক্ষণ' মোডে সংরক্ষণ করা হয়েছিল। অনুগ্রহ "
+"করে "
+"WinWord অপশনের 'দ্রুত সংরক্ষণ অনুমোদন' টিক চিহ্ন তুলে দিন এবং ফাইলটি পুনরায় "
+"সংরক্ষণ "
 "করুন। "
 
 #. MXUM
@@ -1420,4 +1431,6 @@ msgctxt ""
 msgid ""
 "Format error discovered in the file in sub-document $(ARG1) at $(ARG2)(row,"
 "col)."
-msgstr "ফাইলের সাব-নথি $(ARG1)-এর $(ARG2)(row,col)-তে ফরম্যাট ত্রুটি পাওয়া গেছে। "
+msgstr ""
+"ফাইলের সাব-নথি $(ARG1)-এর $(ARG2)(row,col)-তে ফরম্যাট ত্রুটি পাওয়া গেছে। "
+

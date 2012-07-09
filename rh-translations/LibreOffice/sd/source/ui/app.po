@@ -1,20 +1,21 @@
 #. extracted from sd/source/ui/app.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sd%2Fsource%2Fui%2Fapp.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2011-07-11 11:26+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-20 02:37+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. Ct7j
@@ -689,7 +690,8 @@ msgstr "নাম"
 #: strings.src#STR_WARN_PAGE_EXISTS.string.text
 msgid "The slide name already exists or is invalid. Please enter another name."
 msgstr ""
-"স্লাইডের নামটি ইতিমধ্যেই বিদ্যমান অথবা অকার্যকর। অনুগ্রহ করে অন্য একটি নাম দিন।"
+"স্লাইডের নামটি ইতিমধ্যেই বিদ্যমান অথবা অকার্যকর। অনুগ্রহ করে অন্য একটি নাম "
+"দিন।"
 
 #. ZtMY
 #: strings.src#STR_SNAPDLG_SETLINE.string.text
@@ -1272,9 +1274,8 @@ msgstr "সারসংক্ষেপ"
 
 #. fv8x
 #: strings.src#STR_EYEDROPPER.string.text
-#, fuzzy
 msgid "Color Replacer"
-msgstr "রঙের সহনশীলতা"
+msgstr "রঙের পরিবর্তনকারি"
 
 #. eC8d
 #: strings.src#STR_UNDO_MORPHING.string.text
@@ -1357,7 +1358,8 @@ msgid ""
 "This graphic is linked to a document. Do you want to unlink the graphic in "
 "order to edit it?"
 msgstr ""
-"গ্রাফিক্সটি একটি নথির সাথে সংযুক্ত আছে। আপনি কি সম্পাদনা করার জন্য গ্রাফিক্সটি বিযুক্ত "
+"গ্রাফিক্সটি একটি নথির সাথে সংযুক্ত আছে। আপনি কি সম্পাদনা করার জন্য "
+"গ্রাফিক্সটি বিযুক্ত "
 "করতে চান?"
 
 #. WM9v
@@ -2489,15 +2491,13 @@ msgstr ""
 
 #. cdrL
 #: menuids_tmpl.src#MN_HELPLINES_USE.SID_HELPLINES_USE.menuitem.text
-#, fuzzy
 msgid "~Snap to Snap Lines"
-msgstr "স্ন্যাপ লাইনে স্ন্যাপ করা হবে"
+msgstr "স্ন্যাপ লাইনে স্ন্যাপ করা হবে (~S)"
 
 #. Tjtb
 #: menuids_tmpl.src#MN_HELPLINES_FRONT.SID_HELPLINES_FRONT.menuitem.text
-#, fuzzy
 msgid "Snap Lines to ~Front"
-msgstr "লাইন সামনে স্ন্যাপ করা হবে"
+msgstr "লাইন সামনে স্ন্যাপ করা হবে (~F)"
 
 #. z8GJ
 #: menuids_tmpl.src#MN_HELPLINES.DUMMY_6.menuitem.text
@@ -2650,19 +2650,17 @@ msgstr ""
 # 81%
 #. Z2RN
 #: res_bmp.src#STR_STYLE_FILTER_ALL.string.text
-#, fuzzy
 msgctxt "res_bmp.src#STR_STYLE_FILTER_ALL.string.text"
 msgid "All Styles"
-msgstr "ঘরের শৈলী"
+msgstr "সকল শৈলী"
 
 # 81%
 #. HWJQ
 #: res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.1.filterlist.text
-#, fuzzy
 msgctxt ""
 "res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.1.filterlist.text"
 msgid "All Styles"
-msgstr "ঘরের শৈলী"
+msgstr "সকল শৈলী"
 
 #. zSge
 #: res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.2.filterlist.text
@@ -2681,11 +2679,10 @@ msgstr ""
 # 81%
 #. 8HH5
 #: res_bmp.src#DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY.1.filterlist.text
-#, fuzzy
 msgctxt ""
 "res_bmp.src#DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY.1.filterlist.text"
 msgid "All Styles"
-msgstr "ঘরের শৈলী"
+msgstr "সকল শৈলী"
 
 #. 8UWG
 #: menuids2_tmpl.src#MN_NEWDOCDIRECT.SID_NEWDOCDIRECT.menuitem.text
@@ -3183,7 +3180,8 @@ msgid ""
 "%PRODUCTNAME Impress has searched to the end of the presentation. Do you "
 "want to continue at the beginning?"
 msgstr ""
-"%PRODUCTNAME এর ইমপ্রেস উপস্থাপনাটির শেষ পর্যন্ত খোঁজা হয়েছে। আপনি কি শুরু থেকে "
+"%PRODUCTNAME এর ইমপ্রেস উপস্থাপনাটির শেষ পর্যন্ত খোঁজা হয়েছে। আপনি কি শুরু "
+"থেকে "
 "খোঁজা অব্যাহত রাখতে চান?"
 
 #. z0Ut
@@ -3192,7 +3190,8 @@ msgid ""
 "%PRODUCTNAME Impress has searched to the beginning of the presentation. Do "
 "you want to continue at the end?"
 msgstr ""
-"%PRODUCTNAME এর ইমপ্রেস উপস্থাপনাটির শুরু পর্যন্ত খোঁজা হয়েছে। আপনি কি শেষ থেকে "
+"%PRODUCTNAME এর ইমপ্রেস উপস্থাপনাটির শুরু পর্যন্ত খোঁজা হয়েছে। আপনি কি শেষ "
+"থেকে "
 "খোঁজা অব্যাহত রাখতে চান?"
 
 #. ULEX
@@ -3201,7 +3200,8 @@ msgid ""
 "%PRODUCTNAME Draw has searched to the end of the document. Do you want to "
 "continue at the beginning?"
 msgstr ""
-"%PRODUCTNAME এর চিত্র নথিটির শেষ পর্যন্ত খোঁজা হয়েছে। আপনি কি শুরু থেকে খোঁজা "
+"%PRODUCTNAME এর চিত্র নথিটির শেষ পর্যন্ত খোঁজা হয়েছে। আপনি কি শুরু থেকে "
+"খোঁজা "
 "অব্যাহত রাখতে চান?"
 
 #. jDjQ
@@ -3210,7 +3210,8 @@ msgid ""
 "%PRODUCTNAME Draw has searched to the beginning of the document. Do you want "
 "to continue at the end?"
 msgstr ""
-"%PRODUCTNAME এর চিত্র নথিটির শুরু পর্যন্ত খোঁজা হয়েছে। আপনি কি শে‌ষ থেকে খোঁজা "
+"%PRODUCTNAME এর চিত্র নথিটির শুরু পর্যন্ত খোঁজা হয়েছে। আপনি কি শে‌ষ থেকে "
+"খোঁজা "
 "অব্যাহত রাখতে চান?"
 
 #. tNWD
@@ -3373,3 +3374,4 @@ msgstr "গ্রাফিক্স (~G)"
 #: menuportal_tmpl.src#SD_MENU_PORTAL.MN_SUB_TOOLBAR.menuitem.text
 msgid "~Toolbars"
 msgstr "টুলবার (~T)"
+

@@ -1,20 +1,21 @@
 #. extracted from scp2/source/ooo.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+scp2%2Fsource%2Fooo.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-07-03 12:17+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -32,13 +33,13 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এর ডেস্কটপ সংযো�
 #: module_helppack.ulf#STR_NAME_MODULE_ROOT_HELPPACK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_ROOT_HELPPACK.LngText.text"
 msgid "Additional help packs"
-msgstr ""
+msgstr "অতিরিক্ত সাহায্য প্যাকসমূহ"
 
 #. wW3q
 #: module_helppack.ulf#STR_DESC_MODULE_ROOT_HELPPACK.LngText.text
 msgctxt "module_helppack.ulf#STR_DESC_MODULE_ROOT_HELPPACK.LngText.text"
 msgid "Additional help packs"
-msgstr ""
+msgstr "অতিরিক্ত সাহায্য প্যাকসমূহ"
 
 # 100%
 #. #UCM
@@ -378,9 +379,8 @@ msgstr "তামিল"
 # 96%
 #. QIrU
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TA.LngText.text
-#, fuzzy
 msgid "Installs Tamil help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ তামিল সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ তামিল সহায়তা ইনস্টল করে"
 
 # 100%
 #. _fQ_
@@ -392,9 +392,8 @@ msgstr "হিন্দি"
 # 96%
 #. DoPa
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_HI.LngText.text
-#, fuzzy
 msgid "Installs Hindi help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ হিন্দি সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ হিন্দি সহায়তা ইনস্টল করে"
 
 # 100%
 #. YhCs
@@ -466,9 +465,8 @@ msgstr "সোয়াহিলি"
 # 94%
 #. RyLW
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SW_TZ.LngText.text
-#, fuzzy
 msgid "Installs Swahili help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ সোয়াহিলি সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ সোয়াহিলি সহায়তা ইনস্টল করে"
 
 # 100%
 #. sDmI
@@ -517,9 +515,8 @@ msgstr "ওরিয়া"
 # 94%
 #. 6StY
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_OR.LngText.text
-#, fuzzy
 msgid "Installs Oriya help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ ওড়িয়া সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ ওড়িয়া সহায়তা ইনস্টল করে"
 
 # 100%
 #. ZTVs
@@ -531,9 +528,8 @@ msgstr "মারাঠি"
 # 92%
 #. H6Sj
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MR.LngText.text
-#, fuzzy
 msgid "Installs Marathi help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ মারাঠি সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ মারাঠি সহায়তা ইনস্টল করে"
 
 # 100%
 #. pLxh
@@ -557,9 +553,8 @@ msgstr "এরাবিক"
 # 92%
 #. ZRdC
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AR.LngText.text
-#, fuzzy
 msgid "Installs Arabic help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ আরবি সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ আরবি সহায়তা ইনস্টল করে"
 
 # 100%
 #. aop#
@@ -577,7 +572,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ ক্যাটালান সহা�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CA_XV.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CA_XV.LngText.text"
 msgid "Catalan (Valencian)"
-msgstr ""
+msgstr "ক্যাটালান (ভ্যালেনসীয়ান)"
 
 #. 7Gz#
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_CA_XV.LngText.text
@@ -811,9 +806,9 @@ msgstr "সার্বীয় (ল্যাটিন)"
 # 90%
 #. fR3c
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SH.LngText.text
-#, fuzzy
 msgid "Installs Serbian (Latin) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ সার্বিয় (ল্যাটিন) ভাষার সুবিধা ইনস্টল করে"
+msgstr ""
+"%PRODUCTNAME %PRODUCTVERSION এ সার্বিয় (ল্যাটিন) ভাষার সুবিধা ইনস্টল করে"
 
 # 100%
 #. A6bX
@@ -837,9 +832,9 @@ msgstr "সার্বীয় (সিরিলিক)"
 # 91%
 #. tWpV
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SR.LngText.text
-#, fuzzy
 msgid "Installs Serbian (Cyrillic) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ সার্বিয় (সিরিলিক) ভাষার সুবিধা ইনস্টল করে"
+msgstr ""
+"%PRODUCTNAME %PRODUCTVERSION এ সার্বিয় (সিরিলিক) ভাষার সুবিধা ইনস্টল করে"
 
 # 100%
 #. gXit
@@ -1043,9 +1038,8 @@ msgstr "গুজরাটি"
 # 90%
 #. dg2s
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GU.LngText.text
-#, fuzzy
 msgid "Installs Gujarati help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ গুজরাটি সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ গুজরাটি সহায়তা ইনস্টল করে"
 
 # 100%
 #. LA3n
@@ -1110,7 +1104,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ বার্মিজ (মিয়ান�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BO.LngText.text"
 msgid "Tibetan"
-msgstr ""
+msgstr "তিব্বতী"
 
 #. XHZd
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BO.LngText.text
@@ -1133,7 +1127,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ অক্সিটান সহায়�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OM.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OM.LngText.text"
 msgid "Oromo"
-msgstr ""
+msgstr "ওরোমো"
 
 #. HcN0
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_OM.LngText.text
@@ -1144,7 +1138,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ ওরোমো সহায়তা ই�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SI.LngText.text"
 msgid "Sinhala"
-msgstr ""
+msgstr "সিংহলি"
 
 #. pKd#
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SI.LngText.text
@@ -1155,7 +1149,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ সিনহালা সহায়ত�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UG.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UG.LngText.text"
 msgid "Uyghur"
-msgstr ""
+msgstr "উইঘুর"
 
 #. BsER
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_UG.LngText.text
@@ -1172,15 +1166,14 @@ msgstr "আসামীয়"
 # 92%
 #. vK3K
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AS.LngText.text
-#, fuzzy
 msgid "Installs Assamese help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ আসামীয় সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ আসামীয় সহায়তা ইনস্টল করে"
 
 #. t_Hs
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BRX.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BRX.LngText.text"
 msgid "Bodo"
-msgstr ""
+msgstr "বোদো"
 
 #. KWFo
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BRX.LngText.text
@@ -1191,7 +1184,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ বোডো সহায়তা ইন�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DGO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DGO.LngText.text"
 msgid "Dogri"
-msgstr ""
+msgstr "ডোগরি"
 
 #. Qh1G
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_DGO.LngText.text
@@ -1202,7 +1195,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ দোগরী সহায়তা ই�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GD.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GD.LngText.text"
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "স্কটিশ গ্যালিক"
 
 #. nSsX
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GD.LngText.text
@@ -1213,7 +1206,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ গায়েলিক সহায়ত�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KK.LngText.text"
 msgid "Kazakh"
-msgstr ""
+msgstr "কাজাখ"
 
 #. O2zj
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KK.LngText.text
@@ -1224,7 +1217,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ কাজাখ সহায়তা ই�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KOK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KOK.LngText.text"
 msgid "Konkani"
-msgstr ""
+msgstr "কোঙ্কানি"
 
 #. qWOo
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KOK.LngText.text
@@ -1235,7 +1228,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ কোঙ্কানি সহায়�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KS.LngText.text"
 msgid "Kashmiri"
-msgstr ""
+msgstr "কাশ্মীরি"
 
 #. od5b
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KS.LngText.text
@@ -1246,7 +1239,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ কাশ্মিরি সহায়�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MAI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MAI.LngText.text"
 msgid "Maithili"
-msgstr ""
+msgstr "মৈথিলি"
 
 #. 1reU
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MAI.LngText.text
@@ -1263,15 +1256,14 @@ msgstr "মালয়"
 # 90%
 #. SpON
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ML.LngText.text
-#, fuzzy
 msgid "Installs Malayalam help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ মালায়ালাম সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ মালায়ালাম সহায়তা ইনস্টল করে"
 
 #. nPX3
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MNI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MNI.LngText.text"
 msgid "Manipuri"
-msgstr ""
+msgstr "মনিপুরি"
 
 #. I6_7
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MNI.LngText.text
@@ -1282,20 +1274,19 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ মনিপুরি সহায়ত�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SA_IN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SA_IN.LngText.text"
 msgid "Sanskrit (India)"
-msgstr ""
+msgstr "সংস্কৃত (ভারত)"
 
 # 92%
 #. e5oy
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SA_IN.LngText.text
-#, fuzzy
 msgid "Installs Sanskrit help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ সংস্কৃত সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ সংস্কৃত সহায়তা ইনস্টল করে"
 
 #. 3NVt
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SAT.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SAT.LngText.text"
 msgid "Santali"
-msgstr ""
+msgstr "সাঁওতালি"
 
 #. W81p
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SAT.LngText.text
@@ -1306,7 +1297,7 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION এ সান্তালি সহায়�
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SD.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SD.LngText.text"
 msgid "Sindhi"
-msgstr ""
+msgstr "সিন্ধি"
 
 #. S9VY
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SD.LngText.text
@@ -1323,22 +1314,21 @@ msgstr "তেলেগু"
 # 92%
 #. 9S1T
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TE.LngText.text
-#, fuzzy
 msgid "Installs Telugu help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "%PRODUCTNAME %PRODUCTVERSION এ তেলেগু সহায়তা ইনস্টল"
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ তেলেগু সহায়তা ইনস্টল করে"
 
 #. iGU7
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_QTZ.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_QTZ.LngText.text"
 msgid "KeyID"
-msgstr ""
+msgstr "মূল আইডি"
 
 #. FF03
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_QTZ.LngText.text
 msgid ""
 "Installs English help in %PRODUCTNAME %PRODUCTVERSION with a key ID before "
 "each paragraph"
-msgstr ""
+msgstr "%PRODUCTNAME %PRODUCTVERSION এ ইংরেজি সহায়তা ইনস্টল করে"
 
 #. 5veD
 #: directory_ooo.ulf#STR_DIR_INFO.LngText.text
@@ -1413,7 +1403,8 @@ msgid ""
 "Common components and additional programs shared by all %PRODUCTNAME "
 "programs."
 msgstr ""
-"সব %PRODUCTNAME প্রোগ্রামে বিদ্যমান সাধারণ কম্পোনেন্ট এবং অতিরিক্ত প্রোগ্রামসমূহ।"
+"সব %PRODUCTNAME প্রোগ্রামে বিদ্যমান সাধারণ কম্পোনেন্ট এবং অতিরিক্ত "
+"প্রোগ্রামসমূহ।"
 
 #. 9q3y
 #: module_ooo.ulf#STR_NAME_MODULE_DICTIONARIES.LngText.text
@@ -1423,9 +1414,8 @@ msgstr "অভিধাণ"
 # 80%
 #. ghTu
 #: module_ooo.ulf#STR_DESC_MODULE_DICTIONARIES.LngText.text
-#, fuzzy
 msgid "Spelling dictionaries, hyphenation rules, and thesauri."
-msgstr "স্লোভাক বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
+msgstr "স্লোভাক বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ।"
 
 #. k63y
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AF.LngText.text
@@ -1436,34 +1426,30 @@ msgstr "আফ্রিকান"
 # 86%
 #. kD7f
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_AF.LngText.text
-#, fuzzy
 msgid "Afrikaans spelling dictionary, and hyphenation rules"
-msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
+msgstr "আফ্রিকান্স বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. 8Qhx
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AN.LngText.text
 msgid "Aragonese"
-msgstr ""
+msgstr "আর্গোনিজ"
 
 # 79%
 #. 8Hlk
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_AN.LngText.text
-#, fuzzy
 msgid "Aragonese spelling dictionary"
-msgstr "থাই বানান অভিধান"
+msgstr "এরাগোনিস্ বানান অভিধান"
 
 #. nndm
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AR.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AR.LngText.text"
 msgid "Arabic"
 msgstr "এরাবিক"
 
 #. nwZb
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_AR.LngText.text
-#, fuzzy
 msgid "Arabic spelling dictionary, and thesaurus"
-msgstr "নেপালি বানান অভিধান এবং শব্দকোষ"
+msgstr "এরাবিক বানান অভিধান এবং শব্দকোষ"
 
 # 100%
 #. Xv3j
@@ -1475,36 +1461,31 @@ msgstr "বেলারুশীয়"
 # 80%
 #. Xo7u
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BE.LngText.text
-#, fuzzy
 msgid "Belarusian spelling dictionary"
-msgstr "সোয়াহিলি বানান অভিধান"
+msgstr "বেলারুশীয় বানান অভিধান"
 
 # 77%
 #. LdBS
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BG.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BG.LngText.text"
 msgid "Bulgarian"
 msgstr "বুলগেরীয়"
 
 #. LiF9
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BG.LngText.text
-#, fuzzy
 msgid "Bulgarian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "হাঙ্গেরিয় বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
+msgstr "বুলগেরীয় বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
 
 #. fq73
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BN.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BN.LngText.text"
 msgid "Bengali"
 msgstr "বাংলা"
 
 #. f_3M
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BN.LngText.text
-#, fuzzy
 msgid "Bengali spelling dictionary"
-msgstr "থাই বানান অভিধান"
+msgstr "বাংলা বানান অভিধান"
 
 #. GVB8
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BR.LngText.text
@@ -1514,9 +1495,8 @@ msgstr "ব্রেটন"
 
 #. GKFT
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BR.LngText.text
-#, fuzzy
 msgid "Breton spelling dictionary"
-msgstr "থাই বানান অভিধান"
+msgstr "ব্রেটন বানান অভিধান"
 
 #. 43mP
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_CA.LngText.text
@@ -1526,9 +1506,8 @@ msgstr "ক্যাটালান"
 
 #. 48qC
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_CA.LngText.text
-#, fuzzy
 msgid "Catalan spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "হাঙ্গেরিয় বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
+msgstr "ক্যাটালান বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
 
 #. yaed
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_CS.LngText.text
@@ -1538,9 +1517,8 @@ msgstr "চেক"
 
 #. ylio
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_CS.LngText.text
-#, fuzzy
 msgid "Czech spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "পোলিশ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
+msgstr "চেক বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
 #. BPA#
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DA.LngText.text
@@ -1550,13 +1528,11 @@ msgstr "ড্যানিশ ভাষা"
 
 #. BIEh
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_DA.LngText.text
-#, fuzzy
 msgid "Danish spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "পোলিশ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
+msgstr "ড্যানিশ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
 #. ON#z
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DE.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DE.LngText.text"
 msgid "German"
 msgstr "জার্মান"
@@ -1567,6 +1543,8 @@ msgid ""
 "German (Austria, Germany, Switzerland) spelling dictionaries, hyphenation "
 "rules, and thesauri"
 msgstr ""
+"জার্মান (অস্ট্রিয়া, জার্মানী, সুইজারল্যান্ড) বানান পরীক্ষক অভিধান, হাইফেন "
+"প্রয়োগ নিয়ম এবং শব্দকোষ।"
 
 #. ckza
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_EN.LngText.text
@@ -1579,7 +1557,7 @@ msgstr "ইংরেজি"
 msgid ""
 "English spelling dictionaries, hyphenation rules, thesaurus, and grammar "
 "checker"
-msgstr ""
+msgstr "ইংরেজি বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
 
 # 100%
 #. ImrL
@@ -1591,9 +1569,8 @@ msgstr "গ্রিক"
 # 86%
 #. Ixn0
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_EL.LngText.text
-#, fuzzy
 msgid "Greek spelling dictionary, and hyphenation rules"
-msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
+msgstr "গ্রিক বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. 5ALt
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ES.LngText.text
@@ -1614,9 +1591,8 @@ msgstr "এস্তোনীয়"
 
 #. uU98
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_ET.LngText.text
-#, fuzzy
 msgid "Estonian spelling dictionary, and hyphenation rules"
-msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
+msgstr "এস্তোনীয় বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. #hTN
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_FR.LngText.text
@@ -1626,20 +1602,19 @@ msgstr "ফ্রেঞ্চ"
 
 #. #WP2
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_FR.LngText.text
-#, fuzzy
 msgid "French spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "পোলিশ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
+msgstr "ফ্রেঞ্চ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
 #. ZssT
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GD.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GD.LngText.text"
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "স্কটিশ গ্যালিক"
 
 #. Zzo8
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_GD.LngText.text
 msgid "Scottish Gaelic spelling dictionary"
-msgstr ""
+msgstr "স্কটিশ গ্যালিক বানান অভিধান"
 
 #. 5gUQ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GL.LngText.text
@@ -1649,22 +1624,19 @@ msgstr "গালিসিয়ান"
 
 #. 5XQF
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_GL.LngText.text
-#, fuzzy
 msgid "Galician spelling dictionary"
-msgstr "সোয়াহিলি বানান অভিধান"
+msgstr "গালিসিয়ান বানান অভিধান"
 
 #. r02A
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GU.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GU.LngText.text"
 msgid "Gujarati"
 msgstr "গুজরাটি"
 
 #. rB6V
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_GU.LngText.text
-#, fuzzy
 msgid "Gujarati spelling dictionary"
-msgstr "থাই বানান অভিধান"
+msgstr "গুজরাটি বানান অভিধান"
 
 #. gA5S
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HE.LngText.text
@@ -1674,22 +1646,19 @@ msgstr "হিব্রু"
 
 #. g119
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HE.LngText.text
-#, fuzzy
 msgid "Hebrew spelling dictionary"
 msgstr "হিব্রু বানান পরীক্ষক অভিধান"
 
 #. VOPO
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HI.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HI.LngText.text"
 msgid "Hindi"
 msgstr "হিন্দি"
 
 #. VJTD
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HI.LngText.text
-#, fuzzy
 msgid "Hindi spelling dictionary"
-msgstr "থাই বানান অভিধান"
+msgstr "হিন্দি বানান অভিধান"
 
 #. cpLJ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HU.LngText.text
@@ -1700,7 +1669,6 @@ msgstr "হাঙ্গেরিয়"
 # 78%
 #. cuH6
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HU.LngText.text
-#, fuzzy
 msgid ""
 "Hungarian spelling dictionary, hyphenation rules, thesaurus, and grammar "
 "checker"
@@ -1714,7 +1682,6 @@ msgstr "ক্রোয়েশিয়ান"
 
 #. Rd9i
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HR.LngText.text
-#, fuzzy
 msgid "Croatian spelling dictionary, and hyphenation rules"
 msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
@@ -1726,9 +1693,8 @@ msgstr "ইটালিয়ান"
 
 #. A3of
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_IT.LngText.text
-#, fuzzy
 msgid "Italian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "হাঙ্গেরিয় বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
+msgstr "ইটালিয়ান বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
 
 #. oevF
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_KU_TR.LngText.text
@@ -1737,7 +1703,6 @@ msgstr "কুর্দী (তুরস্ক)"
 
 #. kk7G
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_KU_TR.LngText.text
-#, fuzzy
 msgid "Kurdish (Turkey) spelling dictionary"
 msgstr "কুর্দী (তুরস্ক) বানান পরীক্ষক অভিধান"
 
@@ -1749,20 +1714,17 @@ msgstr "লিথুয়ানীয়"
 
 #. I3Z1
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_LT.LngText.text
-#, fuzzy
 msgid "Lithuanian spelling dictionary, and hyphenation rules"
-msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
+msgstr "লিথুয়ানীয় বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. cMlb
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_LV.LngText.text
-#, fuzzy
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_LV.LngText.text"
 msgid "Latvian"
 msgstr "লাতভীয়"
 
 #. cThm
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_LV.LngText.text
-#, fuzzy
 msgid "Latvian spelling dictionary, and hyphenation rules"
 msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
@@ -1774,7 +1736,6 @@ msgstr "নেপালি"
 
 #. JlyP
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_NE.LngText.text
-#, fuzzy
 msgid "Nepali spelling dictionary, and thesaurus"
 msgstr "নেপালি বানান অভিধান এবং শব্দকোষ"
 
@@ -1787,9 +1748,8 @@ msgstr "ডাচ"
 # 88%
 #. lym6
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_NL.LngText.text
-#, fuzzy
 msgid "Dutch spelling dictionary, and hyphenation rules"
-msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
+msgstr "ডাচ বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. 1cOw
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_NO.LngText.text
@@ -1802,6 +1762,8 @@ msgid ""
 "Norwegian (Nynorsk and Bokmal) spelling dictionary, hyphenation rules, and "
 "thesaurus"
 msgstr ""
+"নরওয়েজিয়ান (নিনর্স্ক এবং বোকমাল) বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম "
+"এবং শব্দকোষ"
 
 #. 2039
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_OC.LngText.text
@@ -1811,7 +1773,6 @@ msgstr "অক্সিটান"
 
 #. 2B7S
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_OC.LngText.text
-#, fuzzy
 msgid "Occitan spelling dictionary"
 msgstr "অক্সিটান বানান পরীক্ষা অভিধান"
 
@@ -1823,7 +1784,6 @@ msgstr "পোলিশ"
 
 #. 9QVq
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_PL.LngText.text
-#, fuzzy
 msgid "Polish spelling dictionary, hyphenation rules, and thesaurus"
 msgstr "পোলিশ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
@@ -1838,10 +1798,11 @@ msgid ""
 "Brazilian Portuguese spelling Dictionary (1990 Spelling Agreement), and "
 "hyphenation rules"
 msgstr ""
+"ব্রাজিলীয় পর্তুগীজ বানান অভিধান (1990 বানান চুক্তি), এবং"
+"হাইফেন নিয়মাবলী"
 
 #. 7Sza
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text
-#, fuzzy
 msgctxt ""
 "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text"
 msgid "Portuguese"
@@ -1851,7 +1812,7 @@ msgstr "পর্তুগীজ"
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text
 msgid ""
 "European Portuguese spelling dictionary, hyphenation rules, and thesaurus"
-msgstr ""
+msgstr "ইউরোপিয় পর্তুগীজ বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
 #. mQS7
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_RO.LngText.text
@@ -1861,9 +1822,8 @@ msgstr "রোমানীয়"
 
 #. mHOI
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_RO.LngText.text
-#, fuzzy
 msgid "Romanian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "হাঙ্গেরিয় বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
+msgstr "রোমানীয় বানান অভিধান, হাইফেন প্রয়োগ প্যাটার্ন, এবং শব্দকোষ"
 
 #. kXi#
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_RU.LngText.text
@@ -1873,7 +1833,6 @@ msgstr "রাশীয়"
 
 #. kgeh
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_RU.LngText.text
-#, fuzzy
 msgid "Russian spelling dictionary, hyphenation rules, and thesaurus"
 msgstr "রাশীয় বানান পরীক্ষা অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
@@ -1881,14 +1840,13 @@ msgstr "রাশীয় বানান পরীক্ষা অভিধান
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SI.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SI.LngText.text"
 msgid "Sinhala"
-msgstr ""
+msgstr "সিংহলি"
 
 # 85%
 #. XrZN
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SI.LngText.text
-#, fuzzy
 msgid "Sinhala spelling dictionary"
-msgstr "থাই বানান অভিধান"
+msgstr "সিংহলি বানান অভিধান"
 
 #. LWlp
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SK.LngText.text
@@ -1898,7 +1856,6 @@ msgstr "স্লোভাক"
 
 #. Lhhc
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SK.LngText.text
-#, fuzzy
 msgid "Slovak spelling dictionary, hyphenation rules, and thesaurus"
 msgstr "স্লোভাক বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
@@ -1910,9 +1867,8 @@ msgstr "স্লোভেনিয়ান"
 
 #. eqpC
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SL.LngText.text
-#, fuzzy
 msgid "Slovenian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "স্লোভাক বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
+msgstr "স্লোভেনিয়ান বানান পরীক্ষক অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
 #. bApZ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SR.LngText.text
@@ -1923,6 +1879,7 @@ msgstr "সার্বীয়"
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SR.LngText.text
 msgid "Serbian (Cyrillic and Latin) spelling dictionary, and hyphenation rules"
 msgstr ""
+"সার্বীয় (সিরিলিক এবং ল্যাটিন) বানান অভিধান, এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. s47W
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SV.LngText.text
@@ -1932,9 +1889,8 @@ msgstr "সুইডিশ"
 
 #. sF3r
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SV.LngText.text
-#, fuzzy
 msgid "Swedish spelling dictionary, and thesaurus"
-msgstr "নেপালি বানান অভিধান এবং শব্দকোষ"
+msgstr "সুইডিশ বানান অভিধান এবং শব্দকোষ"
 
 #. iBZu
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SW.LngText.text
@@ -1957,9 +1913,8 @@ msgstr "তেলেগু"
 # 86%
 #. Rz5q
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_TE.LngText.text
-#, fuzzy
 msgid "Telugu spelling dictionary, and hyphenation rules"
-msgstr "ক্রোয়েশিয়ান বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
+msgstr "তেলেগু বানান পরীক্ষক অভিধান এবং হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. qhvz
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_TH.LngText.text
@@ -1980,7 +1935,6 @@ msgstr "ইউক্রেনীয়"
 
 #. i5Ms
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_UK.LngText.text
-#, fuzzy
 msgid "Ukrainian spelling dictionary, hyphenation rules, and thesaurus"
 msgstr "ইউক্রেইনিয়ান বানান পরীক্ষা অভিধান, হাইফেন প্রয়োগ নিয়ম এবং শব্দকোষ"
 
@@ -1992,9 +1946,8 @@ msgstr "ভিয়েতনামী"
 
 #. vro_
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_VI.LngText.text
-#, fuzzy
 msgid "Vietnamese spelling dictionary"
-msgstr "অভিধান বানান পরীক্ষক অভিধান"
+msgstr "ভিয়েতনামী অভিধান বানান পরীক্ষক অভিধান"
 
 #. o810
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ZU.LngText.text
@@ -2005,7 +1958,7 @@ msgstr "জুলু"
 #. o35L
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_ZU.LngText.text
 msgid "Zulu hyphenation rules"
-msgstr ""
+msgstr "জুলু হাইফেন প্রয়োগ প্যাটার্ন"
 
 #. nwZX
 #: module_java.ulf#STR_NAME_MODULE_OPTIONAL_JAVA.LngText.text
@@ -2068,20 +2021,21 @@ msgid ""
 "LibreOffice, the office productivity suite provided by The Document "
 "Foundation. See http://www.documentfoundation.org"
 msgstr ""
-"LibreOffice, নথি ফাউন্ডেশন কর্তৃক প্রদত্ত অফিস প্রোডাক্টিভিটি স্যুট। http://www."
+"LibreOffice, নথি ফাউন্ডেশন কর্তৃক প্রদত্ত অফিস প্রোডাক্টিভিটি স্যুট। "
+"http://www."
 "documentfoundation.org দেখুন"
 
 #. Zgkl
 #: module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text"
 msgid "Additional user interface languages"
-msgstr ""
+msgstr "অতিরিক্ত ব্যবহারকারী ইন্টারফেস ভাষা"
 
 #. HlW6
 #: module_langpack.ulf#STR_DESC_MODULE_ROOT_LANGPACK.LngText.text
 msgctxt "module_langpack.ulf#STR_DESC_MODULE_ROOT_LANGPACK.LngText.text"
 msgid "Additional user interface languages"
-msgstr ""
+msgstr "অতিরিক্ত ব্যবহারকারী ইন্টারফেস ভাষা"
 
 #. 4L69
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
@@ -2092,7 +2046,7 @@ msgstr "ইংরেজি"
 #. eVMQ
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
 msgid "Installs the English user interface"
-msgstr ""
+msgstr "ইংরেজি ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. hmZE
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
@@ -2103,29 +2057,29 @@ msgstr "জার্মান"
 #. PhWL
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
 msgid "Installs the German user interface"
-msgstr ""
+msgstr "জার্মান ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. DC0a
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text"
 msgid "French"
-msgstr "ফ্রেঞ্চ"
+msgstr "ফরাসি"
 
 #. _N3_
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
 msgid "Installs the French user interface"
-msgstr ""
+msgstr "ফরাসি ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. vlhF
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text"
 msgid "Italian"
-msgstr "ইটালিয়ান"
+msgstr "ইতালিয়"
 
 #. BqeK
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
 msgid "Installs the Italian user interface"
-msgstr ""
+msgstr "ইতালিয় ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. sj84
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
@@ -2136,7 +2090,7 @@ msgstr "স্প্যানিশ"
 #. 4sBV
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
 msgid "Installs the Spanish user interface"
-msgstr ""
+msgstr "স্প্যানিশ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. 5ZQJ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text
@@ -2147,7 +2101,7 @@ msgstr "সুইডিশ"
 #. tuP8
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text
 msgid "Installs the Swedish user interface"
-msgstr ""
+msgstr "সুইডিশ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. GJ#Q
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text
@@ -2159,7 +2113,7 @@ msgstr "পর্তুগীজ"
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text
 msgctxt "module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text"
 msgid "Installs the Portuguese user interface"
-msgstr ""
+msgstr "পর্তুগীজ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. 4GHJ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text
@@ -2171,7 +2125,7 @@ msgstr "পর্তুগীজ (ব্রাজিল)"
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text
 msgctxt "module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text"
 msgid "Installs the Portuguese user interface"
-msgstr ""
+msgstr "পর্তুগিজ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. Tv7Z
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text
@@ -2182,7 +2136,7 @@ msgstr "জাপানী"
 #. lY4u
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text
 msgid "Installs the Japanese user interface"
-msgstr ""
+msgstr "জাপানী ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. g1KX
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text
@@ -2193,40 +2147,40 @@ msgstr "কোরিয়ান"
 #. OQNw
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text
 msgid "Installs the Korean user interface"
-msgstr ""
+msgstr "কোরিয়ান ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. JODj
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text"
 msgid "Chinese (simplified)"
-msgstr "চাইনিজ (সরলীকৃত)"
+msgstr "চীনা (সরলীকৃত) "
 
 #. _IT#
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text
 msgid "Installs the Chinese (simplified) user interface"
-msgstr ""
+msgstr "চীনা (সরলীকৃত) ব্যবহারকারীর ইন্টারফেস ইনস্টল"
 
 #. l9K6
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text"
 msgid "Chinese (traditional)"
-msgstr "চাইনিজ (সনাতন)"
+msgstr "চীনা (সনাতন) "
 
 #. 334L
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text
 msgid "Installs the Chinese (traditional) user interface"
-msgstr ""
+msgstr "চীনা (সনাতন) ব্যবহারকারীর ইন্টারফেস ইনস্টল"
 
 #. SGfW
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text"
 msgid "Dutch"
-msgstr "ডাচডাচ"
+msgstr "ডাচ"
 
 #. kBgx
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text
 msgid "Installs the Dutch user interface"
-msgstr ""
+msgstr "ডাচ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. LK8W
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
@@ -2237,7 +2191,7 @@ msgstr "হাঙ্গেরিয়"
 #. dFBx
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
 msgid "Installs the Hungarian user interface"
-msgstr ""
+msgstr "হাঙ্গেরিয় ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. ws6I
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text
@@ -2248,7 +2202,7 @@ msgstr "পোলিশ"
 #. 8j59
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text
 msgid "Installs the Polish user interface"
-msgstr ""
+msgstr "পোলিশ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. T6nD
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text
@@ -2259,7 +2213,7 @@ msgstr "রুশ"
 #. lToM
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text
 msgid "Installs the Russian user interface"
-msgstr ""
+msgstr "রুশ ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. PtKt
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text
@@ -2270,7 +2224,7 @@ msgstr "তুর্কি"
 #. hiNi
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text
 msgid "Installs the Turkish user interface"
-msgstr ""
+msgstr "তুর্কি ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. XNec
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text
@@ -2281,7 +2235,7 @@ msgstr "গ্রিক"
 #. JChz
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text
 msgid "Installs the Greek user interface"
-msgstr ""
+msgstr "গ্রিক ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. 7CaE
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text
@@ -2292,7 +2246,7 @@ msgstr "থাই"
 #. rNdL
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text
 msgid "Installs the Thai user interface"
-msgstr ""
+msgstr "থাই ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. F3rK
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text
@@ -2303,7 +2257,7 @@ msgstr "চেক"
 #. zOsF
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text
 msgid "Installs the Czech user interface"
-msgstr ""
+msgstr "চেক ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. c7o0
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text
@@ -2314,7 +2268,7 @@ msgstr "স্লোভাক"
 #. KSnR
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text
 msgid "Installs the Slovak user interface"
-msgstr ""
+msgstr "স্লোভাক ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. eBGA
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text
@@ -2325,7 +2279,7 @@ msgstr "ক্রোয়েশিয়ান"
 #. QGJH
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text
 msgid "Installs the Croatian user interface"
-msgstr ""
+msgstr "ক্রোয়েশিয়ান ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. BoGk
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text
@@ -2336,7 +2290,7 @@ msgstr "এস্তোনীয়"
 #. vfJr
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text
 msgid "Installs the Estonian user interface"
-msgstr ""
+msgstr "এস্তোনীয় ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. APhP
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text
@@ -2347,7 +2301,7 @@ msgstr "ভিয়েতনামী"
 #. u2e2
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text
 msgid "Installs the Vietnamese user interface"
-msgstr ""
+msgstr "ভিয়েতনামী ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 # 77%
 #. c0Ml
@@ -2359,7 +2313,7 @@ msgstr "বুলগেরীয়"
 #. KRLq
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text
 msgid "Installs the Bulgarian user interface"
-msgstr ""
+msgstr "বুলগেরীয় ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. UVSG
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text
@@ -2370,7 +2324,7 @@ msgstr "খেমার"
 #. i4VB
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text
 msgid "Installs the Khmer user interface"
-msgstr ""
+msgstr "খেমার ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. 76bs
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text
@@ -2381,7 +2335,7 @@ msgstr "পাঞ্জাবি"
 #. hCrb
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text
 msgid "Installs the Punjabi user interface"
-msgstr ""
+msgstr "পাঞ্জাবি ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. xVeH
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text
@@ -2392,7 +2346,7 @@ msgstr "তামিল"
 #. 94hA
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text
 msgid "Installs the Tamil user interface"
-msgstr ""
+msgstr "তামিল ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. i_4h
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text
@@ -2403,7 +2357,7 @@ msgstr "হিন্দি"
 #. Ua7m
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text
 msgid "Installs the Hindi user interface"
-msgstr ""
+msgstr "হিন্দি ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 # 100%
 #. nzIY
@@ -2415,7 +2369,7 @@ msgstr "দক্ষিণস্থ সোথো (সুতো)"
 #. 3cHv
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text
 msgid "Installs the Southern Sotho (Sutu) user interface"
-msgstr ""
+msgstr "দক্ষিণস্থ সোথো (সুতো) ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. WSOy
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text
@@ -2426,7 +2380,7 @@ msgstr "সোয়ানা"
 #. I7Rd
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text
 msgid "Installs the Tswana user interface"
-msgstr ""
+msgstr "সোয়ানা ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. rHVl
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text
@@ -2437,7 +2391,7 @@ msgstr "জোসা"
 #. 7ASq
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text
 msgid "Installs the Xhosa user interface"
-msgstr ""
+msgstr "জোসা ব্যবহারকারী ইন্টারফেস ইনস্টল"
 
 #. 1lSp
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text

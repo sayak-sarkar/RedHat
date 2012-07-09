@@ -1,20 +1,21 @@
 #. extracted from svx/source/dialog.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+svx%2Fsource%2Fdialog.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-13 19:19+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -32,7 +33,8 @@ msgid ""
 "working on will now be saved. The next time %PRODUCTNAME is launched, your "
 "files will be recovered automatically."
 msgstr ""
-"একটি অপ্রত্যাশিত ত্রুটির কারণে, %PRODUCTNAME ক্র্যাশ করেছে। আপনি যে সব ফাইলে কাজ "
+"একটি অপ্রত্যাশিত ত্রুটির কারণে, %PRODUCTNAME ক্র্যাশ করেছে। আপনি যে সব ফাইলে "
+"কাজ "
 "করছিলেন তা এখন সংরক্ষণ করা হবে। পরবর্তী সময়ে %PRODUCTNAME চালালে, আপনার "
 "ফাইলগুলো স্বয়ংক্রিয়ভাবে পুনরুদ্ধার করা হবে।"
 
@@ -66,7 +68,8 @@ msgid ""
 "\n"
 "The 'Status' column shows whether the document could be recovered."
 msgstr ""
-"নিম্নের তালিকাভুক্ত নথির পুনরুদ্ধার প্রক্রিয়া শুরু করতে 'পুনরুদ্ধার শুরু করুন' চাপুন।\n"
+"নিম্নের তালিকাভুক্ত নথির পুনরুদ্ধার প্রক্রিয়া শুরু করতে 'পুনরুদ্ধার শুরু "
+"করুন' চাপুন।\n"
 "\n"
 "নথিটি পুনরুদ্ধার করা যাবে কিনা তা 'অবস্থা' কলামে দেখানো আছে।"
 
@@ -128,7 +131,8 @@ msgid ""
 "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending "
 "on the size of the documents this process can take some time."
 msgstr ""
-"%PRODUCTNAME %PRODUCTVERSION আপনার নথিসমূহ পুনরুদ্ধার করা শুরু করবে। নথির আকারের "
+"%PRODUCTNAME %PRODUCTVERSION আপনার নথিসমূহ পুনরুদ্ধার করা শুরু করবে। নথির "
+"আকারের "
 "অনুসারে এই প্রক্রিয়াটির কিছু সময় লাগতে পারে।"
 
 #. funo
@@ -139,7 +143,8 @@ msgid ""
 "'Cancel' to skip this step."
 msgstr ""
 "%PRODUCTNAME ক্র্যাশ করার কারণ সনাক্ত করতে ক্র্যাশের একটি প্রতিবেদন তৈরি করা "
-"হয়েছে। ত্রুটি প্রতিবেদন টুল পরিদর্শনের জন্য 'পরবর্তী' ক্লিক করুন বা 'বাতিল' চেপে এই "
+"হয়েছে। ত্রুটি প্রতিবেদন টুল পরিদর্শনের জন্য 'পরবর্তী' ক্লিক করুন বা 'বাতিল' "
+"চেপে এই "
 "ধাপটি এড়িয়ে যান। "
 
 #. #4rZ
@@ -172,7 +177,8 @@ msgid ""
 msgstr ""
 "স্বয়ংক্রিয় পুনরুদ্ধার প্রক্রিয়া বিঘ্নিত হয়েছে।\n"
 "\n"
-"'‍সংরক্ষণ' ক্লিক করলে নিচের তালিকাভুক্ত নথিসমূহ নির্ধারিত ফোল্ডারে সংরক্ষিত হবে। "
+"'‍সংরক্ষণ' ক্লিক করলে নিচের তালিকাভুক্ত নথিসমূহ নির্ধারিত ফোল্ডারে সংরক্ষিত "
+"হবে। "
 "নথিগুলো সংরক্ষণ না করে উইজার্ডটি বন্ধ করতে 'বাতিল' ক্লিক করুন।"
 
 #. AUWS
@@ -221,20 +227,27 @@ msgid ""
 "For more information on Oracle's privacy policy, visit\n"
 "www.oracle.com/html/services-privacy-policy.html"
 msgstr ""
-"ত্রুটি রিপোর্ট করার এই টুলটি %PRODUCTNAME কিভাবে কাজ করে সে সম্পর্কে তথ্য সংগ্রহ করে "
+"ত্রুটি রিপোর্ট করার এই টুলটি %PRODUCTNAME কিভাবে কাজ করে সে সম্পর্কে তথ্য "
+"সংগ্রহ করে "
 "এবং ওরাকলে পাঠায় যাতে পরবর্তী সংস্করণগুলো আরও উন্নত করা যায়।\n"
 "\n"
-"এটি খুবই সহজ - কোনো কষ্ট না করে শুধুমাত্র পরবর্তী ডায়ালগে 'প্রেরণ' ক্লিক করুন, অথবা "
-"কিভাবে ত্রুটি সংগঠিত হয়েছে তা বিস্তারিত লিখে 'প্রেরণ' ক্লিক করুন। আপনি রিপোর্টটি "
-"দেখতে চাইলে, 'রিপোর্ট  প্রদর্শন' বোতামে ক্লিক করুন। আপনি 'প্রেরণ করা হবে না' ক্লিক "
+"এটি খুবই সহজ - কোনো কষ্ট না করে শুধুমাত্র পরবর্তী ডায়ালগে 'প্রেরণ' ক্লিক "
+"করুন, অথবা "
+"কিভাবে ত্রুটি সংগঠিত হয়েছে তা বিস্তারিত লিখে 'প্রেরণ' ক্লিক করুন। আপনি "
+"রিপোর্টটি "
+"দেখতে চাইলে, 'রিপোর্ট  প্রদর্শন' বোতামে ক্লিক করুন। আপনি 'প্রেরণ করা হবে না' "
+"ক্লিক "
 "করলে কোন তথ্য প্রেরিত হবে না।\n"
 "\n"
 "ব্যবহারকারী গোপনীয়তা\n"
-"সংগৃহীত তথ্য কেবলমাত্র ত্রুটি সংগঠনের সময় %PRODUCTNAME %PRODUCTVERSION এর অবস্থা "
-"সম্পর্কিত তথ্যের মধ্যেই সীমাবদ্ধ। পাসওয়ার্ড বা নথির বিষয়বস্তু সম্পর্কিত অন্যান্য কোন তথ্য "
+"সংগৃহীত তথ্য কেবলমাত্র ত্রুটি সংগঠনের সময় %PRODUCTNAME %PRODUCTVERSION এর "
+"অবস্থা "
+"সম্পর্কিত তথ্যের মধ্যেই সীমাবদ্ধ। পাসওয়ার্ড বা নথির বিষয়বস্তু সম্পর্কিত "
+"অন্যান্য কোন তথ্য "
 "পাঠানো হবে না।\n"
 "\n"
-"এই তথ্যাবলী শুধুমাত্র %PRODUCTNAME'র গুণগত মান বৃদ্ধি করার জন্য ব্যবহার করা হবে এবং "
+"এই তথ্যাবলী শুধুমাত্র %PRODUCTNAME'র গুণগত মান বৃদ্ধি করার জন্য ব্যবহার করা "
+"হবে এবং "
 "কোন তৃতীয় পক্ষের সাথে শেয়ার করা হবে না।\n"
 "ওরাকলের গোপনীয়তা নীতি সম্পর্কিত আরও তথ্যের জন্য, \n"
 "www.oracle.com/html/services-privacy-policy.html দেখুন"
@@ -265,8 +278,10 @@ msgid ""
 "describe the action you were trying to carry out when the error occurred. "
 "Then click 'Send'."
 msgstr ""
-"নিচের ফাঁকা জায়গায়, আপনি ত্রুটি প্রতিবেদনটির একটি শিরোনাম দিতে পারেন এবং ত্রুটি "
-"সংঘটিত হওয়ার সময় আপনি যে কাজ করছিলেন তা বর্ণনা করতে পারেন। এরপর 'প্রেরণ' ক্লিক "
+"নিচের ফাঁকা জায়গায়, আপনি ত্রুটি প্রতিবেদনটির একটি শিরোনাম দিতে পারেন এবং "
+"ত্রুটি "
+"সংঘটিত হওয়ার সময় আপনি যে কাজ করছিলেন তা বর্ণনা করতে পারেন। এরপর 'প্রেরণ' "
+"ক্লিক "
 "করুন।"
 
 #. r5o0
@@ -275,13 +290,15 @@ msgid ""
 "~Which type of document (e.g. presentation) were you using when the error "
 "occurred?"
 msgstr ""
-"ত্রুটি সংঘটিত হওয়ার সময় আপনি কি ধরনের নথি (যেমন উপস্থাপনা) ব্যবহার করছিলেন? (~W)"
+"ত্রুটি সংঘটিত হওয়ার সময় আপনি কি ধরনের নথি (যেমন উপস্থাপনা) ব্যবহার করছিলেন? "
+"(~W)"
 
 #. 82Ae
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_USING.fixedtext.text
 msgid "~How were you using %PRODUCTNAME when the error occurred? (optional)"
 msgstr ""
-"ত্রুটি সংঘটিত হওয়ার সময় আপনি কিভাবে %PRODUCTNAME ব্যবহার করছিলেন? (ঐচ্ছিক) (~H)"
+"ত্রুটি সংঘটিত হওয়ার সময় আপনি কিভাবে %PRODUCTNAME ব্যবহার করছিলেন? (ঐচ্ছিক) "
+"(~H)"
 
 #. joID
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_SHOWREP.pushbutton.text
@@ -297,7 +314,8 @@ msgstr "অপশন... (~O)"
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.CB_ERRSEND_CONTACT.checkbox.text
 msgid "~I allow Oracle to contact me regarding this report."
 msgstr ""
-"আমি ওরাকলকে এই প্রতিবেদনের সাথে সম্পর্কিত বিষয়ে আমার সাথে যোগাযোগ করার অনুমোদন "
+"আমি ওরাকলকে এই প্রতিবেদনের সাথে সম্পর্কিত বিষয়ে আমার সাথে যোগাযোগ করার "
+"অনুমোদন "
 "প্রদান করছি।"
 
 #. tMtI
@@ -362,11 +380,14 @@ msgid ""
 "If this applies to your situation, you have to specify the address and port "
 "for the server."
 msgstr ""
-"ত্রুটি প্রতিবেদন পাঠাতে %PRODUCTNAME ত্রুটি প্রতিবেদন টুলটির ইন্টারনেটের সাথে সংযুক্ত "
+"ত্রুটি প্রতিবেদন পাঠাতে %PRODUCTNAME ত্রুটি প্রতিবেদন টুলটির ইন্টারনেটের সাথে "
+"সংযুক্ত "
 "থাকা প্রয়োজন।\n"
-"নেটওয়ার্ক সুরক্ষিত রাখতে কোম্পানীগুলো সাধারণত ফায়ারওয়াল সহ প্রক্সি সার্ভার ব্যবহার "
+"নেটওয়ার্ক সুরক্ষিত রাখতে কোম্পানীগুলো সাধারণত ফায়ারওয়াল সহ প্রক্সি সার্ভার "
+"ব্যবহার "
 "করে।\n"
-"এটি যদি আপনার ক্ষেত্রে প্রযোজ্য হয়, আপনাকে সার্ভারের ঠিকানা ও পোর্ট সুনির্দিষ্ট করতে "
+"এটি যদি আপনার ক্ষেত্রে প্রযোজ্য হয়, আপনাকে সার্ভারের ঠিকানা ও পোর্ট "
+"সুনির্দিষ্ট করতে "
 "হবে।"
 
 #. 1n8_
@@ -386,7 +407,8 @@ msgid ""
 "referenced as a link. This is dangerous if you move and/or rename the files. "
 "Do you want to embed the graphic instead?"
 msgstr ""
-"আপনার নথির সাথে %FILENAME ফাইলটি সংরক্ষিত হবে না, তবে শুধু একটি রেফারেন্স লিংক "
+"আপনার নথির সাথে %FILENAME ফাইলটি সংরক্ষিত হবে না, তবে শুধু একটি রেফারেন্স "
+"লিংক "
 "হিসেবে থাকবে। ফাইলটি সরানো এবং / বা পুনরায় নামকরণ করা বিপদজনক। আপনি কি "
 "পরিবর্তে গ্রাফিক সন্নিবেশ করতে চান?"
 
@@ -619,9 +641,8 @@ msgstr "শৈলী অনুসন্ধান (~y)"
 
 #. 9Mfk
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_COMMENTS.checkbox.text
-#, fuzzy
 msgid "Comments"
-msgstr "মন্তব্য"
+msgstr "মন্তব্যসমূহ"
 
 #. XuR_
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_JAP_MATCH_FULL_HALF_WIDTH.checkbox.text
@@ -665,9 +686,8 @@ msgstr "মান"
 
 #. tXNE
 #: srchdlg.src#RID_SVXDLG_SEARCH.LB_CALC_SEARCHIN.3.stringlist.text
-#, fuzzy
 msgid "Notes"
-msgstr "নোট"
+msgstr "নোটস"
 
 #. T9mo
 #: srchdlg.src#RID_SVXDLG_SEARCH.FT_CALC_SEARCHDIR.fixedtext.text
@@ -2114,9 +2134,8 @@ msgstr "CJK রেডিকেল সাপ্লিমেন্ট"
 # 93%
 #. sPRF
 #: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KANGXI_RADICALS.string.text
-#, fuzzy
 msgid "Kangxi Radicals"
-msgstr "Kanxi রেডিকেল"
+msgstr "Kangxi রেডিক্যেল"
 
 #. YgH8
 #: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_IDEO_DESC_CHARS.string.text
@@ -3155,17 +3174,17 @@ msgstr "তীর"
 #. lGTY
 #: sdstring.src#RID_SVXSTR_LEND12.string.text
 msgid "Short line arrow"
-msgstr ""
+msgstr "ছোট রেখা তীর"
 
 #. u3Jx
 #: sdstring.src#RID_SVXSTR_LEND13.string.text
 msgid "Triangle unfilled"
-msgstr ""
+msgstr "খালি ত্রিভুজ"
 
 #. c8SL
 #: sdstring.src#RID_SVXSTR_LEND14.string.text
 msgid "Diamond unfilled"
-msgstr ""
+msgstr "খালি ডায়মন্ড"
 
 #. nRIC
 #: sdstring.src#RID_SVXSTR_LEND15.string.text
@@ -3175,29 +3194,28 @@ msgstr "হীরা"
 #. 8k0d
 #: sdstring.src#RID_SVXSTR_LEND16.string.text
 msgid "Circle unfilled"
-msgstr ""
+msgstr "খালি বৃত্ত"
 
 #. VzE#
 #: sdstring.src#RID_SVXSTR_LEND17.string.text
 msgid "Square 45 unfilled"
-msgstr ""
+msgstr "খালি বর্গ ৪৫"
 
 #. FBwQ
 #: sdstring.src#RID_SVXSTR_LEND18.string.text
 msgid "Square unfilled"
-msgstr ""
+msgstr "খালি বর্গ"
 
 #. OOq3
 #: sdstring.src#RID_SVXSTR_LEND19.string.text
 msgid "Half circle unfilled"
-msgstr ""
+msgstr "খালি অর্ধ বৃত্ত"
 
 # 90%
 #. ldjv
 #: sdstring.src#RID_SVXSTR_LEND20.string.text
-#, fuzzy
 msgid "Arrowhead"
-msgstr "তীরের-অগ্রভাগ"
+msgstr "বাণ"
 
 #. oO0I
 #: sdstring.src#RID_SVXSTR_TRASNGR0.string.text
@@ -3733,7 +3751,8 @@ msgid ""
 "Right pointing bullet, right pointing arrow bullet, solid diamond bullet, "
 "solid small circular bullet"
 msgstr ""
-"ডান নির্দেশিত বুলেট, ডান নির্দেশিত তীর বুলেট, গাঢ় ডায়ামন্ড বুলেট, গাঢ় ছোট বৃত্তাকার "
+"ডান নির্দেশিত বুলেট, ডান নির্দেশিত তীর বুলেট, গাঢ় ডায়ামন্ড বুলেট, গাঢ় ছোট "
+"বৃত্তাকার "
 "বুলেট"
 
 #. f3yo
@@ -4065,7 +4084,8 @@ msgid ""
 "This graphic object is linked to the document. Do you want to unlink the "
 "graphics in order to edit it?"
 msgstr ""
-"এই গ্রাফিক বস্তুটি নথির সাথে সংযুক্ত। আপনি কি গ্রাফিকটি সম্পাদনা করার জন্য এটি বিযুক্ত "
+"এই গ্রাফিক বস্তুটি নথির সাথে সংযুক্ত। আপনি কি গ্রাফিকটি সম্পাদনা করার জন্য "
+"এটি বিযুক্ত "
 "করতে চান?"
 
 #. eJtL

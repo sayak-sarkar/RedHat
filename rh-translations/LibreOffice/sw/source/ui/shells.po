@@ -1,20 +1,21 @@
 #. extracted from sw/source/ui/shells.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sw%2Fsource%2Fui%2Fshells.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-04-05 10:47+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-14 23:39+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. ALNn
@@ -138,7 +139,8 @@ msgstr "পরিবর্তন সম্পাদনা"
 #. fy_V
 #: shells.src#DLG_IMPORT_DBNAME.querybox.text
 msgid "Use database name as default database for the document?"
-msgstr "নথির জন্য পূর্বনির্ধারিত ডাটাবেস হিসেবে ডাটাবেসের নাম ব্যবহার করবেন কি?"
+msgstr ""
+"নথির জন্য পূর্বনির্ধারিত ডাটাবেস হিসেবে ডাটাবেসের নাম ব্যবহার করবেন কি?"
 
 #. 7RjH
 #: shells.src#STR_PAGE.string.text
@@ -253,7 +255,7 @@ msgstr "মিডিয়া"
 #. g4W8
 #: shells.src#STR_SHELLNAME_NAVIGATION.string.text
 msgid "Navigation"
-msgstr ""
+msgstr "পরিভ্রমন"
 
 #. rO7e
 #: shells.src#STR_SWBG_PARAGRAPH.string.text
@@ -307,3 +309,4 @@ msgstr "শীর্ষচরণ"
 #: shells.src#STR_SWBG_FOOTER.string.text
 msgid "Footer"
 msgstr "পাদচরণ"
+

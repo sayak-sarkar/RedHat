@@ -1,20 +1,21 @@
 #. extracted from sw/source/ui/dbui.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sw%2Fsource%2Fui%2Fdbui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-04-05 10:47+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-15 00:03+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. qUuW
@@ -242,7 +243,8 @@ msgid ""
 "Select an address list. Click '%1' to select recipients from a different "
 "list. If you do not have an address list you can create one by clicking '%2'."
 msgstr ""
-"ঠিকানার তালিকা নির্বাচন করুন। ভিন্ন তালিকা থেকে প্রাপক নির্বাচন করতে '%1' ক্লিক "
+"ঠিকানার তালিকা নির্বাচন করুন। ভিন্ন তালিকা থেকে প্রাপক নির্বাচন করতে '%1' "
+"ক্লিক "
 "করুন। আপনার যদি ঠিকানার তালিকা না থাকে, '%2' ক্লিক করে নতুন একটি তৈরি করতে "
 "পারেন।"
 
@@ -313,7 +315,8 @@ msgid ""
 "The preview of a merged document is visible now. To see the preview of "
 "another document click one of the arrows."
 msgstr ""
-"এখন একত্রিত নথির প্রাকদর্শন দৃশ্যমান। অন্য একটি নথির প্রাকদর্শন দেখতে, যেকোনো একটি "
+"এখন একত্রিত নথির প্রাকদর্শন দৃশ্যমান। অন্য একটি নথির প্রাকদর্শন দেখতে, যেকোনো "
+"একটি "
 "তীর ক্লিক করুন।"
 
 #. rTij
@@ -390,10 +393,12 @@ msgid ""
 "return to the wizard by clicking 'Return to Mail Merge Wizard' in the small "
 "window."
 msgstr ""
-"আপনি যদি ইতোমধ্যে তেমন কিছু না করেন, তবে আপনার নথিতে লিখুন বা সম্পাদনা করুন। এই "
+"আপনি যদি ইতোমধ্যে তেমন কিছু না করেন, তবে আপনার নথিতে লিখুন বা সম্পাদনা করুন। "
+"এই "
 "পরিবর্তন সকল একত্রিত নথিতে প্রভাব ফেলবে। \n"
 "\n"
-"'নথি সম্পাদনা...' ক্লিক করলে, উইজার্ডটি অস্থায়ীভাবে ছোট উইন্ডোতে পরিবর্তিত হবে, "
+"'নথি সম্পাদনা...' ক্লিক করলে, উইজার্ডটি অস্থায়ীভাবে ছোট উইন্ডোতে পরিবর্তিত "
+"হবে, "
 "ফলে আপনি মেইল একত্রীকরণ নথি সম্পাদনা করতে পারেন। নথিটি সম্পাদনা করার পরে, ছোট "
 "উইন্ডোর 'মেইল একত্রীকরণ উইজার্ডে ফিরে যান' ক্লিক করে উইজার্ডে ফেরত যান।"
 
@@ -1047,7 +1052,8 @@ msgid ""
 "The file you have selected contains more than one table. Please select the "
 "table containing the address list you want to use."
 msgstr ""
-"আপনার নির্বাচিত ফাইলে একাধিক সারণি রয়েছে। অনুগ্রহ করে এমন সারণি নির্বাচন করুন, "
+"আপনার নির্বাচিত ফাইলে একাধিক সারণি রয়েছে। অনুগ্রহ করে এমন সারণি নির্বাচন "
+"করুন, "
 "যাতে ঠিকানার তালিকা রয়েছে, যেটি আপনি ব্যবহার করতে চান।"
 
 #. HcUx
@@ -1182,9 +1188,8 @@ msgstr "সফলভাবে পাঠানো হয়েছে"
 
 #. F6P2
 #: mailmergechildwindow.src#ST_FAILED.string.text
-#, fuzzy
 msgid "Sending failed"
-msgstr "পাঠানো স্থগিত করা হয়েছে"
+msgstr "পাঠানো ব্যর্থ হয়েছে"
 
 #. aQ1#
 #: mailmergechildwindow.src#ST_TERMINATEQUERY.string.text
@@ -1223,7 +1228,8 @@ msgid ""
 "editing the document, return to the wizard by clicking 'Return to Mail Merge "
 "Wizard' in the small window."
 msgstr ""
-"আপনি নির্দিষ্ট নথি ব্যক্তিগত করতে পারেন। '%1' এ ক্লিক করলে, উইজার্ডটি অস্থায়ীভাবে "
+"আপনি নির্দিষ্ট নথি ব্যক্তিগত করতে পারেন। '%1' এ ক্লিক করলে, উইজার্ডটি "
+"অস্থায়ীভাবে "
 "ছোট উইন্ডোতে পরিবর্তিত হয়, ফলে আপনি আপনার নথি সম্পাদনা করতে পারবেন। নথি "
 "সম্পাদনার পরে, ছোট উইন্ডোর 'মেইল একত্রীকরণ উইজার্ডে ফিরিয়ে দিন' ক্লিক করে  "
 "উইজার্ডে ফিরে যান।"
@@ -1442,7 +1448,8 @@ msgid ""
 "You did not specify a subject for this message. If you would like to provide "
 "one, please type it now."
 msgstr ""
-"আপনি এই বার্তার কোনো বিষয় উল্লেখ করেননি। আপনি যদি বিষয় যোগ করতে চান, অনুগ্রহ করে "
+"আপনি এই বার্তার কোনো বিষয় উল্লেখ করেননি। আপনি যদি বিষয় যোগ করতে চান, অনুগ্রহ "
+"করে "
 "এখনই এটা লিখুন।"
 
 #. OsJw
@@ -1456,22 +1463,22 @@ msgid ""
 "You did not specify a new name for the attachment. If you would like to "
 "provide one, please type it now."
 msgstr ""
-"আপনি সংযুক্তির কোনো নতুন নাম উল্লেখ করেননি। আপনি যদি নাম দিতে চান, অনুগ্রহ করে "
+"আপনি সংযুক্তির কোনো নতুন নাম উল্লেখ করেননি। আপনি যদি নাম দিতে চান, অনুগ্রহ "
+"করে "
 "এখনই এটা লিখুন।"
 
 #. C_aK
 #: mmoutputpage.src#ST_CONFIGUREMAIL.string.text
-#, fuzzy
 msgid ""
 "In order to be able to send mail merge documents by e-mail, %PRODUCTNAME "
 "requires information about the e-mail account to be used.\n"
 "\n"
 "Do you want to enter e-mail account information now?"
 msgstr ""
-"ইমেইলের মাধ্যমে মেইল একত্রীকরণ নথি প্রেরণে সক্ষম হতে, %PRODUCTNAME ব্যবহার করার "
-"জন্য, এটার ইমেইল একাউন্ট সম্পর্কিত তথ্যের প্রয়োজন হয়।\n"
-" \n"
-" আপনি কি এখন ইমেইল একাউন্টের তথ্য সন্নিবেশ করাতে চান?"
+"ইমেইলের মাধ্যমে মেইল একত্রীকরণ নথি প্রেরণে সক্ষম হতে, %PRODUCTNAME ব্যবহার "
+"করার জন্য, এটার ইমেইল একাউন্ট সম্পর্কিত তথ্যের প্রয়োজন হয়।\n"
+"\n"
+"আপনি কি এখন ইমেইল একাউন্টের তথ্য সন্নিবেশ করাতে চান?"
 
 #. 4vNr
 #: mmoutputpage.src#DLG_MM_COPYTO.FI_DESCRIPTION.fixedtext.text
@@ -1508,7 +1515,8 @@ msgid ""
 "A document with the name '%1' already exists. Please save this document "
 "under a different name."
 msgstr ""
-"ইতোমধ্যে '%1' নামের ফাইল বিদ্যমান আছে। অনুগ্রহ করে এই নথিটি ভিন্ন নামে সংরক্ষণ করুন।"
+"ইতোমধ্যে '%1' নামের ফাইল বিদ্যমান আছে। অনুগ্রহ করে এই নথিটি ভিন্ন নামে "
+"সংরক্ষণ করুন।"
 
 #. fVfs
 #: mmoutputpage.src#DLG_MM_SAVEWARNING.FT_FILENAME.fixedtext.text
@@ -1822,7 +1830,8 @@ msgid ""
 "Send letters to a group of recipients. The letters can contain an address "
 "block and a salutation. The letters can be personalized for each recipient."
 msgstr ""
-"এক গ্রুপ প্রাপকের নিকট চিঠি পাঠান। চিঠির একটি ঠিকানা ব্লক ও অভিবাদন থাকতে পারে। "
+"এক গ্রুপ প্রাপকের নিকট চিঠি পাঠান। চিঠির একটি ঠিকানা ব্লক ও অভিবাদন থাকতে "
+"পারে। "
 "চিঠিটি প্রত্যেক প্রাপকের নিকট ব্যক্তিগত হতে পারে।"
 
 #. p7a3
@@ -1832,7 +1841,8 @@ msgid ""
 "contain a salutation. The e-mail messages can be personalized for each "
 "recipient."
 msgstr ""
-"এক গ্রুপ প্রাপকের নিকট ই-মেইল বার্তা পাঠান। ই-মেইল বার্তায় অভিবাদন থাকতে পারে। ই-"
+"এক গ্রুপ প্রাপকের নিকট ই-মেইল বার্তা পাঠান। ই-মেইল বার্তায় অভিবাদন থাকতে "
+"পারে। ই-"
 "মেইল বার্তাটি প্রত্যেক প্রাপকের নিকট ব্যক্তিগত হতে পারে।"
 
 #. IRSs
@@ -1845,5 +1855,8 @@ msgid ""
 msgstr ""
 "%PRODUCTNAME, Java মেইল সংযোগ খুঁজতে সমর্থ ছিল না। %PRODUCTNAME দিয়ে ই-মেইল "
 "পাঠাতে, আপনাকে Java মেইলের সর্বশেষ সংস্করণ ইনস্টল করতে হবে।  আপনি ইন্টারনেটের "
-"'http://java.sun.com/products/javamail/' ঠিকানায়, Java মেইল সম্পর্কিত আরও তথ্য "
+"'http://java.sun.com/products/javamail/' ঠিকানায়, Java মেইল সম্পর্কিত আরও "
+"তথ্য "
 "খুঁজে পাবেন।"
+
+

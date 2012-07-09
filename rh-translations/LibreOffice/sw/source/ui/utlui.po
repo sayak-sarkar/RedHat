@@ -1,21 +1,23 @@
 #. extracted from sw/source/ui/utlui.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sw%2Fsource%2Fui%2Futlui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2011-06-21 13:19+0600\n"
-"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-14 23:59+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. #Z45
 #: navipi.src#DLG_NAVIGATION_PI.window.text
@@ -1244,7 +1246,8 @@ msgstr "বাক্যের প্রথম বর্ণ বড় হাত�
 #. sxub
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_TYPO_1.string.text
 msgid "Replace \"standard\" quotes with %1 \\bcustom%2 quotes"
-msgstr "\"standard\" উদ্ধ্বৃতি %1 \\\\bcustom%2 উদ্ধ্বৃতি দ্বারা প্রতিস্থাপন করুন"
+msgstr ""
+"\"standard\" উদ্ধ্বৃতি %1 \\\\bcustom%2 উদ্ধ্বৃতি দ্বারা প্রতিস্থাপন করুন"
 
 #. 2yxX
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USER_STYLE_1.string.text
@@ -1298,12 +1301,11 @@ msgstr "\"লেখা বডি\" শৈলী নির্ধারণ কর�
 
 #. IdaI
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1.string.text
-#, fuzzy
 msgctxt ""
 "utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1."
 "string.text"
 msgid "Set \"Text body indent\" Style"
-msgstr "\"লেখা বডির ইন্ডেন্ট\" শৈলী নির্ধারণ করা"
+msgstr "\"বিষয়বস্তুর ইন্ডেন্ট\" শৈলী নির্ধারণ করুন"
 
 #. hm07
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_NEG_INDENT___1.string.text
@@ -1874,7 +1876,7 @@ msgstr "সংখ্যায়ন ১ শুরু"
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL1.string.text"
 msgid "Numbering 1"
-msgstr ""
+msgstr "সংখ্যায়ন ১"
 
 #. 4C7S
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1E.string.text
@@ -1895,7 +1897,7 @@ msgstr "সংখ্যায়ন ২ শুরু"
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL2.string.text"
 msgid "Numbering 2"
-msgstr ""
+msgstr "সংখ্যায়ন ২স"
 
 #. gThr
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2E.string.text
@@ -1916,7 +1918,7 @@ msgstr "সংখ্যায়ন ৩ শুরু"
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL3.string.text"
 msgid "Numbering 3"
-msgstr ""
+msgstr "সংখ্যায়ন ৩স"
 
 #. mIFj
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3E.string.text
@@ -1937,7 +1939,7 @@ msgstr "সংখ্যায়ন ৪ শুরু"
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL4.string.text"
 msgid "Numbering 4"
-msgstr ""
+msgstr "সংখ্যায়ন ৪স"
 
 #. DDN7
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4E.string.text
@@ -1958,7 +1960,7 @@ msgstr "সংখ্যায়ন ৫ শুরু"
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL5.string.text"
 msgid "Numbering 5"
-msgstr ""
+msgstr "সংখ্যায়ন ৫"
 
 #. N2pV
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5E.string.text
@@ -1979,7 +1981,7 @@ msgstr "তালিকা ১ শুরু"
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL1.string.text"
 msgid "List 1"
-msgstr ""
+msgstr "তালিকা ১ "
 
 #. 3CNv
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1E.string.text
@@ -2000,7 +2002,7 @@ msgstr "তালিকা ২ শুরু"
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL2.string.text"
 msgid "List 2"
-msgstr ""
+msgstr "তালিকা ২"
 
 #. jTxG
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2E.string.text
@@ -2021,7 +2023,7 @@ msgstr "তালিকা ৩ শুরু"
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL3.string.text"
 msgid "List 3"
-msgstr ""
+msgstr "তালিকা ৩"
 
 #. tIV8
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3E.string.text
@@ -2042,7 +2044,7 @@ msgstr "তালিকা ৪ শুরু"
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL4.string.text"
 msgid "List 4"
-msgstr ""
+msgstr "তালিকা ৪"
 
 #. AD7Y
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4E.string.text
@@ -2063,7 +2065,7 @@ msgstr "তালিকা ৫ শুরু"
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL5.string.text"
 msgid "List 5"
-msgstr ""
+msgstr "তালিকা ৫"
 
 #. G2Zw
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5E.string.text

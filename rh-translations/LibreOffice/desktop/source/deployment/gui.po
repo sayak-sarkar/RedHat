@@ -1,20 +1,21 @@
 #. extracted from desktop/source/deployment/gui.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+desktop%2Fsource%2Fdeployment%2Fgui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-13 20:51+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -110,11 +111,14 @@ msgid ""
 "Updating of shared extension requires administrator privileges. Contact your "
 "system administrator to update the following shared extensions:"
 msgstr ""
-"%PRODUCTNAME নতুন একটি সংস্করণে হালনাগাদ করা হয়েছে। কিছু শেয়ারকৃত %PRODUCTNAME "
-"বর্ধিতাংশ এই সংস্করণের উপযুক্ত নয় এবং %PRODUCTNAME আরম্ভ করার পূর্বে হালনাগাদ করা "
+"%PRODUCTNAME নতুন একটি সংস্করণে হালনাগাদ করা হয়েছে। কিছু শেয়ারকৃত %"
+"PRODUCTNAME "
+"বর্ধিতাংশ এই সংস্করণের উপযুক্ত নয় এবং %PRODUCTNAME আরম্ভ করার পূর্বে হালনাগাদ "
+"করা "
 "প্রয়োজন।\n"
 "\n"
-"শেয়ারকৃত বর্ধিতাংশ হালনাগাদ করার জন্য প্রশাসকের অনুমতি প্রয়োজন। নিম্নোক্ত শেয়ারকৃত "
+"শেয়ারকৃত বর্ধিতাংশ হালনাগাদ করার জন্য প্রশাসকের অনুমতি প্রয়োজন। নিম্নোক্ত "
+"শেয়ারকৃত "
 "বর্ধিতাংশগুলো হালনাগাদ করার জন্য আপনার সিস্টেম প্রশাসকের সাথে যোগাযোগ করুন:"
 
 #. d8s8
@@ -123,13 +127,15 @@ msgid ""
 "The extension cannot be enabled as the following system dependencies are not "
 "fulfilled:"
 msgstr ""
-"নিম্নোক্ত সিস্টেম নির্ভরতাগুলো পূরণ না হওয়ার ফলে বর্ধিতাংশটি সক্রিয় করা সম্ভব হচ্ছে না:"
+"নিম্নোক্ত সিস্টেম নির্ভরতাগুলো পূরণ না হওয়ার ফলে বর্ধিতাংশটি সক্রিয় করা সম্ভব "
+"হচ্ছে না:"
 
 #. t7ty
 #: dp_gui_dialog.src#RID_STR_ERROR_MISSING_LICENSE.string.text
 msgid ""
 "This extension is disabled because you haven't accepted the license yet.\n"
-msgstr "এই বর্ধিতাংশটি নিষ্ক্রিয় রয়েছে কারণ আপনি এখনও এর লাইসেন্স অনুমোদন করেননি।\n"
+msgstr ""
+"এই বর্ধিতাংশটি নিষ্ক্রিয় রয়েছে কারণ আপনি এখনও এর লাইসেন্স অনুমোদন করেননি।\n"
 
 #. r8md
 #: dp_gui_dialog.src#RID_STR_SHOW_LICENSE_CMD.string.text
@@ -141,7 +147,8 @@ msgstr "লাইসেন্স প্রদর্শন"
 msgid ""
 "Please follow these steps to proceed with the installation of the extension:"
 msgstr ""
-"বর্ধিতাংশটির ইনস্টলেশন প্রক্রিয়া অগ্রসর করার জন্য অনুগ্রহ করে এই ধাপগুলো অনুসারণ করুন:"
+"বর্ধিতাংশটির ইনস্টলেশন প্রক্রিয়া অগ্রসর করার জন্য অনুগ্রহ করে এই ধাপগুলো "
+"অনুসারণ করুন:"
 
 #. qoL1
 #: dp_gui_dialog.src#RID_DLG_LICENSE.FT_LICENSE_BODY_1.fixedtext.text
@@ -154,7 +161,8 @@ msgid ""
 "Read the complete License Agreement. Use the scroll bar or the \\'Scroll Down"
 "\\' button in this dialog to view the entire license text."
 msgstr ""
-"সম্পূর্ণ লাইসেন্স চুক্তি পড়ুন। সম্পূর্ণ লাইসেন্স দেখতে স্ক্রল বার বা \\\\'স্ক্রল ডাউন\\\\' "
+"সম্পূর্ণ লাইসেন্স চুক্তি পড়ুন। সম্পূর্ণ লাইসেন্স দেখতে স্ক্রল বার বা "
+"\\\\'স্ক্রল ডাউন\\\\' "
 "বোতাম ব্যবহার করুন।"
 
 #. cqXO
@@ -167,7 +175,8 @@ msgstr "২।"
 msgid ""
 "Accept the License Agreement for the extension by pressing the \\'Accept\\' "
 "button."
-msgstr "বর্ধিতাংশটির জন্য লাইসেন্স চুক্তি অনুমোদন করতে \\\\'গ্রহণ\\\\' বোতাম চাপুন।"
+msgstr ""
+"বর্ধিতাংশটির জন্য লাইসেন্স চুক্তি অনুমোদন করতে \\\\'গ্রহণ\\\\' বোতাম চাপুন।"
 
 #. oirK
 #: dp_gui_dialog.src#RID_DLG_LICENSE.PB_LICENSE_DOWN.pushbutton.text
@@ -232,7 +241,8 @@ msgid ""
 "Click \\'OK\\' to remove the extension.\n"
 "Click \\'Cancel\\' to stop removing the extension."
 msgstr ""
-"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে নিন "
+"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে "
+"নিন "
 "যে আর কোনও ব্যবহারকারী একই %PRODUCTNAME নিয়ে কাজ করছে না।\n"
 "বর্ধিতাংশটি অপসারণ করতে \\\\'ঠিক আছে\\\\' ক্লিক করুন।\n"
 "অপসারণ বন্ধ করতে \\\\'বাতিল\\\\' ক্লিক করুন।"
@@ -245,7 +255,8 @@ msgid ""
 "Click \\'OK\\' to enable the extension.\n"
 "Click \\'Cancel\\' to stop enabling the extension."
 msgstr ""
-"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে নিন "
+"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে "
+"নিন "
 "যে আর কোনও ব্যবহারকারী একই %PRODUCTNAME নিয়ে কাজ করছে না।\n"
 "বর্ধিতাংশটি সক্রিয় করতে \\\\'ঠিক আছে\\\\' ক্লিক করুন।\n"
 "সক্রিয়করণ বন্ধ করতে \\\\'বাতিল\\\\' ক্লিক করুন।"
@@ -258,7 +269,8 @@ msgid ""
 "Click \\'OK\\' to disable the extension.\n"
 "Click \\'Cancel\\' to stop disabling the extension."
 msgstr ""
-"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে নিন "
+"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে "
+"নিন "
 "যে আর কোনও ব্যবহারকারী একই %PRODUCTNAME নিয়ে কাজ করছে না।\n"
 "বর্ধিতাংশটি নিষ্ক্রিয় করতে \\\\'ঠিক আছে\\\\' ক্লিক করুন।\n"
 "নিষ্ক্রিয়করণ বন্ধ করতে \\\\'বাতিল\\\\' ক্লিক করুন।"
@@ -331,7 +343,8 @@ msgid ""
 "No installable updates are available. To see ignored or disabled updates, "
 "mark the check box 'Show all updates'."
 msgstr ""
-"ইনস্টলযোগ্য কোনো হালনাগাদ বিদ্যমান নেই। সকল হালনাগাদ দেখতে, \"সব হালনাগাদ প্রদর্শন"
+"ইনস্টলযোগ্য কোনো হালনাগাদ বিদ্যমান নেই। সকল হালনাগাদ দেখতে, \"সব হালনাগাদ "
+"প্রদর্শন"
 "\" চেক বাক্সটি চিহ্নিত করুন।"
 
 #. aT90
@@ -407,7 +420,8 @@ msgid ""
 "Click \\'OK\\' to update the extensions.\n"
 "Click \\'Cancel\\' to stop updating the extensions."
 msgstr ""
-"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে নিন "
+"একাধিক ব্যবহারকারী পরিবেশে শেয়ারকৃত বর্ধিতাংশ পরিবর্তন করার সময়, নিশ্চিত হয়ে "
+"নিন "
 "যে আর কোনও ব্যবহারকারী একই %PRODUCTNAME নিয়ে কাজ করছে না।\n"
 "বর্ধিতাংশটি হালনাগাদ করতে \\\\'ঠিক আছে\\\\' ক্লিক করুন।\n"
 "হালনাগাদকরণ বন্ধ করতে \\\\'বাতিল\\\\' ক্লিক করুন।"
@@ -486,7 +500,8 @@ msgid ""
 "Click \\'Cancel\\' to stop the installation."
 msgstr ""
 "আপনি \\\\'$NAME\\\\' বর্ধিতাংশের $NEW সংস্করণ ইনস্টল করতে যাচ্ছেন।\n"
-"\\\\'$OLDNAME\\\\' নামের, অপেক্ষাকৃত পুরনো সংস্করণ $DEPLOYED ইতিমধ্যেই ইনস্টল করা "
+"\\\\'$OLDNAME\\\\' নামের, অপেক্ষাকৃত পুরনো সংস্করণ $DEPLOYED ইতিমধ্যেই ইনস্টল "
+"করা "
 "হয়েছে।\n"
 "ইনস্টলকৃত বর্ধিতাংশটি প্রতিস্থাপন করতে \\\\'ঠিক আছে\\\\' ক্লিক করুন।\n"
 "ইনস্টলেশন বন্ধ করতে \\\\'বাতিল\\\\' ক্লিক করুন।"
@@ -494,17 +509,17 @@ msgstr ""
 #. SQ1o
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_FT_TYPE_EXTENSIONS.fixedtext.text
 msgid "Type of Extension"
-msgstr ""
+msgstr "এক্সটেনশনের প্রকার"
 
 #. 4oHe
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_CBX_BUNDLED.checkbox.text
 msgid "~Installation"
-msgstr ""
+msgstr "ইনস্টলেশন (~I)"
 
 #. 8iEQ
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_CBX_SHARED.checkbox.text
 msgid "~Shared"
-msgstr ""
+msgstr "শেয়ার্ড (~S)"
 
 #. SjYz
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_CBX_USER.checkbox.text
@@ -519,9 +534,8 @@ msgstr "যোগ... (~A)"
 # 90%
 #. Ln#b
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_BTN_CHECK_UPDATES.pushbutton.text
-#, fuzzy
 msgid "~Check for Updates..."
-msgstr "হালনাগাদের জন্য পরীক্ষা... (~U)"
+msgstr "আপডেটের জন্য পরীক্ষা করুন... (~U)"
 
 #. Qf8i
 #: dp_gui_dialog2.src#RID_DLG_EXTENSION_MANAGER.RID_EM_FT_GET_EXTENSIONS.fixedtext.text
@@ -555,8 +569,10 @@ msgid ""
 "extensions are not compatible with this version and need to be updated "
 "before they can be used."
 msgstr ""
-"%PRODUCTNAME নতুন একটি সংস্করণে হালনাগাদ করা হয়েছে। কিছু ইনস্টলকৃত %PRODUCTNAME "
-"বর্ধিতাংশ এই সংস্করণের উপযুক্ত নয় এবং ব্যবহারের পূর্বে এগুলো হালনাগাদ করা প্রয়োজন।"
+"%PRODUCTNAME নতুন একটি সংস্করণে হালনাগাদ করা হয়েছে। কিছু ইনস্টলকৃত %"
+"PRODUCTNAME "
+"বর্ধিতাংশ এই সংস্করণের উপযুক্ত নয় এবং ব্যবহারের পূর্বে এগুলো হালনাগাদ করা "
+"প্রয়োজন।"
 
 #. ngMf
 #: dp_gui_dialog2.src#RID_DLG_UPDATE_REQUIRED.RID_EM_FT_PROGRESS.fixedtext.text
@@ -567,9 +583,8 @@ msgstr "%EXTENSION_NAME যোগ করা হচ্ছে"
 
 #. mPYf
 #: dp_gui_dialog2.src#RID_DLG_UPDATE_REQUIRED.RID_EM_BTN_CHECK_UPDATES.pushbutton.text
-#, fuzzy
 msgid "Check for ~Updates..."
-msgstr "হালনাগাদের জন্য পরীক্ষা... (~U)"
+msgstr "আপডেটের জন্য পরীক্ষা করুন... (~U)"
 
 #. LIA5
 #: dp_gui_dialog2.src#RID_DLG_UPDATE_REQUIRED.RID_EM_BTN_CLOSE.pushbutton.text

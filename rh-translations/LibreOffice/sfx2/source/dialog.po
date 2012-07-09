@@ -1,21 +1,23 @@
 #. extracted from sfx2/source/dialog.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sfx2%2Fsource%2Fdialog.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-06-15 15:19+0600\n"
-"Last-Translator: Zenat Rahnuma <zenat@ankur.org.bd>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-13 19:38+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. oPsS
 #: newstyle.src#DLG_NEW_STYLE_BY_EXAMPLE.FL_COL.fixedline.text
@@ -38,8 +40,10 @@ msgid ""
 "%PRODUCTNAME was unable to find a working e-mail configuration. Please save "
 "this document locally instead and attach it from within your e-mail client."
 msgstr ""
-"%PRODUCTNAME একটি সক্রিয় ইমেইল বিন্যাস খুঁজে পেতে অক্ষম ছিল। অনুগ্রহ করে বিকল্প "
-"হিসেবে এই নথিটি স্থানীয়ভাবে সংরক্ষণ করুন এবং এবং এটি আপনার ইমেইল ক্লায়েন্ট হতে "
+"%PRODUCTNAME একটি সক্রিয় ইমেইল বিন্যাস খুঁজে পেতে অক্ষম ছিল। অনুগ্রহ করে "
+"বিকল্প "
+"হিসেবে এই নথিটি স্থানীয়ভাবে সংরক্ষণ করুন এবং এবং এটি আপনার ইমেইল ক্লায়েন্ট "
+"হতে "
 "সংযোজন করুন।"
 
 #. uPIA
@@ -214,7 +218,8 @@ msgstr "ফ্রেমে"
 #: dinfdlg.src#TP_DOCINFORELOAD.STR_FORWARD_ERRMSSG.string.text
 msgid "If you select the option \"%PLACEHOLDER%\", you must enter a URL."
 msgstr ""
-"আপনি যদি \"%PLACEHOLDER%\" অপশন নির্বাচন করেন, আপনাকে অবশ্যই একটি URL সন্নিবেশ "
+"আপনি যদি \"%PLACEHOLDER%\" অপশন নির্বাচন করেন, আপনাকে অবশ্যই একটি URL "
+"সন্নিবেশ "
 "করাতে হবে।"
 
 #. nbDV
@@ -842,16 +847,22 @@ msgid ""
 "Use the default ODF file format to be sure that the document is saved "
 "correctly."
 msgstr ""
+"এই নথিতে যে বিন্যাস অথবা বিষয়বস্তু থাকতে পারে তা সংরক্ষিত করা যাবে না "
+"বর্তমানে নির্বাচিত ফাইল ফরম্যাট \"% FORMATNAME\". \ n"
+"\ n"
+"ডিফল্ট odf ফাইল ফরম্যাট থেকে নিশ্চিত করে নিন যে নথি সঞ্চয় করলে সঠিকভাবে "
+"ব্যবহার করা"
+"হবে।"
 
 #. MsSn
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_NO.okbutton.text
 msgid "~Use %FORMATNAME Format"
-msgstr ""
+msgstr "% FORMATNAME বিন্যাস ব্যবহার করুন (~U)"
 
 #. apjr
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_YES.cancelbutton.text
 msgid "Use ~ODF Format"
-msgstr ""
+msgstr "% ODF ফরম্যাট ব্যবহার করুন (~O)"
 
 #. XWut
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.PB_MOREINFO.helpbutton.text
@@ -866,7 +877,7 @@ msgstr "ODF বিন্যাসে সংরক্ষণ না করার �
 #. 4OFZ
 #: alienwarn.src#RID_DLG_ALIEN_WARNING.modaldialog.text
 msgid "Confirm File Format"
-msgstr ""
+msgstr "ফাইল ফরম্যাট নিশ্চিত করুন"
 
 #. qSRO
 #: taskpane.src#STR_SFX_DOCK.string.text
@@ -1143,7 +1154,8 @@ msgid ""
 "Do you really want to cancel the recording? Any steps recorded up to this "
 "point will be lost."
 msgstr ""
-"আপনি কি আসলেই রেকর্ড করা বাতিল করতে চান? এ পর্যন্ত রেকর্ডকৃত সব পদক্ষেপ হারিয়ে "
+"আপনি কি আসলেই রেকর্ড করা বাতিল করতে চান? এ পর্যন্ত রেকর্ডকৃত সব পদক্ষেপ "
+"হারিয়ে "
 "যাবে।"
 
 #. eR1r
@@ -1298,3 +1310,4 @@ msgstr "পাসওয়ার্ড"
 #: passwd.src#DLG_PASSWD.modaldialog.text
 msgid "Enter Password"
 msgstr "পাসওয়ার্ড সন্নিবেশ করান"
+

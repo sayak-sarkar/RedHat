@@ -1,20 +1,21 @@
 #. extracted from cui/source/dialogs.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+cui%2Fsource%2Fdialogs.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-13 14:07+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -90,7 +91,6 @@ msgstr "নামহীন ব্যবহারকারী (~u)"
 
 #. oR67
 #: hyperdlg.src#RID_SVXPAGE_HYPERLINK_INTERNET.BTN_BROWSE.imagebutton.text
-#, fuzzy
 msgid "WWW Browser"
 msgstr "WWW ব্রাউজার"
 
@@ -98,6 +98,8 @@ msgstr "WWW ব্রাউজার"
 #: hyperdlg.src#RID_SVXPAGE_HYPERLINK_INTERNET.BTN_BROWSE.imagebutton.quickhelptext
 msgid "Open web browser, copy an URL, and paste it to Target field"
 msgstr ""
+"ওয়েব ব্রাউজার খুলুন, একটি URL কপি করুন এবং সেটিকে লক্ষ্য ক্ষেত্রে  পেস্ট "
+"করুন।"
 
 #. DmHw
 #: hyperdlg.src#RID_SVXPAGE_HYPERLINK_INTERNET.GRP_MORE.fixedline.text
@@ -543,12 +545,10 @@ msgstr "ইন্টারনেট"
 
 #. lz9B
 #: hyperdlg.src#RID_SVXSTR_HYPERDLG_HLINETTP_HELP.string.text
-#, fuzzy
 msgid ""
 "This is where you create a hyperlink to a Web page or FTP server connection."
 msgstr ""
-"এটি সেই জায়গা যেখানে আপনি ওয়েব পেজে হাইপারলিংক তৈরি করেছেন, FTP সার্ভার বা "
-"টেলনেট সংযোগ।"
+"এখানে আপনি ওয়েব পেজে হাইপারলিংক বা FTP সার্ভারে টেলনেট সংযোগ তৈরি করতে পারেন।"
 
 #. A0pO
 #: hyperdlg.src#RID_SVXSTR_HYPERDLG_HLMAILTP.string.text
@@ -825,13 +825,15 @@ msgstr "স্ক্রিপ্টের ভাষা %LANGUAGENAME সমর�
 #. ejpi
 #: scriptdlg.src#RID_SVXSTR_ERROR_RUNNING.string.text
 msgid "An error occurred while running the %LANGUAGENAME script %SCRIPTNAME."
-msgstr "%LANGUAGENAME স্ক্রিপ্ট %SCRIPTNAME চালানোর সময় একটি ত্রুটি দেখা দিয়েছে।"
+msgstr ""
+"%LANGUAGENAME স্ক্রিপ্ট %SCRIPTNAME চালানোর সময় একটি ত্রুটি দেখা দিয়েছে।"
 
 #. ASJW
 #: scriptdlg.src#RID_SVXSTR_EXCEPTION_RUNNING.string.text
 msgid ""
 "An exception occurred while running the %LANGUAGENAME script %SCRIPTNAME."
-msgstr "%LANGUAGENAME স্ক্রিপ্ট %SCRIPTNAME চালানোর সময় একটি ব্যতিক্রম দেখা দিয়েছে।"
+msgstr ""
+"%LANGUAGENAME স্ক্রিপ্ট %SCRIPTNAME চালানোর সময় একটি ব্যতিক্রম দেখা দিয়েছে।"
 
 #. K9Mv
 #: scriptdlg.src#RID_SVXSTR_ERROR_AT_LINE.string.text
@@ -857,7 +859,8 @@ msgid ""
 "A Scripting Framework error occurred while running the %LANGUAGENAME script %"
 "SCRIPTNAME."
 msgstr ""
-"%LANGUAGENAME স্ক্রিপ্ট %SCRIPTNAME চালানোর সময় একটি স্ক্রিপ্টিং ফ্রেমওয়ার্ক ত্রুটি "
+"%LANGUAGENAME স্ক্রিপ্ট %SCRIPTNAME চালানোর সময় একটি স্ক্রিপ্টিং ফ্রেমওয়ার্ক "
+"ত্রুটি "
 "দেখা দিয়েছে।"
 
 #. f7gC
@@ -1068,9 +1071,8 @@ msgstr "অবজেক্ট;অবজেক্ট"
 # 91%
 #. U6z9
 #: gallery.src#RID_SVXSTR_GALLERY_READONLY.string.text
-#, fuzzy
 msgid "(read-only)"
-msgstr " (শুধুমাত্র-পাঠযোগ্য)"
+msgstr "(শুধুমাত্র-পাঠযোগ্য)"
 
 #. vPK6
 #: gallery.src#RID_SVXSTR_GALLERY_ALLFILES.string.text
@@ -1098,7 +1100,8 @@ msgid ""
 "The following columns are currently hidden. Please mark the fields you want "
 "to show and choose OK."
 msgstr ""
-"নিম্নোক্ত কলামগুলো বর্তমানে লুকানো। অনুগ্রহ করে আপনি যে ক্ষেত্রগুলো প্রদর্শন করতে চান "
+"নিম্নোক্ত কলামগুলো বর্তমানে লুকানো। অনুগ্রহ করে আপনি যে ক্ষেত্রগুলো প্রদর্শন "
+"করতে চান "
 "তাতে টিক চিহ্ন দিন এবং ঠিক আছে নির্বাচন করুন।"
 
 #. hIW8
@@ -1540,7 +1543,7 @@ msgstr "অবদানকারীর ক্রেডিট"
 #. OGYa
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_VENDOR.string.text
 msgid "This product was supplied by %OOOVENDOR."
-msgstr ""
+msgstr "%OOOVENDOR থেকে এই পণ্য সরবরাহ হয়।"
 
 #. beqn
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_COPYRIGHT.string.text
@@ -1548,6 +1551,8 @@ msgid ""
 "LibreOffice is copyright © 2000, 2012 LibreOffice contributors and/or their "
 "affiliates. All rights reserved."
 msgstr ""
+"LibreOffice হল কপিরাইট © 2000, 2012 LibreOffice অনুদানকারী এবং / অথবা তাদের"
+"অধিভুক্তদের. সমস্ত অধিকার সংরক্ষিত."
 
 #. hJ42
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_COPYRIGHT_DERIVED.string.text
@@ -1555,6 +1560,10 @@ msgid ""
 "%PRODUCTNAME is derived from LibreOffice. LibreOffice is copyright © 2000, "
 "2012 LibreOffice contributors and/or their affiliates. All rights reserved."
 msgstr ""
+"% PRODUCTNAME LibreOffice থেকে উদ্ভূত করা হয়েছে. LibreOffice হল কপিরাইট © "
+"2000,"
+"2012 LibreOffice অনুদানকারী এবং / অথবা তাদের অধিভুক্তদের. সমস্ত অধিকার "
+"সংরক্ষিত."
 
 #. rqG6
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_COPYRIGHT_ORACLE_DERIVED.string.text
@@ -1562,6 +1571,8 @@ msgid ""
 "LibreOffice is derived from OpenOffice.org. OpenOffice.org is copyright © "
 "2000, 2011 Oracle and/or its affiliates. All rights reserved."
 msgstr ""
+"LibreOffice OpenOffice.org থেকে উদ্ভূত করা হয়েছে. OpenOffice.org হল কপিরাইট ©"
+"2000, 2011 ওরাকল এবং / অথবা তাদের অধিভুক্ত। সমস্ত অধিকার সংরক্ষিত।"
 
 #. doBK
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_ACKNOWLEDGEMENT.string.text
@@ -1569,31 +1580,33 @@ msgid ""
 "%OOOVENDOR acknowledges all community members, please find more info at the "
 "link below:"
 msgstr ""
+"% OOOVENDOR সব সম্প্রদায়ের সদস্যদের স্বীকার করে, আরো তথ্য পেতে দয়া করে"
+"নীচের লিঙ্কটিতে ক্লিক করুন:"
 
 #. df_P
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_LINK.string.text
 msgid "http://www.libreoffice.org/about-us/credits/"
-msgstr ""
+msgstr "http://www.libreoffice.org/about-us/credits/"
 
 #. gYan
 #: about.src#RID_DEFAULTABOUT.ABOUT_STR_BUILD.string.text
 msgid "Build ID:"
-msgstr ""
+msgstr "গড়ণ আইডি:"
 
 #. Q7K9
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.modaldialog.text
 msgid "Color Picker"
-msgstr ""
+msgstr "রঙ বাছাইকারি"
 
 #. P_DA
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.PB_PICKER.imagebutton.text
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. V2fo
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.PB_PICKER.imagebutton.quickhelptext
 msgid "Pick a color from the document"
-msgstr ""
+msgstr "নথি থেকে একটি রঙ বাছাই করুন"
 
 #. EIeK
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.FL_RGB.fixedline.text
@@ -1603,42 +1616,42 @@ msgstr "RGB"
 #. pUy#
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_RED.fixedtext.text
 msgid "~Red"
-msgstr ""
+msgstr "লাল(~R)"
 
 #. 2EKw
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_GREEN.fixedtext.text
 msgid "~Green"
-msgstr ""
+msgstr "সবুজ (~G)"
 
 #. cyoJ
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_BLUE.fixedtext.text
 msgid "~Blue"
-msgstr ""
+msgstr "নীল(~B)"
 
 #. Y6d4
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_HEX.fixedtext.text
 msgid "Hex ~#"
-msgstr ""
+msgstr "হেক্স ~#"
 
 #. Y6xu
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.FL_HSB.fixedline.text
 msgid "HSB"
-msgstr ""
+msgstr "HSB"
 
 #. wL5z
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_HUE.fixedtext.text
 msgid "H~ue"
-msgstr ""
+msgstr "বর্ণ(~u)"
 
 #. QsdP
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_SATURATION.fixedtext.text
 msgid "~Saturation"
-msgstr ""
+msgstr "পরিপৃক্তি(~S)"
 
 #. GXqn
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_BRIGHTNESS.fixedtext.text
 msgid "Bright~ness"
-msgstr ""
+msgstr "উজ্জ্বলতা(~n)"
 
 #. 7HI3
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.FL_CMYK.fixedline.text
@@ -1648,22 +1661,22 @@ msgstr "CMYK"
 #. Upg7
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_CYAN.fixedtext.text
 msgid "~Cyan"
-msgstr ""
+msgstr "নীলচে সবুজ(~C)"
 
 #. 7p7c
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_MAGENTA.fixedtext.text
 msgid "~Magenta"
-msgstr ""
+msgstr "ম্যাজেন্টা(~M)"
 
 #. Xl7a
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_YELLOW.fixedtext.text
 msgid "~Yellow"
-msgstr ""
+msgstr "হলুদ (~Y)"
 
 #. yebg
 #: colorpicker.src#RID_CUI_DIALOG_COLORPICKER.CT_KEY.fixedtext.text
 msgid "~Key"
-msgstr ""
+msgstr "চাবি(~K)"
 
 #. X0xi
 #: SpellDialog.src#RID_SVXDLG_SPELLCHECK.FT_LANGUAGE.fixedtext.text
@@ -2106,7 +2119,6 @@ msgstr "পরে (~f)"
 
 #. 2KSP
 #: insrc.src#DLG_INS_ROW_COL.FL_INS.fixedline.text
-#, fuzzy
 msgid "Insert"
 msgstr "সন্নিবেশ"
 
@@ -2129,7 +2141,7 @@ msgstr "সারি সন্নিবেশ"
 #. xGzB
 #: insrc.src#DLG_INS_ROW_COL.STR_COL.string.text
 msgid "Insert Columns"
-msgstr ""
+msgstr "কলাম সন্নিবেশ করুন"
 
 #. x#e#
 #: hyphen.src#RID_SVXSTR_HMERR_CHECKINSTALL.string.text
@@ -2453,7 +2465,8 @@ msgstr "পাসওয়ার্ড নিশ্চিতকরণ"
 #: passwdomdlg.src#RID_DLG_PASSWORD_TO_OPEN_MODIFY.FT_PASSWD_NOTE.fixedtext.text
 msgid "Note: After a password has been set, the document will only open with "
 msgstr ""
-"নোট: পাসওয়ার্ড নির্ধারণ করার পর, নথিটি শুধুমাত্র উল্লিখিত প্রোগ্রামের সাহায্যে খোলা "
+"নোট: পাসওয়ার্ড নির্ধারণ করার পর, নথিটি শুধুমাত্র উল্লিখিত প্রোগ্রামের "
+"সাহায্যে খোলা "
 "হবে"
 
 #. NI6g
@@ -2500,7 +2513,8 @@ msgid ""
 "The confirmation password did not match the password. Set the password again "
 "by entering the same password in both boxes."
 msgstr ""
-"নিশ্চিতকরণ পাসওয়ার্ড প্রদত্ত পাসওয়ার্ডের সাথে মেলেনি। পাসওয়ার্ড নির্ধারণের জন্য উভয় "
+"নিশ্চিতকরণ পাসওয়ার্ড প্রদত্ত পাসওয়ার্ডের সাথে মেলেনি। পাসওয়ার্ড নির্ধারণের "
+"জন্য উভয় "
 "বাক্সে একই পাসওয়ার্ড দিয়ে পুনরায় চেষ্টা করুন।"
 
 #. qagq
@@ -2509,7 +2523,8 @@ msgid ""
 "The confirmation passwords did not match the original passwords. Set the "
 "passwords again."
 msgstr ""
-"নিশ্চিতকরণ পাসওয়ার্ড প্রদত্ত পাসওয়ার্ডের সাথে মেলেনি। পুনরায় পাসওয়ার্ড নির্ধারণ করুন।"
+"নিশ্চিতকরণ পাসওয়ার্ড প্রদত্ত পাসওয়ার্ডের সাথে মেলেনি। পুনরায় পাসওয়ার্ড "
+"নির্ধারণ করুন।"
 
 #. XWr5
 #: passwdomdlg.src#RID_DLG_PASSWORD_TO_OPEN_MODIFY.STR_INVALID_STATE_FOR_OK_BUTTON.string.text
@@ -2517,7 +2532,8 @@ msgid ""
 "Please enter a password to open or to modify, or check the open read-only "
 "option to continue."
 msgstr ""
-"ফাইলটি খোলা বা পরিবর্তন করার জন্য অনুগ্রহ করে পাসওয়ার্ড দিন, অথবা পরবর্তীতে অগ্রসর "
+"ফাইলটি খোলা বা পরিবর্তন করার জন্য অনুগ্রহ করে পাসওয়ার্ড দিন, অথবা পরবর্তীতে "
+"অগ্রসর "
 "হওয়ার জন্য 'শুধুমাত্র পাঠযোগ্য মোডে খোলা হবে' অপশনটিতে টিক চিহ্ন দিন।"
 
 #. kw4R

@@ -7,7 +7,7 @@ msgstr ""
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+chart2%2Fsource%2Fcontroller%2Fdialogs.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2012-06-08 12:54+0530\n"
+"PO-Revision-Date: 2012-06-13 13:57+0530\n"
 "Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
 "Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
@@ -1017,7 +1017,7 @@ msgstr "রেজল্যুশন (~R)"
 #. ugJe
 #: tp_ChartType.src#DLG_SPLINE_PROPERTIES.FT_SPLINE_ORDER.fixedtext.text
 msgid "~Degree of polynomials"
-msgstr "পলিনোমিয়ালের ডিগরী"
+msgstr "‍~পলিনোমিয়াল গুলির ডিগরী"
 
 #. AFFK
 #: tp_RangeChooser.src#TP_RANGECHOOSER.FT_CAPTION_FOR_WIZARD.fixedtext.text
@@ -2191,4 +2191,5 @@ msgstr "উপরে (~T)"
 #: res_LegendPosition_tmpl.hrc#RESOURCE_LEGENDPOSITION__xpos___ypos__.RBT_BOTTOM.radiobutton.text
 msgid "~Bottom"
 msgstr "নিচে (~B)"
+
 

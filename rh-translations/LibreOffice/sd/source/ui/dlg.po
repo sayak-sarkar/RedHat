@@ -1,20 +1,21 @@
 #. extracted from sd/source/ui/dlg.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sd%2Fsource%2Fui%2Fdlg.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-07-11 10:35+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-20 02:41+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. 6sHR
@@ -49,9 +50,8 @@ msgstr "খুঁজুন (~F)"
 
 #. Wvlw
 #: tpaction.src#TP_ANIMATION.STR_PATHNAME.string.text
-#, fuzzy
 msgid "Path Name"
-msgstr "পাথ/ফাইলের নাম"
+msgstr "ফাইল পাথের নাম"
 
 #. e3Hj
 #: tpaction.src#TP_ANIMATION.tabpage.text
@@ -220,7 +220,7 @@ msgstr "দৃশ্যমান রুলার (~R)"
 #. AfLe
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_HELPLINES.checkbox.text
 msgid "~Snap Lines when moving"
-msgstr ""
+msgstr "প্রতিস্থাপন করার সময় লাইনগুলি স্ন্যাপ করুন (~S)"
 
 #. Qnv2
 #: tpoption.src#TP_OPTIONS_CONTENTS.CBX_HANDLES_BEZIER.checkbox.text
@@ -612,9 +612,8 @@ msgstr "নথি"
 
 #. wQAD
 #: navigatr.src#STR_OBJECTS_TREE.string.text
-#, fuzzy
 msgid "Page Tree"
-msgstr "পৃষ্ঠা প্রাকদর্শন"
+msgstr "পৃষ্ঠার ট্রি প্রাকদর্শন"
 
 #. ep7E
 #: paragr.src#TAB_PARAGRAPH.1.RID_SVXPAGE_STD_PARAGRAPH.pageitem.text
@@ -1002,7 +1001,6 @@ msgstr "অ্যানিমেশন গ্রুপ"
 
 #. lKO4
 #: animobjs.src#FLT_WIN_ANIMATION.STR_DISPLAY.string.text
-#, fuzzy
 msgctxt "animobjs.src#FLT_WIN_ANIMATION.STR_DISPLAY.string.text"
 msgid "Preview"
 msgstr "প্রাকদর্শন"
@@ -1600,16 +1598,14 @@ msgstr "বন্ধ (~C)"
 
 #. s7u9
 #: custsdlg.src#DLG_CUSTOMSHOW.LB_CUSTOMSHOWS.listbox.text
-#, fuzzy
 msgctxt "custsdlg.src#DLG_CUSTOMSHOW.LB_CUSTOMSHOWS.listbox.text"
 msgid "-"
 msgstr "-"
 
 #. q#H0
 #: custsdlg.src#DLG_CUSTOMSHOW.LB_CUSTOMSHOWS.listbox.quickhelptext
-#, fuzzy
 msgid "Custom Screen Show"
-msgstr "স্বনির্ধারিত স্লাইড প্রদর্শনী (~C)"
+msgstr "স্বনির্ধারিত স্ক্রিন প্রদর্শনী"
 
 #. Uf5e
 #: custsdlg.src#DLG_CUSTOMSHOW.CBX_USE_CUSTOMSHOW.checkbox.text
@@ -1832,7 +1828,6 @@ msgstr "অপশন"
 
 #. hom9
 #: vectdlg.src#DLG_VECTORIZE.BTN_PREVIEW.pushbutton.text
-#, fuzzy
 msgctxt "vectdlg.src#DLG_VECTORIZE.BTN_PREVIEW.pushbutton.text"
 msgid "Preview"
 msgstr "প্রাকদর্শন"
@@ -1882,9 +1877,8 @@ msgstr "উৎসের ছবি:"
 
 #. pXV4
 #: vectdlg.src#DLG_VECTORIZE.CTL_BMP.control.text
-#, fuzzy
 msgid "Source picture"
-msgstr "উৎসের ছবি:"
+msgstr "উৎসের ছবি"
 
 #. WKh1
 #: vectdlg.src#DLG_VECTORIZE.FT_VECTORIZED.fixedtext.text
@@ -1893,20 +1887,17 @@ msgstr "ভেক্টরকৃত ছবি:"
 
 #. gRXQ
 #: vectdlg.src#DLG_VECTORIZE.CTL_WMF.control.text
-#, fuzzy
 msgid "Vectorized image"
-msgstr "ভেক্টরকৃত ছবি:"
+msgstr "ভেক্টরকৃত ছবি"
 
 #. 72ET
 #: vectdlg.src#DLG_VECTORIZE.GRP_PRGS.fixedtext.text
-#, fuzzy
 msgctxt "vectdlg.src#DLG_VECTORIZE.GRP_PRGS.fixedtext.text"
 msgid "Progress"
 msgstr "অগ্রগতি"
 
 #. 10uh
 #: vectdlg.src#DLG_VECTORIZE.WND_PRGS.window.text
-#, fuzzy
 msgctxt "vectdlg.src#DLG_VECTORIZE.WND_PRGS.window.text"
 msgid "Progress"
 msgstr "অগ্রগতি"
@@ -1966,3 +1957,4 @@ msgstr "পূর্বাবস্থায় ফিরে যান"
 #: dlgpage.src#TAB_PAGE.tabdialog.text
 msgid "Page Setup"
 msgstr "পৃষ্ঠার সেটআপ"
+

@@ -1,20 +1,21 @@
 #. extracted from dbaccess/source/core/resource.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+dbaccess%2Fsource%2Fcore%2Fresource.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2011-04-07 11:15+0200\n"
-"Last-Translator: Israt <isratjahan.ry@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-06-20 02:14+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 
 #. #eJX
@@ -32,13 +33,15 @@ msgstr "কোনো সংযোগ স্থাপন করা যায়ন�
 msgid ""
 "The table $name$ already exists. It is not visible because it has been "
 "filtered out."
-msgstr "$name$ টেবিলটি ইতিমধ্যেই বিদ্যমান। এটি দেখা যাচ্ছেনা কারণ এটি পরিশোধিত।"
+msgstr ""
+"$name$ টেবিলটি ইতিমধ্যেই বিদ্যমান। এটি দেখা যাচ্ছেনা কারণ এটি পরিশোধিত।"
 
 #. LzNZ
 #: strings.src#RID_STR_NEED_CONFIG_WRITE_ACCESS.string.text
 msgid ""
 "You have no write access to the configuration data the object is based on."
-msgstr "অবজেক্টটি যে কনফিগারেশন ডাটার উপর নির্ভরশীল তাতে লেখার অধিকার আপনার নেই।"
+msgstr ""
+"অবজেক্টটি যে কনফিগারেশন ডাটার উপর নির্ভরশীল তাতে লেখার অধিকার আপনার নেই।"
 
 #. SW#K
 #: strings.src#RID_STR_COULDNOTCONNECT_UNSPECIFIED.string.text
@@ -46,7 +49,8 @@ msgid ""
 "The connection to the external data source could not be established. An "
 "unknown error occurred. The driver is probably defective."
 msgstr ""
-"বহিঃস্থ ডাটা উৎসের সাথে সংযোগ স্থাপন করা যায়নি। একটি অজানা ত্রুটি সংঘটিত হয়েছে। "
+"বহিঃস্থ ডাটা উৎসের সাথে সংযোগ স্থাপন করা যায়নি। একটি অজানা ত্রুটি সংঘটিত "
+"হয়েছে। "
 "ড্রাইভারটি সম্ভবত ত্রুটিপূর্ণ।"
 
 #. fYVs
@@ -64,7 +68,8 @@ msgid ""
 "The connection to the external data source could not be established. The "
 "SDBC driver manager could not be loaded."
 msgstr ""
-"বহিঃস্থ ডাটা উৎসের সাথে সংযোগ স্থাপন করা যায়নি। SDBC ড্রাইভার ব্যবস্থাপক লোড করা "
+"বহিঃস্থ ডাটা উৎসের সাথে সংযোগ স্থাপন করা যায়নি। SDBC ড্রাইভার ব্যবস্থাপক লোড "
+"করা "
 "যায়নি।"
 
 #. KH5s
@@ -114,7 +119,8 @@ msgid ""
 "Values could not be inserted. The XResultSetUpdate interface is not "
 "supported by ResultSet."
 msgstr ""
-"মানসমূহ সন্নিবেশ করা যায়নি। ResultSet দ্বারা XResultSetUpdate ইন্টারফেস সমর্থিত "
+"মানসমূহ সন্নিবেশ করা যায়নি। ResultSet দ্বারা XResultSetUpdate ইন্টারফেস "
+"সমর্থিত "
 "নয়।"
 
 #. J0aB
@@ -230,7 +236,8 @@ msgstr "ড্রাইভারটি নাম পরিবর্তনের 
 msgid ""
 "The driver does not support the modification of column descriptions by "
 "changing the index."
-msgstr "ড্রাইভারটি ইনডেক্স পরিবর্তনের মাধ্যমে কলামের বিবরণ পরিবর্তন সমর্থন করেনা।"
+msgstr ""
+"ড্রাইভারটি ইনডেক্স পরিবর্তনের মাধ্যমে কলামের বিবরণ পরিবর্তন সমর্থন করেনা।"
 
 #. sMjr
 #: strings.src#RID_STR_FILE_DOES_NOT_EXIST.string.text
@@ -254,7 +261,8 @@ msgid ""
 "existing queries. To make full use of all queries and tables, make sure they "
 "have distinct names."
 msgstr ""
-"ডাটাবেসের টেবিলের নামসমূহ বিদ্যমান কোয়েরিসমূহের নামের সাথে মিলে যায়। সকল কোয়েরি "
+"ডাটাবেসের টেবিলের নামসমূহ বিদ্যমান কোয়েরিসমূহের নামের সাথে মিলে যায়। সকল "
+"কোয়েরি "
 "এবং টেবিল সম্পূর্ণভাবে ব্যবহার করতে, এগুলোর পৃথক নামকরণ নিশ্চিত করুন।"
 
 #. _Emy
@@ -353,9 +361,8 @@ msgstr "বর্তমান সারিটি ইতোমধ্যে মু
 
 #. cevp
 #: strings.src#RID_STR_UPDATE_FAILED.string.text
-#, fuzzy
 msgid "Current row could not be updated."
-msgstr "বর্তমান সারি হালনাগাদকৃত।"
+msgstr "বর্তমান সারি আপডেট করা যায়নি।"
 
 #. DBmK
 #: strings.src#RID_STR_NO_INSERT_PRIVILEGE.string.text
@@ -416,3 +423,4 @@ msgstr "নিম্নোক্ত URL এর সংযোগের জন্�
 #: strings.src#RID_STR_MISSING_EXTENSION.string.text
 msgid "The extension is not installed."
 msgstr "এক্সটেনশন ইনস্টল করা হয়নি।"
+

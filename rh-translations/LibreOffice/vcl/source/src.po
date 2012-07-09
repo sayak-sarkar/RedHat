@@ -1,20 +1,21 @@
 #. extracted from vcl/source/src.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+vcl%2Fsource%2Fsrc.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2011-10-22 23:06+0200\n"
-"Last-Translator: Andras <timar74@gmail.com>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"PO-Revision-Date: 2012-06-15 22:37+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Accelerator-Marker: ~\n"
 "X-Language: bn_BD\n"
 
@@ -53,7 +54,8 @@ msgid ""
 "%PRODUCTNAME %PRODUCTVERSION requires a Java Access Bridge 1.0.3 or later "
 "version to support accessibility."
 msgstr ""
-"%PRODUCTNAME %PRODUCTVERSION এর সন্নিবেশযোগ্যতা সমর্থনের জন্য Java Access Bridge "
+"%PRODUCTNAME %PRODUCTVERSION এর সন্নিবেশযোগ্যতা সমর্থনের জন্য Java Access "
+"Bridge "
 "1.0.3 বা পরবর্তী সংস্করণ প্রয়োজন।"
 
 #. GeYd
@@ -62,7 +64,8 @@ msgid ""
 "Click '%OK' to start %PRODUCTNAME %PRODUCTVERSION without accessibility "
 "support, or click '%CANCEL' to exit %PRODUCTNAME %PRODUCTVERSION."
 msgstr ""
-"সন্নিবেশযোগ্যতা সমর্থন ছাড়া %PRODUCTNAME %PRODUCTVERSION শুরু করতে '%OK' ক্লিক "
+"সন্নিবেশযোগ্যতা সমর্থন ছাড়া %PRODUCTNAME %PRODUCTVERSION শুরু করতে '%OK' "
+"ক্লিক "
 "করুন, বা '%CANCEL' ক্লিক করে %PRODUCTNAME %PRODUCTVERSION ত্যাগ করুন।"
 
 #. A09g
@@ -81,7 +84,8 @@ msgid ""
 "%PRODUCTNAME %PRODUCTVERSION requires Java 1.4.0_02 or later version to "
 "support accessibility."
 msgstr ""
-"সন্নিবেশযোগ্যতা সমর্থনের জন্য %PRODUCTNAME %PRODUCTVERSION এর Java 1.4.0_02 বা "
+"সন্নিবেশযোগ্যতা সমর্থনের জন্য %PRODUCTNAME %PRODUCTVERSION এর Java 1.4.0_02 "
+"বা "
 "উন্নত সংস্করণ প্রয়োজন।"
 
 #. zPag
@@ -125,7 +129,8 @@ msgid ""
 "The inserted text exceeded the maximum length of this text field. The text "
 "was truncated."
 msgstr ""
-"সন্নিবিষ্ট লেখাটি এই ক্ষেত্রের সর্বোচ্চ দৈর্ঘ্য অতিক্রম করেছে। লেখা ছেঁটে ফেলা হয়েছে।"
+"সন্নিবিষ্ট লেখাটি এই ক্ষেত্রের সর্বোচ্চ দৈর্ঘ্য অতিক্রম করেছে। লেখা ছেঁটে "
+"ফেলা হয়েছে।"
 
 #. OsWu
 #: stdtext.src#SV_MAC_SCREENNNAME.string.text
@@ -405,7 +410,8 @@ msgid ""
 "There are no pages to be printed. Please check your document for ranges "
 "relevant to printing."
 msgstr ""
-"মুদ্রণ করার মত আর কোন পৃষ্ঠা নেই। মুদ্রণ পরিসর সম্পর্কে জানতে অনুগ্রহ করে আপনার নথিটি "
+"মুদ্রণ করার মত আর কোন পৃষ্ঠা নেই। মুদ্রণ পরিসর সম্পর্কে জানতে অনুগ্রহ করে "
+"আপনার নথিটি "
 "পরীক্ষা করুন।"
 
 #. oTCw
@@ -650,14 +656,13 @@ msgstr "সহায়তা (~H)"
 
 #. ukJj
 #: btntext.src#SV_BUTTONTEXT_MORE.string.text
-#, fuzzy
 msgid "~More"
 msgstr "আরও (~M)"
 
 #. RS8E
 #: btntext.src#SV_BUTTONTEXT_LESS.string.text
 msgid "~Less"
-msgstr ""
+msgstr "অল্পতর (~L)"
 
 #. 2T6I
 #: btntext.src#SV_BUTTONTEXT_IGNORE.string.text
@@ -772,7 +777,7 @@ msgstr "পয়েন্ট"
 #. Pouk
 #: units.src#SV_FUNIT_STRINGS.8.itemlist.text
 msgid "pc"
-msgstr ""
+msgstr "পিস্"
 
 #. l6_P
 #: units.src#SV_FUNIT_STRINGS.9.itemlist.text
@@ -969,19 +974,18 @@ msgstr "শুধুমাত্র-পাঠযোগ্য (~R)"
 #. LR0w
 #: fpicker.src#STR_FPICKER_INSERT_AS_LINK.string.text
 msgid "~Link"
-msgstr ""
+msgstr "লিঙ্ক (~L)"
 
 # 87%
 #. Z62F
 #: fpicker.src#STR_FPICKER_SHOW_PREVIEW.string.text
-#, fuzzy
 msgid "Pr~eview"
-msgstr "প্রাকদর্শন"
+msgstr "প্রাকদর্শন (~e)"
 
 #. 8uGB
 #: fpicker.src#STR_FPICKER_PLAY.string.text
 msgid "~Play"
-msgstr ""
+msgstr "বাজান (~P)"
 
 #. j4Xj
 #: fpicker.src#STR_FPICKER_VERSION.string.text
@@ -1020,6 +1024,9 @@ msgid ""
 "\n"
 "Do you want to replace it?"
 msgstr ""
+"একটি ফাইল, যার নাম \"$ filename $\" ইতিমধ্যেই উপস্থিত রয়েছে। \ N"
+"\ n"
+"আপনি কি সেটি প্রতিস্থাপন করতে চান?"
 
 #. Ua7k
 #: fpicker.src#STR_FPICKER_ALLFORMATS.string.text
@@ -1040,3 +1047,5 @@ msgstr "সংরক্ষণ"
 #: fpicker.src#STR_FPICKER_TYPE.string.text
 msgid "File ~type"
 msgstr "ফাইলের ধরন (~t)"
+
+
