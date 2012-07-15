@@ -1,0 +1,492 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"boxes&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-07-12 16:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../data/gnome-boxes.desktop.in.in.h:1 ../src/main.vala:69
+msgid "Boxes"
+msgstr ""
+
+#: ../data/gnome-boxes.desktop.in.in.h:2
+msgid "Simple virtual machine viewer/manager"
+msgstr ""
+
+#: ../data/gnome-boxes.desktop.in.in.h:3
+msgid "View and use virtual machines"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:1
+msgid "Collections"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:2
+msgid "The list of boxes collections"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:3
+msgid "Screenshot interval"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:4
+msgid "The interval in seconds between screenshot updates"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:5
+msgid "Animation duration"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:6
+msgid "The time it takes for transitions and animation, in ms."
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:7
+msgid "Window size"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:8
+msgid "Window size (width and height)"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:9
+msgid "Window position"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:10
+msgid "Window position (x and y)"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:11
+msgid "Window maximized"
+msgstr ""
+
+#: ../data/org.gnome.boxes.gschema.xml.in.h:12
+msgid "Window maximized state"
+msgstr ""
+
+#: ../src/app.vala:105
+msgid "translator-credits"
+msgstr ""
+
+#: ../src/app.vala:106
+msgid "A simple GNOME 3 application to access remote or virtual systems"
+msgstr ""
+
+#: ../src/app.vala:118 ../src/topbar.vala:61
+msgid "New"
+msgstr ""
+
+#: ../src/app.vala:121
+msgid "Properties"
+msgstr ""
+
+#: ../src/app.vala:122
+msgid "Fullscreen"
+msgstr ""
+
+#: ../src/app.vala:123
+msgid "Force shutdown"
+msgstr ""
+
+#: ../src/app.vala:126
+msgid "About Boxes"
+msgstr ""
+
+#: ../src/app.vala:127
+msgid "Quit"
+msgstr ""
+
+#: ../src/app.vala:578
+#, c-format
+msgid "Box '%s' has been deleted"
+msgstr ""
+
+#: ../src/app.vala:579
+#, c-format
+msgid "%u box has been deleted"
+msgid_plural "%u boxes have been deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../src/collection-view.vala:31
+msgid "New and Recent"
+msgstr ""
+
+#: ../src/display-page.vala:197
+#, c-format
+msgid "%s <b>(press Ctrl+Alt keys to ungrab)</b>"
+msgstr ""
+
+#: ../src/fedora-installer.vala:60
+msgid ""
+"Internet access required for express installation of Fedora 16 and older"
+msgstr ""
+
+#: ../src/installer-media.vala:89 ../src/properties.vala:43
+msgid "System"
+msgstr ""
+
+#. Translators: We are appending " (Live)" suffix to name of OS media to indication that it's live.
+#. http://en.wikipedia.org/wiki/Live_CD
+#: ../src/installer-media.vala:154
+#, c-format
+msgid "%s (Live)"
+msgstr ""
+
+#: ../src/libvirt-machine.vala:280
+msgid "Virtualizer"
+msgstr ""
+
+#: ../src/libvirt-machine.vala:281 ../src/remote-machine.vala:42
+#: ../src/wizard.vala:329
+msgid "URI"
+msgstr ""
+
+#: ../src/libvirt-machine.vala:290 ../src/remote-machine.vala:46
+msgid "Protocol"
+msgstr ""
+
+#: ../src/libvirt-machine.vala:398
+msgid "When you force shutdown, the box may lose data."
+msgstr ""
+
+#: ../src/libvirt-machine.vala:454
+msgid "RAM"
+msgstr ""
+
+#: ../src/libvirt-machine.vala:495
+#, c-format
+msgid "Changes require restart of '%s'. Attempt restart?"
+msgstr ""
+
+#: ../src/libvirt-machine.vala:512
+msgid "Storage"
+msgstr ""
+
+#. 3rd row
+#: ../src/machine.vala:371 ../src/unattended-installer.vala:182
+#: ../src/unattended-installer.vala:252
+msgid "Password"
+msgstr ""
+
+#: ../src/main.vala:11
+msgid "Display version number"
+msgstr ""
+
+#: ../src/main.vala:12
+msgid "Open in full screen"
+msgstr ""
+
+#: ../src/main.vala:13
+msgid "Check virtualization capabilities"
+msgstr ""
+
+#. A 'broker' is a virtual-machine manager (could be local or remote). Currently libvirt is the only one supported.
+#: ../src/main.vala:15
+msgid "URI to display, broker or installer media"
+msgstr ""
+
+#: ../src/main.vala:20
+msgid "- A simple application to access remote or virtual machines"
+msgstr ""
+
+#. FIXME: add proper UI & docs
+#: ../src/main.vala:61
+#, c-format
+msgid "The CPU is capable of virtualization: %s\n"
+msgstr ""
+
+#: ../src/main.vala:62
+#, c-format
+msgid "The KVM module is loaded: %s\n"
+msgstr ""
+
+#: ../src/properties.vala:39
+msgid "Login"
+msgstr ""
+
+#: ../src/properties.vala:47
+msgid "Display"
+msgstr ""
+
+#: ../src/properties.vala:51
+msgid "Devices"
+msgstr ""
+
+#: ../src/properties.vala:200
+msgid "CPU:"
+msgstr ""
+
+#: ../src/properties.vala:207
+msgid "I/O:"
+msgstr ""
+
+#: ../src/properties.vala:214
+msgid "Net:"
+msgstr ""
+
+#: ../src/remote-machine.vala:39
+msgid "Name"
+msgstr ""
+
+#: ../src/spice-display.vala:157
+msgid "Share clipboard"
+msgstr ""
+
+#: ../src/spice-display.vala:163
+msgid "Resize guest"
+msgstr ""
+
+#: ../src/spice-display.vala:171
+msgid "USB redirection"
+msgstr ""
+
+#: ../src/topbar.vala:159
+#, c-format
+msgid "%d selected"
+msgid_plural "%d selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../src/topbar.vala:161
+msgid "Click on items to select them"
+msgstr ""
+
+#: ../src/unattended-installer.vala:31
+msgid "no password"
+msgstr ""
+
+#: ../src/unattended-installer.vala:170
+msgid "No username provided"
+msgstr ""
+
+#: ../src/unattended-installer.vala:174
+#, c-format
+msgid "Password required for express installation of %s"
+msgstr ""
+
+#: ../src/unattended-installer.vala:181 ../src/unattended-installer.vala:241
+msgid "Username"
+msgstr ""
+
+#: ../src/unattended-installer.vala:207
+msgid ""
+"Choose express install to automatically preconfigure the box with optimal "
+"settings."
+msgstr ""
+
+#. First row
+#. Translators: 'Express Install' means that the new box installation will be fully automated, the user
+#. won't be asked anything while it's performed.
+#: ../src/unattended-installer.vala:223
+msgid "Express Install"
+msgstr ""
+
+#: ../src/unattended-installer.vala:262
+msgid "_Add Password"
+msgstr ""
+
+#. No guest caps or none compatible
+#. FIXME: Better error messsage than this please?
+#: ../src/vm-configurator.vala:307
+msgid "Incapable host system"
+msgstr ""
+
+#: ../src/vnc-display.vala:134
+msgid "Read-only"
+msgstr ""
+
+#. Microsoft Windows product key
+#: ../src/winxp-installer.vala:48
+msgid "Product Key"
+msgstr ""
+
+#: ../src/winxp-installer.vala:55
+msgid "_Add Product Key"
+msgstr ""
+
+#: ../src/wizard-source.vala:115 ../src/wizard-source.vala:137
+msgid "Enter URL"
+msgstr ""
+
+#: ../src/wizard-source.vala:122
+msgid "Select a file"
+msgstr ""
+
+#: ../src/wizard-source.vala:154
+msgid ""
+"<b>Desktop Access</b>\n"
+"\n"
+"Will add boxes for all systems available from this account."
+msgstr ""
+
+#: ../src/wizard-source.vala:234
+msgid "32-bit x86 system"
+msgstr ""
+
+#: ../src/wizard-source.vala:235
+msgid "64-bit x86 system"
+msgstr ""
+
+#. Translator comment: %s is name of vendor here (e.g Canonical Ltd or Red Hat Inc)
+#: ../src/wizard-source.vala:244
+#, c-format
+msgid " from %s"
+msgstr ""
+
+#: ../src/wizard-source.vala:284
+msgid "Select a device or ISO file"
+msgstr ""
+
+#: ../src/wizard.vala:92
+msgid "Box creation failed"
+msgstr ""
+
+#: ../src/wizard.vala:117 ../src/wizard.vala:562
+msgid "C_ontinue"
+msgstr ""
+
+#: ../src/wizard.vala:117
+msgid "C_reate"
+msgstr ""
+
+#: ../src/wizard.vala:138
+msgid "Please enter desktop or collection URI"
+msgstr ""
+
+#: ../src/wizard.vala:144
+msgid "Will add boxes for all systems available from this account."
+msgstr ""
+
+#: ../src/wizard.vala:147
+msgid "Will add a single box."
+msgstr ""
+
+#: ../src/wizard.vala:153
+msgid "Desktop Access"
+msgstr ""
+
+#: ../src/wizard.vala:233
+msgid "Invalid URI"
+msgstr ""
+
+#: ../src/wizard.vala:244
+#, c-format
+msgid "Unsupported protocol '%s'"
+msgstr ""
+
+#: ../src/wizard.vala:312
+msgid "Box setup failed"
+msgstr ""
+
+#: ../src/wizard.vala:319
+msgid "Will create a new box with the following properties:"
+msgstr ""
+
+#: ../src/wizard.vala:324
+msgid "Type"
+msgstr ""
+
+#: ../src/wizard.vala:327
+msgid "Host"
+msgstr ""
+
+#: ../src/wizard.vala:335 ../src/wizard.vala:341
+msgid "Port"
+msgstr ""
+
+#: ../src/wizard.vala:336
+msgid "TLS Port"
+msgstr ""
+
+#: ../src/wizard.vala:346
+msgid "Will add boxes for all systems available from this account:"
+msgstr ""
+
+#: ../src/wizard.vala:353
+msgid "Memory"
+msgstr ""
+
+#: ../src/wizard.vala:355
+msgid "Disk"
+msgstr ""
+
+#: ../src/wizard.vala:355
+#, c-format
+msgid "%s maximum"
+msgstr ""
+
+#: ../src/wizard.vala:429
+msgid "Introduction"
+msgstr ""
+
+#: ../src/wizard.vala:433
+msgid ""
+"Creating a Box will allow you to use another operating system directly from "
+"your existing login.\n"
+"\n"
+"You may connect to an existing machine <b><i>over the network</i></b> or "
+"create a <b><i>virtual machine</i></b> that runs locally on your own."
+msgstr ""
+
+#: ../src/wizard.vala:445
+msgid "Source Selection"
+msgstr ""
+
+#: ../src/wizard.vala:446
+msgid "Insert operating system installation media or select a source below"
+msgstr ""
+
+#: ../src/wizard.vala:456
+msgid ""
+"Any trademarks shown above are used merely for identification of software "
+"products you have already obtained and are the property of their respective "
+"owners."
+msgstr ""
+
+#: ../src/wizard.vala:469
+msgid "Preparation"
+msgstr ""
+
+#: ../src/wizard.vala:470
+msgid "Preparing to create new box"
+msgstr ""
+
+#: ../src/wizard.vala:489
+msgid "Analyzing installer media."
+msgstr ""
+
+#: ../src/wizard.vala:500
+msgid "Setup"
+msgstr ""
+
+#: ../src/wizard.vala:507
+msgid "Review"
+msgstr ""
+
+#: ../src/wizard.vala:518
+msgid ""
+"Virtualization extensions are unavailable on your system. Expect this box to "
+"be extremely slow. If your system is recent enough (made in or after 2008), "
+"these extensions are probably available on your system and you may need to "
+"enable them in your system's BIOS setup."
+msgstr ""
+
+#: ../src/wizard.vala:534
+msgid "Create a Box"
+msgstr ""
