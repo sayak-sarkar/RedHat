@@ -7,7 +7,7 @@ msgstr ""
 "comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
 "+in+file%3A+sc%2Fsource%2Fui%2Fsrc.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2012-07-03 13:23+0530\n"
+"PO-Revision-Date: 2012-07-16 00:07+0530\n"
 "Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
 "Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
@@ -491,10 +491,9 @@ msgstr ""
 
 #. JaHr
 #: optdlg.src#RID_SCPAGE_CONTENT.LB_GRID.3.stringlist.text
-#, fuzzy
 msgctxt "optdlg.src#RID_SCPAGE_CONTENT.LB_GRID.3.stringlist.text"
 msgid "Hide"
-msgstr "আড়াল"
+msgstr "গোপন করুন"
 
 #. Smfd
 #: optdlg.src#RID_SCPAGE_CONTENT.FT_COLOR.fixedtext.text
@@ -509,7 +508,7 @@ msgstr "পৃষ্ঠা বিভাজক (~P)"
 #. ggKx
 #: optdlg.src#RID_SCPAGE_CONTENT.CB_GUIDELINE.checkbox.text
 msgid "Helplines ~While Moving"
-msgstr ""
+msgstr "স্থানান্তর করার সময় হেল্পলাইনস্ (~W)"
 
 #. wB6u
 #: optdlg.src#RID_SCPAGE_CONTENT.GB_DISPLAY.fixedline.text
@@ -817,12 +816,12 @@ msgstr "শুধুমাত্র নির্বাচিত শীটগু�
 #. Ga3N
 #: optdlg.src#RID_SCPAGE_DEFAULTS.FL_INIT_SPREADSHEET.fixedline.text
 msgid "New Spreadsheet"
-msgstr ""
+msgstr "নতুন স্প্রেডশীট"
 
 #. KgFO
 #: optdlg.src#RID_SCPAGE_DEFAULTS.FT_NSHEETS.fixedtext.text
 msgid "Number of worksheets in new document"
-msgstr ""
+msgstr "নতুন নথির কর্ম শীটের সংখ্যা"
 
 #. j00L
 #: scerrors.src#RID_ERRHDLSC.SCERR_IMPORT_CONNECT___ERRCODE_RES_MASK.string.text
@@ -971,6 +970,10 @@ msgid ""
 "Please be warned that re-saving this document will permanently delete those "
 "sheets that have not been loaded!"
 msgstr ""
+"সব শীট লোড করা হয়নি না কারণ শীটের সর্বাধিক সংখ্যা অতিক্রম হয়েছে। \ n"
+"\ n "
+"অনুগ্রহ করে সতর্কিত হন যে পুনরায় এই নথি সংরক্ষণ করলে‌ যে সব শীট লোড করা "
+"হয়নি, সেগুলি স্থায়ীভাবে ​​মুছে ফেলা হবে!"
 
 #. P6uR
 #: scerrors.src#RID_ERRHDLSC.SCWARN_IMPORT_OPEN_FM3___ERRCODE_RES_MASK.string.text
@@ -1533,7 +1536,6 @@ msgstr "অপশন..."
 
 #. A3_B
 #: optsolver.src#RID_SCDLG_OPTSOLVER.BTN_CLOSE.cancelbutton.text
-#, fuzzy
 msgctxt "optsolver.src#RID_SCDLG_OPTSOLVER.BTN_CLOSE.cancelbutton.text"
 msgid "Close"
 msgstr "বন্ধ করুন"
@@ -1682,17 +1684,15 @@ msgstr "মধ্যবর্তী নয়"
 
 #. cbGq
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND1_2.9.stringlist.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND1_2.9.stringlist.text"
 msgid "duplicated values"
-msgstr "প্রদর্শিত মান"
+msgstr "সদৃশ মান"
 
 #. Z0Os
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND1_2.10.stringlist.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND1_2.10.stringlist.text"
 msgid "non duplicated values"
-msgstr "অনুরূপ ফাইল সরানো হচ্ছে"
+msgstr "অসদৃশ মান"
 
 #. zd0f
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.RB_COND1_1.imagebutton.text
@@ -1735,7 +1735,7 @@ msgstr "ঘর শৈলী (~C)"
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.WIN_CHAR_PREVIEW_COND1.window.text
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.WIN_CHAR_PREVIEW_COND1.window.text"
 msgid "Example"
-msgstr ""
+msgstr "উদাহরণ"
 
 #. #90c
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.BTN_COND1_NEW.pushbutton.text
@@ -1809,17 +1809,15 @@ msgstr "মধ্যবর্তী নয়"
 
 #. 1p9f
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND2_2.9.stringlist.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND2_2.9.stringlist.text"
 msgid "duplicated values"
-msgstr "প্রদর্শিত মান"
+msgstr "সদৃশ মান"
 
 #. B6RY
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND2_2.10.stringlist.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND2_2.10.stringlist.text"
 msgid "non duplicated values"
-msgstr "অনুরূপ ফাইল সরানো হচ্ছে"
+msgstr "অসদৃশ মান"
 
 #. OVuk
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.RB_COND2_1.imagebutton.text
@@ -1862,7 +1860,7 @@ msgstr "ঘর শৈলী (~e)"
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.WIN_CHAR_PREVIEW_COND2.window.text
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.WIN_CHAR_PREVIEW_COND2.window.text"
 msgid "Example"
-msgstr ""
+msgstr "উদাহরণ"
 
 #. PVPx
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.BTN_COND2_NEW.pushbutton.text
@@ -1936,17 +1934,15 @@ msgstr "মধ্যবর্তী নয়"
 
 #. S11Y
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND3_2.9.stringlist.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND3_2.9.stringlist.text"
 msgid "duplicated values"
-msgstr "প্রদর্শিত মান"
+msgstr "সদৃশ মান"
 
 #. wgvE
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND3_2.10.stringlist.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.LB_COND3_2.10.stringlist.text"
 msgid "non duplicated values"
-msgstr "অনুরূপ ফাইল সরানো হচ্ছে"
+msgstr "অসদৃশ মান"
 
 #. IcpC
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.RB_COND3_1.imagebutton.text
@@ -1989,7 +1985,7 @@ msgstr "ঘর শৈলী (~l)"
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.WIN_CHAR_PREVIEW_COND3.window.text
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.WIN_CHAR_PREVIEW_COND3.window.text"
 msgid "Example"
-msgstr ""
+msgstr "উদাহরণ"
 
 #. 4jHm
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.BTN_COND3_NEW.pushbutton.text
@@ -1998,7 +1994,6 @@ msgstr "নতুন শৈলী... (~S)"
 
 #. d18f
 #: condfrmt.src#RID_SCDLG_CONDFORMAT.BTN_ADD.pushbutton.text
-#, fuzzy
 msgctxt "condfrmt.src#RID_SCDLG_CONDFORMAT.BTN_ADD.pushbutton.text"
 msgid "~Add"
 msgstr "যোগ (~A)"
@@ -2010,21 +2005,18 @@ msgstr "শর্তমূলক বিন্যাস"
 
 #. 2Jcf
 #: condfrmt.src#LABEL_FORMARTTING_CONDITIONS.string.text
-#, fuzzy
 msgid "Formatting Conditions"
-msgstr "সীমাবদ্ধকরণ শর্তসমূহ"
+msgstr "বিন্যাসকরণ শর্তাবলী"
 
 #. TAe8
 #: condfrmt.src#LABEL_CONDITIONS.string.text
-#, fuzzy
 msgid "Conditions"
-msgstr "শর্ত"
+msgstr "শর্তাবলী"
 
 #. v#QM
 #: condfrmt.src#LABEL_CONDITION_VALUE.string.text
-#, fuzzy
 msgid "Condition Value"
-msgstr "শর্তাধীন লেখা"
+msgstr "শর্ত মূল্য"
 
 #. q0tD
 #: datafdlg.src#RID_SCDLG_DATAFORM.LAB_DATAFORM_RECORDNO.fixedtext.text
@@ -2038,46 +2030,9 @@ msgstr "নতুন"
 
 #. BKTi
 #: datafdlg.src#RID_SCDLG_DATAFORM.BTN_DATAFORM_DELETE.pushbutton.text
-#, fuzzy
 msgctxt "datafdlg.src#RID_SCDLG_DATAFORM.BTN_DATAFORM_DELETE.pushbutton.text"
 msgid "Delete"
-msgstr ""
-"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  report.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলুন\n"
-"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলুন\n"
-"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"অপসারণ\n"
-"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলুন\n"
-"#-#-#-#-#  navipi.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলুন\n"
-"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  swriter.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  autopi.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলুন\n"
-"#-#-#-#-#  04.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  04.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Delete\n"
-"#-#-#-#-#  01.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"অপসারণ\n"
-"#-#-#-#-#  customize.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"অপসারণ\n"
-"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলুন\n"
-"#-#-#-#-#  dlged.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মুছে ফেলা\n"
-"#-#-#-#-#  editeng.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"অপসারণ"
+msgstr "মুছে ফেলুন"
 
 #. ufos
 #: datafdlg.src#RID_SCDLG_DATAFORM.BTN_DATAFORM_RESTORE.pushbutton.text
@@ -2096,7 +2051,6 @@ msgstr "পরবর্তী রেকর্ড"
 
 #. XXrq
 #: datafdlg.src#RID_SCDLG_DATAFORM.BTN_DATAFORM_CLOSE.pushbutton.text
-#, fuzzy
 msgctxt "datafdlg.src#RID_SCDLG_DATAFORM.BTN_DATAFORM_CLOSE.pushbutton.text"
 msgid "Close"
 msgstr "বন্ধ করুন"
@@ -5433,6 +5387,8 @@ msgid ""
 "A value greater than or equal to 1 for which the inverse hyperbolic cosine "
 "is to be returned."
 msgstr ""
+"মান বেশি অথবা ১ এর সমান এবং তার জন্য বিপরীত অধিবৃত্তিক কোসাইন"
+"ফেরানো হবে।"
 
 #. 3L4I
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_ARC_SIN_HYP.1.string.text
@@ -5690,38 +5646,36 @@ msgstr "y স্থানাংকের জন্য মান।"
 #. LrOP
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT.1.string.text
 msgid "Return the cosecant of an angle. CSC(x)=1/SIN(x)"
-msgstr ""
+msgstr "একটি কোণ কোসীক্যান্ট প্রত্যাবর্তন। CSC এন্ড (x) = 1/SIN (X)"
 
 #. i0Ao
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT.2.string.text
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT.2.string.text"
 msgid "Angle"
-msgstr ""
+msgstr "কোণ"
 
 # 90%
 #. xJ4h
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT.3.string.text
-#, fuzzy
 msgid "The angle in radians for which the cosecant is to be calculated."
 msgstr "রেডিয়ানে কোণের মান যার জন্য সাইন হিসাব করতে হবে।"
 
 #. dE#I
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT.1.string.text
 msgid "Return the secant of an angle. SEC(x)=1/COS(x)"
-msgstr ""
+msgstr "একটি কোণ সীক্যান্ট প্রত্যাবর্তন। SEC( এন্ড (x) = 1/COS( (X)"
 
 #. Uxiv
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT.2.string.text
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT.2.string.text"
 msgid "Angle"
-msgstr ""
+msgstr "কোণ"
 
 # 93%
 #. 9eYW
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT.3.string.text
-#, fuzzy
 msgid "The angle in radians for which the secant is to be calculated."
 msgstr "রেডিয়ানে কোণের মান যার জন্য সাইন হিসাব করতে হবে।"
 
@@ -5729,6 +5683,8 @@ msgstr "রেডিয়ানে কোণের মান যার জন�
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT_HYP.1.string.text
 msgid "Return the hyperbolic cosecant of a hyperbolic angle. CSCH(x)=1/SINH(x)"
 msgstr ""
+"একটি হাইপারবলিক কোণের হাইপারবলিক কোসীক্যান্ট প্রত্যাবর্তন। CSCH (x) = 1/SINH "
+"(X)"
 
 #. CapK
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT_HYP.2.string.text
@@ -5736,14 +5692,14 @@ msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT_HYP.2.string."
 "text"
 msgid "Angle"
-msgstr ""
+msgstr "কোণ"
 
 #. RtzD
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_COSECANT_HYP.3.string.text
 msgid ""
 "The hyperbolic angle in radians for which the hyperbolic cosecant is to be "
 "calculated."
-msgstr ""
+msgstr "রেডিয়ানে কোণের মান যার জন্য সাইন হিসাব করতে হবে।"
 
 #. wsqt
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT_HYP.1.string.text
@@ -5755,7 +5711,7 @@ msgstr ""
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT_HYP.2.string.text"
 msgid "Angle"
-msgstr ""
+msgstr "কোণ"
 
 #. KGe5
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS1.SC_OPCODE_SECANT_HYP.3.string.text
@@ -10170,7 +10126,6 @@ msgstr "সূত্র ঘরে একটি শৈলী প্রয়ো�
 
 #. Z60i
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STYLE.2.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_STYLE.2.string.text"
 msgid "Style"
@@ -10275,9 +10230,8 @@ msgstr "ঘর পাঠ্য"
 
 #. ddNq
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.1.string.text
-#, fuzzy
 msgid "Extracts value(s) from a pivot table."
-msgstr "DataPilot টেবিল থেকে মান(সমূহ) বের করে।"
+msgstr "পিভট টেবিল টেবিল থেকে মান(সমূহ) বের করে।"
 
 #. UI5V
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.2.string.text
@@ -10286,24 +10240,21 @@ msgstr "ডাটা ক্ষেত্র"
 
 #. 91B6
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.3.string.text
-#, fuzzy
 msgid "The name of the pivot table field to extract."
-msgstr "নিষ্কাশন করার জন্য data pilot ক্ষেত্রের নাম।"
+msgstr "নিষ্কাশন করার জন্য পিভট টেবিল ক্ষেত্রের নাম।"
 
 #. NA4e
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.4.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.4.string."
 "text"
 msgid "Pivot Table"
-msgstr "সারণি নয়"
+msgstr "পিভট টেবিল"
 
 #. 0PAn
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.5.string.text
-#, fuzzy
 msgid "A reference to a cell or range in the pivot table."
-msgstr "DataPilot টেবিলতে একটি ঘর বা পরিসরের রেফারেন্স।"
+msgstr "পিভট টেবিলে একটি ঘর বা পরিসরের রেফারেন্স।"
 
 #. viOQ
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_GET_PIVOT_DATA.6.string.text
@@ -11356,7 +11307,6 @@ msgstr ""
 
 #. lyxP
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITAND.2.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITAND.2.string.text"
 msgid "Number"
@@ -11371,7 +11321,6 @@ msgstr ""
 
 #. cawk
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITAND.4.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITAND.4.string.text"
 msgid "Number"
@@ -11391,7 +11340,6 @@ msgstr ""
 
 #. 9cNX
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITOR.2.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITOR.2.string.text"
 msgid "Number"
@@ -11406,7 +11354,6 @@ msgstr ""
 
 #. 0#MM
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITOR.4.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITOR.4.string.text"
 msgid "Number"
@@ -11426,7 +11373,6 @@ msgstr ""
 
 #. pmXT
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITXOR.2.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITXOR.2.string.text"
 msgid "Number"
@@ -11441,7 +11387,6 @@ msgstr ""
 
 #. weWg
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITXOR.4.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITXOR.4.string.text"
 msgid "Number"
@@ -11461,7 +11406,6 @@ msgstr ""
 
 #. f27X
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITRSHIFT.2.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITRSHIFT.2.string.text"
 msgid "Number"
@@ -11495,7 +11439,6 @@ msgstr ""
 
 #. BtnH
 #: scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITLSHIFT.2.string.text
-#, fuzzy
 msgctxt ""
 "scfuncs.src#RID_SC_FUNCTION_DESCRIPTIONS2.SC_OPCODE_BITLSHIFT.2.string.text"
 msgid "Number"
@@ -11699,9 +11642,8 @@ msgstr "ঘরের পপ-আপ মেনু"
 # 91%
 #. DNip
 #: popup.src#RID_POPUP_CELLS.SID_CELL_FORMAT_RESET.menuitem.text
-#, fuzzy
 msgid "Clear ~Direct Formatting"
-msgstr "বিন্যাস অপসারণ"
+msgstr "বিন্যাস অপসারণ (~D)"
 
 #. J#sB
 #: popup.src#RID_POPUP_CELLS.FID_CELL_FORMAT.menuitem.text
@@ -11801,9 +11743,8 @@ msgstr "ট্যাবের রং... (~T)"
 
 #. FVUY
 #: popup.src#RID_POPUP_TAB.FID_PROTECT_TABLE.menuitem.text
-#, fuzzy
 msgid "~Protect Sheet..."
-msgstr "শীট সুরক্ষিতকরণ"
+msgstr "শীট সুরক্ষিতকরণ (~P)"
 
 #. zPcG
 #: popup.src#RID_POPUP_TAB.FID_TAB_RTL.menuitem.text
@@ -11827,15 +11768,13 @@ msgstr "সব শীট অনির্বাচিত করুন (~e)"
 
 #. RU_8
 #: popup.src#RID_POPUP_PIVOT.string.text
-#, fuzzy
 msgid "Pivot table pop-up menu"
-msgstr "DataPilot পপ-আপ মেনু"
+msgstr "পিভট টেবিল পপ-আপ মেনু"
 
 #. U7si
 #: popup.src#RID_POPUP_PIVOT.SID_OPENDLG_PIVOTTABLE.menuitem.text
-#, fuzzy
 msgid "~Edit Layout..."
-msgstr "বহির্বিন্যাস পরিবর্তন... (~L)"
+msgstr "বহির্বিন্যাস পরিবর্তন... (~E)"
 
 #. etws
 #: popup.src#RID_POPUP_PIVOT.SID_PIVOT_RECALC.menuitem.text
@@ -11912,7 +11851,6 @@ msgstr "নিম্নলিপি (~b)"
 
 #. gupL
 #: popup.src#RID_POPUP_EDIT.RID_MN_FORMAT_STYLE.menuitem.text
-#, fuzzy
 msgctxt "popup.src#RID_POPUP_EDIT.RID_MN_FORMAT_STYLE.menuitem.text"
 msgid "Style"
 msgstr "শৈলী"
@@ -12267,19 +12205,16 @@ msgstr "বিশেষ প্রতিলেপন"
 
 #. ZHjS
 #: miscdlgs.src#RID_SCDLG_MOVETAB.FL_ACTION.fixedline.text
-#, fuzzy
 msgid "Action"
-msgstr "কাজ (~A)"
+msgstr "কাজ"
 
 #. u1bB
 #: miscdlgs.src#RID_SCDLG_MOVETAB.BTN_MOVE.radiobutton.text
-#, fuzzy
 msgid "~Move"
-msgstr "সরানো"
+msgstr "সরান (~M)"
 
 #. gaaB
 #: miscdlgs.src#RID_SCDLG_MOVETAB.BTN_COPY.radiobutton.text
-#, fuzzy
 msgctxt "miscdlgs.src#RID_SCDLG_MOVETAB.BTN_COPY.radiobutton.text"
 msgid "~Copy"
 msgstr "অনুলিপি করুন (~C)"
@@ -12301,16 +12236,14 @@ msgstr "পূর্বে সন্নিবেশ করান (~I)"
 
 #. lrVL
 #: miscdlgs.src#RID_SCDLG_MOVETAB.FL_NAME.fixedline.text
-#, fuzzy
 msgctxt "miscdlgs.src#RID_SCDLG_MOVETAB.FL_NAME.fixedline.text"
 msgid "Name"
 msgstr "নাম"
 
 #. ThCn
 #: miscdlgs.src#RID_SCDLG_MOVETAB.FT_TABNAME.fixedtext.text
-#, fuzzy
 msgid "New ~name"
-msgstr "নতুন নাম"
+msgstr "নতুন নাম (~n)"
 
 #. 6rPp
 #: miscdlgs.src#RID_SCDLG_MOVETAB.FT_TABNAME_WARN.fixedtext.text
@@ -12319,9 +12252,8 @@ msgstr "..."
 
 #. #GJ4
 #: miscdlgs.src#RID_SCDLG_MOVETAB.STR_CURRENTDOC.string.text
-#, fuzzy
 msgid "(current document)"
-msgstr "বর্তমান নথি (~C)"
+msgstr "(বর্তমান নথি)"
 
 #. b#9g
 #: miscdlgs.src#RID_SCDLG_MOVETAB.STR_NEWDOC.string.text
@@ -12330,7 +12262,6 @@ msgstr "- নতুন নথি -"
 
 #. 5EYD
 #: miscdlgs.src#RID_SCDLG_MOVETAB.STR_TABNAME_WARN_USED.string.text
-#, fuzzy
 msgid "This name is already used."
 msgstr "এই নামটি ইতোমধ্যে ব্যবহৃত হচ্ছে।"
 
@@ -12341,7 +12272,6 @@ msgstr ""
 
 #. 4q1D
 #: miscdlgs.src#RID_SCDLG_MOVETAB.STR_TABNAME_WARN_INVALID.string.text
-#, fuzzy
 msgid "Name contains one or more invalid characters."
 msgstr "ফাইলের নামে অকার্যকর অক্ষর রয়েছে।"
 
@@ -12599,21 +12529,18 @@ msgstr "নাম তৈরি করুন"
 # 83%
 #. dOzM
 #: miscdlgs.src#RID_SCDLG_NAMES_PASTE.BTN_PASTE.pushbutton.text
-#, fuzzy
 msgid "Paste"
-msgstr "প্রতিলেপন (~P)"
+msgstr "প্রতিলেপন"
 
 # 80%
 #. PLOr
 #: miscdlgs.src#RID_SCDLG_NAMES_PASTE.BTN_PASTE_ALL.pushbutton.text
-#, fuzzy
 msgid "Paste All"
-msgstr "সব প্রতিলেপন (~P)"
+msgstr "সব প্রতিলেপন"
 
 # 100%
 #. kdUe
 #: miscdlgs.src#RID_SCDLG_NAMES_PASTE.BTN_CLOSE.pushbutton.text
-#, fuzzy
 msgctxt "miscdlgs.src#RID_SCDLG_NAMES_PASTE.BTN_CLOSE.pushbutton.text"
 msgid "Close"
 msgstr "বন্ধ করুন"
@@ -12621,7 +12548,7 @@ msgstr "বন্ধ করুন"
 #. WhR1
 #: miscdlgs.src#RID_SCDLG_NAMES_PASTE.modaldialog.text
 msgid "Paste Names"
-msgstr ""
+msgstr "নাম প্রতিলেপন"
 
 #. n7ed
 #: miscdlgs.src#RID_SCDLG_CHARTCOLROW.1.checkbox.text
@@ -12650,7 +12577,6 @@ msgstr "%PRODUCTNAME %PRODUCTVERSION স্প্রেডশীট"
 
 #. f0cl
 #: scstring.src#SCSTR_SHORT_SCDOC_NAME.string.text
-#, fuzzy
 msgid "Spreadsheet"
 msgstr "স্প্রেডশীট"
 
@@ -12723,9 +12649,8 @@ msgstr "মুদ্রণ প্রাকদর্শন"
 
 #. b54d
 #: scstring.src#SCSTR_PIVOTSHELL.string.text
-#, fuzzy
 msgid "Pivot Tables"
-msgstr "সারণি নয়"
+msgstr "পিভট টেবিলসমূহ"
 
 #. SD3u
 #: scstring.src#SCSTR_AUDITSHELL.string.text
@@ -13321,33 +13246,29 @@ msgstr "%1 ঘর"
 
 #. Rx4_
 #: scstring.src#STR_ACC_DATAPILOT_ROW_DESCR.string.text
-#, fuzzy
 msgid ""
 "Fields that you drop here will be displayed as rows in the final pivot table."
 msgstr ""
-"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত DataPilot টেবিলে সারি হিসেবে "
+"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত পিভট টেবিলে সারি হিসেবে "
 "প্রদর্শিত হবে।"
 
 #. nUBa
 #: scstring.src#STR_ACC_DATAPILOT_COL_DESCR.string.text
-#, fuzzy
 msgid ""
 "Fields that you drop here will be displayed as columns in the final pivot "
 "table."
 msgstr ""
-"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত DataPilot টেবিলে কলাম হিসেবে "
+"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত পিভট টেবিলে কলাম হিসেবে "
 "প্রদর্শিত হবে।"
 
 #. 0GmE
 #: scstring.src#STR_ACC_DATAPILOT_DATA_DESCR.string.text
-#, fuzzy
 msgid ""
 "Fields that you drop here will be used for calculations in the final pivot "
 "table."
 msgstr ""
-"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত DataPilot টেবিলে হিসাবের "
-"জন্য ব্যবহৃত "
-"হবে।"
+"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত পিভট টেবিলে হিসাবের "
+"জন্য ব্যবহৃত হবে।"
 
 #. o#ua
 #: scstring.src#STR_ACC_DATAPILOT_SEL_DESCR.string.text
@@ -13358,12 +13279,11 @@ msgstr ""
 
 #. uo_T
 #: scstring.src#STR_ACC_DATAPILOT_PAGE_DESCR.string.text
-#, fuzzy
 msgid ""
 "Fields that you drop here will be available as filter lists at the top of "
 "the final pivot table."
 msgstr ""
-"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত DataPilot টেবিলে সারি হিসেবে "
+"আপনি এখানে যে ক্ষেত্রসমূহ রাখছেন সেগুলো চূড়ান্ত পিভট টেবিলে সারি হিসেবে "
 "প্রদর্শিত হবে।"
 
 #. XrIo
@@ -13378,27 +13298,23 @@ msgstr "মাউসের বোতাম চাপা হয়েছে"
 
 #. Ut0E
 #: scstring.src#STR_ACC_TOOLBAR_FORMULA.string.text
-#, fuzzy
 msgid "Formula Tool Bar"
-msgstr "সূত্র বার (~F)"
+msgstr "সূত্র বার"
 
 #. mbBr
 #: scstring.src#STR_ACC_DOC_SPREADSHEET.string.text
-#, fuzzy
 msgid "%PRODUCTNAME Spreadsheets"
-msgstr "%PRODUCTNAME স্প্রেডশীট"
+msgstr "%PRODUCTNAME স্প্রেডশীটসমূহ"
 
 #. 7Aok
 #: scstring.src#STR_ACC_DOC_SPREADSHEET_READONLY.string.text
-#, fuzzy
 msgid "(read-only)"
-msgstr " (শুধুমাত্র-পাঠযোগ্য)"
+msgstr "(শুধুমাত্র-পাঠযোগ্য)"
 
 #. zJxP
 #: scstring.src#STR_ACC_DOC_PREVIEW_SUFFIX.string.text
-#, fuzzy
 msgid "(Preview mode)"
-msgstr "প্রাকদর্শন মোড (~v)"
+msgstr "(প্রাকদর্শন মোড)"
 
 #. UyAM
 #: scstring.src#SCSTR_MOREBTN_MOREOPTIONS.string.text
@@ -13433,10 +13349,9 @@ msgstr "সব শীট (~A)"
 
 #. q2H9
 #: scstring.src#SCSTR_PRINT_OPTIONS.5.itemlist.text
-#, fuzzy
 msgctxt "scstring.src#SCSTR_PRINT_OPTIONS.5.itemlist.text"
 msgid "~Selected sheets"
-msgstr "নির্বাচিত শীট (~S)"
+msgstr "নির্বাচিত শীটসমূহ (~S)"
 
 #. Lizn
 #: scstring.src#SCSTR_PRINT_OPTIONS.6.itemlist.text
@@ -13920,7 +13835,6 @@ msgstr "গ্রহণ"
 
 #. #nNn
 #: toolbox.src#SCSTR_QHELP_BTNCANCEL.string.text
-#, fuzzy
 msgctxt "toolbox.src#SCSTR_QHELP_BTNCANCEL.string.text"
 msgid "Cancel"
 msgstr "বাতিল"
@@ -14341,21 +14255,18 @@ msgstr "নামসমূহ তালিকায় প্রদর্শন "
 
 #. svNe
 #: globstr.src#RID_GLOBSTR.STR_UNDO_PIVOT_NEW.string.text
-#, fuzzy
 msgid "Create pivot table"
-msgstr "টেবিল তৈরি"
+msgstr "পিভট টেবিল তৈরি"
 
 #. dOy8
 #: globstr.src#RID_GLOBSTR.STR_UNDO_PIVOT_MODIFY.string.text
-#, fuzzy
 msgid "Edit pivot table"
-msgstr " DataPilot টেবিল সম্পাদনা"
+msgstr "পিভট টেবিল সম্পাদনা"
 
 #. m4pN
 #: globstr.src#RID_GLOBSTR.STR_UNDO_PIVOT_DELETE.string.text
-#, fuzzy
 msgid "Delete pivot table"
-msgstr " DataPilot টেবিল মুছে ফেলুন"
+msgstr "পিভট টেবিল মুছে ফেলুন"
 
 #. ibY3
 #: globstr.src#RID_GLOBSTR.STR_UNDO_CONSOLIDATE.string.text
@@ -14764,9 +14675,8 @@ msgstr "ডাটা পরিসর অবশ্যই কমপক্ষে �
 
 #. slcP
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_NODATA.string.text
-#, fuzzy
 msgid "The pivot table must contain at least one entry."
-msgstr "DataPilot টেবিল অবশ্যই কমপক্ষে একটি ভুক্তি ধারণ করবে।"
+msgstr "পিভট টেবিল অবশ্যই কমপক্ষে একটি ভুক্তি ধারণ করবে।"
 
 #. f0TM
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_MOVENOTALLOWED.string.text
@@ -14775,15 +14685,13 @@ msgstr "ডাটা পরিসর মোছা যাবে না।"
 
 #. ip6Q
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_ERROR.string.text
-#, fuzzy
 msgid "Error creating the pivot table."
-msgstr "Data Pilot টেবিল তৈরিতে ত্রুটি।"
+msgstr "পিভট টেবিল তৈরিতে ত্রুটি।"
 
 #. gePc
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_OVERLAP.string.text
-#, fuzzy
 msgid "Pivot tables can not overlap."
-msgstr "DataPilot টেবিল অধিক্রমণ করতে পারেনা।"
+msgstr "পিভট টেবিল অধিক্রমণ করতে পারেনা।"
 
 #. 0nF9
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_NOTEMPTY.string.text
@@ -14801,9 +14709,8 @@ msgstr ""
 
 #. WQz6
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_PROGRESS.string.text
-#, fuzzy
 msgid "Create Pivot Table"
-msgstr " DataPilot টেবিল তৈরি করুন"
+msgstr "পিভট টেবিল তৈরি করুন"
 
 #. QOBV
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_TOTAL.string.text
@@ -14997,10 +14904,9 @@ msgstr "দৃশ্যকল্প"
 
 #. GaBh
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_TABLE.string.text
-#, fuzzy
 msgctxt "globstr.src#RID_GLOBSTR.STR_PIVOT_TABLE.string.text"
 msgid "Pivot Table"
-msgstr "সারণি নয়"
+msgstr "পিভট টেবিল"
 
 #. sR#p
 #: globstr.src#RID_GLOBSTR.STR_FUN_TEXT_SUM.string.text
@@ -15060,9 +14966,8 @@ msgstr "এই অবস্থানে কোনো লেখচিত্র �
 
 #. zspO
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_NOTFOUND.string.text
-#, fuzzy
 msgid "No pivot table found at this position."
-msgstr "এই অবস্থানে কোনো DataPilot টেবিল খুঁজে পাওয়া যায়নি।"
+msgstr "এই অবস্থানে কোনো পিভট টেবিল খুঁজে পাওয়া যায়নি।"
 
 #. Jpun
 #: globstr.src#RID_GLOBSTR.STR_EMPTYDATA.string.text
@@ -15440,7 +15345,6 @@ msgstr "পাঠ্য ফাইল ইমপোর্ট করুন"
 
 #. ZW3K
 #: globstr.src#RID_GLOBSTR.STR_EXPORT_ASCII.string.text
-#, fuzzy
 msgid "Export Text File"
 msgstr "পাঠ্য ফাইল এক্সপোর্ট"
 
@@ -16053,39 +15957,33 @@ msgstr "অকার্যকর পরিসর"
 
 #. byL2
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_INNER.string.text
-#, fuzzy
 msgid "Pivot Table Value"
-msgstr "DataPilot মান"
+msgstr "পিভট টেবিলের মান"
 
 #. zD6a
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_RESULT.string.text
-#, fuzzy
 msgid "Pivot Table Result"
-msgstr "DataPilot ফলাফল"
+msgstr "পিভট টেবিলের ফলাফল"
 
 #. Oxdh
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_CATEGORY.string.text
-#, fuzzy
 msgid "Pivot Table Category"
-msgstr "DataPilot শ্রেণী"
+msgstr "পিভট টেবিলের শ্রেণী"
 
 #. JmDt
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_TITLE.string.text
-#, fuzzy
 msgid "Pivot Table Title"
-msgstr "সারণির শৈলী"
+msgstr "পিভট টেবিলের শিরোনাম"
 
 #. MXZS
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_FIELDNAME.string.text
-#, fuzzy
 msgid "Pivot Table Field"
-msgstr "ডাটাবেস ক্ষেত্র"
+msgstr "পিভট টেবিল ক্ষেত্র"
 
 #. eKv9
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_STYLE_TOP.string.text
-#, fuzzy
 msgid "Pivot Table Corner"
-msgstr "DataPilot কোণ"
+msgstr "পিভট টেবিলের কোণ"
 
 #. eyun
 #: globstr.src#RID_GLOBSTR.STR_OPERATION_FILTER.string.text
@@ -16216,7 +16114,6 @@ msgstr "ঘর নির্বাচন করুন"
 
 #. Amnj
 #: globstr.src#RID_GLOBSTR.STR_NAME_INPUT_RANGE.string.text
-#, fuzzy
 msgid "Select Range"
 msgstr "পরিসর নির্বাচন করুন"
 
@@ -16315,9 +16212,8 @@ msgstr "চাইনিজ রূপান্তর"
 
 #. o#Ov
 #: globstr.src#RID_GLOBSTR.STR_ERR_DATAPILOT_INPUT.string.text
-#, fuzzy
 msgid "You cannot change this part of the pivot table."
-msgstr "আপনি DataPilot টেবিলের এই অংশটি পরিবর্তন করতে পারেননা।"
+msgstr "আপনি পিভট টেবিলের এই অংশটি পরিবর্তন করতে পারেননা।"
 
 #. rdKC
 #: globstr.src#RID_GLOBSTR.STR_RECALC_MANUAL.string.text
@@ -16458,75 +16354,23 @@ msgstr "স্বয়ংক্রিয় আকার"
 
 #. VN0e
 #: globstr.src#RID_GLOBSTR.STR_SHAPE_RECTANGLE.string.text
-#, fuzzy
 msgid "Rectangle"
-msgstr ""
-"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
-"আয়তাকার\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"আয়তক্ষেত্র\n"
-"#-#-#-#-#  00.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"আয়তক্ষেত্র\n"
-"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"আয়তক্ষেত্র\n"
-"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"আয়তক্ষত্র"
+msgstr "আয়তাকার"
 
 #. 9bS9
 #: globstr.src#RID_GLOBSTR.STR_SHAPE_LINE.string.text
-#, fuzzy
 msgid "Line"
-msgstr ""
-"#-#-#-#-#  report.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন\n"
-"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন\n"
-"#-#-#-#-#  01.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"রেখা\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন\n"
-"#-#-#-#-#  00.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন\n"
-"#-#-#-#-#  01.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"রেখা\n"
-"#-#-#-#-#  01.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"রেখা\n"
-"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন\n"
-"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন\n"
-"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লাইন"
+msgstr "লাইন"
 
 #. 9S5h
 #: globstr.src#RID_GLOBSTR.STR_SHAPE_OVAL.string.text
-#, fuzzy
 msgid "Oval"
-msgstr ""
-"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
-"ডিম্বাকৃতি\n"
-"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"উপবৃত্ত"
+msgstr "উপবৃত্ত"
 
 #. Qfyl
 #: globstr.src#RID_GLOBSTR.STR_SHAPE_TEXTBOX.string.text
-#, fuzzy
 msgid "Text Box"
-msgstr ""
-"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
-"টেক্সট বাক্স\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"টেক্সট বক্স\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"টেক্সট বাক্স\n"
-"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"টেক্সট বাক্স\n"
-"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"পাঠ্য বাক্স\n"
-"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লেখা বাক্স\n"
-"#-#-#-#-#  fmcomp.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লেখা বাক্স"
+msgstr "টেক্সট বক্স"
 
 #. iJjF
 #: globstr.src#RID_GLOBSTR.STR_FORM_BUTTON.string.text
@@ -16545,21 +16389,8 @@ msgstr "অপশন বোতাম"
 
 #. AhFT
 #: globstr.src#RID_GLOBSTR.STR_FORM_LABEL.string.text
-#, fuzzy
 msgid "Label"
-msgstr ""
-"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
-"মোড়ক\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"মোড়ক\n"
-"#-#-#-#-#  shared.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লেবেল\n"
-"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লেবেল\n"
-"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লেবেল\n"
-"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"লেবেল"
+msgstr "লেবেল"
 
 #. 4L2L
 #: globstr.src#RID_GLOBSTR.STR_FORM_LISTBOX.string.text
@@ -16568,21 +16399,8 @@ msgstr "তালিকা বাক্স"
 
 #. 8ETL
 #: globstr.src#RID_GLOBSTR.STR_FORM_GROUPBOX.string.text
-#, fuzzy
 msgid "Group Box"
-msgstr ""
-"#-#-#-#-#  lo-build-bn.po (@PACKAGE@)  #-#-#-#-#\n"
-"গ্রুপ বাক্স\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"গ্রুপ বাক্স\n"
-"#-#-#-#-#  02.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"গ্রুপ বাক্স\n"
-"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"গ্রুপের বাক্স\n"
-"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"গ্রুপ বাক্স\n"
-"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"গ্রুপ বাক্স"
+msgstr "গ্রুপ বক্স"
 
 #. CHaJ
 #: globstr.src#RID_GLOBSTR.STR_FORM_DROPDOWN.string.text
@@ -16611,26 +16429,22 @@ msgstr "পৃষ্ঠার শৈলী"
 
 #. ssOF
 #: globstr.src#RID_GLOBSTR.STR_ERR_DATAPILOTSOURCE.string.text
-#, fuzzy
 msgid "Pivot table source data is invalid."
-msgstr "DataPilot সোর্স ডাটা অকার্যকর।"
+msgstr "পিভট টেবিল সোর্স ডাটা অকার্যকর।"
 
 #. 64Gl
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_FIRSTROWEMPTYERR.string.text
-#, fuzzy
 msgid ""
 "One or more fields appear to have an empty name. Check the first row of the "
 "data source to ensure there are no empty cells."
 msgstr ""
 "ক্ষেত্র নাম খালি রাখা যাবে না। ডাটা সোর্সের প্রথম সারি চেক করুন যাতে কোনো "
-"খালি ঘর "
-"না থাকে।"
+"খালি ঘর না থাকে।"
 
 #. F9di
 #: globstr.src#RID_GLOBSTR.STR_PIVOT_ONLYONEROWERR.string.text
-#, fuzzy
 msgid "Pivot table needs at least two rows of data to create or refresh."
-msgstr "DataPilot টেবিলে অন্তত দুই সারি থাকতে হবে।"
+msgstr "পিভট টেবিলে অন্তত দুই সারি থাকতে হবে।"
 
 #. Urpf
 #: globstr.src#RID_GLOBSTR.STR_OPTIONS_WARN_SEPARATORS.string.text
@@ -16655,12 +16469,11 @@ msgstr "বর্তমান সময় সংযোজন"
 #. rFO5
 #: globstr.src#RID_GLOBSTR.STR_MANAGE_NAMES.string.text
 msgid "Manage Names..."
-msgstr ""
+msgstr "নাম সমূহ পরিচালনা করুন..."
 
 # 100%
 #. ZZ21
 #: globstr.src#RID_GLOBSTR.STR_HEADER_NAME.string.text
-#, fuzzy
 msgctxt "globstr.src#RID_GLOBSTR.STR_HEADER_NAME.string.text"
 msgid "Name"
 msgstr "নাম"
@@ -16668,7 +16481,6 @@ msgstr "নাম"
 # 100%
 #. 9z5C
 #: globstr.src#RID_GLOBSTR.STR_HEADER_RANGE.string.text
-#, fuzzy
 msgctxt "globstr.src#RID_GLOBSTR.STR_HEADER_RANGE.string.text"
 msgid "Range"
 msgstr "পরিসর"
@@ -16676,7 +16488,6 @@ msgstr "পরিসর"
 # 100%
 #. s0wU
 #: globstr.src#RID_GLOBSTR.STR_HEADER_SCOPE.string.text
-#, fuzzy
 msgctxt "globstr.src#RID_GLOBSTR.STR_HEADER_SCOPE.string.text"
 msgid "Scope"
 msgstr "সুযোগ"
@@ -16684,14 +16495,13 @@ msgstr "সুযোগ"
 # 100%
 #. eoao
 #: globstr.src#RID_GLOBSTR.STR_GLOBAL_SCOPE.string.text
-#, fuzzy
 msgid "Document (Global)"
-msgstr "নথি বন্ধ করা হয়েছে"
+msgstr "নথি (গ্লোবাল)"
 
 #. MzQZ
 #: globstr.src#RID_GLOBSTR.STR_ERR_NAME_EXISTS.string.text
 msgid "Invalid name. Already in use for the selected scope."
-msgstr ""
+msgstr "অবৈধ নাম. ইতিমধ্যে নির্বাচিত প্রসারের জন্য ব্যবহৃত হয়েছে।"
 
 #. #0NI
 #: globstr.src#RID_GLOBSTR.STR_ERR_NAME_INVALID.string.text
@@ -17593,13 +17403,11 @@ msgstr "পরিশোধক"
 
 #. NGhY
 #: filter.src#STR_COPY_AREA_TO.string.text
-#, fuzzy
 msgid "Copy results to"
-msgstr "ফলাফল অনুলিপি করুন (~p)"
+msgstr "ফলাফল এখানে অনুলিপি করুন"
 
 #. HvXn
 #: filter.src#RID_FILTER_OPERATOR.string.text
-#, fuzzy
 msgctxt "filter.src#RID_FILTER_OPERATOR.string.text"
 msgid "Operator"
 msgstr "অপারেটর"
@@ -17611,14 +17419,12 @@ msgstr "ক্ষেত্রের নাম"
 
 #. YPLc
 #: filter.src#RID_FILTER_CONDITION.string.text
-#, fuzzy
 msgctxt "filter.src#RID_FILTER_CONDITION.string.text"
 msgid "Condition"
 msgstr "শর্ত"
 
 #. NuA5
 #: filter.src#RID_FILTER_VALUE.string.text
-#, fuzzy
 msgctxt "filter.src#RID_FILTER_VALUE.string.text"
 msgid "Value"
 msgstr "মান"
@@ -17626,7 +17432,6 @@ msgstr "মান"
 # 100%
 #. Ap23
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.BTN_ADD.pushbutton.text
-#, fuzzy
 msgctxt "namedefdlg.src#RID_SCDLG_NAMES_DEFINE.BTN_ADD.pushbutton.text"
 msgid "Add"
 msgstr "যোগ"
@@ -17642,12 +17447,11 @@ msgstr "বাতিল"
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.BTN_MORE.checkbox.text
 msgctxt "namedefdlg.src#RID_SCDLG_NAMES_DEFINE.BTN_MORE.checkbox.text"
 msgid "Range Options"
-msgstr ""
+msgstr "পরিসর বিকল্পসমূহ"
 
 # 100%
 #. 0#JL
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.FT_NAME.fixedtext.text
-#, fuzzy
 msgctxt "namedefdlg.src#RID_SCDLG_NAMES_DEFINE.FT_NAME.fixedtext.text"
 msgid "Name"
 msgstr "নাম"
@@ -17655,7 +17459,6 @@ msgstr "নাম"
 # 100%
 #. 4jRt
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.FT_RANGE.fixedtext.text
-#, fuzzy
 msgctxt "namedefdlg.src#RID_SCDLG_NAMES_DEFINE.FT_RANGE.fixedtext.text"
 msgid "Range"
 msgstr "পরিসর"
@@ -17663,7 +17466,6 @@ msgstr "পরিসর"
 # 100%
 #. shvg
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.FT_SCOPE.fixedtext.text
-#, fuzzy
 msgctxt "namedefdlg.src#RID_SCDLG_NAMES_DEFINE.FT_SCOPE.fixedtext.text"
 msgid "Scope"
 msgstr "সুযোগ"
@@ -17672,7 +17474,7 @@ msgstr "সুযোগ"
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.RB_RANGE.imagebutton.text
 msgctxt "namedefdlg.src#RID_SCDLG_NAMES_DEFINE.RB_RANGE.imagebutton.text"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 # 100%
 #. oB2u
@@ -17713,12 +17515,12 @@ msgstr "কলাম পুনরাবৃত্তকরণ (~c)"
 #. #uNW
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.STR_DEFAULT_INFO.string.text
 msgid "Define the name and range or formula expression."
-msgstr ""
+msgstr "নাম এবং পরিসীমা বা সূত্র প্রকাশ সংজ্ঞায়িত করা।"
 
 #. P7PD
 #: namedefdlg.src#RID_SCDLG_NAMES_DEFINE.modelessdialog.text
 msgid "Define Name"
-msgstr ""
+msgstr "নাম নির্ধারণ"
 
 #. T1fJ
 #: dbnamdlg.src#RID_SCDLG_DBNAMES.FL_NAME.fixedline.text
