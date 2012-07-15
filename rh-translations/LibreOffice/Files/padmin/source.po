@@ -1,0 +1,1216 @@
+#. extracted from padmin/source.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+padmin%2Fsource.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2012-06-16 00:14+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+
+#. fkpE
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_TXT_HELP.fixedtext.text
+msgid ""
+"Please select the folder from which you want to import fonts. Add the "
+"selected fonts by clicking the OK button."
+msgstr ""
+"অনুগ্রহ করে ফোল্ডার নির্বাচন করুন যেখান থেকে আপনি ফন্ট ইমপোর্ট করতে চান। ঠিক "
+"আছে "
+"বোতামে ক্লিক করে নির্বাচিত ফন্টসমূহ যুক্ত করুন।"
+
+#. uG_E
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_FL_FROM.fixedline.text
+msgid "Source directory"
+msgstr "সোর্স ডিরেক্টরি"
+
+#. Y4aI
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_BOX_SUBDIRS.checkbox.text
+msgid "Sea~rch Subdirectories"
+msgstr "সাবডিরেক্টরিতে অনুসন্ধান করা হবে (~r)"
+
+#. Og#X
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_FL_TARGETOPTS.fixedline.text
+msgid "Target options"
+msgstr "গন্তব্য অপশন"
+
+#. NpIl
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_BOX_LINKONLY.checkbox.text
+msgid "Create ~soft links only"
+msgstr "শুধুমাত্র সফটলিংক তৈরি করা হবে (~s)"
+
+#. Prbx
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_BTN_SELECTALL.pushbutton.text
+msgctxt ""
+"padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_BTN_SELECTALL.pushbutton.text"
+msgid "~Select All"
+msgstr "সব নির্বাচন (~S)"
+
+#. meQL
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_IMPORTOP.string.text
+msgid "Add fonts"
+msgstr "ফন্ট যোগ"
+
+#. tcIF
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_QUERYOVERWRITE.string.text
+msgid ""
+"Do you really want to overwrite this font file?\n"
+"   %s"
+msgstr ""
+"আপনি কি সত্যিই ফন্ট ফাইল প্রতিস্থাপন করতে চান?\n"
+"   %s"
+
+#. ILu2
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_OVERWRITEALL.string.text
+msgid "All"
+msgstr "সব"
+
+#. 8q8X
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_OVERWRITENONE.string.text
+msgid "None"
+msgstr "কোনটি না"
+
+#. rSI0
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_NOAFM.string.text
+msgid ""
+"A format file (with an .afm extension) has not been found for the font\n"
+"%s\n"
+"therefore, the font cannot be installed. Format files can be created with "
+"ghostscript, for example, and have to be located in the same directory as "
+"the font files or its afm subdirectory."
+msgstr ""
+"ফন্টের জন্য উপযুক্ত ফরম্যাট ফাইল (.afm বর্ধিতাংশসহ) পাওয়া যায়নি।\n"
+"%s\n"
+"তাই, ফন্টটি ইনস্টল করা সম্ভব নয়। ফরম্যাট ফাইল ghostscript এর সাহায্যে তৈরি "
+"করা "
+"যায় এবং নতুন ফাইলটি একই  ডিরেক্টরিতে বা তার afm সাবডিরেক্টরির ভেতর থাকতে হবে।"
+
+#. #ZpR
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_AFMCOPYFAILED.string.text
+msgid ""
+"The metric file for the font file\n"
+"   %s\n"
+"could not be copied. The font will not be installed."
+msgstr ""
+"নির্বাচিত ফন্ট ফাইলের মেট্রিক ফাইলটি\n"
+"   %s\n"
+"অনুলিপি করা সম্ভব নয়। ফন্ট ইনস্টল করা সম্ভব নয়।"
+
+#. WeVN
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_FONTCOPYFAILED.string.text
+msgid ""
+"The font file\n"
+"   %s\n"
+"could not be copied. The font will not be installed."
+msgstr ""
+"ফন্ট ফাইল\n"
+"   %s\n"
+"অনুলিপি করা যায়নি। ফন্টটি ইনস্টল করা সম্ভব নয়।"
+
+#. _s5p
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_NOWRITEABLEFONTSDIR.string.text
+msgid ""
+"A directory containing a writable fonts.dir file is not located in the "
+"Fontpath. Therefore, fonts cannot be installed."
+msgstr ""
+"লিখনযোগ্য fonts.dir ফাইলটি Fontpath এ নেই। তাই ফন্টটি এখন ইনস্টল করা সম্ভব "
+"নয়।"
+
+#. ZCaa
+#: padialog.src#RID_FONTIMPORT_DIALOG.RID_FIMP_STR_NUMBEROFFONTSIMPORTED.string.text
+msgid "%d new fonts were added."
+msgstr "%d টি নতুন ফন্ট যোগ করা হয়েছে।"
+
+#. GZ59
+#: padialog.src#RID_FONTIMPORT_DIALOG.modaldialog.text
+msgid "Add Fonts"
+msgstr "ফন্ট যোগ"
+
+#. ouIx
+#: padialog.src#RID_PADIALOG.RID_PA_FL_CUPSUSAGE.fixedline.text
+msgid "CUPS support"
+msgstr "CUPS সমর্থন"
+
+#. vOnF
+#: padialog.src#RID_PADIALOG.RID_PA_CB_CUPSUSAGE.checkbox.text
+msgid "Disable CUPS Support"
+msgstr "CUPS সমর্থন নিষ্ক্রিয়"
+
+#. ETHr
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_CANCEL.cancelbutton.text
+msgctxt "padialog.src#RID_PADIALOG.RID_PA_BTN_CANCEL.cancelbutton.text"
+msgid "Close"
+msgstr "বন্ধ"
+
+#. g_pb
+#: padialog.src#RID_PADIALOG.RID_PA_FL_PRINTERS.fixedline.text
+msgid "Installed ~printers"
+msgstr "ইনস্টলকৃত মুদ্রণযন্ত্র (~p)"
+
+#. Bhmh
+#: padialog.src#RID_PADIALOG.RID_PA_TXT_COMMAND.fixedtext.text
+msgid "Command:"
+msgstr "কমান্ড:"
+
+#. FElV
+#: padialog.src#RID_PADIALOG.RID_PA_TXT_DRIVER.fixedtext.text
+msgid "Driver:"
+msgstr "ড্রাইভার:"
+
+#. e87#
+#: padialog.src#RID_PADIALOG.RID_PA_TXT_LOCATION.fixedtext.text
+msgid "Location:"
+msgstr "অবস্থান:"
+
+#. JBjg
+#: padialog.src#RID_PADIALOG.RID_PA_TXT_COMMENT.fixedtext.text
+msgid "Comment:"
+msgstr "মন্তব্য:"
+
+#. kw6T
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_CONF.pushbutton.text
+msgid "Properties..."
+msgstr "বৈশিষ্ট্যাবলী..."
+
+#. z_Ai
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_RENAME.pushbutton.text
+msgid "R~ename..."
+msgstr "পুনরায় নামকরণ... (~e)"
+
+#. 54cK
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_STD.pushbutton.text
+msgctxt "padialog.src#RID_PADIALOG.RID_PA_BTN_STD.pushbutton.text"
+msgid "~Default"
+msgstr "পূর্বনির্ধারিত (~D) "
+
+#. 1Ymk
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_DEL.pushbutton.text
+msgid "Remo~ve..."
+msgstr "অপসারণ... (~v)"
+
+#. rC4E
+#: padialog.src#RID_PADIALOG.RID_PA_TESTPAGE.pushbutton.text
+msgid "Test ~Page"
+msgstr "পরীক্ষামূলক পৃষ্ঠা (~P)"
+
+#. #wOl
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_FONTS.pushbutton.text
+msgid "Fon~ts..."
+msgstr "ফন্ট... (~t)"
+
+#. vcIr
+#: padialog.src#RID_PADIALOG.RID_PA_BTN_ADD.pushbutton.text
+msgid "New Printer..."
+msgstr "নতুন মুদ্রণযন্ত্র..."
+
+#. 73Sd
+#: padialog.src#RID_PADIALOG.RID_PA_STR_DEFPRT.string.text
+msgid "Default printer"
+msgstr "পূর্বনির্ধারিত মুদ্রণযন্ত্র"
+
+#. EfFB
+#: padialog.src#RID_PADIALOG.RID_PA_STR_RENAME.string.text
+msgid "Rename"
+msgstr "পুনরায় নামকরণ"
+
+#. XnfD
+#: padialog.src#RID_PADIALOG.modaldialog.text
+msgid "Printer Administration"
+msgstr "মুদ্রণযন্ত্র পরিচালনা"
+
+#. hXQB
+#: padialog.src#RID_ERR_NOPRINTER.string.text
+msgid "Could not open printer %s."
+msgstr "মুদ্রণযন্ত্র %s চালু করা যায়নি।"
+
+#. pNOw
+#: padialog.src#RID_PA_TXT_TESTPAGE_PRINTED.string.text
+msgid "The test page was printed succesfully. Please check the result."
+msgstr ""
+"পরীক্ষামূলক পৃষ্ঠা সঠিক ভাবে মুদ্রণ করা হয়েছে। অনুগ্রহ করে ফলাফল দেখুন।"
+
+#. 0wv_
+#: padialog.src#RID_ERR_NOWRITE.string.text
+msgid ""
+"No printers can be installed, because the file system is read-only.\n"
+"Please contact your system administrator."
+msgstr ""
+"কোনো প্রিন্টার ইনস্টল করা যাবে কারণ ফাইল সিস্টেমটি শুধুমাত্র পাঠযোগ্য। \n"
+"আপনার সিস্টেম অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।"
+
+#. KD9t
+#: padialog.src#RID_QRY_PRTNAME.string.text
+msgid "~New printer name"
+msgstr "নতুন মুদ্রণযন্ত্রের নাম (~N)"
+
+#. cgRL
+#: padialog.src#RID_TXT_TESTPAGE_MODEL.string.text
+msgid "Model"
+msgstr "মডেল"
+
+#. 5qWD
+#: padialog.src#RID_TXT_TESTPAGE_NAME.string.text
+msgid "Name"
+msgstr "নাম"
+
+#. BMxz
+#: padialog.src#RID_TXT_TESTPAGE_COMMENT.string.text
+msgid "Comment"
+msgstr "মন্তব্য"
+
+#. OlIK
+#: padialog.src#RID_TXT_TESTPAGE_QUEUE.string.text
+msgid "Queue"
+msgstr "সারি"
+
+#. YuWe
+#: padialog.src#RID_TXT_TESTPAGE_DATE.string.text
+msgid "Date"
+msgstr "তারিখ"
+
+#. AYVF
+#: padialog.src#RID_TXT_TESTPAGE_TIME.string.text
+msgid "Time"
+msgstr "সময়"
+
+#. UyG5
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_BTN_OK.okbutton.text
+msgctxt "padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_BTN_OK.okbutton.text"
+msgid "Close"
+msgstr "বন্ধ"
+
+#. q_HM
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_BTN_RENAME.pushbutton.text
+msgid "Re~name..."
+msgstr "পুনরায় নামকরণ... (~n)"
+
+#. alQc
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_BTN_REMOVE.pushbutton.text
+msgid "~Remove..."
+msgstr "অপসারণ... (~R)"
+
+#. CLFO
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_BTN_IMPORT.pushbutton.text
+msgid "~Add..."
+msgstr "যোগ... (~A)"
+
+#. Ue8S
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_FIXED.fixedtext.text
+msgid "Note: The fonts are only available to the applications."
+msgstr "নোট: ফন্টগুলো কেবল অ্যাপ্লিকেশনে ব্যবহারযোগ্য।"
+
+#. tneZ
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_STR_RENAME.string.text
+msgid "~New name for %s"
+msgstr "%s এর নতুন নাম (~N)"
+
+#. vgN#
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_STR_TTCRENAME.string.text
+msgid "~New name for %s (%d1 of %d2)"
+msgstr "%s (%d2$2 এর %1$d1) এর নতুন নাম (~N)"
+
+#. I#VY
+#: padialog.src#RID_FONTNAMEDIALOG.RID_FNTNM_STR_NOTRENAMABLE.string.text
+msgid "The font %s cannot be renamed due to missing write permission."
+msgstr "লেখার অনুমতি না থাকার কারণে ফন্টের নতুন নামকরণ সম্ভব নয়।"
+
+#. hNgw
+#: padialog.src#RID_FONTNAMEDIALOG.modaldialog.text
+msgid "Fonts"
+msgstr "ফন্ট"
+
+#. RK_#
+#: padialog.src#RID_BXT_TESTPAGE.string.text
+msgid "Test page"
+msgstr "পরীক্ষামূলক পৃষ্ঠা"
+
+#. qS5n
+#: padialog.src#RID_BXT_ENVIRONMENT.string.text
+msgid "Wrong environment"
+msgstr "অনুপযুক্ত পরিবেশ "
+
+#. HInx
+#: padialog.src#RID_YOU_SURE.string.text
+msgid "Are you sure ?"
+msgstr "আপনি কি নিশ্চিত?"
+
+#. jQWF
+#: padialog.src#RID_AFMERROR_OK.string.text
+msgid "No error"
+msgstr "কোন ত্রুটি নেই"
+
+#. aLHc
+#: padialog.src#RID_AFMERROR_NO_FONT_NAME.string.text
+msgid "The metric does not contain a 'FontName' entry."
+msgstr "এই মেট্রিক কোনো 'FontName' এন্ট্রি ধারণ করেনা।"
+
+#. Y5hR
+#: padialog.src#RID_AFMERROR_NO_FULL_NAME.string.text
+msgid "The metric does not contain a 'FullName' entry."
+msgstr "এই মেট্রিক কোনো 'FullName' এন্ট্রি ধারণ করেনা।"
+
+#. fD96
+#: padialog.src#RID_AFMERROR_NO_FAMILY_NAME.string.text
+msgid "The metric does not contain a 'FamilyName' entry."
+msgstr "এই মেট্রিক কোনো 'FamilyName' এন্ট্রি ধারণ করেনা।"
+
+#. gf8r
+#: padialog.src#RID_AFMERROR_MOVETO_FAILED.string.text
+msgid "The converted metric could not be written."
+msgstr "পরিবর্তিত মেট্রিকে লেখা সম্ভব নয়।"
+
+#. vnbY
+#: padialog.src#RID_AFMERROR_STREAM_READ_FAILED.string.text
+msgid "The metric could not be read."
+msgstr "মেট্রিকটি পড়া সম্ভব নয়।"
+
+#. 9PSb
+#: padialog.src#RID_AFMERROR_STREAM_WRITE_FAILED.string.text
+msgid "A temporary file could not be created."
+msgstr "অস্থায়ী ফাইলটি তৈরি সম্ভব নয়।"
+
+#. JUCg
+#: padialog.src#RID_AFMERROR_NOT_A_METRIC.string.text
+msgid "The file does not contain a metric."
+msgstr "ফাইলটি কোনো মেট্রিক ধারণ করে না।"
+
+#. iqVf
+#: padialog.src#RID_AFMERROR_BOX_TXT.string.text
+msgid ""
+"The metric\n"
+"\n"
+"%s\n"
+"\n"
+"could not be converted for the following reason:\n"
+"\n"
+msgstr ""
+"মেট্রিকটি\n"
+"\n"
+"%s\n"
+"\n"
+"নিম্নলিখিত কারণে পরিবর্তন করা সম্ভব নয়:\n"
+"\n"
+
+#. Py0K
+#: padialog.src#RID_PROGRESS_DLG.RID_PROGRESS_PROGRESS_TXT.fixedtext.text
+msgid "Progress"
+msgstr "অগ্রগতি"
+
+#. FxNt
+#: padialog.src#RID_PROGRESS_DLG.modelessdialog.text
+msgid "Please wait"
+msgstr "অনুগ্রহ করে অপেক্ষা করুন"
+
+#. 3T85
+#: padialog.src#RID_OPERATION_CONVERTMETRIC.string.text
+msgid "Font metrics conversion"
+msgstr "ফন্ট মেট্রিক্স রূপান্তর"
+
+#. _0iH
+#: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_GROUP_PATH.fixedline.text
+msgid "Dri~ver directory"
+msgstr "ড্রাইভার ডিরেক্টরি (~v)"
+
+#. YV_h
+#: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_TXT_PATH.fixedtext.text
+msgid "Please select the driver directory."
+msgstr "অনুগ্রহ করে ড্রাইভার ডিরেক্টরি নির্বাচন করুন।"
+
+#. cQIM
+#: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_BTN_SEARCH.pushbutton.text
+msgid "Browse..."
+msgstr "ব্রাউজ..."
+
+#. m1jt
+#: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_GROUP_DRIVER.fixedline.text
+msgid "~Selection of drivers"
+msgstr "ড্রাইভার নির্বাচন (~S)"
+
+#. n1sv
+#: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_TXT_DRIVER.fixedtext.text
+msgid "Please select the drivers to install and press \"%s\"."
+msgstr "ইনস্টল করার জন্য ড্রাইভার নির্বাচন করে \"%s\" চাপুন।"
+
+#. 1LAh
+#: padialog.src#RID_PPDIMPORT_DLG.RID_PPDIMP_STR_LOADINGPPD.string.text
+msgid "Searching for drivers"
+msgstr "ড্রাইভার অনুসন্ধান করা হচ্ছে"
+
+#. XTdi
+#: padialog.src#RID_PPDIMPORT_DLG.modaldialog.text
+msgid "Driver Installation"
+msgstr "ড্রাইভার ইনস্টলেশন"
+
+#. pNjR
+#: padialog.src#RID_QUERY_REMOVEDRIVER.string.text
+msgid "Do you really want to remove the driver \"%s\"?"
+msgstr "আপনি কি সত্যিই ড্রাইভার \"%s\" অপসারণ করতে চান?"
+
+#. gQRW
+#: padialog.src#RID_QUERY_REMOVEPRINTER.string.text
+msgid "Do you really want to remove this printer ?"
+msgstr "আপনি কি সত্যিই মুদ্রণযন্ত্রটি অপসারণ করতে চান?"
+
+#. gpR9
+#: padialog.src#RID_QUERY_REMOVEFONTFROMLIST.string.text
+msgid "Do you really want to remove the selected fonts ?"
+msgstr "আপনি কি সত্যিই নির্বাচিত ফন্ট অপসারণ করতে চান?"
+
+#. RFzU
+#: padialog.src#RID_QUERY_DRIVERUSED.string.text
+msgid ""
+"There are still printers using the driver \"%s\". Do you really want to "
+"remove it? The corresponding printers will also be removed."
+msgstr ""
+"মুদ্রণযন্ত্র এখনও \"%s\" ড্রাইভার ব্যবহার করছে। আপনি কি সত্যিই এটা অপসারণ "
+"করতে চান? "
+"সংশ্লিষ্ট মুদ্রণযন্ত্রগুলোও অপসারিত হবে।"
+
+#. DEQT
+#: padialog.src#RID_ERR_REMOVESGENPRT.string.text
+msgid "The driver \"%s\" is always needed and can therefore not be removed."
+msgstr "ড্রাইভারটি \"%s\" সবসময় দরকার এবং তাই অপসারণ অসম্ভব।"
+
+#. aPpQ
+#: padialog.src#RID_ERR_REMOVEDRIVERFAILED.string.text
+msgid ""
+"The driver \"%s1\" could not be removed. It was not possible to remove the "
+"file\n"
+"\n"
+"%s2."
+msgstr ""
+"ড্রাইভার \"%s1\" অপসারণ অসম্ভব। ফাইলটি অপসারণ সম্ভব ছিল না\n"
+"\n"
+"%s2।"
+
+#. QeA1
+#: padialog.src#RID_ERR_REMOVEDEFAULTDRIVER.string.text
+msgid ""
+"The driver \"%s\" is used by your default printer. Therefore, it cannot be "
+"removed."
+msgstr ""
+"ড্রাইভার \"%s\" আপনার ডিফল্ট মুদ্রণযন্ত্র দ্বারা ব্যবহৃত হচ্ছে। তাই অপসারণ "
+"করা সম্ভব নয়।"
+
+#. 3oCr
+#: padialog.src#RID_ERR_PRINTERNOTREMOVEABLE.string.text
+msgid "The printer %s cannot be removed."
+msgstr "মুদ্রণযন্ত্র \"%s1\" অপসারণ করা সম্ভব নয়।"
+
+#. jt2I
+#: padialog.src#RID_TXT_PRINTERALREADYEXISTS.string.text
+msgid ""
+"A printer named \"%s\" already exists. This printer will not be imported."
+msgstr ""
+"\"%s\" নামের একটি মুদ্রণযন্ত্র ইতিমধ্যেই বিদ্যমান। মুদ্রণযন্ত্রটি ইমপোর্ট করা "
+"সম্ভব নয়।"
+
+#. EKFE
+#: padialog.src#RID_TXT_PRINTERWITHOUTCOMMAND.string.text
+msgid ""
+"The printer \"%s\" has no valid configuration and, therefore, cannot be "
+"imported."
+msgstr "মুদ্রণযন্ত্র \"%s\" সঠিক কনফিগারেশনে নেই এবং, ইমপোর্ট করা সম্ভব নয়।"
+
+#. h1Ig
+#: padialog.src#RID_TXT_DRIVERDOESNOTEXIST.string.text
+msgid ""
+"The driver for the printer \"%s1\" (%s2) is not installed. Therefore the "
+"printer cannot be imported."
+msgstr ""
+"মুদ্রণযন্ত্র \"%s1\"(%s2) এর জন্য ড্রাইভার ইনস্টল করা নেই। তাই মুদ্রণযন্ত্রটি "
+"ইমপোর্ট "
+"করা সম্ভব নয়।"
+
+#. 09_o
+#: padialog.src#RID_TXT_PRINTERADDFAILED.string.text
+msgid "The printer \"%s\" could not be added."
+msgstr "মুদ্রণযন্ত্র \"%s\" যোগ করা যায়নি।"
+
+#. r4eg
+#: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_FINISH.okbutton.text
+msgid "~Finish"
+msgstr "সমাপ্ত (~F)"
+
+#. tOEb
+#: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_NEXT.pushbutton.text
+msgid "~Next >>"
+msgstr "পরবর্তী (~N) >>"
+
+#. GVZx
+#: padialog.src#RID_ADD_PRINTER_DIALOG.RID_ADDP_BTN_PREV.pushbutton.text
+msgid "<< ~Back"
+msgstr "<< পূর্ববর্তী (~B)"
+
+#. 4A6Z
+#: padialog.src#RID_ADD_PRINTER_DIALOG.modaldialog.text
+msgid "Add Printer"
+msgstr "মুদ্রণযন্ত্র যোগ"
+
+#. P2v7
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_STR_TITLE.string.text
+msgctxt ""
+"padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_STR_TITLE.string.text"
+msgid "Choose a driver"
+msgstr "ড্রাইভার নির্বাচন করুন"
+
+#. xC8G
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_TXT_DRIVER.fixedtext.text
+msgid "Please select a s~uitable driver."
+msgstr "অনুগ্রহ করে একটি উপযুক্ত ড্রাইভার নির্বাচন করুন। (~u)"
+
+#. KYOx
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_BTN_ADD.pushbutton.text
+msgid "~Import..."
+msgstr "ইমপোর্ট... (~I)"
+
+#. O9OS
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_BTN_REMOVE.pushbutton.text
+msgid "~Delete"
+msgstr "মুছে ফেলুন (~D)"
+
+#. Lcpv
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDRIVER.RID_ADDP_CHDRV_STR_REMOVE.string.text
+msgid "Delete driver"
+msgstr "ড্রাইভার মুছে ফেলুন"
+
+#. SJ6r
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_STR_TITLE.string.text
+msgid "Choose a device type"
+msgstr "ডিভাইসের ধরন নির্বাচন করুন"
+
+#. erH1
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_TXT_OVER.fixedtext.text
+msgid "Do you want to"
+msgstr "আপনি কি চান"
+
+#. fkMB
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_PRINTER.radiobutton.text
+msgid "Add a ~printer"
+msgstr "মুদ্রণযন্ত্র যোগ (~p)"
+
+#. nE17
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_FAX.radiobutton.text
+msgid "Connect a fa~x device"
+msgstr "ফ্যাক্সযন্ত্র সংযোগ (~x)"
+
+#. pd9f
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_PDF.radiobutton.text
+msgid "Connect a P~DF converter"
+msgstr "PDF কনভার্টার সংযোগ (~D)"
+
+#. gi14
+#: padialog.src#RID_ADDP_PAGE_CHOOSEDEV.RID_ADDP_CHDEV_BTN_OLD.radiobutton.text
+msgid "~Import printers from a StarOffice installation"
+msgstr "StarOffice ইনস্টলেশন থেকে মুদ্রণযন্ত্র ইমপোর্ট (~I)"
+
+#. bE4B
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_STR_TITLE.string.text
+msgid "Choose a name"
+msgstr "একটি নাম নির্বাচন করুন"
+
+#. YDEe
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_TXT_NAME.fixedtext.text
+msgid "Please enter a name for the printer."
+msgstr "অনুগ্রহ করে মুদ্রণযন্ত্রের জন্য একটি নাম দিন।"
+
+#. UJv#
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_TXT_FAXNAME.fixedtext.text
+msgid "Please enter a name for the fax connection."
+msgstr "অনুগ্রহ করে ফ্যাক্স সংযোগটির জন্য একটি নাম দিন।"
+
+#. Q_OY
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_TXT_PDFNAME.fixedtext.text
+msgid "Please enter a name for the PDF connection."
+msgstr "অনুগ্রহ করে PDF সংযোগের নামকরণ করুন।"
+
+#. 01bW
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_EDT_FAXNAME.edit.text
+msgid "Fax printer"
+msgstr "ফ্যাক্স মুদ্রণযন্ত্র"
+
+#. xhMY
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_EDT_PDFNAME.edit.text
+msgctxt "padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_EDT_PDFNAME.edit.text"
+msgid "PDF converter"
+msgstr "PDF কনভার্টার"
+
+#. KnQe
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_BOX_DEFAULT.checkbox.text
+msgid "~Use as default printer"
+msgstr "পূর্বনির্ধারিত মুদ্রণযন্ত্র হিসেবে ব্যবহার (~U)"
+
+#. Pgos
+#: padialog.src#RID_ADDP_PAGE_NAME.RID_ADDP_NAME_BOX_FAXSWALLOW.checkbox.text
+msgid "Remo~ve fax number from output"
+msgstr "আউটপুট থেকে ফ্যাক্স নম্বর অপসারণ (~v)"
+
+#. kzhr
+#: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_STR_TITLE.string.text
+msgid "Choose a command line"
+msgstr "কমান্ড লাইন নির্বাচন"
+
+#. FO2Q
+#: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_TXT_COMMAND.fixedtext.text
+msgid "Please enter a c~ommand line appropriate for this device."
+msgstr "অনুগ্রহ করে এই ডিভাইসের উপযুক্ত কমান্ড লাইন সন্নিবেশ করান। (~o)"
+
+#. aDcS
+#: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_TXT_PDFDIR.fixedtext.text
+msgid "PDF ~target directory"
+msgstr "PDF গন্তব্য ডিরেক্টরি (~t)"
+
+#. #oy6
+#: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_BTN_HELP.pushbutton.text
+msgctxt ""
+"padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_BTN_HELP.pushbutton.text"
+msgid "~Help"
+msgstr "সহায়তা (~H)"
+
+#. bmtw
+#: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_STR_PDFHELP.string.text
+msgctxt ""
+"padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_STR_PDFHELP.string.text"
+msgid ""
+"The command line for PDF converters is executed as follows: for each "
+"document printed, \"(TMP)\" in the command line is replaced by a temporary "
+"file and \"(OUTFILE)\" in the command line is replaced by the target PDF "
+"file name. If \"(TMP)\" is in the command line, the PostScript code will be "
+"supplied via a file, otherwise via standard input (i.e. as a pipe)."
+msgstr ""
+"PDF কনভার্টারের জন্য কমান্ড লাইন এভাবে কাজ করে: প্রতিটি নথি মুদ্রণের জন্য, "
+"কমান্ড "
+"লাইনের \"(TMP)\" কে একটি অস্থায়ী ফাইল দ্বারা প্রতিস্থাপিত করা হয় এবং কমান্ড "
+"লাইনের \"(OUTFILE)\" কে আউটপুট PDF ফাইলের নাম দ্বারা প্রতিস্থাপিত করা হয়। "
+"যদি "
+"কমান্ড লাইনে \"(TMP)\" দেখা যায়, PostScript কোড একটি ফাইলের মাধ্যমে পাঠানো "
+"হয়, "
+"অন্যথায় এটি আদর্শ ইনপুট হিসেবে পাঠানো হয় (অর্থাৎ পাইপ হিসেবে)।"
+
+#. VKS8
+#: padialog.src#RID_ADDP_PAGE_COMMAND.RID_ADDP_CMD_STR_FAXHELP.string.text
+msgid ""
+"The command line for fax connections is executed as follows: for each fax "
+"sent, \"(TMP)\" in the command line is replaced by a temporary file and "
+"\"(PHONE)\" in the command line is replaced by the fax number. If \"(TMP)\" "
+"appears in the command line, the PostScript code will be supplied via a "
+"file, otherwise it is passed as standard input (i.e. as a pipe)."
+msgstr ""
+"ফ্যাক্স সংযোগের জন্য কমান্ড লাইন এভাবে কাজ করে: প্রতিটি ফ্যাক্স প্রেরণের "
+"জন্য, কমান্ড "
+"লাইনের \"(TMP)\" কে একটি অস্থায়ী ফাইল দ্বারা প্রতিস্থাপিত করা হয় এবং কমান্ড "
+"লাইনের \"(PHONE)\" কে ফ্যাক্স নম্বর দ্বারা প্রতিস্থাপিত করা হয়। যদি কমান্ড "
+"লাইনে "
+"\"(TMP)\" দেখা যায়, PostScript কোড একটি ফাইলের মাধ্যমে পাঠানো হয়, অন্যথায় "
+"এটি "
+"আদর্শ ইনপুট হিসেবে পাঠানো হয় (অর্থাৎ পাইপ হিসেবে)।"
+
+#. lEul
+#: padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_STR_TITLE.string.text
+msgid "Import printers from old versions"
+msgstr "পুরোনো সংস্করণ থেকে মুদ্রণযন্ত্র ইমপোর্ট"
+
+#. Rc4z
+#: padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_OLD_TXT_PRINTERS.fixedtext.text
+msgid ""
+"~These printers can be imported. Please select the ones you want to import."
+msgstr ""
+"এই মুদ্রণযন্ত্রগুলো ইম্পোর্ট করা যাবে। অনুগ্রহ করে উপযুক্ত মুদ্রণযন্ত্রগুলো "
+"নির্বাচন করুন। (~T)"
+
+#. QG6o
+#: padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_OLD_BTN_SELECTALL.pushbutton.text
+msgctxt ""
+"padialog.src#RID_ADDP_PAGE_OLDPRINTERS.RID_ADDP_OLD_BTN_SELECTALL.pushbutton."
+"text"
+msgid "~Select All"
+msgstr "সব নির্বাচন (~S)"
+
+#. zL#3
+#: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_STR_TITLE.string.text
+msgctxt "padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_STR_TITLE.string.text"
+msgid "Choose a driver"
+msgstr "ড্রাইভার নির্বাচন করুন"
+
+#. rknQ
+#: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_TXT_DRIVER.fixedtext.text
+msgid "Use the following driver for this fax connection"
+msgstr "এই ফ্যাক্স সংযোগের জন্য নিম্নলিখিত ড্রাইভার ব্যবহার করা হবে"
+
+#. 1kQd
+#: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_BTN_DEFAULT.radiobutton.text
+msgctxt ""
+"padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_BTN_DEFAULT.radiobutton."
+"text"
+msgid "T~he default driver"
+msgstr "ডিফল্ট ড্রাইভার (~h)"
+
+#. 2cB3
+#: padialog.src#RID_ADDP_PAGE_FAXDRIVER.RID_ADDP_FAXDRV_BTN_SELECT.radiobutton.text
+msgid "A speci~fic driver, to adapt the format to another printer"
+msgstr ""
+"অন্য মুদ্রণযন্ত্রে বিন্যাসটি ব্যবহার উপযোগী করার জন্য সুনির্দিষ্ট একটি "
+"ড্রাইভার (~f)"
+
+#. 47c2
+#: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_STR_TITLE.string.text
+msgctxt "padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_STR_TITLE.string.text"
+msgid "Choose a driver"
+msgstr "ড্রাইভার নির্বাচন করুন"
+
+#. btpC
+#: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_TXT_DRIVER.fixedtext.text
+msgid "Use the following driver for this PDF converter"
+msgstr "এই PDF কনভার্টারের জন্য নিম্নলিখিত ড্রাইভার ব্যবহার করা হবে"
+
+#. mTxf
+#: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_DEFAULT.radiobutton.text
+msgctxt ""
+"padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_DEFAULT.radiobutton."
+"text"
+msgid "T~he default driver"
+msgstr "ডিফল্ট ড্রাইভার (~h)"
+
+#. bu6A
+#: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_DIST.radiobutton.text
+msgid "The Adobe D~istiller(tm) driver"
+msgstr "Adobe Distiller (tm) ড্রাইভার (~i)"
+
+#. MuIG
+#: padialog.src#RID_ADDP_PAGE_PDFDRIVER.RID_ADDP_PDFDRV_BTN_SELECT.radiobutton.text
+msgid "A spec~ific driver, to adapt the format to another printer"
+msgstr ""
+"অন্য মুদ্রণযন্ত্রে বিন্যাসটি ব্যবহার উপযোগী করার জন্য সুনির্দিষ্ট একটি "
+"ড্রাইভার (~i)"
+
+#. KQRB
+#: padialog.src#RID_TXT_FONT_ITALIC.string.text
+msgid "Italic"
+msgstr "ইটালিক"
+
+#. fbsa
+#: padialog.src#RID_TXT_FONT_OBLIQUE.string.text
+msgid "Oblique"
+msgstr "বাঁকানো"
+
+#. fHRC
+#: padialog.src#RID_TXT_FONT_THIN.string.text
+msgid "Thin"
+msgstr "পাতলা"
+
+#. 35Tz
+#: padialog.src#RID_TXT_FONT_ULTRALIGHT.string.text
+msgid "Ultralight"
+msgstr "আল্ট্রালাইট"
+
+#. M8k6
+#: padialog.src#RID_TXT_FONT_SEMILIGHT.string.text
+msgid "Semilight"
+msgstr "সেমিলাইট"
+
+#. AHLg
+#: padialog.src#RID_TXT_FONT_LIGHT.string.text
+msgid "Light"
+msgstr "লাইট"
+
+#. bzSr
+#: padialog.src#RID_TXT_FONT_SEMIBOLD.string.text
+msgid "Semibold"
+msgstr "সেমিবোল্ড"
+
+#. l4mo
+#: padialog.src#RID_TXT_FONT_BOLD.string.text
+msgid "Bold"
+msgstr "বোল্ড"
+
+#. PwB6
+#: padialog.src#RID_TXT_FONT_ULTRABOLD.string.text
+msgid "Ultrabold"
+msgstr "আল্ট্রাবোল্ড"
+
+#. 5udZ
+#: padialog.src#RID_TXT_FONT_ULTRACONDENSED.string.text
+msgid "Ultracondensed"
+msgstr "আল্ট্রাকনডেন্সড"
+
+#. IIAf
+#: padialog.src#RID_TXT_FONT_EXTRACONDENSED.string.text
+msgid "Extracondensed"
+msgstr "এক্সট্রাকনডেন্সড"
+
+#. 2shU
+#: padialog.src#RID_TXT_FONT_CONDENSED.string.text
+msgid "Condensed"
+msgstr "কনডেন্সড"
+
+#. Fc8n
+#: padialog.src#RID_TXT_FONT_SEMICONDENSED.string.text
+msgid "Semicondensed"
+msgstr "সেমিকনডেন্সড"
+
+#. JZfW
+#: padialog.src#RID_TXT_FONT_SEMIEXPANDED.string.text
+msgid "Semiexpanded"
+msgstr "অর্ধ-প্রসারিত"
+
+#. omAW
+#: padialog.src#RID_TXT_FONT_EXPANDED.string.text
+msgid "Expanded"
+msgstr "প্রসারিত"
+
+#. 5nKo
+#: padialog.src#RID_TXT_FONT_EXTRAEXPANDED.string.text
+msgid "Extraexpanded"
+msgstr "অতি-বিস্তৃতি"
+
+#. T#T3
+#: padialog.src#RID_TXT_FONT_ULTRAEXPANDED.string.text
+msgid "Ultraexpanded"
+msgstr "অতি প্রসারিত"
+
+#. uRpU
+#: padialog.src#RID_TXT_FONT_REGULAR.string.text
+msgid "Regular"
+msgstr "নিয়মিত"
+
+#. Bced
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL.RID_RTS_COMMANDPAGE.pageitem.text
+msgid "Command"
+msgstr "কমান্ড "
+
+#. spkO
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL.RID_RTS_PAPERPAGE.pageitem.text
+msgid "Paper"
+msgstr "কাগজ"
+
+#. dTTv
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL.RID_RTS_DEVICEPAGE.pageitem.text
+msgid "Device"
+msgstr "ডিভাইস"
+
+#. eKN0
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL.RID_RTS_FONTSUBSTPAGE.pageitem.text
+msgid "Font Replacement"
+msgstr "ফন্ট প্রতিস্থাপন"
+
+#. KvuJ
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_TABCONTROL.RID_RTS_OTHERPAGE.pageitem.text
+msgid "Other Settings"
+msgstr "অন্যান্য সেটিংসমূহ"
+
+#. t_aj
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_FROMDRIVER_TXT.string.text
+msgid "from driver"
+msgstr "ড্রাইভার থেকে"
+
+#. Bpnt
+#: rtsetup.src#RID_RTS_RTSDIALOG.RID_RTS_RTSDIALOG_INVALID_TXT.string.text
+msgid "<ignore>"
+msgstr "<উপেক্ষা>"
+
+#. cmBs
+#: rtsetup.src#RID_RTS_RTSDIALOG.tabdialog.text
+msgid "Properties of %s"
+msgstr "%s এর বৈশিষ্ট্যাবলী"
+
+#. dCFg
+#: rtsetup.src#RID_RTS_PAPERPAGE.RID_RTS_PAPER_PAPER_TXT.fixedtext.text
+msgid "~Paper size"
+msgstr "কাগজের আকার (~P)"
+
+#. dk6P
+#: rtsetup.src#RID_RTS_PAPERPAGE.RID_RTS_PAPER_ORIENTATION_TXT.fixedtext.text
+msgid "~Orientation"
+msgstr "স্থিতিবিন্যাস (~O)"
+
+#. scHb
+#: rtsetup.src#RID_RTS_PAPERPAGE.RID_RTS_PAPER_DUPLEX_TXT.fixedtext.text
+msgid "~Duplex"
+msgstr "ডুপ্লেক্স (~D)"
+
+#. xCOq
+#: rtsetup.src#RID_RTS_PAPERPAGE.RID_RTS_PAPER_SLOT_TXT.fixedtext.text
+msgid "Paper tray"
+msgstr "কাগজের ট্রে"
+
+#. NDaJ
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_COLOR_TXT.string.text
+msgid "Color"
+msgstr "রং"
+
+#. aRhK
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_GRAY_TXT.string.text
+msgid "Grayscale"
+msgstr "গ্রেস্কেল"
+
+#. CGlN
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PPDKEY_TXT.fixedtext.text
+msgid "~Option"
+msgstr "অপশন (~O)"
+
+#. COSR
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PPDVALUE_TXT.fixedtext.text
+msgid "Current ~value"
+msgstr "বর্তমান মান (~v)"
+
+#. 7VUD
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PRINTLANG_TXT.fixedtext.text
+msgid "Printer ~Language type"
+msgstr "প্রিন্টার ভাষার ধরন (~L)"
+
+#. R1#a
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PRINTLANG_BOX.1.stringlist.text
+msgid "PostScript (Level from driver)"
+msgstr "PostScript সংস্করণ"
+
+#. tz7M
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PRINTLANG_BOX.2.stringlist.text
+msgid "PostScript Level 1"
+msgstr "PostScript সংস্করণ ১"
+
+#. wuCd
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PRINTLANG_BOX.3.stringlist.text
+msgid "PostScript Level 2"
+msgstr "PostScript সংস্করণ ২"
+
+#. KtGI
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PRINTLANG_BOX.4.stringlist.text
+msgid "PostScript Level 3"
+msgstr "PostScript সংস্করণ ৩"
+
+#. PoRZ
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_PRINTLANG_BOX.5.stringlist.text
+msgid "PDF"
+msgstr "পিডিএফ"
+
+#. dNdE
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_SPACE_TXT.fixedtext.text
+msgid "~Color"
+msgstr "রং (~C)"
+
+#. pdlH
+#: rtsetup.src#RID_RTS_DEVICEPAGE.RID_RTS_DEVICE_DEPTH_TXT.fixedtext.text
+msgid "Color ~depth"
+msgstr "রঙের গভীরতা (~d)"
+
+#. wnCk
+#: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_ENABLE_BTN.checkbox.text
+msgid "~Enable font replacement"
+msgstr "ফন্ট প্রতিস্থাপন সক্রিয় (~E)"
+
+#. 6x7g
+#: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_SUBST_TXT.fixedtext.text
+msgid "Replaced ~fonts"
+msgstr "প্রতিস্থাপিত ফন্ট (~f)"
+
+#. KSGv
+#: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_ADD_BTN.pushbutton.text
+msgid "~Add"
+msgstr "যোগ (~A)"
+
+#. Kt9n
+#: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_REMOVE_BTN.pushbutton.text
+msgctxt ""
+"rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_REMOVE_BTN.pushbutton.text"
+msgid "~Remove"
+msgstr "অপসারণ (~R)"
+
+#. HjKt
+#: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_FROM_TXT.fixedtext.text
+msgid "Repla~ce font"
+msgstr "ফন্ট প্রতিস্থাপন (~c)"
+
+#. IMzA
+#: rtsetup.src#RID_RTS_FONTSUBSTPAGE.RID_RTS_FS_TO_TXT.fixedtext.text
+msgid "by ~printer font"
+msgstr "মুদ্রণযন্ত্রের ফন্ট দ্বারা (~p)"
+
+#. mrJi
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_CB_EXTERNAL.checkbox.text
+msgid "~Use system print dialog, disable %PRODUCTNAME's print dialog"
+msgstr ""
+"সিস্টেম মুদ্রণ ডায়ালগ ব্যবহার করা হবে, %PRODUCTNAME এর মুদ্রণ ডায়ালগ "
+"নিষ্ক্রিয় করা "
+"হবে (~U)"
+
+#. 0L#g
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_FT_QUICKCMD.fixedtext.text
+msgid "Command for quick printing without dialog (optional)"
+msgstr "ডায়ালগ ব্যতীত দ্রুত মুদ্রণের জন্য কমান্ড (ঐচ্ছিক)"
+
+#. rN22
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_FL_INSTALL.fixedline.text
+msgid "Select command"
+msgstr "কমান্ড নির্বাচন"
+
+#. km71
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_CONFIGURE_PRINTER.string.text
+msgctxt ""
+"rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_CONFIGURE_PRINTER.string.text"
+msgid "Printer"
+msgstr "মুদ্রণযন্ত্র"
+
+#. s8Nk
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_CONFIGURE_FAX.string.text
+msgid "Fax"
+msgstr "ফ্যাক্স"
+
+#. UP8H
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_CONFIGURE_PDF.string.text
+msgctxt ""
+"rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_CONFIGURE_PDF.string.text"
+msgid "PDF converter"
+msgstr "PDF কনভার্টার"
+
+#. CWlv
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_TXT_CONFIGURE.fixedtext.text
+msgid "~Configure as"
+msgstr "এভাবে কনফিগার করুন (~C)"
+
+#. oNvC
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_BOX_SWALLOWFAXNO.checkbox.text
+msgid "~Fax number will be removed from output"
+msgstr "ফ্যাক্স নম্বর আউটপুট থেকে অপসারণ করা হবে (~F)"
+
+#. F_RB
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_TXT_PDFDIR.fixedtext.text
+msgid "PDF target directory :"
+msgstr "PDF গন্তব্য ডিরেক্টরি:"
+
+#. yhk7
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_TXT_CONNECT.fixedtext.text
+msgid "Command: "
+msgstr "কমান্ড:"
+
+#. vhPS
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_FL_DEFAULT.fixedline.text
+msgctxt "rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_FL_DEFAULT.fixedline.text"
+msgid "Printer"
+msgstr "মুদ্রণযন্ত্র"
+
+#. 3uPy
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_BTN_HELP.pushbutton.text
+msgctxt "rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_BTN_HELP.pushbutton.text"
+msgid "~Help"
+msgstr "সহায়তা (~H)"
+
+#. SzOY
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_BTN_REMOVE.pushbutton.text
+msgctxt ""
+"rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_BTN_REMOVE.pushbutton.text"
+msgid "~Remove"
+msgstr "অপসারণ (~R)"
+
+#. jXNy
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PDFHELP.string.text
+msgctxt "rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PDFHELP.string.text"
+msgid ""
+"The command line for PDF converters is executed as follows: for each "
+"document printed, \"(TMP)\" in the command line is replaced by a temporary "
+"file and \"(OUTFILE)\" in the command line is replaced by the target PDF "
+"file name. If \"(TMP)\" is in the command line, the PostScript code will be "
+"supplied via a file, otherwise via standard input (i.e. as a pipe)."
+msgstr ""
+"PDF কনভার্টারের জন্য কমান্ড লাইন এভাবে কাজ করে: প্রতিটি নথি প্রিন্টের জন্য, "
+"কমান্ড "
+"লাইনের \"(TMP)\" কে একটি অস্থায়ী ফাইল দ্বারা প্রতিস্থাপিত করা হয় এবং কমান্ড "
+"লাইনের \"(OUTFILE)\" কে আউটপুট PDF ফাইলের নাম দ্বারা প্রতিস্থাপিত করা হয়। "
+"যদি "
+"কমান্ড লাইনে \"(TMP)\" দেখা যায়, PostScript কোড একটি ফাইলের মাধ্যমে পাঠানো "
+"হয়, "
+"অন্যথায় এটি স্ট্যান্ডার্ড ইনপুট হিসেবে পাঠানো হয় (অর্থাৎ পাইপ হিসেবে)।"
+
+#. 5VGA
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_PRINTERHELP.string.text
+msgid ""
+"The command line for printer devices is executed as follows: the generated "
+"PostScript code is supplied as standard input (i.e. as a pipe) to the "
+"command line."
+msgstr ""
+"মুদ্রণযন্ত্র ডিভাইসের জন্য কমান্ড লাইন এভাবে কাজ করে: PostScript কোডকে একটি "
+"স্ট্যান্ডার্ড ইনপুট হিসেবে (অর্থাৎ পাইপ হিসেবে) কমান্ড লাইনে পাঠানো হয়।"
+
+#. N5yE
+#: rtsetup.src#RID_RTS_COMMANDPAGE.RID_RTS_CMD_STR_FAXHELP.string.text
+msgid ""
+"The command line for fax devices is executed as follows: for each fax sent, "
+"\"(TMP)\" in the command line is replaced by a temporary file and \"(PHONE)"
+"\" in the command line is replaced by the fax number. If \"(TMP)\" appears "
+"in the command line, the PostScript code will be supplied via a file, "
+"otherwise it is passed as standard input (i.e. as a pipe)."
+msgstr ""
+"ফ্যাক্স যন্ত্রের জন্য কমান্ড লাইন এভাবে কাজ করে: প্রতিটি ফ্যাক্স প্রেরণের "
+"জন্য, কমান্ড "
+"লাইনের \"(TMP)\" কে একটি অস্থায়ী ফাইল দ্বারা প্রতিস্থাপিত করা হয় এবং কমান্ড "
+"লাইনের \"(PHONE)\" কে ফ্যাক্স নম্বর দ্বারা প্রতিস্থাপিত করা হয়। যদি কমান্ড "
+"লাইনে "
+"\"(TMP)\" দেখা যায়, PostScript কোড একটি ফাইলের মাধ্যমে পাঠানো হয়, অন্যথায় "
+"এটি "
+"স্ট্যান্ডার্ড ইনপুট হিসেবে পাঠানো হয় (অর্থাৎ পাইপ হিসেবে)।"
+
+#. n1GA
+#: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_LEFTMARGIN_TXT.fixedtext.text
+msgid "~Left margin"
+msgstr "বাম প্রান্ত (~L)"
+
+#. 25m_
+#: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_TOPMARGIN_TXT.fixedtext.text
+msgid "~Top margin"
+msgstr "শীর্ষ প্রান্ত (~T)"
+
+#. 2i_Y
+#: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_RIGHTMARGIN_TXT.fixedtext.text
+msgid "~Right margin"
+msgstr "ডান প্রান্ত (~R)"
+
+#. i1u0
+#: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_BOTTOMMARGIN_TXT.fixedtext.text
+msgid "~Bottom margin"
+msgstr "নিম্ন প্রান্ত (~B)"
+
+#. ANyn
+#: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_COMMENT_TXT.fixedtext.text
+msgid "~Comment"
+msgstr "মন্তব্য (~C)"
+
+#. oK0m
+#: rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_DEFAULT_BTN.pushbutton.text
+msgctxt ""
+"rtsetup.src#RID_RTS_OTHERPAGE.RID_RTS_OTHER_DEFAULT_BTN.pushbutton.text"
+msgid "~Default"
+msgstr "পূর্বনির্ধারিত (~D)"
+
+#. bEQy
+#: rtsetup.src#RID_TXT_QUERYFAXNUMBER.string.text
+msgid "Please enter the fax number."
+msgstr "অনুগ্রহ করে ফ্যাক্স নম্বর সন্নিবেশ করুন।"
+
+#. 3RAT
+#: rtsetup.src#RID_RTS_PWDIALOG.RID_RTS_PWDIALOG_TXT.fixedtext.text
+msgid "Please enter your authentication data for server %s"
+msgstr "অনুগ্রহ করে %s সার্ভারের জন্য আপনার প্রমাণীকরণ তথ্য দিন"
+
+#. 72iu
+#: rtsetup.src#RID_RTS_PWDIALOG.RID_RTS_PWDIALOG_USER_TXT.fixedtext.text
+msgid "~User"
+msgstr "ব্যবহারকারী (~U)"
+
+#. Eit7
+#: rtsetup.src#RID_RTS_PWDIALOG.RID_RTS_PWDIALOG_PASS_TXT.fixedtext.text
+msgid "~Password"
+msgstr "পাসওয়ার্ড (~P)"
+
+#. UJ15
+#: rtsetup.src#RID_RTS_PWDIALOG.modaldialog.text
+msgid "Authentication request"
+msgstr "প্রমাণীকরণ অনুরোধ"
+

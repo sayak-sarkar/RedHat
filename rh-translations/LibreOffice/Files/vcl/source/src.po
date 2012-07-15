@@ -1,0 +1,1051 @@
+#. extracted from vcl/source/src.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+vcl%2Fsource%2Fsrc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2012-06-15 22:37+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: bn_BD\n"
+
+#. rKSW
+#: stdtext.src#SV_STDTEXT_SERVICENOTAVAILABLE.string.text
+msgid ""
+"The component (%s) could not be loaded.\n"
+"Please start setup with the repair option."
+msgstr ""
+"কম্পোনেন্ট (%s) লোড করা যায়নি।\n"
+"অনুগ্রহ করে সংশোধন অপশন সহ শুরু করুন।"
+
+#. NDum
+#: stdtext.src#SV_STDTEXT_DONTHINTAGAIN.string.text
+msgid "Do not show this information again."
+msgstr "এই তথ্য পুনরায় দেখানো হবে না।"
+
+#. qId1
+#: stdtext.src#SV_STDTEXT_DONTASKAGAIN.string.text
+msgid "Do not show this question again."
+msgstr "এই প্রশ্ন পুনরায় দেখানো হবে না।"
+
+#. L2if
+#: stdtext.src#SV_STDTEXT_DONTWARNAGAIN.string.text
+msgid "Do not show warning again."
+msgstr "এই সতর্কবার্তা পুনরায় দেখানো হবে না।"
+
+#. oJ3b
+#: stdtext.src#SV_ACCESSERROR_WRONG_VERSION.string.text
+msgid "Wrong Version"
+msgstr "ভুল সংস্করণ"
+
+#. qE6u
+#: stdtext.src#SV_ACCESSERROR_BRIDGE_MSG.string.text
+msgid ""
+"%PRODUCTNAME %PRODUCTVERSION requires a Java Access Bridge 1.0.3 or later "
+"version to support accessibility."
+msgstr ""
+"%PRODUCTNAME %PRODUCTVERSION এর সন্নিবেশযোগ্যতা সমর্থনের জন্য Java Access "
+"Bridge "
+"1.0.3 বা পরবর্তী সংস্করণ প্রয়োজন।"
+
+#. GeYd
+#: stdtext.src#SV_ACCESSERROR_OK_CANCEL_MSG.string.text
+msgid ""
+"Click '%OK' to start %PRODUCTNAME %PRODUCTVERSION without accessibility "
+"support, or click '%CANCEL' to exit %PRODUCTNAME %PRODUCTVERSION."
+msgstr ""
+"সন্নিবেশযোগ্যতা সমর্থন ছাড়া %PRODUCTNAME %PRODUCTVERSION শুরু করতে '%OK' "
+"ক্লিক "
+"করুন, বা '%CANCEL' ক্লিক করে %PRODUCTNAME %PRODUCTVERSION ত্যাগ করুন।"
+
+#. A09g
+#: stdtext.src#SV_ACCESSERROR_MISSING_BRIDGE.string.text
+msgid "No Java Access Bridge"
+msgstr "কোন Java Access Bridge নেই"
+
+#. 8vO8
+#: stdtext.src#SV_ACCESSERROR_FAULTY_JAVA.string.text
+msgid "Faulty Java Installation"
+msgstr "ত্রুটিপুর্ণ Java ইনস্টলেশন"
+
+#. qTGg
+#: stdtext.src#SV_ACCESSERROR_JAVA_MSG.string.text
+msgid ""
+"%PRODUCTNAME %PRODUCTVERSION requires Java 1.4.0_02 or later version to "
+"support accessibility."
+msgstr ""
+"সন্নিবেশযোগ্যতা সমর্থনের জন্য %PRODUCTNAME %PRODUCTVERSION এর Java 1.4.0_02 "
+"বা "
+"উন্নত সংস্করণ প্রয়োজন।"
+
+#. zPag
+#: stdtext.src#SV_ACCESSERROR_MISSING_JAVA.string.text
+msgid "No Java Installation"
+msgstr "Java ইনস্টল করা নেই"
+
+#. LaIs
+#: stdtext.src#SV_ACCESSERROR_JAVA_NOT_CONFIGURED.string.text
+msgid "Missing Java Configuration"
+msgstr "Java কনফিগারেশন পাওয়া যায়নি"
+
+#. Dbff
+#: stdtext.src#SV_ACCESSERROR_JAVA_DISABLED.string.text
+msgid "Java Disabled"
+msgstr "Java নিষ্ক্রিয়"
+
+#. I36N
+#: stdtext.src#SV_ACCESSERROR_TURNAROUND_MSG.string.text
+msgid "The Java Access Bridge could not be started."
+msgstr "Java Access Bridge আরম্ভ করা সম্ভব হয়নি।"
+
+#. t_hi
+#: stdtext.src#SV_ACCESSERROR_NO_FONTS.string.text
+msgid "No fonts could be found on the system."
+msgstr "সিস্টেমে কোন ফন্ট পাওয়া যায়নি।"
+
+#. BGVU
+#: stdtext.src#SV_STDTEXT_ABOUT.string.text
+msgid "About %PRODUCTNAME"
+msgstr "%PRODUCTNAME সম্পর্কে"
+
+#. t9jp
+#: stdtext.src#SV_STDTEXT_PREFERENCES.string.text
+msgid "Preferences..."
+msgstr "পছন্দসমূহ..."
+
+#. e_BL
+#: stdtext.src#SV_EDIT_WARNING_BOX.warningbox.text
+msgid ""
+"The inserted text exceeded the maximum length of this text field. The text "
+"was truncated."
+msgstr ""
+"সন্নিবিষ্ট লেখাটি এই ক্ষেত্রের সর্বোচ্চ দৈর্ঘ্য অতিক্রম করেছে। লেখা ছেঁটে "
+"ফেলা হয়েছে।"
+
+#. OsWu
+#: stdtext.src#SV_MAC_SCREENNNAME.string.text
+msgid "Screen %d"
+msgstr "পর্দা %d"
+
+#. Avl5
+#: stdtext.src#SV_STDTEXT_ALLFILETYPES.string.text
+msgid "Any type"
+msgstr "যেকোন ধরনের"
+
+#. khQA
+#: print.src#SV_DLG_PRINT.SV_PRINT_OK.okbutton.text
+msgid "~Print"
+msgstr "মুদ্রণ (~P)"
+
+#. bgO#
+#: print.src#SV_DLG_PRINT.SV_PRINT_PAGE_TXT.fixedtext.text
+msgid "/ %n"
+msgstr "/ %n"
+
+#. tJKb
+#: print.src#SV_DLG_PRINT.SV_PRINT_NOPAGES.string.text
+msgid "No pages"
+msgstr "কোন পৃষ্ঠা নেই"
+
+#. Fiku
+#: print.src#SV_DLG_PRINT.SV_PRINT_TOFILE_TXT.string.text
+msgid "Print to File..."
+msgstr "ফাইলে মুদ্রণ..."
+
+#. bw9n
+#: print.src#SV_DLG_PRINT.SV_PRINT_DEFPRT_TXT.string.text
+msgid "Default printer"
+msgstr "পূর্বনির্ধারিত মুদ্রণযন্ত্র"
+
+#. T_kU
+#: print.src#SV_DLG_PRINT.SV_PRINT_PRINTPREVIEW_TXT.string.text
+msgid "Print preview"
+msgstr "মুদ্রণ প্রাকদর্শন"
+
+#. mO3n
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_LAYOUT_FL.fixedline.text
+msgid "Layout"
+msgstr "বহির্বিন্যাস"
+
+#. opqu
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BTN.radiobutton.text
+msgid "Pa~ges per sheet"
+msgstr "প্রতি শীটে পৃষ্ঠার সংখ্যা (~g)"
+
+#. HuFZ
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.1.stringlist.text
+msgid "1"
+msgstr "১"
+
+#. z4sH
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.2.stringlist.text
+msgid "2"
+msgstr "২"
+
+#. m1zW
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.3.stringlist.text
+msgid "4"
+msgstr "৪"
+
+#. UEXL
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.4.stringlist.text
+msgid "6"
+msgstr "৬"
+
+#. JBga
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.5.stringlist.text
+msgid "9"
+msgstr "৯"
+
+#. _tJM
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.6.stringlist.text
+msgid "16"
+msgstr "১৬"
+
+#. ooOd
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.7.stringlist.text
+msgid "Custom"
+msgstr "স্বনির্ধারিত"
+
+#. P6HO
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_NUM_PAGES_TXT.fixedtext.text
+msgid "P~ages"
+msgstr "পৃষ্ঠা (~a)"
+
+#. IoF5
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_TIMES_TXT.fixedtext.text
+msgid "b~y"
+msgstr "দ্বারা (~y)"
+
+#. YNG4
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_PAGES_1_TXT.fixedtext.text
+msgid "~Distance"
+msgstr "দূরত্ব (~D)"
+
+#. 7le3
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_PAGES_2_TXT.fixedtext.text
+msgid "between pages"
+msgstr "পৃষ্ঠার মাঝে"
+
+#. 9Hlf
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_SHEET_1_TXT.fixedtext.text
+msgid "~Margin"
+msgstr "মার্জিন (~M)"
+
+#. ifNk
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_SHEET_2_TXT.fixedtext.text
+msgid "to sheet border"
+msgstr "শীটের সীমানায়"
+
+#. KNGQ
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_TXT.fixedtext.text
+msgid "~Orientation"
+msgstr "স্থিতিবিন্যাস (~O)"
+
+#. PRRv
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.1.stringlist.text
+msgid "Automatic"
+msgstr "স্বয়ংক্রিয়"
+
+#. rdYB
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.2.stringlist.text
+msgid "Portrait"
+msgstr "লম্বালম্বি"
+
+#. uYfw
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.3.stringlist.text
+msgid "Landscape"
+msgstr "আড়াআড়ি"
+
+#. V5jn
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_TXT.fixedtext.text
+msgid "Order"
+msgstr "ক্রম"
+
+#. I2DP
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.1.stringlist.text
+msgid "left to right, then down"
+msgstr "বাম থেকে ডানে, এরপর নিচে"
+
+#. ##qh
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.2.stringlist.text
+msgid "top to bottom, then right"
+msgstr "উপর থেকে নিচে, এরপর ডানে "
+
+#. px_Q
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.3.stringlist.text
+msgid "top to bottom, then left"
+msgstr "উপর থেকে নিচে, এরপর বামে "
+
+#. TqZl
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.4.stringlist.text
+msgid "right to left, then down"
+msgstr "ডান থেকে বামে, এরপর নিচে"
+
+#. GEuS
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_BORDER_CB.checkbox.text
+msgid "Draw a border around each page"
+msgstr "প্রতিটি পৃষ্ঠার বাইরে সীমানা আঁকা হবে"
+
+#. AFoD
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.tabpage.text
+msgid "Page Layout"
+msgstr "পৃষ্ঠার বহির্বিন্যাস"
+
+#. KF7k
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_PRINTERS_FL.fixedline.text
+msgid "Prin~ter"
+msgstr "মুদ্রণযন্ত্র (~t)"
+
+#. yo2_
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_DETAILS_BTN.checkbox.text
+msgid "Details"
+msgstr "বিস্তারিত"
+
+#. 75D6
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_STATUS_TXT.fixedtext.text
+msgid "Status:"
+msgstr "অবস্থা:"
+
+#. gm04
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_LOCATION_TXT.fixedtext.text
+msgid "Location:"
+msgstr "অবস্থান:"
+
+#. znX3
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COMMENT_TXT.fixedtext.text
+msgid "Comment:"
+msgstr "মন্তব্য:"
+
+#. zjHw
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_PRT_SETUP.pushbutton.text
+msgid "Properties..."
+msgstr "বৈশিষ্ট্যাবলী..."
+
+#. WMuQ
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COPIES.fixedline.text
+msgid "Range and copies"
+msgstr "পরিসর ও কপি সংখ্যা"
+
+#. B_eP
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COPYCOUNT.fixedtext.text
+msgid "Number of copies"
+msgstr "কপির সংখ্যা"
+
+#. JD9V
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COLLATE.checkbox.text
+msgid "Collate"
+msgstr "অর্জন"
+
+#. NuWp
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_OPT_REVERSE.checkbox.text
+msgid "Print in ~reverse page order"
+msgstr "পৃষ্ঠার বিপরীত ক্রম অনুযায়ী মুদ্রণ (~r)"
+
+#. hS0S
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.tabpage.text
+msgid "General"
+msgstr "সাধারণ"
+
+#. y3i6
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text
+msgctxt ""
+"print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text"
+msgid "Options"
+msgstr "অপশন"
+
+#. igoT
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_TOFILE.checkbox.text
+msgid "Print to ~file"
+msgstr "ফাইলে মুদ্রণ (~f)"
+
+#. Sbr_
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_SINGLEJOBS.checkbox.text
+msgid "~Create single print jobs for collated output"
+msgstr "অর্জিত আউটপুটের জন্য একক মুদ্রণ কাজ তৈরি (~C)"
+
+#. cjOE
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.tabpage.text
+msgctxt "print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.tabpage.text"
+msgid "Options"
+msgstr "অপশন"
+
+#. iRf#
+#: print.src#SV_DLG_PRINT.modaldialog.text
+msgid "Print"
+msgstr "মুদ্রণ"
+
+#. Vg0Q
+#: print.src#SV_DLG_PRINT_PROGRESS.SV_PRINT_PROGRESS_TEXT.fixedtext.text
+msgid "Page %p of %n"
+msgstr "%n টির মধ্যে %p টি পৃষ্ঠা"
+
+#. CwU3
+#: print.src#SV_DLG_PRINT_PROGRESS.modelessdialog.text
+msgid "Printing"
+msgstr "মুদ্রণ করা হচ্ছে"
+
+#. Toqh
+#: print.src#SV_PRINT_NOPRINTERWARNING.errorbox.text
+msgid ""
+"No default printer found.\n"
+"Please choose a printer and try again."
+msgstr ""
+"পূর্বনির্ধারিত কোন মুদ্রণযন্ত্র পাওয়া যায়নি।\n"
+"অনুগ্রহ করে একটি মুদ্রণযন্ত্র নির্বাচন করে পুনরায় চেষ্টা করুন।"
+
+#. TIDy
+#: print.src#SV_PRINT_NOCONTENT.errorbox.text
+msgid ""
+"There are no pages to be printed. Please check your document for ranges "
+"relevant to printing."
+msgstr ""
+"মুদ্রণ করার মত আর কোন পৃষ্ঠা নেই। মুদ্রণ পরিসর সম্পর্কে জানতে অনুগ্রহ করে "
+"আপনার নথিটি "
+"পরীক্ষা করুন।"
+
+#. oTCw
+#: print.src#SV_PRINT_NATIVE_STRINGS.1.itemlist.text
+msgid "Preview"
+msgstr "প্রাকদর্শন"
+
+#. JpW2
+#: print.src#SV_PRINT_NATIVE_STRINGS.2.itemlist.text
+msgid "Page number"
+msgstr "পৃষ্ঠা নম্বর"
+
+#. b7dr
+#: print.src#SV_PRINT_NATIVE_STRINGS.3.itemlist.text
+msgid "Number of pages"
+msgstr "পৃষ্ঠার সংখ্যা"
+
+#. gTTI
+#: print.src#SV_PRINT_NATIVE_STRINGS.4.itemlist.text
+msgid "More"
+msgstr "আরও"
+
+#. SfQb
+#: print.src#SV_PRINT_NATIVE_STRINGS.5.itemlist.text
+msgid "Print selection only"
+msgstr "শুধুমাত্র নির্বাচিত অংশ মুদ্রণ"
+
+#. g_Ef
+#: print.src#RID_STR_PAPERNAMES.1.itemlist.text
+msgid "A0"
+msgstr "A0"
+
+#. BHYH
+#: print.src#RID_STR_PAPERNAMES.2.itemlist.text
+msgid "A1"
+msgstr "A1"
+
+#. zbbc
+#: print.src#RID_STR_PAPERNAMES.3.itemlist.text
+msgid "A2"
+msgstr "A2"
+
+#. o_V1
+#: print.src#RID_STR_PAPERNAMES.4.itemlist.text
+msgid "A3"
+msgstr "A3"
+
+#. 4BOs
+#: print.src#RID_STR_PAPERNAMES.5.itemlist.text
+msgid "A4"
+msgstr "A4"
+
+#. bbqE
+#: print.src#RID_STR_PAPERNAMES.6.itemlist.text
+msgid "A5"
+msgstr "A5"
+
+#. JHpv
+#: print.src#RID_STR_PAPERNAMES.7.itemlist.text
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#. 0YaW
+#: print.src#RID_STR_PAPERNAMES.8.itemlist.text
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#. sMZN
+#: print.src#RID_STR_PAPERNAMES.9.itemlist.text
+msgid "Letter"
+msgstr "অক্ষর"
+
+#. TcXk
+#: print.src#RID_STR_PAPERNAMES.10.itemlist.text
+msgid "Legal"
+msgstr "আইনি"
+
+#. hIcP
+#: print.src#RID_STR_PAPERNAMES.11.itemlist.text
+msgid "Tabloid"
+msgstr "ট্যাবলয়েড"
+
+#. AyAX
+#: print.src#RID_STR_PAPERNAMES.12.itemlist.text
+msgid "User Defined"
+msgstr "ব্যবহারকারী নির্ধারিত"
+
+#. y8DM
+#: print.src#RID_STR_PAPERNAMES.13.itemlist.text
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#. pItn
+#: print.src#RID_STR_PAPERNAMES.14.itemlist.text
+msgid "C4 Envelope"
+msgstr "C4 খাম"
+
+#. 5cm6
+#: print.src#RID_STR_PAPERNAMES.15.itemlist.text
+msgid "C5 Envelope"
+msgstr "C5 খাম"
+
+#. a8S#
+#: print.src#RID_STR_PAPERNAMES.16.itemlist.text
+msgid "C6 Envelope"
+msgstr "C6 খাম"
+
+#. IyR9
+#: print.src#RID_STR_PAPERNAMES.17.itemlist.text
+msgid "C6/5 Envelope"
+msgstr "C6/5 খাম"
+
+#. 1FCG
+#: print.src#RID_STR_PAPERNAMES.18.itemlist.text
+msgid "DL Envelope"
+msgstr "DL খাম"
+
+#. txBd
+#: print.src#RID_STR_PAPERNAMES.19.itemlist.text
+msgid "Dia Slide"
+msgstr "ডায়া স্লাইড"
+
+#. FWLt
+#: print.src#RID_STR_PAPERNAMES.20.itemlist.text
+msgid "Screen"
+msgstr "পর্দা"
+
+#. vKI0
+#: print.src#RID_STR_PAPERNAMES.21.itemlist.text
+msgid "C"
+msgstr "C"
+
+#. Ow#u
+#: print.src#RID_STR_PAPERNAMES.22.itemlist.text
+msgid "D"
+msgstr "D"
+
+#. kEvF
+#: print.src#RID_STR_PAPERNAMES.23.itemlist.text
+msgid "E"
+msgstr "E"
+
+#. XK3e
+#: print.src#RID_STR_PAPERNAMES.24.itemlist.text
+msgid "Executive"
+msgstr "কার্যকর"
+
+#. NW4V
+#: print.src#RID_STR_PAPERNAMES.25.itemlist.text
+msgid "Long Bond"
+msgstr "দীর্ঘ অঙ্গীকারপত্র"
+
+#. sEed
+#: print.src#RID_STR_PAPERNAMES.26.itemlist.text
+msgid "#8 (Monarch) Envelope"
+msgstr "#8 (মোনার্ক) খাম"
+
+#. 0wlG
+#: print.src#RID_STR_PAPERNAMES.27.itemlist.text
+msgid "#6 3/4 (Personal) Envelope"
+msgstr "#6 ৩/৪ (ব্যক্তিগত) খাম"
+
+#. J9u9
+#: print.src#RID_STR_PAPERNAMES.28.itemlist.text
+msgid "#9 Envelope"
+msgstr "#9 খাম"
+
+#. bz_#
+#: print.src#RID_STR_PAPERNAMES.29.itemlist.text
+msgid "#10 Envelope"
+msgstr "#10 খাম"
+
+#. eCQV
+#: print.src#RID_STR_PAPERNAMES.30.itemlist.text
+msgid "#11 Envelope"
+msgstr "#11 খাম"
+
+#. UuTe
+#: print.src#RID_STR_PAPERNAMES.31.itemlist.text
+msgid "#12 Envelope"
+msgstr "#12 খাম"
+
+#. _MnG
+#: print.src#RID_STR_PAPERNAMES.32.itemlist.text
+msgid "16 Kai"
+msgstr "১৬ কাই"
+
+#. 9Ysd
+#: print.src#RID_STR_PAPERNAMES.33.itemlist.text
+msgid "32 Kai"
+msgstr "৩২ কাই"
+
+#. 6uC0
+#: print.src#RID_STR_PAPERNAMES.34.itemlist.text
+msgid "Big 32 Kai"
+msgstr "বড় ৩২ কাই"
+
+#. mCBt
+#: print.src#RID_STR_PAPERNAMES.35.itemlist.text
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#. HYdF
+#: print.src#RID_STR_PAPERNAMES.36.itemlist.text
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#. dMWu
+#: print.src#RID_STR_PAPERNAMES.37.itemlist.text
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#. mtPm
+#: btntext.src#SV_BUTTONTEXT_OK.string.text
+msgid "OK"
+msgstr "ঠিক আছে"
+
+#. jCvL
+#: btntext.src#SV_BUTTONTEXT_CANCEL.string.text
+msgid "Cancel"
+msgstr "বাতিল"
+
+#. G0Tg
+#: btntext.src#SV_BUTTONTEXT_YES.string.text
+msgid "~Yes"
+msgstr "হ্যাঁ (~Y)"
+
+#. D6Wj
+#: btntext.src#SV_BUTTONTEXT_NO.string.text
+msgid "~No"
+msgstr "না (~N)"
+
+#. bQSs
+#: btntext.src#SV_BUTTONTEXT_RETRY.string.text
+msgid "~Retry"
+msgstr "পুনরায় চেষ্টা (~R)"
+
+#. arf5
+#: btntext.src#SV_BUTTONTEXT_HELP.string.text
+msgid "~Help"
+msgstr "সহায়তা (~H)"
+
+#. ukJj
+#: btntext.src#SV_BUTTONTEXT_MORE.string.text
+msgid "~More"
+msgstr "আরও (~M)"
+
+#. RS8E
+#: btntext.src#SV_BUTTONTEXT_LESS.string.text
+msgid "~Less"
+msgstr "অল্পতর (~L)"
+
+#. 2T6I
+#: btntext.src#SV_BUTTONTEXT_IGNORE.string.text
+msgid "~Ignore"
+msgstr "উপেক্ষা (~I)"
+
+#. 2y3D
+#: btntext.src#SV_BUTTONTEXT_ABORT.string.text
+msgid "~Abort"
+msgstr "পরিত্যাগ (~A)"
+
+#. v3WO
+#: menu.src#SV_RESID_STRING_NOSELECTIONPOSSIBLE.string.text
+msgid "<No selection possible>"
+msgstr "<কোন নির্বাচন সম্ভব নয়>"
+
+#. #2H0
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_UNDO.menuitem.text
+msgid "~Undo"
+msgstr "পুর্বাবস্থায় ফিরানো (~U)"
+
+#. 9_NP
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_CUT.menuitem.text
+msgid "Cu~t"
+msgstr "কাটা (~t)"
+
+#. UNGR
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_COPY.menuitem.text
+msgid "~Copy"
+msgstr "অনুলিপি (~C)"
+
+#. jKrx
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_PASTE.menuitem.text
+msgid "~Paste"
+msgstr "প্রতিলেপন (~P)"
+
+#. co56
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_DELETE.menuitem.text
+msgid "~Delete"
+msgstr "মুছে ফেলা (~D)"
+
+#. eG8N
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_SELECTALL.menuitem.text
+msgid "Select ~All"
+msgstr "সব নির্বাচন (~A)"
+
+#. Bk5p
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_INSERTSYMBOL.menuitem.text
+msgid "~Special Character..."
+msgstr "বিশেষ অক্ষর... (~S)"
+
+#. GWZ4
+#: menu.src#SV_MENU_MAC_SERVICES.string.text
+msgid "Services"
+msgstr "পরিসেবা"
+
+#. LqPp
+#: menu.src#SV_MENU_MAC_HIDEAPP.string.text
+msgid "Hide %PRODUCTNAME"
+msgstr "%PRODUCTNAME আড়াল"
+
+#. Pc4Y
+#: menu.src#SV_MENU_MAC_HIDEALL.string.text
+msgid "Hide Others"
+msgstr "অন্যান্য আড়াল"
+
+#. zLXb
+#: menu.src#SV_MENU_MAC_SHOWALL.string.text
+msgid "Show All"
+msgstr "সব প্রদর্শন"
+
+#. AP64
+#: menu.src#SV_MENU_MAC_QUITAPP.string.text
+msgid "Quit %PRODUCTNAME"
+msgstr "%PRODUCTNAME ত্যাগ করুন"
+
+#. plId
+#: units.src#SV_FUNIT_STRINGS.1.itemlist.text
+msgid "mm"
+msgstr "মিমি"
+
+#. I1#V
+#: units.src#SV_FUNIT_STRINGS.2.itemlist.text
+msgid "cm"
+msgstr "সেমি"
+
+#. arve
+#: units.src#SV_FUNIT_STRINGS.3.itemlist.text
+msgid "m"
+msgstr "মি"
+
+#. hl3F
+#: units.src#SV_FUNIT_STRINGS.4.itemlist.text
+msgid "km"
+msgstr "কিমি"
+
+#. TR4u
+#: units.src#SV_FUNIT_STRINGS.5.itemlist.text
+msgid "twips"
+msgstr "টুইপ"
+
+#. yre0
+#: units.src#SV_FUNIT_STRINGS.6.itemlist.text
+msgid "twip"
+msgstr "টুইপ"
+
+#. A1lt
+#: units.src#SV_FUNIT_STRINGS.7.itemlist.text
+msgid "pt"
+msgstr "পয়েন্ট"
+
+#. Pouk
+#: units.src#SV_FUNIT_STRINGS.8.itemlist.text
+msgid "pc"
+msgstr "পিস্"
+
+#. l6_P
+#: units.src#SV_FUNIT_STRINGS.9.itemlist.text
+msgid "\""
+msgstr "\""
+
+#. _85a
+#: units.src#SV_FUNIT_STRINGS.10.itemlist.text
+msgid "in"
+msgstr "ইঞ্চি"
+
+#. 9y2J
+#: units.src#SV_FUNIT_STRINGS.11.itemlist.text
+msgid "inch"
+msgstr "ইঞ্চি"
+
+#. eIkh
+#: units.src#SV_FUNIT_STRINGS.12.itemlist.text
+msgid "'"
+msgstr ","
+
+#. UcfS
+#: units.src#SV_FUNIT_STRINGS.13.itemlist.text
+msgid "ft"
+msgstr "ফুট"
+
+#. HyJx
+#: units.src#SV_FUNIT_STRINGS.14.itemlist.text
+msgid "foot"
+msgstr "ফুট"
+
+#. d8KC
+#: units.src#SV_FUNIT_STRINGS.15.itemlist.text
+msgid "feet"
+msgstr "ফুট"
+
+#. 6cuq
+#: units.src#SV_FUNIT_STRINGS.16.itemlist.text
+msgid "miles"
+msgstr "মাইল"
+
+#. mI_3
+#: units.src#SV_FUNIT_STRINGS.17.itemlist.text
+msgid "mile"
+msgstr "মাইল"
+
+#. ZXeQ
+#: units.src#SV_FUNIT_STRINGS.18.itemlist.text
+msgid "ch"
+msgstr "ch"
+
+#. LLlj
+#: units.src#SV_FUNIT_STRINGS.19.itemlist.text
+msgid "line"
+msgstr "রেখা"
+
+#. jEnz
+#: units.src#SV_FUNIT_STRINGS.20.itemlist.text
+msgid "%"
+msgstr "%"
+
+#. pNCK
+#: helptext.src#SV_HELPTEXT_CLOSE.string.text
+msgid "Close"
+msgstr "বন্ধ"
+
+#. o6Az
+#: helptext.src#SV_HELPTEXT_CLOSEDOCUMENT.string.text
+msgid "Close Document"
+msgstr "নথি বন্ধ করুন"
+
+#. i0qA
+#: helptext.src#SV_HELPTEXT_MINIMIZE.string.text
+msgid "Minimize"
+msgstr "ছোট করা"
+
+#. nRTS
+#: helptext.src#SV_HELPTEXT_MAXIMIZE.string.text
+msgid "Maximize"
+msgstr "বড় করা"
+
+#. cm1w
+#: helptext.src#SV_HELPTEXT_RESTORE.string.text
+msgid "Restore"
+msgstr "পুনরুদ্ধার"
+
+#. QR0G
+#: helptext.src#SV_HELPTEXT_ROLLDOWN.string.text
+msgid "Drop down"
+msgstr "নিম্ন প্রসারন"
+
+#. 1dZm
+#: helptext.src#SV_HELPTEXT_ROLLUP.string.text
+msgid "Roll up"
+msgstr "উপরে উঠানো"
+
+#. 8gDM
+#: helptext.src#SV_HELPTEXT_HELP.string.text
+msgctxt "helptext.src#SV_HELPTEXT_HELP.string.text"
+msgid "Help"
+msgstr "সহায়তা"
+
+#. sjUF
+#: helptext.src#SV_HELPTEXT_ALWAYSVISIBLE.string.text
+msgid "Always visible"
+msgstr "সবসময় দৃশ্যমান"
+
+#. Woly
+#: helptext.src#SV_HELPTEXT_FADEIN.string.text
+msgid "Show"
+msgstr "প্রদর্শন"
+
+#. U8eb
+#: helptext.src#SV_HELPTEXT_FADEOUT.string.text
+msgid "Hide"
+msgstr "আড়াল"
+
+#. lKJT
+#: helptext.src#SV_HELPTEXT_SPLITFLOATING.string.text
+msgid "Floating"
+msgstr "ভাসমান"
+
+#. _PHK
+#: helptext.src#SV_HELPTEXT_SPLITFIXED.string.text
+msgid "Stick"
+msgstr "স্থির"
+
+#. raLs
+#: helptext.src#SV_SHORTCUT_HELP.string.text
+msgctxt "helptext.src#SV_SHORTCUT_HELP.string.text"
+msgid "Help"
+msgstr "সহায়িকা"
+
+#. aXxH
+#: helptext.src#SV_SHORTCUT_CONTEXTHELP.string.text
+msgid "Context Help"
+msgstr "প্রাসঙ্গিক সহায়তা"
+
+#. qoGX
+#: helptext.src#SV_SHORTCUT_ACTIVEHELP.string.text
+msgid "Extended Tips"
+msgstr "বর্ধিত পরামর্শ"
+
+#. YyDj
+#: helptext.src#SV_SHORTCUT_DOCKUNDOCK.string.text
+msgid "Dock/Undock Windows"
+msgstr "উইন্ডো ডক/আনডক"
+
+#. lSbE
+#: helptext.src#SV_SHORTCUT_NEXTSUBWINDOW.string.text
+msgid "To Next Toolbar/Window"
+msgstr "পরবর্তী টুলবার/উইন্ডোতে"
+
+#. o#f_
+#: helptext.src#SV_SHORTCUT_PREVSUBWINDOW.string.text
+msgid "To Previous Toolbar/Window"
+msgstr "পূর্ববর্তী টুলবার/উইন্ডোতে"
+
+#. Wham
+#: helptext.src#SV_SHORTCUT_TODOCUMENT.string.text
+msgid "To Document"
+msgstr "নথিতে"
+
+#. 9dIi
+#: helptext.src#SV_SHORTCUT_MENUBAR.string.text
+msgid "To Menu Bar"
+msgstr "মেনু বারে"
+
+#. eTpQ
+#: helptext.src#SV_SHORTCUT_SPLITTER.string.text
+msgid "Split window separator"
+msgstr "উইন্ডো বিভাজক বিভক্ত করা"
+
+#. CZ7z
+#: fpicker.src#STR_FPICKER_AUTO_EXTENSION.string.text
+msgid "~Automatic file name extension"
+msgstr "স্বয়ংক্রিয় ফাইল নামের বর্ধিতাংশ (~A)"
+
+#. un#D
+#: fpicker.src#STR_FPICKER_PASSWORD.string.text
+msgid "Save with pass~word"
+msgstr "পাসওয়ার্ড দিয়ে সংরক্ষণ (~w)"
+
+#. B9ep
+#: fpicker.src#STR_FPICKER_FILTER_OPTIONS.string.text
+msgid "~Edit filter settings"
+msgstr "পরিশোধক সেটিংসমূহ সম্পাদনা (~E)"
+
+#. 2Gv8
+#: fpicker.src#STR_FPICKER_READONLY.string.text
+msgid "~Read-only"
+msgstr "শুধুমাত্র-পাঠযোগ্য (~R)"
+
+#. LR0w
+#: fpicker.src#STR_FPICKER_INSERT_AS_LINK.string.text
+msgid "~Link"
+msgstr "লিঙ্ক (~L)"
+
+# 87%
+#. Z62F
+#: fpicker.src#STR_FPICKER_SHOW_PREVIEW.string.text
+msgid "Pr~eview"
+msgstr "প্রাকদর্শন (~e)"
+
+#. 8uGB
+#: fpicker.src#STR_FPICKER_PLAY.string.text
+msgid "~Play"
+msgstr "বাজান (~P)"
+
+#. j4Xj
+#: fpicker.src#STR_FPICKER_VERSION.string.text
+msgid "~Version:"
+msgstr "সংস্করণ: (~V)"
+
+#. zqZx
+#: fpicker.src#STR_FPICKER_TEMPLATES.string.text
+msgid "S~tyles:"
+msgstr "শৈলী: (~t)"
+
+#. _QcC
+#: fpicker.src#STR_FPICKER_IMAGE_TEMPLATE.string.text
+msgid "Style:"
+msgstr "শৈলী:"
+
+#. 3BPy
+#: fpicker.src#STR_FPICKER_SELECTION.string.text
+msgid "~Selection"
+msgstr "নির্বাচন (~S)"
+
+#. w5a8
+#: fpicker.src#STR_FPICKER_FOLDER_DEFAULT_TITLE.string.text
+msgid "Select Path"
+msgstr "পাথ নির্বাচন"
+
+#. UYT8
+#: fpicker.src#STR_FPICKER_FOLDER_DEFAULT_DESCRIPTION.string.text
+msgid "Please select a folder."
+msgstr "অনুগ্রহ করে একটি ফোল্ডার নির্বাচন করুন।"
+
+#. ICuM
+#: fpicker.src#STR_FPICKER_ALREADYEXISTOVERWRITE.string.text
+msgid ""
+"A file named \"$filename$\" already exists.\n"
+"\n"
+"Do you want to replace it?"
+msgstr ""
+"একটি ফাইল, যার নাম \"$ filename $\" ইতিমধ্যেই উপস্থিত রয়েছে। \ N"
+"\ n"
+"আপনি কি সেটি প্রতিস্থাপন করতে চান?"
+
+#. Ua7k
+#: fpicker.src#STR_FPICKER_ALLFORMATS.string.text
+msgid "All Formats"
+msgstr "সব বিন্যাস"
+
+#. DEMO
+#: fpicker.src#STR_FPICKER_OPEN.string.text
+msgid "Open"
+msgstr "খুলুন"
+
+#. Q81x
+#: fpicker.src#STR_FPICKER_SAVE.string.text
+msgid "Save"
+msgstr "সংরক্ষণ"
+
+#. Xm8m
+#: fpicker.src#STR_FPICKER_TYPE.string.text
+msgid "File ~type"
+msgstr "ফাইলের ধরন (~t)"
+
+

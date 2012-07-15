@@ -1,0 +1,3221 @@
+#. extracted from scp2/source/accessories.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+scp2%2Fsource%2Faccessories.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2012-06-20 02:56+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+
+#. SvkZ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_SAMPLES.LngText.text
+msgid "Sample documents"
+msgstr "নমুনা নথি"
+
+#. onex
+#: module_samples_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_SAMPLES.LngText.text
+msgid "Sample documents are good for learning."
+msgstr "শেখার জন্য নমুনা নথি বেশ উপকারী।"
+
+#. O#Hj
+#: module_samples_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_DOCUMENTATIONS.LngText.text
+msgid "Documentations"
+msgstr "ডকুমেন্টেশন"
+
+#. WJ7V
+#: module_samples_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_DOCUMENTATIONS.LngText.text
+msgid "%PRODUCTNAME documentations."
+msgstr "%PRODUCTNAME ডকুমেন্টেশন।"
+
+#. MF#J
+#: module_samples_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_ADVERTISEMENT.LngText.text
+msgid "Advertisement"
+msgstr "বিজ্ঞাপন"
+
+#. x9a4
+#: module_samples_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_ADVERTISEMENT.LngText.text
+msgid "%PRODUCTNAME advertisement materials."
+msgstr "%PRODUCTNAME বিজ্ঞাপনের উপাদান।"
+
+#. Byb7
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text"
+msgid "English"
+msgstr ""
+
+#. dsrK
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text"
+msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. T9lR
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text"
+msgid "German"
+msgstr ""
+
+#. lIi0
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text"
+msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. xrCn
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text"
+msgid "French"
+msgstr ""
+
+#. 9kFg
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text"
+msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. FMdQ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text"
+msgid "Italian"
+msgstr ""
+
+#. zDa1
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text"
+msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 0K4H
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text"
+msgid "Spanish"
+msgstr ""
+
+#. oF7A
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text"
+msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. pQM6
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text"
+msgid "Swedish"
+msgstr ""
+
+#. 11LT
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text"
+msgid "Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. cgoF
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text"
+msgid "Portuguese"
+msgstr ""
+
+#. KnnK
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text"
+msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. BvoT
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#. dpYE
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text"
+msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. h0Bs
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text"
+msgid "Japanese"
+msgstr ""
+
+#. PR8j
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text"
+msgid "Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. SuOq
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text"
+msgid "Korean"
+msgstr ""
+
+#. kZRl
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text"
+msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. SnkZ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text"
+msgid "Chinese (simplified)"
+msgstr ""
+
+#. mx#m
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text"
+msgid "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. WWt8
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text"
+msgid "Chinese (traditional)"
+msgstr ""
+
+#. CgdR
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text"
+msgid "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. gfbr
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text"
+msgid "Dutch"
+msgstr ""
+
+#. Oock
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text"
+msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Zj4r
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text"
+msgid "Hungarian"
+msgstr ""
+
+#. Hs7k
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text"
+msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. CFA7
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text"
+msgid "Polish"
+msgstr ""
+
+#. #K9S
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text"
+msgid "Installs Polish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. h_zO
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text"
+msgid "Russian"
+msgstr ""
+
+#. Pa#3
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text"
+msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lEOY
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text"
+msgid "Turkish"
+msgstr ""
+
+#. TLRv
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text"
+msgid "Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Nkap
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text"
+msgid "Greek"
+msgstr ""
+
+#. brde
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text"
+msgid "Installs Greek support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. nreR
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text"
+msgid "Thai"
+msgstr ""
+
+#. 3kh0
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text"
+msgid "Installs Thai support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. vwv1
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text"
+msgid "Czech"
+msgstr ""
+
+#. BXwQ
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text"
+msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. G##L
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text"
+msgid "Slovak"
+msgstr ""
+
+#. YbzE
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text"
+msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. UoSV
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text"
+msgid "Croatian"
+msgstr ""
+
+#. ifV4
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text"
+msgid "Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. zBSx
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text"
+msgid "Estonian"
+msgstr ""
+
+#. FGVW
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text"
+msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. yWdC
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text"
+msgid "Vietnamese"
+msgstr ""
+
+#. ExaN
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text"
+msgid "Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. GvQw
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text"
+msgid "Bulgarian"
+msgstr ""
+
+#. YYPX
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text"
+msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ecG5
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text"
+msgid "Khmer"
+msgstr ""
+
+#. QzJU
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text"
+msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 8l6u
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text"
+msgid "Punjabi"
+msgstr ""
+
+#. abMh
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text"
+msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. NEbE
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text"
+msgid "Gujarati"
+msgstr ""
+
+#. x4rT
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text"
+msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Dca4
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text"
+msgid "Tamil"
+msgstr ""
+
+#. _zdV
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text"
+msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. KMLm
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text"
+msgid "Tamil"
+msgstr ""
+
+#. uS5Z
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText.text"
+msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Q68#
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text"
+msgid "Hindi"
+msgstr ""
+
+#. eTBb
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text"
+msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 4Ub6
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text"
+msgid "Hindi"
+msgstr ""
+
+#. eKrL
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText.text"
+msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 74Ut
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text"
+msgid "Southern Sotho (Sutu)"
+msgstr ""
+
+#. rVTi
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text"
+msgid "Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. MbKf
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text"
+msgid "Tswana"
+msgstr ""
+
+#. a#No
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text"
+msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 3eJw
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text"
+msgid "Xhosa"
+msgstr ""
+
+#. npGX
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text"
+msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. tMGc
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text"
+msgid "Zulu"
+msgstr ""
+
+#. 5DJz
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text"
+msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. hOIQ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text"
+msgid "Afrikaans"
+msgstr ""
+
+#. P3H1
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text"
+msgid "Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. fLoU
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text"
+msgid "Swahili"
+msgstr ""
+
+#. REn5
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text"
+msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 2KiY
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text"
+msgid "Swahili"
+msgstr ""
+
+#. kUyn
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text"
+msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. JYYJ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text"
+msgid "Lao"
+msgstr ""
+
+#. XvX8
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text"
+msgid "Installs Lao support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. E_9P
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text"
+msgid "Burmese"
+msgstr ""
+
+#. yaA2
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MY.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MY.LngText.text"
+msgid "Installs Burmese (Myanmar) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. PxEj
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text"
+msgid "Northern Sotho"
+msgstr ""
+
+#. waGf
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NSO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NSO.LngText.text"
+msgid "Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. igMb
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text"
+msgid "Bengali"
+msgstr ""
+
+#. UnL#
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text"
+msgid "Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. JQsN
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText.text"
+msgid "Bengali (Bangladesh)"
+msgstr ""
+
+#. _Gc4
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_BD.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_BD.LngText.text"
+msgid "Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. yVNd
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText.text"
+msgid "Bengali (India)"
+msgstr ""
+
+#. GL7q
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_IN.LngText.text"
+msgid "Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Hecu
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text"
+msgid "Oriya"
+msgstr ""
+
+#. ZpbZ
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text"
+msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 1pUh
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text"
+msgid "Oriya"
+msgstr ""
+
+#. jvEu
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText.text"
+msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 6oDt
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text"
+msgid "Marathi"
+msgstr ""
+
+#. qfEi
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text"
+msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lFNl
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text"
+msgid "Marathi"
+msgstr ""
+
+#. 357y
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText.text"
+msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Mwfg
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text"
+msgid "Nepali"
+msgstr ""
+
+#. aXgn
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text"
+msgid "Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. qlsM
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text"
+msgid "Arabic"
+msgstr ""
+
+#. 6qrD
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text"
+msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. OLgt
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text"
+msgid "Arabic"
+msgstr ""
+
+#. qVwa
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText.text"
+msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 1TX_
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text"
+msgid "Catalan"
+msgstr ""
+
+#. p6Ya
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text"
+msgid "Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. E7RO
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text"
+msgid "Danish"
+msgstr ""
+
+#. ySO3
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text"
+msgid "Installs Danish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. _1OG
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text"
+msgid "Finnish"
+msgstr ""
+
+#. DQRB
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text"
+msgid "Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lKKw
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text"
+msgid "Hebrew"
+msgstr ""
+
+#. TFNX
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text"
+msgid "Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. o9_m
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text"
+msgid "Icelandic"
+msgstr ""
+
+#. 0Iyh
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text"
+msgid "Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. hbn0
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text"
+msgid "Norwegian (Bokmal)"
+msgstr ""
+
+#. P#oR
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text"
+msgid "Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Utj4
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text"
+msgid "Norwegian (Nynorsk)"
+msgstr ""
+
+#. iikV
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text"
+msgid "Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 1Q5G
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text"
+msgid "Rhaeto-Romance"
+msgstr ""
+
+#. p16B
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RM.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RM.LngText.text"
+msgid "Installs Rhaeto-Romance support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. r4DX
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text"
+msgid "Romanian"
+msgstr ""
+
+#. 7VEw
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text"
+msgid "Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. E5Ei
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text"
+msgid "Albanian"
+msgstr ""
+
+#. yUDt
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text"
+msgid "Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. PwVL
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text"
+msgid "Urdu"
+msgstr ""
+
+#. hXSE
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text"
+msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 3ltL
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text"
+msgid "Indonesian"
+msgstr ""
+
+#. nqqE
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text"
+msgid "Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. fG35
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text"
+msgid "Ukrainian"
+msgstr ""
+
+#. RB0U
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text"
+msgid "Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. adIB
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text"
+msgid "Belarusian"
+msgstr ""
+
+#. MyHG
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BE.LngText.text"
+msgid "Installs Belarusian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. jXc_
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text"
+msgid "Slovenian"
+msgstr ""
+
+#. Vwba
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SL.LngText.text"
+msgid "Installs Slovenian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Z8#3
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text"
+msgid "Latvian"
+msgstr ""
+
+#. HJzO
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_LV.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_LV.LngText.text"
+msgid "Installs Latvian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. NMso
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text"
+msgid "Lithuanian"
+msgstr ""
+
+#. bDrf
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_LT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_LT.LngText.text"
+msgid "Installs Lithuanian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. M_On
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HY.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_HY.LngText.text"
+msgid "Armenian"
+msgstr ""
+
+#. aaRg
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HY.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_HY.LngText.text"
+msgid "Installs Armenian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. d4uZ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text"
+msgid "Basque"
+msgstr ""
+
+#. LVxu
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EU.LngText.text"
+msgid "Installs Basque support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. sOHd
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text"
+msgid "Macedonian"
+msgstr ""
+
+#. 43Iy
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MK.LngText.text"
+msgid "Installs Macedonian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. XYn5
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MT.LngText.text"
+msgid "Maltese"
+msgstr ""
+
+#. JvoU
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MT.LngText.text"
+msgid "Installs Maltese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. huPt
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text"
+msgid "Welsh"
+msgstr ""
+
+#. PZQi
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_CY.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_CY.LngText.text"
+msgid "Installs Welsh support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 0qFy
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text"
+msgid "Galician"
+msgstr ""
+
+#. olCd
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GL.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GL.LngText.text"
+msgid "Installs Galician support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. _RWz
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText.text"
+msgid "Serbian (Latin)"
+msgstr ""
+
+#. JHmk
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH_YU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH_YU.LngText.text"
+msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. #lIy
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text"
+msgid "Serbian (Latin)"
+msgstr ""
+
+#. CqHd
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText.text"
+msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lftW
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text"
+msgid "Irish"
+msgstr ""
+
+#. Toqx
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GA.LngText.text"
+msgid "Installs Irish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. zABm
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText.text"
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+#. H0RZ
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR_CS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR_CS.LngText.text"
+msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. WKY5
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text"
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+#. IFXU
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText.text"
+msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. FE#s
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text"
+msgid "Bosnian"
+msgstr ""
+
+#. zLzj
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BS.LngText.text"
+msgid "Installs Bosnian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 61e6
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AS_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_AS_IN.LngText.text"
+msgid "Assamese"
+msgstr ""
+
+#. gBuL
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AS_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_AS_IN.LngText.text"
+msgid "Installs Assamese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. VXrf
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text"
+msgid "Kinyarwanda"
+msgstr ""
+
+#. jwso
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RW.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_RW.LngText.text"
+msgid "Installs Kinyarwanda support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 2yUZ
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SA.LngText.text"
+msgid "Sanskrit"
+msgstr ""
+
+#. mdTu
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SA.LngText.text"
+msgid "Installs Sanskrit support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. PTmN
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text"
+msgid "Farsi"
+msgstr ""
+
+#. h6pC
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FA.LngText.text"
+msgid "Installs Farsi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. OHaY
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_FO.LngText.text"
+msgid "Faroese"
+msgstr ""
+
+#. gAdv
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_FO.LngText.text"
+msgid "Installs Faroese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ijoA
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SB.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SB.LngText.text"
+msgid "Sorbian"
+msgstr ""
+
+#. UsnH
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SB.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SB.LngText.text"
+msgid "Installs Sorbian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 8UaG
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text"
+msgid "Tatar"
+msgstr ""
+
+#. w5dB
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TT.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TT.LngText.text"
+msgid "Installs Tatar support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. r1yw
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text"
+msgid "Tsonga"
+msgstr ""
+
+#. 7Q_X
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TS.LngText.text"
+msgid "Installs Tsonga support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lJmL
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_YI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_YI.LngText.text"
+msgid "Yiddish"
+msgstr ""
+
+#. T8pE
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_YI.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_YI.LngText.text"
+msgid "Installs Yiddish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. L1Qk
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text"
+msgid "Breton"
+msgstr ""
+
+#. dQPr
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_BR.LngText.text"
+msgid "Installs Breton support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. dSXF
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text"
+msgid "Ndebele South"
+msgstr ""
+
+#. L7YK
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NR.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_NR.LngText.text"
+msgid "Installs Ndebele South support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. wR6T
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text"
+msgid "Swazi"
+msgstr ""
+
+#. 8056
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text"
+msgid "Installs Swazi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 9ox8
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text"
+msgid "Venda"
+msgstr ""
+
+#. xfuJ
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_VE.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_VE.LngText.text"
+msgid "Installs Venda support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 6tyi
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text"
+msgid "Kannada"
+msgstr ""
+
+#. qi_t
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KN.LngText.text"
+msgid "Installs Kannada support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Szfl
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MS.LngText.text"
+msgid "Malay (Malaysian)"
+msgstr ""
+
+#. kcgq
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MS.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MS.LngText.text"
+msgid "Installs Malay (Malaysian) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. gsOs
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text"
+msgid "Tajik"
+msgstr ""
+
+#. OjRj
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TG.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TG.LngText.text"
+msgid "Installs Tajik support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 23eD
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text"
+msgid "Kurdish"
+msgstr ""
+
+#. mOhM
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KU.LngText.text"
+msgid "Installs Kurdish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ApFv
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text"
+msgid "Dzongkha"
+msgstr ""
+
+#. ueCY
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text"
+msgid "Installs Dzongkha support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. TqC1
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text"
+msgid "Georgian"
+msgstr ""
+
+#. llFQ
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KA.LngText.text"
+msgid "Installs Georgian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. v_8Q
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text"
+msgid "Esperanto"
+msgstr ""
+
+#. BaB1
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text"
+msgid "Installs Esperanto support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. mUJi
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text"
+msgid "Gujarati"
+msgstr ""
+
+#. 25Gt
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text"
+msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. WegW
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text"
+msgid "English (South Africa)"
+msgstr ""
+
+#. CYwp
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText.text"
+msgid "Installs English (South Africa) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 9n53
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text"
+msgid "English (United Kingdom)"
+msgstr ""
+
+#. bxLG
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText.text"
+msgid ""
+"Installs English (United Kingdom) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. dO_U
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text"
+msgid "Urdu"
+msgstr ""
+
+#. BIlD
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText.text"
+msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 0lSw
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText.text"
+msgid "Malayalam"
+msgstr ""
+
+#. ibCf
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ML_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_ML_IN.LngText.text"
+msgid "Installs Malayalam support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Mbmt
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText.text"
+msgid "Telugu"
+msgstr ""
+
+#. wlWa
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TE_IN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TE_IN.LngText.text"
+msgid "Installs Telugu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. R6fL
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText.text"
+msgid "Tigrinya"
+msgstr ""
+
+#. tCv6
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TI_ER.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_TI_ER.LngText.text"
+msgid "Installs Tigrinya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. _ctI
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text"
+msgid "Uzbek"
+msgstr ""
+
+#. Dzq9
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text"
+msgid "Installs Uzbek support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. _P1y
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text"
+msgid "Mongolian"
+msgstr ""
+
+#. D22d
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MN.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_MN.LngText.text"
+msgid "Installs Mongolian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Fsit
+#: module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text"
+msgid "Kazakh"
+msgstr ""
+
+#. zjli
+#: module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KK.LngText.text
+msgctxt ""
+"module_samples_accessories.ulf#STR_DESC_MODULE_LANGPACK_KK.LngText.text"
+msgid "Installs Kazakh support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. zpFf
+#: module_templates_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_TEMPLATES.LngText.text
+msgid "Templates"
+msgstr "ফর্মাসমূহ"
+
+#. OHuj
+#: module_templates_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_TEMPLATES.LngText.text
+msgid "Create perfect documents within seconds with document templates."
+msgstr "নথি ফর্মার সাহায্যে মাত্র কয়েক সেকেন্ডেই নির্ভুল নথি তৈরি করুন।"
+
+#. xVTg
+#: module_templates_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_TEMPLATES_COMMON.LngText.text
+msgid "Common templates"
+msgstr "সাধারণ ফর্মা"
+
+#. i82z
+#: module_templates_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_TEMPLATES_COMMON.LngText.text
+msgid ""
+"Create perfect documents within seconds with document templates. Common "
+"templates contain language independent templates."
+msgstr ""
+"নথি ফর্মার সাহায্যে মাত্র কয়েক সেকেন্ডেই নির্ভুল নথি তৈরি করুন। সাধারণ "
+"ফর্মাগুলো ভাষা "
+"অনির্ভরশীল।"
+
+#. sk1b
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text"
+msgid "English"
+msgstr ""
+
+#. QaHs
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text"
+msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. HhHv
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text"
+msgid "German"
+msgstr ""
+
+#. ZmIY
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text"
+msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. tNoJ
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text"
+msgid "French"
+msgstr ""
+
+#. 5Cn8
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text"
+msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 3qPu
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text"
+msgid "Italian"
+msgstr ""
+
+#. nlQZ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text"
+msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Cswp
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text"
+msgid "Spanish"
+msgstr ""
+
+#. #jve
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text"
+msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. _uea
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text"
+msgid "Swedish"
+msgstr ""
+
+#. DZh_
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text"
+msgid "Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. g8Cj
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text"
+msgid "Portuguese"
+msgstr ""
+
+#. OJFs
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text"
+msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. shM_
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#. QX6i
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text"
+msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. dYrK
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text"
+msgid "Japanese"
+msgstr ""
+
+#. LvsF
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text"
+msgid "Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. GQcM
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text"
+msgid "Korean"
+msgstr ""
+
+#. Y1bD
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text"
+msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. XZA1
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text"
+msgid "Chinese (simplified)"
+msgstr ""
+
+#. DfQI
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text"
+msgid "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ToJg
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text"
+msgid "Chinese (traditional)"
+msgstr ""
+
+#. nu3v
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text"
+msgid "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. cBRN
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text"
+msgid "Dutch"
+msgstr ""
+
+#. KGOC
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text"
+msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lFwN
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text"
+msgid "Hungarian"
+msgstr ""
+
+#. TKvC
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text"
+msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 0jqb
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text"
+msgid "Polish"
+msgstr ""
+
+#. ost#
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text"
+msgid "Installs Polish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. dT3w
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text"
+msgid "Russian"
+msgstr ""
+
+#. L60X
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text"
+msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Zic0
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text"
+msgid "Turkish"
+msgstr ""
+
+#. HtbR
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text"
+msgid "Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. RCQH
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text"
+msgid "Greek"
+msgstr ""
+
+#. fNPA
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text"
+msgid "Installs Greek support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. zNMv
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text"
+msgid "Thai"
+msgstr ""
+
+#. FCLY
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text"
+msgid "Installs Thai support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. rO7Z
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text"
+msgid "Czech"
+msgstr ""
+
+#. 734u
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text"
+msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. SS0t
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text"
+msgid "Slovak"
+msgstr ""
+
+#. k73i
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text"
+msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. IGYz
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text"
+msgid "Croatian"
+msgstr ""
+
+#. WBXc
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text"
+msgid "Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. nfYP
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text"
+msgid "Estonian"
+msgstr ""
+
+#. 3oX2
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text"
+msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. m2Pk
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text"
+msgid "Vietnamese"
+msgstr ""
+
+#. 2PQr
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text"
+msgid "Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. SRaO
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text"
+msgid "Bulgarian"
+msgstr ""
+
+#. k0d3
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text"
+msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. a4kd
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text"
+msgid "Khmer"
+msgstr ""
+
+#. MVjy
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text"
+msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. rzYQ
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text"
+msgid "Punjabi"
+msgstr ""
+
+#. Pto9
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text"
+msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. gS1i
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text"
+msgid "Gujarati"
+msgstr ""
+
+#. 6MH_
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText.text"
+msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 14Qc
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text"
+msgid "Tamil"
+msgstr ""
+
+#. pVPz
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text"
+msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. f4nI
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text"
+msgid "Tamil"
+msgstr ""
+
+#. 5EX1
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText.text"
+msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. MasS
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text"
+msgid "Hindi"
+msgstr ""
+
+#. a_r7
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text"
+msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. vC1a
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text"
+msgid "Hindi"
+msgstr ""
+
+#. L6Ht
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText.text"
+msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. BcWL
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text"
+msgid "Southern Sotho (Sutu)"
+msgstr ""
+
+#. vzZE
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text"
+msgid "Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Q7gB
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text"
+msgid "Tswana"
+msgstr ""
+
+#. eSfG
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text"
+msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. FAjO
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text"
+msgid "Xhosa"
+msgstr ""
+
+#. zHk3
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text"
+msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. xqk4
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text"
+msgid "Zulu"
+msgstr ""
+
+#. 9ljV
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text"
+msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. dwiu
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text"
+msgid "Afrikaans"
+msgstr ""
+
+#. LXlZ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text"
+msgid "Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. btCy
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text"
+msgid "Swahili"
+msgstr ""
+
+#. NiFd
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text"
+msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. _680
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text"
+msgid "Swahili"
+msgstr ""
+
+#. JCOJ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text"
+msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. V0Sn
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text"
+msgid "Lao"
+msgstr ""
+
+#. jRVg
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text"
+msgid "Installs Lao support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 2Ttx
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text"
+msgid "Burmese"
+msgstr ""
+
+#. m6qW
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MY.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MY.LngText.text"
+msgid "Installs Burmese (Myanmar) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. osZm
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text"
+msgid "Northern Sotho"
+msgstr ""
+
+#. Hfzq
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NSO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NSO.LngText.text"
+msgid "Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. W8e7
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text"
+msgid "Bengali"
+msgstr ""
+
+#. IJhS
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text"
+msgid "Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. k8Ir
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText.text"
+msgid "Bengali (Bangladesh)"
+msgstr ""
+
+#. 222c
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_BD.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_BD.LngText.text"
+msgid "Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 1Dp5
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText.text"
+msgid "Bengali (India)"
+msgstr ""
+
+#. j7ZM
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BN_IN.LngText.text"
+msgid "Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. TAOQ
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text"
+msgid "Oriya"
+msgstr ""
+
+#. lHR1
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text"
+msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. yXw9
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text"
+msgid "Oriya"
+msgstr ""
+
+#. GhgQ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText.text"
+msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. AGpL
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text"
+msgid "Marathi"
+msgstr ""
+
+#. uBmE
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text"
+msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ITpD
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text"
+msgid "Marathi"
+msgstr ""
+
+#. #NZU
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText.text"
+msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. QON8
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text"
+msgid "Nepali"
+msgstr ""
+
+#. e3KJ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text"
+msgid "Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. uD8q
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text"
+msgid "Arabic"
+msgstr ""
+
+#. AMBl
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text"
+msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. b7EL
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text"
+msgid "Arabic"
+msgstr ""
+
+#. 9DU6
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText.text"
+msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. D_VT
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text"
+msgid "Catalan"
+msgstr ""
+
+#. _aS6
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text"
+msgid "Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 2bbw
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text"
+msgid "Danish"
+msgstr ""
+
+#. m#cX
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text"
+msgid "Installs Danish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. pZco
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text"
+msgid "Finnish"
+msgstr ""
+
+#. 1ubf
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text"
+msgid "Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ZsgO
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text"
+msgid "Hebrew"
+msgstr ""
+
+#. Hjf3
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text"
+msgid "Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. #h1I
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text"
+msgid "Icelandic"
+msgstr ""
+
+#. Cm29
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text"
+msgid "Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. d7FY
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text"
+msgid "Norwegian (Bokmal)"
+msgstr ""
+
+#. LSCv
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text"
+msgid "Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ILJc
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text"
+msgid "Norwegian (Nynorsk)"
+msgstr ""
+
+#. WEGz
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text"
+msgid "Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Duxo
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text"
+msgid "Rhaeto-Romance"
+msgstr ""
+
+#. _Zuf
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RM.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RM.LngText.text"
+msgid "Installs Rhaeto-Romance support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. vcp3
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text"
+msgid "Romanian"
+msgstr ""
+
+#. BzmO
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text"
+msgid "Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 2dmE
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text"
+msgid "Albanian"
+msgstr ""
+
+#. mypL
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text"
+msgid "Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. LOXt
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text"
+msgid "Urdu"
+msgstr ""
+
+#. d3Yi
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text"
+msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. FD9t
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text"
+msgid "Indonesian"
+msgstr ""
+
+#. zMAi
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text"
+msgid "Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. bozd
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text"
+msgid "Ukrainian"
+msgstr ""
+
+#. Nf#y
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text"
+msgid "Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. e5if
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text"
+msgid "Belarusian"
+msgstr ""
+
+#. QUlo
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BE.LngText.text"
+msgid "Installs Belarusian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. X3OT
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text"
+msgid "Slovenian"
+msgstr ""
+
+#. JOR6
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SL.LngText.text"
+msgid "Installs Slovenian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. lg0X
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text"
+msgid "Latvian"
+msgstr ""
+
+#. Tn3w
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_LV.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_LV.LngText.text"
+msgid "Installs Latvian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. Rq8G
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text"
+msgid "Lithuanian"
+msgstr ""
+
+#. flBB
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_LT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_LT.LngText.text"
+msgid "Installs Lithuanian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. QTcJ
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HY.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_HY.LngText.text"
+msgid "Armenian"
+msgstr ""
+
+#. e6b8
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HY.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_HY.LngText.text"
+msgid "Installs Armenian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. hc61
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text"
+msgid "Basque"
+msgstr ""
+
+#. Pz5Q
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EU.LngText.text"
+msgid "Installs Basque support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. wwl5
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text"
+msgid "Macedonian"
+msgstr ""
+
+#. 8XiU
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MK.LngText.text"
+msgid "Installs Macedonian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. j0Fd
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MT.LngText.text"
+msgid "Maltese"
+msgstr ""
+
+#. VRCy
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MT.LngText.text"
+msgid "Installs Maltese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. dQdL
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text"
+msgid "Welsh"
+msgstr ""
+
+#. L1aE
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_CY.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_CY.LngText.text"
+msgid "Installs Welsh support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. CMnU
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text"
+msgid "Galician"
+msgstr ""
+
+#. #Do5
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GL.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GL.LngText.text"
+msgid "Installs Galician support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 294V
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText.text"
+msgid "Serbian (Latin)"
+msgstr ""
+
+#. k3KC
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH_YU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH_YU.LngText.text"
+msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. oDiU
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text"
+msgid "Serbian (Latin)"
+msgstr ""
+
+#. 0Ml5
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText.text"
+msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ZB92
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text"
+msgid "Irish"
+msgstr ""
+
+#. HGAP
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GA.LngText.text"
+msgid "Installs Irish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 0OlI
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText.text"
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+#. iI_1
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR_CS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR_CS.LngText.text"
+msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. isSd
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text"
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+#. UjVy
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText.text"
+msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 3i0K
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text"
+msgid "Bosnian"
+msgstr ""
+
+#. nt3F
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BS.LngText.text"
+msgid "Installs Bosnian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. xJCa
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AS_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_AS_IN.LngText.text"
+msgid "Assamese"
+msgstr ""
+
+#. NPSt
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AS_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_AS_IN.LngText.text"
+msgid "Installs Assamese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. J3BB
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text"
+msgid "Kinyarwanda"
+msgstr ""
+
+#. XO8G
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RW.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_RW.LngText.text"
+msgid "Installs Kinyarwanda support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. EUW1
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SA.LngText.text"
+msgid "Sanskrit"
+msgstr ""
+
+#. y5ZQ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SA.LngText.text"
+msgid "Installs Sanskrit support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. L_Er
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text"
+msgid "Farsi"
+msgstr ""
+
+#. daDk
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FA.LngText.text"
+msgid "Installs Farsi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. KpQ0
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_FO.LngText.text"
+msgid "Faroese"
+msgstr ""
+
+#. cePR
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_FO.LngText.text"
+msgid "Installs Faroese support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. WFCe
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SB.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SB.LngText.text"
+msgid "Sorbian"
+msgstr ""
+
+#. IKFp
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SB.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SB.LngText.text"
+msgid "Installs Sorbian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 4yQo
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text"
+msgid "Tatar"
+msgstr ""
+
+#. sdPf
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TT.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TT.LngText.text"
+msgid "Installs Tatar support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. vZ2O
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text"
+msgid "Tsonga"
+msgstr ""
+
+#. Bu13
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TS.LngText.text"
+msgid "Installs Tsonga support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. ZnEt
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_YI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_YI.LngText.text"
+msgid "Yiddish"
+msgstr ""
+
+#. HgDi
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_YI.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_YI.LngText.text"
+msgid "Installs Yiddish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. PZaC
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text"
+msgid "Breton"
+msgstr ""
+
+#. hudN
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_BR.LngText.text"
+msgid "Installs Breton support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. h#Vj
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text"
+msgid "Ndebele South"
+msgstr ""
+
+#. PbSs
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NR.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_NR.LngText.text"
+msgid "Installs Ndebele South support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. svu_
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text"
+msgid "Swazi"
+msgstr ""
+
+#. 4Yxa
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text"
+msgid "Installs Swazi support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 5G5g
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text"
+msgid "Venda"
+msgstr ""
+
+#. tB6n
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_VE.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_VE.LngText.text"
+msgid "Installs Venda support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. AL2E
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text"
+msgid "Kannada"
+msgstr ""
+
+#. uE1L
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KN.LngText.text"
+msgid "Installs Kannada support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. GVND
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MS.LngText.text"
+msgid "Malay (Malaysian)"
+msgstr ""
+
+#. Y4KM
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MS.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MS.LngText.text"
+msgid "Installs Malay (Malaysian) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. cKcK
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text"
+msgid "Tajik"
+msgstr ""
+
+#. KFbF
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TG.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TG.LngText.text"
+msgid "Installs Tajik support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. EXMl
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text"
+msgid "Kurdish"
+msgstr ""
+
+#. ywLq
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KU.LngText.text"
+msgid "Installs Kurdish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 6HnR
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text"
+msgid "Dzongkha"
+msgstr ""
+
+#. qAo0
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text"
+msgid "Installs Dzongkha support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. HMoZ
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text"
+msgid "Georgian"
+msgstr ""
+
+#. ZDnu
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KA.LngText.text"
+msgid "Installs Georgian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. rTsu
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text"
+msgid "Esperanto"
+msgstr ""
+
+#. 76rZ
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text"
+msgid "Installs Esperanto support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. yyjE
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text"
+msgid "Gujarati"
+msgstr ""
+
+#. EdkL
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text"
+msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. TwE2
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text"
+msgid "English (South Africa)"
+msgstr ""
+
+#. nmUH
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText.text"
+msgid "Installs English (South Africa) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. qZXX
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text"
+msgid "English (United Kingdom)"
+msgstr ""
+
+#. Ofno
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText.text"
+msgid ""
+"Installs English (United Kingdom) support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. QARy
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text"
+msgid "Urdu"
+msgstr ""
+
+#. s0Bl
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText.text"
+msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. zzuO
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText.text"
+msgid "Malayalam"
+msgstr ""
+
+#. HteB
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ML_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_ML_IN.LngText.text"
+msgid "Installs Malayalam support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. htKL
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText.text"
+msgid "Telugu"
+msgstr ""
+
+#. 7z46
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TE_IN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TE_IN.LngText.text"
+msgid "Installs Telugu support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. cKDt
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText.text"
+msgid "Tigrinya"
+msgstr ""
+
+#. AUTa
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TI_ER.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_TI_ER.LngText.text"
+msgid "Installs Tigrinya support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. p49m
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text"
+msgid "Uzbek"
+msgstr ""
+
+#. 1VAh
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text"
+msgid "Installs Uzbek support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. px_U
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text"
+msgid "Mongolian"
+msgstr ""
+
+#. 1Wy5
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MN.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_MN.LngText.text"
+msgid "Installs Mongolian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. 3KIL
+#: module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text"
+msgid "Kazakh"
+msgstr ""
+
+#. nFHE
+#: module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KK.LngText.text
+msgctxt ""
+"module_templates_accessories.ulf#STR_DESC_MODULE_LANGPACK_KK.LngText.text"
+msgid "Installs Kazakh support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+
+#. v#n4
+#: module_font_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_FONTS.LngText.text
+msgid "Fonts"
+msgstr "ফন্ট"
+
+#. buFR
+#: module_font_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_FONTS.LngText.text
+msgid "Additional fonts for %PRODUCTNAME and other applications."
+msgstr "%PRODUCTNAME এবং অন্যান্য অ্যাপ্লিকেশনের জন্য অতিরিক্ত ফন্ট।"
+
+#. fvMc
+#: module_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES.LngText.text
+msgid "Accessories"
+msgstr "আনুষঙ্গিক"
+
+#. wpA9
+#: module_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES.LngText.text
+msgid ""
+"Useful %PRODUCTNAME accessories including various Galleries, Templates, "
+"Sample documents and Fonts."
+msgstr ""
+"কার্যকর %PRODUCTNAME আনুষঙ্গিক যাতে রয়েছে বিভিন্ন গ্যালারি, ফর্মা, নমুনা নথি "
+"ও ফন্ট।"
+
+#. 5seh
+#: module_gallery_accessories.ulf#STR_NAME_MODULE_OPTIONAL_ACCESSORIES_GALLERY.LngText.text
+msgid "Additional Gallery Themes"
+msgstr "অতিরিক্ত গ্যালারি থীম"
+
+#. h#kp
+#: module_gallery_accessories.ulf#STR_DESC_MODULE_OPTIONAL_ACCESSORIES_GALLERY.LngText.text
+msgid ""
+"The %PRODUCTNAME Gallery contains more than 3400 elements in various themes."
+msgstr ""
+"%PRODUCTNAME গ্যালারিতে রয়েছে বিভিন্ন থীমের উপর তিন হাজার চারশরও বেশী উপাদান।"
+

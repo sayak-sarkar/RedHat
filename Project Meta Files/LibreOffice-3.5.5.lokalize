@@ -2,5 +2,5 @@
 GlossaryTbx=./
 LangCode=bn_IN
 MailingList=anubad@lists.ankur.org.in
-PoBaseDir=../rh-translations/LibreOffice
+PoBaseDir=../rh-translations/LibreOffice/Files
 TargetLangCode=bn_IN

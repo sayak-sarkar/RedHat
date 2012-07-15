@@ -1,0 +1,6 @@
+[General]
+GlossaryTbx=./
+LangCode=bn_IN
+MailingList=anubad@lists.ankur.org.in
+PoBaseDir=../rh-translations/LibreOffice-translations/LibreOffice
+TargetLangCode=bn_IN

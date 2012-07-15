@@ -1,0 +1,620 @@
+#. extracted from filter/source/pdf.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+filter%2Fsource%2Fpdf.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2012-06-20 02:49+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+
+#. MEGN
+#: pdf.src#PDF_PROGRESS_BAR.string.text
+msgid "Export as PDF"
+msgstr "PDF হিসেবে এক্সপোর্ট করুন"
+
+#. S#D7
+#: impdialog.src#STR_PDF_EXPORT.string.text
+msgid "E~xport"
+msgstr "এক্সপোর্ট (~x)"
+
+#. RfO3
+#: impdialog.src#STR_PDF_EXPORT_UDPWD.string.text
+msgid "Set open password"
+msgstr "উন্মুক্ত পাসওয়ার্ড নির্ধারণ করুন... "
+
+#. swsH
+#: impdialog.src#STR_PDF_EXPORT_ODPWD.string.text
+msgid "Set permission password"
+msgstr "অনুমোদন পাসওয়ার্ড নির্ধারণ... "
+
+#. 136y
+#: impdialog.src#RID_PDF_TAB_GENER.FL_PAGES.fixedline.text
+msgid "Range"
+msgstr "পরিসর"
+
+#. 7DQD
+#: impdialog.src#RID_PDF_TAB_GENER.RB_ALL.radiobutton.text
+msgid "~All"
+msgstr "সব (~A)"
+
+#. 6w28
+#: impdialog.src#RID_PDF_TAB_GENER.RB_RANGE.radiobutton.text
+msgid "~Pages"
+msgstr "পৃষ্ঠাসমূহ (~P)"
+
+#. XuYh
+#: impdialog.src#RID_PDF_TAB_GENER.RB_SELECTION.radiobutton.text
+msgid "~Selection"
+msgstr "নির্বাচন (~S)"
+
+#. oFNP
+#: impdialog.src#RID_PDF_TAB_GENER.FL_IMAGES.fixedline.text
+msgid "Images"
+msgstr "ছবি"
+
+#. Iotm
+#: impdialog.src#RID_PDF_TAB_GENER.RB_LOSSLESSCOMPRESSION.radiobutton.text
+msgid "~Lossless compression"
+msgstr "অবচয়হীন কমপ্রেশন (~L)"
+
+#. 9cOt
+#: impdialog.src#RID_PDF_TAB_GENER.RB_JPEGCOMPRESSION.radiobutton.text
+msgid "~JPEG compression"
+msgstr "JPEG কমপ্রেশন (~J)"
+
+#. O__o
+#: impdialog.src#RID_PDF_TAB_GENER.FT_QUALITY.fixedtext.text
+msgid "~Quality"
+msgstr "গুণমান (~Q)"
+
+#. 4Qqv
+#: impdialog.src#RID_PDF_TAB_GENER.CB_REDUCEIMAGERESOLUTION.checkbox.text
+msgid "~Reduce image resolution"
+msgstr "ছবির রেজল্যুশন কমানো (~R)"
+
+#. _1PS
+#: impdialog.src#RID_PDF_TAB_GENER.tabpage.text
+msgctxt "impdialog.src#RID_PDF_TAB_GENER.tabpage.text"
+msgid "General"
+msgstr "সাধারণ"
+
+#. sgsw
+#: impdialog.src#FL_GENERAL.fixedline.text
+msgctxt "impdialog.src#FL_GENERAL.fixedline.text"
+msgid "General"
+msgstr "সাধারণ"
+
+#. WfIr
+#: impdialog.src#CB_ADDSTREAM.checkbox.text
+msgid "Em~bed OpenDocument file"
+msgstr ""
+
+#. JnSc
+#: impdialog.src#FT_ADDSTREAMDESCRIPTION.fixedtext.text
+msgid "Makes this PDF easily editable in %PRODUCTNAME"
+msgstr ""
+
+#. NEj2
+#: impdialog.src#CB_PDFA_1B_SELECT.checkbox.text
+msgid "P~DF/A-1a"
+msgstr "P~DF/A-1a"
+
+#. jEPr
+#: impdialog.src#CB_TAGGEDPDF.checkbox.text
+msgid "~Tagged PDF"
+msgstr "ট্যাগকৃত PDF (~T)"
+
+#. AblJ
+#: impdialog.src#CB_EXPORTFORMFIELDS.checkbox.text
+msgid "~Create PDF form"
+msgstr "PDF ফরম তৈরি করুন (~C)"
+
+#. 0IiU
+#: impdialog.src#FT_FORMSFORMAT.fixedtext.text
+msgid "Submit ~format"
+msgstr "ফরম্যাট জমা দিন (~f) "
+
+#. U_UJ
+#: impdialog.src#CB_ALLOWDUPLICATEFIELDNAMES.checkbox.text
+msgid "Allow duplicate field ~names"
+msgstr "অনুরূপ ক্ষেত্রের নাম অনুমোদন (~n)"
+
+#. hArx
+#: impdialog.src#CB_EXPORTBOOKMARKS.checkbox.text
+msgid "Export ~bookmarks"
+msgstr "বুকমার্ক এক্সপোর্ট করুন (~b)"
+
+#. ShNp
+#: impdialog.src#CB_EXPORTNOTES.checkbox.text
+msgid "~Export comments"
+msgstr "মন্তব্য এক্সপোর্ট করা হবে (~E)"
+
+#. Yuvo
+#: impdialog.src#CB_EXPORTNOTESPAGES.checkbox.text
+msgid "Export ~notes pages"
+msgstr "টীকার পৃষ্ঠা এক্সপোর্ট (~n)"
+
+# 75%
+#. KQ22
+#: impdialog.src#CB_EXPORTHIDDENSLIDES.checkbox.text
+msgid "Export ~hidden pages"
+msgstr "গোপনীয় পৃষ্ঠা এক্সপোর্ট (~h)"
+
+#. sx59
+#: impdialog.src#CB_EXPORTEMPTYPAGES.checkbox.text
+msgid "Exp~ort automatically inserted blank pages"
+msgstr "স্বয়ংক্রিয় ভাবে সন্নিবেশকৃত খালি পৃষ্ঠা এক্সপোর্ট করা হবে (~o)"
+
+#. 6xXt
+#: impdialog.src#CB_EMBEDSTANDARDFONTS.checkbox.text
+msgid "E~mbed standard fonts"
+msgstr "স্ট্যান্ডার্ড ফন্ট সন্নিবেশ (~m)"
+
+#. W89u
+#: impdialog.src#RID_PDF_WARNPDFAPASSWORD.warningbox.text
+msgid ""
+"PDF/A does not allow encryption. The exported PDF file will not be password "
+"protected."
+msgstr ""
+
+#. F1f7
+#: impdialog.src#RID_PDF_WARNPDFAPASSWORD.warningbox.title
+msgid "PDF/A Export"
+msgstr "PDF/A এক্সপোর্ট"
+
+#. cllR
+#: impdialog.src#RID_PDF_TAB_OPNFTR.FL_INITVIEW.fixedline.text
+msgid "Panes"
+msgstr "প্যানস"
+
+#. T49C
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_OPNMODE_PAGEONLY.radiobutton.text
+msgid "~Page only"
+msgstr "শুধুমাত্র পৃষ্ঠা (~P)"
+
+#. tUFk
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_OPNMODE_OUTLINE.radiobutton.text
+msgid "~Bookmarks and page"
+msgstr "বুকমার্ক এবং পৃষ্ঠা (~B)"
+
+#. o6zu
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_OPNMODE_THUMBS.radiobutton.text
+msgid "~Thumbnails and page"
+msgstr "থাম্বনেইলস এবং পৃষ্ঠা (~T)"
+
+#. Wirq
+#: impdialog.src#RID_PDF_TAB_OPNFTR.FT_MAGNF_INITIAL_PAGE.fixedtext.text
+msgid "Open on page"
+msgstr "পৃষ্ঠায় খুলুন"
+
+#. Gowe
+#: impdialog.src#RID_PDF_TAB_OPNFTR.FL_MAGNIFICATION.fixedline.text
+msgid "Magnification"
+msgstr "বড় করুন"
+
+#. _i6W
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_MAGNF_DEFAULT.radiobutton.text
+msgid "~Default"
+msgstr "পূর্ব নির্ধারিত (~D)"
+
+#. yR9d
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_MAGNF_WIND.radiobutton.text
+msgid "~Fit in window"
+msgstr "উইন্ডো জুড়ে (~F)"
+
+#. ZiVw
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_MAGNF_WIDTH.radiobutton.text
+msgid "Fit ~width"
+msgstr "প্রস্থ জুড়ে (~w)"
+
+#. c5nR
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_MAGNF_VISIBLE.radiobutton.text
+msgid "Fit ~visible"
+msgstr "দৃশ্যমান এলাকা জুড়ে (~v)"
+
+#. QbpU
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_MAGNF_ZOOM.radiobutton.text
+msgid "~Zoom factor"
+msgstr "বড় করে দেখা ফ্যাক্টর (~Z)"
+
+#. 3A7T
+#: impdialog.src#RID_PDF_TAB_OPNFTR.FL_PAGE_LAYOUT.fixedline.text
+msgid "Page layout"
+msgstr "পৃষ্ঠার বহির্বিন্যাস"
+
+#. uwBI
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_PGLY_DEFAULT.radiobutton.text
+msgid "D~efault"
+msgstr "পূর্ব নির্ধারিত (~D)"
+
+#. a0UV
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_PGLY_SINGPG.radiobutton.text
+msgid "~Single page"
+msgstr "একটি পৃষ্ঠা (~S)"
+
+#. Tf3K
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_PGLY_CONT.radiobutton.text
+msgid "~Continuous"
+msgstr "ক্রমাগত (~C)"
+
+#. 3iRh
+#: impdialog.src#RID_PDF_TAB_OPNFTR.RB_PGLY_CONTFAC.radiobutton.text
+msgid "C~ontinuous facing"
+msgstr "পরপর (~o)"
+
+#. 5PYu
+#: impdialog.src#RID_PDF_TAB_OPNFTR.CB_PGLY_FIRSTLEFT.checkbox.text
+msgid "First page is ~left"
+msgstr "প্রথম পৃষ্ঠা বাদ দিয়ে (~l)"
+
+#. IEBI
+#: impdialog.src#RID_PDF_TAB_OPNFTR.tabpage.text
+msgctxt "impdialog.src#RID_PDF_TAB_OPNFTR.tabpage.text"
+msgid "Initial View"
+msgstr "প্রাথমিক দৃশ্যপট"
+
+#. pHV7
+#: impdialog.src#RID_PDF_TAB_VPREFER.FL_WINOPT.fixedline.text
+msgid "Window options"
+msgstr "উইন্ডো অপশন"
+
+#. UN5A
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_WNDOPT_RESINIT.checkbox.text
+msgid "~Resize window to initial page"
+msgstr "উইন্ডোটি প্রাথমিক পৃষ্ঠার সমান করুন (~R)"
+
+#. GArP
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_WNDOPT_CNTRWIN.checkbox.text
+msgid "~Center window on screen"
+msgstr "মধ্যের উইন্ডোটি পর্দায় আনুন (~C)"
+
+#. gVS9
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_WNDOPT_OPNFULL.checkbox.text
+msgid "~Open in full screen mode"
+msgstr "পর্দা জুড়ে খুলুন (~O)"
+
+#. 87Ow
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_DISPDOCTITLE.checkbox.text
+msgid "~Display document title"
+msgstr "নথির শিরোনাম প্রদর্শন করুন (~D)"
+
+#. Sqtm
+#: impdialog.src#RID_PDF_TAB_VPREFER.FL_USRIFOPT.fixedline.text
+msgid "User interface options"
+msgstr "ব্যবহারকারী ইন্টারফেস অপশন"
+
+#. 2bER
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_UOP_HIDEVMENUBAR.checkbox.text
+msgid "Hide ~menubar"
+msgstr "মেনুবারটি আড়াল করুন (~m)"
+
+#. fcQW
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_UOP_HIDEVTOOLBAR.checkbox.text
+msgid "Hide ~toolbar"
+msgstr "টুলবারটি আড়াল করুন (~t)"
+
+#. xl_l
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_UOP_HIDEVWINCTRL.checkbox.text
+msgid "Hide ~window controls"
+msgstr "উইন্ডো কন্ট্রোল আড়াল করুন (~w)"
+
+#. HAoW
+#: impdialog.src#RID_PDF_TAB_VPREFER.FL_TRANSITIONS.fixedline.text
+msgid "Transitions"
+msgstr "পরিবর্তন"
+
+#. qvzy
+#: impdialog.src#RID_PDF_TAB_VPREFER.CB_TRANSITIONEFFECTS.checkbox.text
+msgid "~Use transition effects"
+msgstr "পরিবর্তনের আবহ ব্যবহার করুন (~U)"
+
+#. 8aL2
+#: impdialog.src#RID_PDF_TAB_VPREFER.FL_BOOKMARKS.fixedline.text
+msgid "Bookmarks"
+msgstr "বুকমার্ক"
+
+#. _NqY
+#: impdialog.src#RID_PDF_TAB_VPREFER.RB_ALLBOOKMARKLEVELS.radiobutton.text
+msgid "All bookmark levels"
+msgstr "সকল বুকমার্ক স্তর"
+
+#. 5g24
+#: impdialog.src#RID_PDF_TAB_VPREFER.RB_VISIBLEBOOKMARKLEVELS.radiobutton.text
+msgid "Visible bookmark levels"
+msgstr "দৃশ্যমান বুকমার্ক স্তর"
+
+#. Oc3j
+#: impdialog.src#RID_PDF_TAB_VPREFER.tabpage.text
+msgctxt "impdialog.src#RID_PDF_TAB_VPREFER.tabpage.text"
+msgid "User Interface"
+msgstr "ব্যবহারকারী ইন্টারফেস"
+
+#. s_Jp
+#: impdialog.src#RID_PDF_TAB_SECURITY.FL_PWD_GROUP.fixedline.text
+msgid "File encryption and permission"
+msgstr "ফাইল এনক্রিপশন এবং অনুমোদন"
+
+#. iXKF
+#: impdialog.src#RID_PDF_TAB_SECURITY.BTN_SET_PWD.pushbutton.text
+msgid "Set ~passwords..."
+msgstr "পাসওয়ার্ডসমূহ নির্ধারণ করুন... (~p)"
+
+#. cnRT
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_SET_PWD.string.text
+msgid "Set passwords"
+msgstr "পাসওয়ার্ডসমূহ নির্ধারণ করুন"
+
+#. hqnd
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_SET.string.text
+msgid "Open password set"
+msgstr "মুক্ত পাসওয়ার্ড নির্ধারণ করুন"
+
+#. R7F#
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_ENC.string.text
+msgid "PDF document will be encrypted"
+msgstr "PDF নথি এনক্রিপ্ট করা হবে"
+
+#. xGaO
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_UNSET.string.text
+msgid "No open password set"
+msgstr "মুক্ত পাসওয়ার্ড নির্ধারণ করুন"
+
+#. BZQ1
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_UNENC.string.text
+msgid "PDF document will not be encrypted"
+msgstr "PDF নথি এনক্রিপ্ট করা হবে"
+
+#. BO3T
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_USER_PWD_PDFA.string.text
+msgid "PDF document will not be encrypted due to PDF/A export."
+msgstr "PDF নথি এনক্রিপ্ট করা হবেনা PDF/A এক্সপোর্টের জন্য।"
+
+#. DHrS
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_SET.string.text
+msgid "Permission password set"
+msgstr "অনুমোদিত পাসওয়ার্ড নির্ধারণ"
+
+#. cu8H
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_REST.string.text
+msgid "PDF document will be restricted"
+msgstr "PDF নথি সীমিত করা হবে"
+
+#. 3LiF
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_UNSET.string.text
+msgid "No permission password set"
+msgstr "কোনো অনুমোদিত পাসওয়ার্ড নির্ধারিত নয়"
+
+#. NZ0U
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_UNREST.string.text
+msgid "PDF document will be unrestricted"
+msgstr "PDF নথি সীমিত করা হবে না"
+
+#. C9GA
+#: impdialog.src#RID_PDF_TAB_SECURITY.STR_OWNER_PWD_PDFA.string.text
+msgid "PDF document will not be restricted due to PDF/A export."
+msgstr "PDF নথি সীমিত করা হবেনা PDF/A এক্সপোর্টের জন্য।"
+
+#. 4EPu
+#: impdialog.src#RID_PDF_TAB_SECURITY.FL_PRINT_PERMISSIONS.fixedline.text
+msgid "Printing"
+msgstr "মুদ্রণ"
+
+#. wsAq
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_PRINT_NONE.radiobutton.text
+msgid "~Not permitted"
+msgstr "অনুমতি নেই (~N)"
+
+#. qtnG
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_PRINT_LOWRES.radiobutton.text
+msgid "~Low resolution (150 dpi)"
+msgstr "নিম্নমানের রেজল্যুশন (১৫০ dpi) (~L)"
+
+#. Iwqn
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_PRINT_HIGHRES.radiobutton.text
+msgid "~High resolution"
+msgstr "উচ্চমানের রেজল্যুশন (~H)"
+
+#. Zlhb
+#: impdialog.src#RID_PDF_TAB_SECURITY.FL_CHANGES_ALLOWED.fixedline.text
+msgid "Changes"
+msgstr "পরিবর্তনসমূহ"
+
+#. IV4p
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_NONE.radiobutton.text
+msgid "No~t permitted"
+msgstr "অনুমোদিত নয় (~T)"
+
+#. p7AA
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_INSDEL.radiobutton.text
+msgid "~Inserting, deleting, and rotating pages"
+msgstr "পৃষ্ঠায় সন্নিবেশ, মুছে ফেলা এবং আবর্তন (~I)"
+
+#. oNHm
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_FILLFORM.radiobutton.text
+msgid "~Filling in form fields"
+msgstr "ফর্ম ক্ষেত্রসমূহ পূরণ (~F)"
+
+#. VzGL
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_COMMENT.radiobutton.text
+msgid "~Commenting, filling in form fields"
+msgstr "মন্তব্য, ফর্ম ক্ষেত্র পূরণ (~C)"
+
+#. Mwpa
+#: impdialog.src#RID_PDF_TAB_SECURITY.RB_CHANGES_ANY_NOCOPY.radiobutton.text
+msgid "~Any except extracting pages"
+msgstr "এক্সট্রাক্টকৃত পৃষ্ঠাসমূহ  ছাড়া যেকোনো (~A)"
+
+#. NiSG
+#: impdialog.src#RID_PDF_TAB_SECURITY.CB_ENDAB_COPY.checkbox.text
+msgid "Ena~ble copying of content"
+msgstr "বিষয়বস্তুর অনুলিপি সক্রিয় করুন (~B)"
+
+#. w3w_
+#: impdialog.src#RID_PDF_TAB_SECURITY.CB_ENAB_ACCESS.checkbox.text
+msgid "Enable text access for acce~ssibility tools"
+msgstr "প্রবেশ্যতা টুলের জন্য পাঠ্য সন্নিবেশ সক্রিয় করুন (~s)"
+
+#. gm4c
+#: impdialog.src#RID_PDF_TAB_SECURITY.tabpage.text
+msgctxt "impdialog.src#RID_PDF_TAB_SECURITY.tabpage.text"
+msgid "Security"
+msgstr "নিরাপত্তা"
+
+#. I42R
+#: impdialog.src#RID_PDF_TAB_LINKS.CB_EXP_BMRK_TO_DEST.checkbox.text
+msgid "Export bookmarks as named destinations"
+msgstr "নামাঙ্কিত গন্তব্য হিসেবে বুকমার্ক এক্সপোর্ট"
+
+#. Nagf
+#: impdialog.src#RID_PDF_TAB_LINKS.CB_CNV_OOO_DOCTOPDF.checkbox.text
+msgid "Convert document references to PDF targets"
+msgstr "নথির তথ্যসূত্রকে PDF গন্তব্যে পরিবর্তন করুন"
+
+#. vdTa
+#: impdialog.src#RID_PDF_TAB_LINKS.CB_ENAB_RELLINKFSYS.checkbox.text
+msgid "Export URLs relative to file system"
+msgstr "ফাইল সিস্টেমে URL এর সাপেক্ষে এক্সপোর্ট করুন"
+
+#. qOOX
+#: impdialog.src#RID_PDF_TAB_LINKS.FL_DEFAULT_LINK_ACTION.fixedline.text
+msgid "Cross-document links"
+msgstr "ক্রস-নথি সংযোগসমূহ"
+
+#. #hrj
+#: impdialog.src#RID_PDF_TAB_LINKS.CB_VIEW_PDF_DEFAULT.radiobutton.text
+msgid "Default mode"
+msgstr "ডিফল্ট মোড"
+
+#. V9AH
+#: impdialog.src#RID_PDF_TAB_LINKS.CB_VIEW_PDF_APPLICATION.radiobutton.text
+msgid "Open with PDF reader application"
+msgstr "PDF পাঠক অ্যাপ্লিকেশন দিয়ে খুলুন"
+
+#. Tkeh
+#: impdialog.src#RID_PDF_TAB_LINKS.CB_VIEW_PDF_BROWSER.radiobutton.text
+msgid "Open with Internet browser"
+msgstr "ইন্টারনেট ব্রাউজার দিয়ে খুলুন"
+
+#. 7ifq
+#: impdialog.src#RID_PDF_TAB_LINKS.tabpage.text
+msgid "---"
+msgstr "---"
+
+#. br5W
+#: impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_GENER.pageitem.text
+msgctxt "impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_GENER.pageitem.text"
+msgid "General"
+msgstr "সাধারণ"
+
+#. 01mr
+#: impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_OPNFTR.pageitem.text
+msgctxt "impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_OPNFTR.pageitem.text"
+msgid "Initial View"
+msgstr "প্রাথমিক দৃশ্যপট"
+
+#. Noyi
+#: impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_VPREFER.pageitem.text
+msgctxt "impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_VPREFER.pageitem.text"
+msgid "User Interface"
+msgstr "ব্যবহারকারী ইন্টারফেস"
+
+#. Uh2k
+#: impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_LINKS.pageitem.text
+msgid "Links"
+msgstr "সংযোগসমূহ"
+
+#. e3Rr
+#: impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_SECURITY.pageitem.text
+msgctxt "impdialog.src#RID_PDF_EXPORT_DLG.1.RID_PDF_TAB_SECURITY.pageitem.text"
+msgid "Security"
+msgstr "নিরাপত্তা"
+
+#. hmVa
+#: impdialog.src#RID_PDF_EXPORT_DLG.tabdialog.text
+msgid "PDF Options"
+msgstr "PDF অপশন"
+
+#. ziQp
+#: impdialog.src#RID_PDF_ERROR_DLG.FT_PROCESS.fixedtext.text
+msgid "During PDF export the following problems occurred:"
+msgstr "PDF এক্সপোর্ট সময় নিম্নলিখিত ত্রুটির ঘটেছিল:"
+
+#. Boqy
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_PDFA_SHORT.string.text
+msgid "PDF/A transparency"
+msgstr "PDF/A স্বচ্ছতা"
+
+#. i66n
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_PDFA.string.text
+msgid ""
+"PDF/A forbids transparency. A transparent object was painted opaque instead."
+msgstr ""
+"PDF/A স্বচ্ছতা সমর্থন করে না। একটি স্বচ্ছ বস্তুকে স্বচ্ছতার পরিবর্তে অস্বচ্ছ "
+"রঙ করা "
+"হয়েছে।"
+
+#. 9nNt
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_VERSION_SHORT.string.text
+msgid "PDF version conflict"
+msgstr "PDF সংস্করণ দ্বন্দ্ব"
+
+#. mB#x
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_VERSION.string.text
+msgid ""
+"Transparency is not supported in PDF versions earlier than PDF 1.4. A "
+"transparent object was painted opaque instead"
+msgstr ""
+"PDF 1.4 এর আগের সংস্করণগুলো PDF স্বচ্ছতা সমর্থন করেনা। স্বচ্ছতার পরিবর্তে "
+"একটি বস্তুকে "
+"অস্বচ্ছ করা হয়েছে।"
+
+#. uhsL
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_FORMACTION_PDFA_SHORT.string.text
+msgid "PDF/A form action"
+msgstr "PDF/A ফরম ক্রিয়া"
+
+#. #l_P
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_FORMACTION_PDFA.string.text
+msgid ""
+"A form control contained an action not supported by the PDF/A standard. The "
+"action was skipped"
+msgstr ""
+"ফর্ম কন্ট্রোল এমন একটি ক্রিয়া ধারণ করে যা PDF/A দ্বারা সমর্থিত নয়। "
+"ক্রিয়াটি এড়িয়ে "
+"যাওয়া হয়েছে"
+
+#. Bvqf
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_CONVERTED.string.text
+msgid ""
+"Some objects were converted to an image in order to remove transparencies, "
+"because the target PDF format does not support transparencies. Possibly "
+"better results can be achieved if you remove the transparent objects before "
+"exporting."
+msgstr ""
+"স্বচ্ছতা সরিয়ে দিতে কিছু বস্তুকে একটি চিত্রে রূপান্তর করা হয়েছিল, কারণ "
+"গন্তব্য PDF "
+"ফরম্যাট স্বচ্ছতা সমর্থন করে না। সম্ভবত ভাল ফলাফল অর্জন করা যাবে যদি আপনি "
+"এক্সপোর্ট "
+"করার পূর্বে স্বচ্ছ বস্তুসমূহ সরিয়ে দিন।"
+
+#. th0P
+#: impdialog.src#RID_PDF_ERROR_DLG.STR_WARN_TRANSP_CONVERTED_SHORT.string.text
+msgid "Transparencies removed"
+msgstr "স্বচ্ছতাসমূহ সরিয়ে ফেলা হয়েছে"
+
+#. rFlo
+#: impdialog.src#RID_PDF_ERROR_DLG.modaldialog.text
+msgid "Problems during PDF export"
+msgstr "PDF এক্সপোর্ট করার সময় ত্রুটি "
+

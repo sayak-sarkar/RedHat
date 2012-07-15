@@ -1,0 +1,1547 @@
+# translation of bn_IN.po to Bengali INDIA
+# Bengali Translation of gnome-system-monitor
+# Copyright (C)  2003, 2006, 2009, 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-system-monitor package.
+#
+# Sayamindu Dasgupta <unmadindu@Softhome.net>, 2003.
+# Mahay Alam Khan <makl10n@yahoo.com>, 2005.
+# Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+# Runa Bhattacharjee <runab@redhat.com>, 2009, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: bn_IN\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=system-"
+"monitor&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-05-22 16:00+0000\n"
+"PO-Revision-Date: 2011-02-22 15:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+"X-Generator: Lokalize 1.1\n"
+
+#: ../gnome-system-monitor.desktop.in.in.h:1 ../src/callbacks.cpp:184
+#: ../src/interface.cpp:635 ../src/procman.cpp:721
+msgid "System Monitor"
+msgstr "System Monitor"
+
+#: ../gnome-system-monitor.desktop.in.in.h:2 ../src/callbacks.cpp:185
+msgid "View current processes and monitor system state"
+msgstr "চলমান প্রসেস দেখুন ও সিস্টেমের অবস্থা নিরীক্ষণ করুন"
+
+#: ../data/preferences.ui.h:1
+msgid "System Monitor Preferences"
+msgstr "System Monitor সংক্রান্ত পছন্দ"
+
+#: ../data/preferences.ui.h:2
+msgid "Behavior"
+msgstr "আচরণ"
+
+#: ../data/preferences.ui.h:3
+msgid "_Update interval in seconds:"
+msgstr "আপডেটের মধ্যবর্তী বিরতি, সেকেন্ড দ্বারা ব্যক্ত:(_U)"
+
+#: ../data/preferences.ui.h:4
+msgid "Enable _smooth refresh"
+msgstr "স্মুথ রিফ্রেশ ব্যবস্থা সক্রিয় করা হবে(_s)"
+
+#: ../data/preferences.ui.h:5
+msgid "Alert before ending or _killing processes"
+msgstr "প্রসেস সমাপ্ত অথবা kill করার পূর্বে সতর্কবার্তা প্রদর্শিত হবে (_k)"
+
+#: ../data/preferences.ui.h:6
+msgid "_Divide CPU usage by CPU count"
+msgstr ""
+
+#: ../data/preferences.ui.h:7
+msgid "Information Fields"
+msgstr "তথ্যের ক্ষেত্র"
+
+#: ../data/preferences.ui.h:8
+msgid "Process i_nformation shown in list:"
+msgstr "তালিকায় প্রদর্শিত প্রসেসের তথ্য: (_n)"
+
+#: ../data/preferences.ui.h:9 ../src/interface.cpp:714
+msgid "Processes"
+msgstr "প্রসেস"
+
+#: ../data/preferences.ui.h:10
+msgid "Graphs"
+msgstr "গ্রাফ"
+
+#: ../data/preferences.ui.h:11
+#, fuzzy
+#| msgid "Show network speed in bits"
+msgid "_Show network speed in bits"
+msgstr "বিট অনুযায়ী নেটওয়ার্কের গতি প্রদর্শন করা হবে"
+
+#: ../data/preferences.ui.h:12 ../src/interface.cpp:718
+msgid "Resources"
+msgstr "সামগ্রী"
+
+#: ../data/preferences.ui.h:13
+#, fuzzy
+#| msgid "Show _all filesystems"
+msgid "Show _all file systems"
+msgstr "সমস্ত ফাইল-সিস্টেম প্রদর্শিত হবে (_a)"
+
+#: ../data/preferences.ui.h:14 ../src/interface.cpp:722
+msgid "File Systems"
+msgstr "ফাইল-সিস্টেম"
+
+#: ../src/argv.cpp:21
+msgid "Show the System tab"
+msgstr "সিস্টেমের ট্যাব প্রদর্শন করা হবে"
+
+#: ../src/argv.cpp:26
+#, fuzzy
+#| msgid "Show active processes"
+msgid "Show the Processes tab"
+msgstr "সক্রিয় প্রসেস প্রদর্শন করা হবে"
+
+#: ../src/argv.cpp:31
+#, fuzzy
+#| msgid "Show the System tab"
+msgid "Show the Resources tab"
+msgstr "সিস্টেমের ট্যাব প্রদর্শন করা হবে"
+
+#: ../src/argv.cpp:36
+#, fuzzy
+#| msgid "Show the System tab"
+msgid "Show the File Systems tab"
+msgstr "সিস্টেমের ট্যাব প্রদর্শন করা হবে"
+
+#: ../src/callbacks.cpp:195
+msgid "translator-credits"
+msgstr ""
+"সায়মিন্দু দাশগুপ্ত <unmadindu@Softhome.net> \n"
+"মাহে আলম খান <makl10n@yahoo.com> \n"
+"রুণা ভট্টাচার্য্য <runabh@gmail.com> \n"
+" (অঙ্কুর বাংলা প্রকল্পের তরফ থেকে)"
+
+#: ../src/disks.cpp:299 ../src/memmaps.cpp:361
+msgid "Device"
+msgstr "ডিভাইস"
+
+#: ../src/disks.cpp:300
+msgid "Directory"
+msgstr "ডিরেক্টরি"
+
+#: ../src/disks.cpp:301 ../src/gsm_color_button.c:222 ../src/openfiles.cpp:251
+msgid "Type"
+msgstr "ধরন"
+
+#: ../src/disks.cpp:302
+msgid "Total"
+msgstr "সর্বমোট"
+
+#: ../src/disks.cpp:303
+msgid "Free"
+msgstr "মুক্ত"
+
+#: ../src/disks.cpp:304
+msgid "Available"
+msgstr "অব্যবহৃত"
+
+#: ../src/disks.cpp:305
+msgid "Used"
+msgstr "ব্যবহৃত"
+
+#. xgettext: ? stands for unknown
+#: ../src/e_date.c:155
+msgid "?"
+msgstr "?"
+
+#: ../src/e_date.c:162
+msgid "Today %l:%M %p"
+msgstr "আজ %l:%M %p"
+
+#: ../src/e_date.c:171
+msgid "Yesterday %l:%M %p"
+msgstr "গতকাল %l:%M %p"
+
+#: ../src/e_date.c:183
+msgid "%a %l:%M %p"
+msgstr "%a %l:%M %p"
+
+#: ../src/e_date.c:191
+msgid "%b %d %l:%M %p"
+msgstr "%b %d %l:%M %p"
+
+#: ../src/e_date.c:193
+msgid "%b %d %Y"
+msgstr "%b %d %Y"
+
+#: ../src/gsm_color_button.c:198
+msgid "Fraction"
+msgstr "ভগ্নাংশ"
+
+# gnome bug: 585940
+#. TRANSLATORS: description of the pie color picker's (mem, swap) filled percentage property
+#: ../src/gsm_color_button.c:200
+#, fuzzy
+#| msgid "Percentage full for pie colour pickers"
+msgid "Percentage full for pie color pickers"
+msgstr "রং নির্বাচনের চক্রাকার বৃত্তের মধ্যে শতাংশে চিহ্নিত পূর্ণতার মাপ"
+
+#: ../src/gsm_color_button.c:207
+msgid "Title"
+msgstr "শিরোনাম"
+
+#: ../src/gsm_color_button.c:208
+msgid "The title of the color selection dialog"
+msgstr "রং নির্বাচন ডায়লগের শিরোনাম"
+
+#: ../src/gsm_color_button.c:209 ../src/gsm_color_button.c:625
+msgid "Pick a Color"
+msgstr "একটি রং নির্বাচন করুন"
+
+#: ../src/gsm_color_button.c:215
+msgid "Current Color"
+msgstr "বর্তমান রং"
+
+#: ../src/gsm_color_button.c:216
+msgid "The selected color"
+msgstr "নির্বাচিত রং"
+
+#: ../src/gsm_color_button.c:223
+msgid "Type of color picker"
+msgstr "রঙ নির্বাচনের ধরন"
+
+#: ../src/gsm_color_button.c:548
+msgid "Received invalid color data\n"
+msgstr "রঙ সংক্রান্ত প্রাপ্ত তথ্যে বৈধ নয়\n"
+
+#: ../src/gsm_color_button.c:648
+msgid "Click to set graph colors"
+msgstr "গ্রাফের রঙ নির্ধারণ করতে ক্লিক করুন"
+
+#. xgettext: noun, top level menu.
+#. "File" did not make sense for system-monitor
+#: ../src/interface.cpp:51
+msgid "_Monitor"
+msgstr "নিরীক্ষণ ব্যবস্থা (_M)"
+
+#: ../src/interface.cpp:52
+msgid "_Edit"
+msgstr "সম্পাদনা (_E)"
+
+#: ../src/interface.cpp:53
+msgid "_View"
+msgstr "প্রদর্শন (_V)"
+
+#: ../src/interface.cpp:54
+msgid "_Help"
+msgstr "সহায়তা (_H)"
+
+#: ../src/interface.cpp:56
+msgid "Search for _Open Files"
+msgstr "খোলা ফাইল অনুসন্ধান করুন (_O)"
+
+#: ../src/interface.cpp:57
+msgid "Search for open files"
+msgstr "খোলা ফাইল অনুসন্ধান করুন"
+
+#: ../src/interface.cpp:59
+msgid "Quit the program"
+msgstr "প্রোগ্রাম বন্ধ করুন"
+
+#: ../src/interface.cpp:62
+msgid "_Stop Process"
+msgstr "প্রসেস বন্ধ করুন (_S)"
+
+#: ../src/interface.cpp:63
+msgid "Stop process"
+msgstr "প্রসেস বন্ধ করুন"
+
+#: ../src/interface.cpp:64
+msgid "_Continue Process"
+msgstr "প্রসেস সক্রিয় রাখা হবে (_C)"
+
+#: ../src/interface.cpp:65
+msgid "Continue process if stopped"
+msgstr "প্রসেস বন্ধ করা হলে চালু করা হবে"
+
+#: ../src/interface.cpp:67 ../src/procdialogs.cpp:95
+msgid "_End Process"
+msgstr "প্রসেস সমাপ্ত করুন (_E)"
+
+#: ../src/interface.cpp:68
+msgid "Force process to finish normally"
+msgstr "বলপূর্বক প্রসেসটি স্বাভাবিকরূপে সমাপ্ত করুন"
+
+#: ../src/interface.cpp:69 ../src/procdialogs.cpp:84
+msgid "_Kill Process"
+msgstr "প্রসেস kill করুন (_K)"
+
+#: ../src/interface.cpp:70
+msgid "Force process to finish immediately"
+msgstr "বলপূর্বক প্রসেসটি এই মুহূর্তে সমাপ্ত করুন"
+
+#: ../src/interface.cpp:71
+#, fuzzy
+#| msgid "Change Priority"
+msgid "_Change Priority"
+msgstr "গুরুত্ব পরিবর্তন করুন"
+
+#: ../src/interface.cpp:72
+msgid "Change the order of priority of process"
+msgstr "প্রসেসের গুরুত্বের ক্রম পরিবর্তন করুন"
+
+#: ../src/interface.cpp:74
+msgid "Configure the application"
+msgstr "অ্যাপ্লিকেশন কনফিগার করুন"
+
+#: ../src/interface.cpp:76
+msgid "_Refresh"
+msgstr "নতুন করে প্রদর্শন (_R)"
+
+#: ../src/interface.cpp:77
+msgid "Refresh the process list"
+msgstr "প্রসেসের তালিকা নতুন করে প্রদর্শন করা হবে"
+
+#: ../src/interface.cpp:79
+msgid "_Memory Maps"
+msgstr "মেমরি ম্যাপ (_M)"
+
+#: ../src/interface.cpp:80
+msgid "Open the memory maps associated with a process"
+msgstr "প্রসেসের সাথে যুক্ত মেমরি ম্যাপ খুলুন"
+
+#. Translators: this means 'Files that are open' (open is no verb here)
+#: ../src/interface.cpp:82
+msgid "Open _Files"
+msgstr "ফাইল খুলুন (_F)"
+
+#: ../src/interface.cpp:83
+msgid "View the files opened by a process"
+msgstr "প্রসেসর দ্বারা খোলা ফাইল দেখুন"
+
+#: ../src/interface.cpp:84
+#, fuzzy
+#| msgid "Processes"
+msgid "_Properties"
+msgstr "প্রসেস"
+
+#: ../src/interface.cpp:85
+msgid "View additional information about a process"
+msgstr ""
+
+#: ../src/interface.cpp:88
+msgid "_Contents"
+msgstr "সূচি (_C)"
+
+#: ../src/interface.cpp:89
+msgid "Open the manual"
+msgstr "সহায়িকা খুলুন"
+
+#: ../src/interface.cpp:91
+msgid "About this application"
+msgstr "অ্যাপ্লিকেশন পরিচিতি"
+
+#: ../src/interface.cpp:96
+msgid "_Dependencies"
+msgstr "নির্ভরতা (_D)"
+
+#: ../src/interface.cpp:97
+msgid "Show parent/child relationship between processes"
+msgstr "প্রসেসের মধ্যে প্যারেন্ট/চাইল্ড সম্পর্ক প্রদর্শন করা হবে"
+
+#: ../src/interface.cpp:104
+msgid "_Active Processes"
+msgstr "সক্রিয় প্রসেস (_A)"
+
+#: ../src/interface.cpp:105
+msgid "Show active processes"
+msgstr "সক্রিয় প্রসেস প্রদর্শন করা হবে"
+
+#: ../src/interface.cpp:106
+msgid "A_ll Processes"
+msgstr "সকল প্রসেস (_l)"
+
+#: ../src/interface.cpp:107
+msgid "Show all processes"
+msgstr "সকল প্রসেস প্রদর্শন করা হবে"
+
+#: ../src/interface.cpp:108
+msgid "M_y Processes"
+msgstr "ব্যবহারকারীর প্রসেস (_y)"
+
+#: ../src/interface.cpp:109
+#, fuzzy
+#| msgid "Show user own process"
+msgid "Show only user-owned processes"
+msgstr "ব্যবহারকারীর নিজস্ব প্রসেস প্রদর্শন করা হবে"
+
+#: ../src/interface.cpp:114 ../src/util.cpp:217
+#, fuzzy
+#| msgid "(Very High Priority)"
+msgid "Very High"
+msgstr "(অত্যন্ত উচ্চ গুরুত্ব)"
+
+#: ../src/interface.cpp:115
+msgid "Set process priority to very high"
+msgstr ""
+
+#: ../src/interface.cpp:116 ../src/util.cpp:219
+msgid "High"
+msgstr ""
+
+#: ../src/interface.cpp:117
+msgid "Set process priority to high"
+msgstr ""
+
+#: ../src/interface.cpp:118 ../src/util.cpp:221
+msgid "Normal"
+msgstr ""
+
+#: ../src/interface.cpp:119
+#, fuzzy
+#| msgid "Force process to finish normally"
+msgid "Set process priority to normal"
+msgstr "বলপূর্বক প্রসেসটি স্বাভাবিকরূপে সমাপ্ত করুন"
+
+#: ../src/interface.cpp:120 ../src/util.cpp:223
+msgid "Low"
+msgstr ""
+
+#: ../src/interface.cpp:121
+msgid "Set process priority to low"
+msgstr ""
+
+#: ../src/interface.cpp:122 ../src/util.cpp:225
+msgid "Very Low"
+msgstr ""
+
+#: ../src/interface.cpp:123
+msgid "Set process priority to very low"
+msgstr ""
+
+#: ../src/interface.cpp:124
+msgid "Custom"
+msgstr ""
+
+#: ../src/interface.cpp:125
+msgid "Set process priority manually"
+msgstr ""
+
+#: ../src/interface.cpp:231
+msgid "End _Process"
+msgstr "প্রসেস সমাপ্ত করুন (_P)"
+
+#. Translators: color picker title, %s is CPU, Memory, Swap, Receiving, Sending
+#: ../src/interface.cpp:279
+#, fuzzy, c-format
+#| msgid "Pick a Color"
+msgid "Pick a Color for '%s'"
+msgstr "একটি রং নির্বাচন করুন"
+
+#: ../src/interface.cpp:290
+msgid "CPU History"
+msgstr "CPU ব্যবহার সংক্রান্ত পূর্ববর্তী তথ্য"
+
+#: ../src/interface.cpp:344 ../src/procproperties.cpp:139
+msgid "CPU"
+msgstr "CPU"
+
+#: ../src/interface.cpp:346
+#, c-format
+msgid "CPU%d"
+msgstr "CPU%d"
+
+#: ../src/interface.cpp:367
+msgid "Memory and Swap History"
+msgstr "মেমরি ও Swap ব্যবহার সংক্রান্ত পূর্ববর্তী তথ্য"
+
+#: ../src/interface.cpp:401 ../src/proctable.cpp:252
+#: ../src/procproperties.cpp:133
+msgid "Memory"
+msgstr "মেমরি"
+
+#: ../src/interface.cpp:432
+msgid "Swap"
+msgstr "Swap"
+
+#: ../src/interface.cpp:463
+msgid "Network History"
+msgstr "নেটওয়ার্ক ব্যবহার সংক্রান্ত পূর্ববর্তী তথ্য"
+
+#: ../src/interface.cpp:496
+msgid "Receiving"
+msgstr "প্রাপ্ত করা হচ্ছে"
+
+#: ../src/interface.cpp:529
+msgid "Total Received"
+msgstr "সর্বমোট প্রাপ্ত"
+
+#: ../src/interface.cpp:557
+msgid "Sending"
+msgstr "পাঠানো হচ্ছে"
+
+#: ../src/interface.cpp:591
+msgid "Total Sent"
+msgstr "সর্বমোট প্রেরিত"
+
+#. procman_create_sysinfo_view();
+#: ../src/interface.cpp:710
+msgid "System"
+msgstr "সিস্টেম"
+
+#: ../src/load-graph.cpp:166
+#, c-format
+msgid "%u second"
+msgid_plural "%u seconds"
+msgstr[0] "%u সেকেন্ড"
+msgstr[1] "%u সেকেন্ড"
+
+#: ../src/load-graph.cpp:347
+#, fuzzy
+#| msgid "Available"
+msgid "not available"
+msgstr "অব্যবহৃত"
+
+#. xgettext: 540MiB (53 %) of 1.0 GiB
+#: ../src/load-graph.cpp:350
+#, fuzzy, c-format
+#| msgid "%s (%.1f %%) of %s"
+msgid "%s (%.1f%%) of %s"
+msgstr "%s (%.1f %%) of %s"
+
+#: ../src/lsof.cpp:124
+#, c-format
+msgid ""
+"<b>Error</b>\n"
+"'%s' is not a valid Perl regular expression.\n"
+"%s"
+msgstr ""
+"<b>ত্রুটি</b>\n"
+"'%s', Perl-র বৈধ রেগুলার এক্সপ্রেশন নয়।\n"
+"%s"
+
+#: ../src/lsof.cpp:270
+msgid "Process"
+msgstr "প্রসেস"
+
+#: ../src/lsof.cpp:282
+msgid "PID"
+msgstr "PID"
+
+#: ../src/lsof.cpp:292 ../src/memmaps.cpp:339
+msgid "Filename"
+msgstr "ফাইলের নাম"
+
+#. gtk_window_set_modal(GTK_WINDOW(dialog), TRUE);
+#: ../src/lsof.cpp:309
+msgid "Search for Open Files"
+msgstr "খোলা ফাইল অনুসন্ধান করা হয়"
+
+#: ../src/lsof.cpp:336
+msgid "_Name contains:"
+msgstr "নামের মধ্যে অন্তর্ভুক্ত: (_N)"
+
+#. The default accelerator collides with the default close accelerator.
+#: ../src/lsof.cpp:350
+msgid "C_lear"
+msgstr ""
+
+#: ../src/lsof.cpp:354
+msgid "Case insensitive matching"
+msgstr "হরফের ছাঁদ বিনা মেলানো হবে"
+
+#: ../src/lsof.cpp:362
+msgid "S_earch results:"
+msgstr "অনুসন্ধানের ফলাফল: (_e)"
+
+#. xgettext: virtual memory start
+#: ../src/memmaps.cpp:341
+msgid "VM Start"
+msgstr "VM প্রারম্ভ"
+
+#. xgettext: virtual memory end
+#: ../src/memmaps.cpp:343
+msgid "VM End"
+msgstr "VM সমাপ্ত"
+
+#. xgettext: virtual memory syze
+#: ../src/memmaps.cpp:345
+msgid "VM Size"
+msgstr "VM মাপ"
+
+#: ../src/memmaps.cpp:346
+msgid "Flags"
+msgstr "ফ্ল্যাগ"
+
+#. xgettext: virtual memory offset
+#: ../src/memmaps.cpp:348
+msgid "VM Offset"
+msgstr "VM অফ-সেট"
+
+#. xgettext: memory that has not been modified since
+#. it has been allocated
+#: ../src/memmaps.cpp:351
+msgid "Private clean"
+msgstr "অপরিবর্তিত প্রাইভেট মেমরি"
+
+#. xgettext: memory that has been modified since it
+#. has been allocated
+#: ../src/memmaps.cpp:354
+msgid "Private dirty"
+msgstr "পরিবর্তিত প্রাইভেট মেমরি"
+
+#. xgettext: shared memory that has not been modified
+#. since it has been allocated
+#: ../src/memmaps.cpp:357
+msgid "Shared clean"
+msgstr "অপরিবর্তিত শেয়ার্ড মেমরি"
+
+#. xgettext: shared memory that has been modified
+#. since it has been allocated
+#: ../src/memmaps.cpp:360
+msgid "Shared dirty"
+msgstr "পরিবর্তিত শেয়ার্ড মেমরি"
+
+#: ../src/memmaps.cpp:362
+msgid "Inode"
+msgstr "Inode"
+
+#: ../src/memmaps.cpp:467
+msgid "Memory Maps"
+msgstr "মেমরি ম্যাপ"
+
+#: ../src/memmaps.cpp:479
+#, c-format
+msgid "_Memory maps for process \"%s\" (PID %u):"
+msgstr "\"%s\" (PID %u) প্রসেসের মেমরি ম্যাপ:(_M)"
+
+#: ../src/openfiles.cpp:38
+msgid "file"
+msgstr "ফাইল"
+
+#: ../src/openfiles.cpp:40
+msgid "pipe"
+msgstr "পাইপ"
+
+#: ../src/openfiles.cpp:42
+msgid "IPv6 network connection"
+msgstr "IPv6 নেটওয়ার্ক সংযোগ"
+
+#: ../src/openfiles.cpp:44
+msgid "IPv4 network connection"
+msgstr "IPv4 নেটওয়ার্ক সংযোগ"
+
+#: ../src/openfiles.cpp:46
+msgid "local socket"
+msgstr "স্থানীয় সকেট"
+
+#: ../src/openfiles.cpp:48
+msgid "unknown type"
+msgstr "অজানা ধরন"
+
+#. Translators: "FD" here means "File Descriptor". Please use
+#. a very short translation if possible, and at most
+#. 2-3 characters for it to be able to fit in the UI.
+#: ../src/openfiles.cpp:250
+msgid "FD"
+msgstr "FD"
+
+#: ../src/openfiles.cpp:252
+msgid "Object"
+msgstr "অবজেক্ট"
+
+#: ../src/openfiles.cpp:336
+msgid "Open Files"
+msgstr "খোলা ফাইল"
+
+#: ../src/openfiles.cpp:357
+#, c-format
+msgid "_Files opened by process \"%s\" (PID %u):"
+msgstr "প্রসেস \"%s\" (PID %u) দ্বারা খোলা ফাইল:_F"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:1
+msgid "Main Window width"
+msgstr "প্রধান উইন্ডোর প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:2
+msgid "Main Window height"
+msgstr "প্রধান উইন্ডোর উচ্চতা"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:3
+#, fuzzy
+#| msgid "Main Window width"
+msgid "Main Window X position"
+msgstr "প্রধান উইন্ডোর প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:4
+#, fuzzy
+#| msgid "Main Window width"
+msgid "Main Window Y position"
+msgstr "প্রধান উইন্ডোর প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:5
+msgid "Show process dependencies in tree form"
+msgstr "প্রসেসের নির্ভরত ট্রি-বিন্যাসে প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:6
+msgid "Solaris mode for CPU percentage"
+msgstr "CPU-র শতাংশের জন্য Solaris মোড"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:7
+#, fuzzy
+#| msgid ""
+#| "If TRUE, system-monitor operates in 'Solaris mode' where a task's cpu "
+#| "usage is divided by the total number of CPUs. Else it operates in 'Irix "
+#| "mode'."
+msgid ""
+"If TRUE, system-monitor operates in 'Solaris mode' where a task's CPU usage "
+"is divided by the total number of CPUs. Otherwise, it operates in 'Irix "
+"mode'."
+msgstr ""
+"মান TRUE (সত্য) হলে, 'Solaris মোড'-এ system-monitor সঞ্চালিত হবে এবং কর্ম দ্বারা "
+"ব্যবহৃত cpu-র সর্বমোট পরিমাণ, উপস্থিত CPU-র সংখ্যা দ্বারা বিভাগ করা যায়। অন্যথা এটি "
+"'Irix মোড'-এ সঞ্চালিত হবে।"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:8
+msgid "Enable/Disable smooth refresh"
+msgstr "স্মুথ রিফ্রেশ ব্যবস্থা সক্রিয়/নিষ্ক্রিয় করুন"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:9
+msgid "Show warning dialog when killing processes"
+msgstr "প্রসেস kill করার সময় সতর্কতাসূচক ডায়লগ বক্স প্রদর্শন করা হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:10
+msgid "Time in milliseconds between updates of the process view"
+msgstr "প্রসেস প্রদর্শন আপডেটের মধ্যবর্তী সময়, মিলিসেকেন্ডে ব্যক্ত"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:11
+msgid "Time in milliseconds between updates of the graphs"
+msgstr "গ্রাফ আপডেটের মধ্যবর্তী সময়, মিলিসেকেন্ডে ব্যক্ত"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:12
+#, fuzzy
+#| msgid "Whether information about all filesystems should be displayed"
+msgid "Whether information about all file systems should be displayed"
+msgstr "সমস্ত ফাইল-সিস্টেম সংক্রান্ত তথ্য প্রদর্শিত হবে কি না"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:13
+#, fuzzy
+#| msgid ""
+#| "Whether to display information about all filesystems (including types "
+#| "like 'autofs' and 'procfs'). Useful for getting a list of all currently "
+#| "mounted filesystems."
+msgid ""
+"Whether to display information about all file systems (including types like "
+"'autofs' and 'procfs'). Useful for getting a list of all currently mounted "
+"file systems."
+msgstr ""
+"সর্বধরনের ফাইল-সিস্টেম সম্পর্কিত তথ্য প্রদর্শিত হবে কি না ('autofs' ও 'procfs' সহ)। "
+"বর্তমানে মাউন্ট করা সমস্ত ফাইল-সিস্টেম সম্পর্কিত তথ্য প্রাপ্ত করতে সহায়ক।"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:14
+msgid "Time in milliseconds between updates of the devices list"
+msgstr "ডিভাইস তালিকা আপডেট করার মধ্যে অন্তর্বর্তী সময়কাল, মিলিসেকেন্ডে ব্যক্ত"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:15
+msgid ""
+"Determines which processes to show by default. 0 is All, 1 is user, and 2 is "
+"active"
+msgstr ""
+"ডিফল্টরূপে প্রদর্শিত প্রসেসের তালিকা নির্ধারণ করতে ব্যবহৃত। মান 0(০) হলে সমস্ত, 1(১) "
+"হলে শুধুমাত্র ব্যবহারকারীর ও 2(২) হলে বর্তমানে সক্রিয় প্রসেস।"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:16
+msgid "Saves the currently viewed tab"
+msgstr "বর্তমানে প্রদর্শিত ট্যাব সংরক্ষণ করতে ব্যবহৃত"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:17
+msgid ""
+"0 for the System Info, 1 for the processes list, 2 for the resources and 3 "
+"for the disks list"
+msgstr ""
+"সিস্টেমের তথ্যের জন্য 0, প্রসেস তালিকার জন্য 1, রিসোর্সের জন্য 2 ও ডিস্কের তালিকার "
+"জন্য 3"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:18
+msgid "CPU colors"
+msgstr ""
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:19
+msgid "Each entry is in the format (CPU#, Hexadecimal color value)"
+msgstr ""
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:20
+#, fuzzy
+#| msgid "Default graph mem color"
+msgid "Default graph memory color"
+msgstr "গ্রাফ mem'র ডিফল্ট রং"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:21
+msgid "Default graph swap color"
+msgstr "গ্রাফ swap'র ডিফল্ট রং"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:22
+msgid "Default graph incoming network traffic color"
+msgstr "আগমণকারী নেটওয়ার্ক ট্র্যাফিকের গ্রাফের ডিফল্ট রং"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:23
+msgid "Default graph outgoing network traffic color"
+msgstr "বাহিরমূখী নেটওয়ার্ক ট্র্যাফিকের গ্রাফের ডিফল্ট রং"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:24
+msgid "Show network traffic in bits"
+msgstr "বিট অনুযায়ী নেটওয়ার্কের ট্র্যাফিক প্রদর্শন করা হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:25
+msgid "Process view sort column"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনে কলামের ক্রম সুবন্যস্ত করুন"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:26
+msgid "Process view columns order"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনে কলামের ক্রম"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:27
+msgid "Process view sort order"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনের অনুক্রম সুবিন্যস্ত করুন"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:28
+#, fuzzy
+#| msgid "Width of process 'name' column"
+msgid "Width of process 'Name' column"
+msgstr "প্রসেস 'নাম' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:29
+#, fuzzy
+#| msgid "Show process 'name' column on startup"
+msgid "Show process 'Name' column on startup"
+msgstr "প্রারম্ভের প্রসেসের 'নাম' শীর্ষক কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:30
+#, fuzzy
+#| msgid "Width of process 'owner' column"
+msgid "Width of process 'User' column"
+msgstr "প্রসেস 'মালিকানা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:31
+#, fuzzy
+#| msgid "Show process 'owner' column on startup"
+msgid "Show process 'User' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'মালিকানা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:32
+#, fuzzy
+#| msgid "Width of process 'status' column"
+msgid "Width of process 'Status' column"
+msgstr "প্রসেস 'অবস্থা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:33
+#, fuzzy
+#| msgid "Show process 'status' column on startup"
+msgid "Show process 'Status' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'অবস্থা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:34
+#, fuzzy
+#| msgid "Width of process 'virtual memory' column"
+msgid "Width of process 'Virtual Memory' column"
+msgstr "প্রসেস 'ভার্চুয়াল মেমরি' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:35
+#, fuzzy
+#| msgid "Show process 'virtual memory' column on startup"
+msgid "Show process 'Virtual Memory' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'ভার্চুয়াল মেমরি' কলাম প্রদর্শন করা হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:36
+#, fuzzy
+#| msgid "Width of process 'resident memory' column"
+msgid "Width of process 'Resident Memory' column"
+msgstr "প্রসেস 'অভ্যন্তরীণ মেমরি' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:37
+#, fuzzy
+#| msgid "Show process 'resident memory' column on startup"
+msgid "Show process 'Resident Memory' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'অভ্যন্তরীণ মেমরি' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:38
+#, fuzzy
+#| msgid "Width of process 'writable memory' column"
+msgid "Width of process 'Writable Memory' column"
+msgstr "প্রসেস 'লিখনযোগ্য মেমরি' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:39
+#, fuzzy
+#| msgid "Show process 'writable memory' column on startup"
+msgid "Show process 'Writable Memory' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'লিখনযোগ্য মেমরি' কলাম প্রদর্শন করা হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:40
+#, fuzzy
+#| msgid "Width of process 'shared memory' column"
+msgid "Width of process 'Shared Memory' column"
+msgstr "প্রসেস 'শেয়ার মেমরি' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:41
+#, fuzzy
+#| msgid "Show process 'shared memory' column on startup"
+msgid "Show process 'Shared Memory' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'শেয়ার মেমরি' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:42
+#, fuzzy
+#| msgid "Width of process 'X server memory' column"
+msgid "Width of process 'X Server Memory' column"
+msgstr "প্রসেস 'X সার্ভার মেমরি' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:43
+#, fuzzy
+#| msgid "Show process 'X server memory' column on startup"
+msgid "Show process 'X Server Memory' column on startup"
+msgstr "প্রসেসের 'X সার্ভার মেমরি' কলামের কলাম শূণ্য প্রারম্ভে প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:45
+#, no-c-format
+msgid "Width of process 'CPU %' column"
+msgstr "প্রসেস CPU % কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:47
+#, no-c-format
+msgid "Show process 'CPU %' column on startup"
+msgstr "প্রারম্ভে প্রসেস 'CPU %' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:48
+#, fuzzy
+#| msgid "Width of process 'CPU time' column"
+msgid "Width of process 'CPU Time' column"
+msgstr "প্রসেস 'CPU-র সময়' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:49
+#, fuzzy
+#| msgid "Show process 'CPU time' column on startup"
+msgid "Show process 'CPU Time' column on startup"
+msgstr "প্রারম্ভে প্রসেস 'CPU-র সময়' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:50
+#, fuzzy
+#| msgid "Width of process 'start time' column"
+msgid "Width of process 'Started' column"
+msgstr "প্রসেস 'আরম্ভকাল' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:51
+#, fuzzy
+#| msgid "Show process 'start time' column on startup"
+msgid "Show process 'Started' column on startup"
+msgstr "প্রারম্ভে প্রসেসর 'আরম্ভকাল' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:52
+#, fuzzy
+#| msgid "Width of process 'nice' column"
+msgid "Width of process 'Nice' column"
+msgstr "প্রসেস 'nice' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:53
+#, fuzzy
+#| msgid "Show process 'nice' column on startup"
+msgid "Show process 'Nice' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'nice' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:54
+msgid "Width of process 'PID' column"
+msgstr "প্রসেস 'PID' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:55
+msgid "Show process 'PID' column on startup"
+msgstr "প্রারম্ভে প্রসেস 'PID' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:56
+#, fuzzy
+#| msgid "Width of process 'SELinux security context' column"
+msgid "Width of process 'SELinux Security Context' column"
+msgstr "প্রসেস 'SELinux সিকিউরিট কনটেক্সট' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:57
+#, fuzzy
+#| msgid "Show process 'SELinux security context' column on startup"
+msgid "Show process 'SELinux Security Context' column on startup"
+msgstr "প্রারম্ভে প্রসেস 'SELinux সিকিউরিট কনটেক্সট' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:58
+#, fuzzy
+#| msgid "Width of process 'nice' column"
+msgid "Width of process 'Command Line' column"
+msgstr "প্রসেস 'nice' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:59
+#, fuzzy
+#| msgid "Show process 'nice' column on startup"
+msgid "Show process 'Command Line' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'nice' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:60
+#, fuzzy
+#| msgid "Width of process 'owner' column"
+msgid "Width of process 'Memory' column"
+msgstr "প্রসেস 'মালিকানা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:61
+#, fuzzy
+#| msgid "Show process 'owner' column on startup"
+msgid "Show process 'Memory' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'মালিকানা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:62
+msgid "Width of process 'Waiting Channel' column"
+msgstr "প্রসেস 'অপেক্ষারত চ্যানেল' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:63
+msgid "Show process 'Waiting Channel' column on startup"
+msgstr "প্রারম্ভে প্রসেস 'অপেক্ষারত চ্যানেল' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:64
+#, fuzzy
+#| msgid "Width of process 'owner' column"
+msgid "Width of process 'Control Group' column"
+msgstr "প্রসেস 'মালিকানা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:65
+#, fuzzy
+#| msgid "Show process 'owner' column on startup"
+msgid "Show process 'Control Group' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'মালিকানা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:66
+#, fuzzy
+#| msgid "Width of process 'nice' column"
+msgid "Width of process 'Unit' column"
+msgstr "প্রসেস 'nice' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:67
+#, fuzzy
+#| msgid "Show process 'nice' column on startup"
+msgid "Show process 'Unit' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'nice' কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:68
+#, fuzzy
+#| msgid "Width of process 'owner' column"
+msgid "Width of process 'Session' column"
+msgstr "প্রসেস 'মালিকানা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:69
+#, fuzzy
+#| msgid "Show process 'owner' column on startup"
+msgid "Show process 'Session' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'মালিকানা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:70
+#, fuzzy
+#| msgid "Width of process 'status' column"
+msgid "Width of process 'Seat' column"
+msgstr "প্রসেস 'অবস্থা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:71
+#, fuzzy
+#| msgid "Show process 'status' column on startup"
+msgid "Show process 'Seat' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'অবস্থা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:72
+#, fuzzy
+#| msgid "Width of process 'owner' column"
+msgid "Width of process 'Owner' column"
+msgstr "প্রসেস 'মালিকানা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:73
+#, fuzzy
+#| msgid "Show process 'owner' column on startup"
+msgid "Show process 'Owner' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'মালিকানা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:74
+#, fuzzy
+#| msgid "Width of process 'owner' column"
+msgid "Width of process 'Priority' column"
+msgstr "প্রসেস 'মালিকানা' কলামের প্রস্থ"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:75
+#, fuzzy
+#| msgid "Show process 'owner' column on startup"
+msgid "Show process 'Priority' column on startup"
+msgstr "প্রারম্ভে প্রসেসের 'মালিকানা' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:76
+#, fuzzy
+#| msgid "Process view sort column"
+msgid "Disk view sort column"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনে কলামের ক্রম সুবন্যস্ত করুন"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:77
+#, fuzzy
+#| msgid "Disk view columns order"
+msgid "Disk view sort order"
+msgstr "ডিস্ক প্রদর্শন ব্যবস্থায় কলামের ক্রম"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:78
+msgid "Disk view columns order"
+msgstr "ডিস্ক প্রদর্শন ব্যবস্থায় কলামের ক্রম"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:79
+#, fuzzy
+#| msgid "Process view sort column"
+msgid "Memory map sort column"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনে কলামের ক্রম সুবন্যস্ত করুন"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:80
+#, fuzzy
+#| msgid "Memory and Swap History"
+msgid "Memory map sort order"
+msgstr "মেমরি ও Swap ব্যবহার সংক্রান্ত পূর্ববর্তী তথ্য"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:81
+#, fuzzy
+#| msgid "Process view sort column"
+msgid "Open files sort column"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনে কলামের ক্রম সুবন্যস্ত করুন"
+
+#: ../src/org.gnome.gnome-system-monitor.gschema.xml.in.h:82
+#, fuzzy
+#| msgid "Process view sort order"
+msgid "Open files sort order"
+msgstr "প্রসেস অনুযায়ী প্রদর্শনের অনুক্রম সুবিন্যস্ত করুন"
+
+#: ../src/procactions.cpp:76
+#, fuzzy, c-format
+#| msgid ""
+#| "Cannot change the priority of process with pid %d to %d.\n"
+#| "%s"
+msgid ""
+"Cannot change the priority of process with PID %d to %d.\n"
+"%s"
+msgstr ""
+"pid %d সহ প্রসেসের গুরুত্ব %d-এ পরিবর্তন করতে ব্যর্থ।\n"
+"%s"
+
+#: ../src/procactions.cpp:156
+#, fuzzy, c-format
+#| msgid ""
+#| "Cannot kill process with pid %d with signal %d.\n"
+#| "%s"
+msgid ""
+"Cannot kill process with PID %d with signal %d.\n"
+"%s"
+msgstr ""
+"pid %d সহ প্রসেসকে সিগনাল %d দ্বারা kill করতে ব্যর্থ।\n"
+"%s"
+
+#. xgettext: primary alert message
+#: ../src/procdialogs.cpp:77
+#, fuzzy, c-format
+#| msgid "Kill the selected process?"
+msgid "Kill the selected process »%s« (PID: %u)?"
+msgstr "নির্বাচিত প্রসেস kill করা হবে কি?"
+
+#. xgettext: secondary alert message
+#: ../src/procdialogs.cpp:81
+#, fuzzy
+#| msgid ""
+#| "Killing a process may destroy data, break the session or introduce a "
+#| "security risk. Only unresponding processes should be killed."
+msgid ""
+"Killing a process may destroy data, break the session or introduce a "
+"security risk. Only unresponsive processes should be killed."
+msgstr ""
+"প্রসেস Kill করার ফলে তথ্য নষ্ট ও সেশান বিপর্যস্ত হতে পারে ও নিরাপত্তাজড়িত সমস্যা "
+"উৎপন্ন হওয়া সম্ভাবনা রয়েছে। শুধুমাত্র অসাড় প্রসেস kill করা উচিত।"
+
+#. xgettext: primary alert message
+#: ../src/procdialogs.cpp:88
+#, fuzzy, c-format
+#| msgid "End the selected process?"
+msgid "End the selected process »%s« (PID: %u)?"
+msgstr "নির্বাচিত প্রসেস সমাপ্ত করা হবে কি?"
+
+#. xgettext: secondary alert message
+#: ../src/procdialogs.cpp:92
+#, fuzzy
+#| msgid ""
+#| "Ending a process may destroy data, break the session or introduce a "
+#| "security risk. Only unresponding processes should be ended."
+msgid ""
+"Ending a process may destroy data, break the session or introduce a security "
+"risk. Only unresponsive processes should be ended."
+msgstr ""
+"প্রসেস সমাপ্ত করার ফলে তথ্য নষ্ট ও সেশান বিপর্যস্ত হতে পারে ও নিরাপত্তাজড়িত সমস্যা "
+"উৎপন্ন হওয়া সম্ভাবনা রয়েছে। শুধুমাত্র অসাড় প্রসেস সমাপ্ত করা উচিত।"
+
+#: ../src/procdialogs.cpp:130 ../src/procdialogs.cpp:220
+#, fuzzy, c-format
+#| msgid "(Low Priority)"
+msgid "(%s Priority)"
+msgstr "(নিম্ন মাত্রার গুরুত্ব)"
+
+#: ../src/procdialogs.cpp:174
+#, fuzzy, c-format
+#| msgid "_Memory maps for process \"%s\" (PID %u):"
+msgid "Change Priority of Process »%s« (PID: %u)"
+msgstr "\"%s\" (PID %u) প্রসেসের মেমরি ম্যাপ:(_M)"
+
+#: ../src/procdialogs.cpp:186
+msgid "Change _Priority"
+msgstr "গুরুত্ব পরিবর্তন করুন (_P)"
+
+#: ../src/procdialogs.cpp:209
+msgid "_Nice value:"
+msgstr "Nice'র মান:(_N)"
+
+#: ../src/procdialogs.cpp:226
+msgid "Note:"
+msgstr "উল্লেখ্য:"
+
+#: ../src/procdialogs.cpp:227
+msgid ""
+"The priority of a process is given by its nice value. A lower nice value "
+"corresponds to a higher priority."
+msgstr ""
+"প্রসেসের গুরুত্ব nice মান দ্বারা নির্ধারিত হয়। nice'র মান তুলনামূলকরূপে কম হলে "
+"প্রসেসের গুরুত্বের মাত্রা বেশি হবে।"
+
+#: ../src/procdialogs.cpp:449
+msgid "Icon"
+msgstr "আইকন"
+
+#: ../src/procman.cpp:668
+msgid "A simple process and system monitor."
+msgstr "সাধারণ প্রসেস ও সিস্টেম মনিটর।"
+
+#: ../src/proctable.cpp:237 ../src/procproperties.cpp:130
+msgid "Process Name"
+msgstr "প্রসেসের নাম"
+
+#: ../src/proctable.cpp:238 ../src/procproperties.cpp:131
+msgid "User"
+msgstr "ব্যবহারকারী"
+
+#: ../src/proctable.cpp:239 ../src/procproperties.cpp:132
+msgid "Status"
+msgstr "অবস্থা"
+
+#: ../src/proctable.cpp:240 ../src/procproperties.cpp:134
+msgid "Virtual Memory"
+msgstr "ভার্চুয়াল মেমরি"
+
+#: ../src/proctable.cpp:241 ../src/procproperties.cpp:135
+msgid "Resident Memory"
+msgstr "রেসিডেন্ট মেমরি"
+
+#: ../src/proctable.cpp:242 ../src/procproperties.cpp:136
+msgid "Writable Memory"
+msgstr "লিখনযোগ্য মেমরি"
+
+#: ../src/proctable.cpp:243 ../src/procproperties.cpp:137
+msgid "Shared Memory"
+msgstr "যৌথরূপে ব্যবহৃত (শেয়ার) মেমরি"
+
+#: ../src/proctable.cpp:244 ../src/procproperties.cpp:138
+msgid "X Server Memory"
+msgstr "X সার্ভার মেমরি"
+
+#: ../src/proctable.cpp:245
+#, no-c-format
+msgid "% CPU"
+msgstr "% CPU"
+
+#: ../src/proctable.cpp:246 ../src/procproperties.cpp:140
+msgid "CPU Time"
+msgstr "CPU সময়"
+
+#: ../src/proctable.cpp:247 ../src/procproperties.cpp:141
+msgid "Started"
+msgstr "প্রারম্ভকাল"
+
+#: ../src/proctable.cpp:248 ../src/procproperties.cpp:142
+msgid "Nice"
+msgstr "Nice"
+
+#: ../src/proctable.cpp:249 ../src/procproperties.cpp:144
+msgid "ID"
+msgstr "ID"
+
+#: ../src/proctable.cpp:250 ../src/procproperties.cpp:145
+msgid "Security Context"
+msgstr "সিকিউরিটি কনটেক্সট"
+
+#: ../src/proctable.cpp:251 ../src/procproperties.cpp:146
+msgid "Command Line"
+msgstr "কমান্ড-লাইন"
+
+#. xgettext: combined noun, the function the process is waiting in, see wchan ps(1)
+#: ../src/proctable.cpp:254 ../src/procproperties.cpp:147
+msgid "Waiting Channel"
+msgstr "অপেক্ষারত চ্যানেল"
+
+#: ../src/proctable.cpp:255
+msgid "Control Group"
+msgstr ""
+
+#: ../src/proctable.cpp:256
+msgid "Unit"
+msgstr ""
+
+#: ../src/proctable.cpp:257
+msgid "Session"
+msgstr ""
+
+#. TRANSLATORS: Seat = i.e. the physical seat the session of the process belongs to, only
+#. for multi-seat environments. See http://en.wikipedia.org/wiki/Multiseat_configuration
+#: ../src/proctable.cpp:260
+#, fuzzy
+#| msgid "Status"
+msgid "Seat"
+msgstr "অবস্থা"
+
+#: ../src/proctable.cpp:261
+msgid "Owner"
+msgstr ""
+
+#: ../src/proctable.cpp:262 ../src/procproperties.cpp:143
+#, fuzzy
+#| msgid "(Low Priority)"
+msgid "Priority"
+msgstr "(নিম্ন মাত্রার গুরুত্ব)"
+
+#: ../src/proctable.cpp:1086
+#, c-format
+msgid "Load averages for the last 1, 5, 15 minutes: %0.2f, %0.2f, %0.2f"
+msgstr "সর্বশেষ ১, ৫, ১৫ মিনিটে ব্যবহারের গড় চাপ: %0.2f, %0.2f, %0.2f"
+
+#: ../src/procproperties.cpp:104
+msgid "N/A"
+msgstr ""
+
+#: ../src/procproperties.cpp:140
+#, fuzzy, c-format
+#| msgid "%u second"
+#| msgid_plural "%u seconds"
+msgid "%lld second"
+msgid_plural "%lld seconds"
+msgstr[0] "%u সেকেন্ড"
+msgstr[1] "%u সেকেন্ড"
+
+#: ../src/procproperties.cpp:258
+#, fuzzy
+#| msgid "Processes"
+msgid "Process Properties"
+msgstr "প্রসেস"
+
+#: ../src/procproperties.cpp:278
+#, fuzzy, c-format
+#| msgid "_Memory maps for process \"%s\" (PID %u):"
+msgid "Properties of process \"%s\" (PID %u):"
+msgstr "\"%s\" (PID %u) প্রসেসের মেমরি ম্যাপ:(_M)"
+
+#. Translators: The first string parameter is release version (codename),
+#. * the second one is the architecture, 32 or 64-bit
+#: ../src/sysinfo.cpp:78
+#, fuzzy, c-format
+#| msgid "Release %s"
+msgid "Release %s %s"
+msgstr "রিলিজ %s"
+
+#. translators: This is the type of architecture, for example:
+#. * "64-bit" or "32-bit"
+#: ../src/sysinfo.cpp:115
+#, fuzzy, c-format
+#| msgid "%u bit"
+#| msgid_plural "%u bits"
+msgid "%d-bit"
+msgstr "%u বিট"
+
+#: ../src/sysinfo.cpp:740
+#, c-format
+msgid "Kernel %s"
+msgstr "কার্নেল %s"
+
+#: ../src/sysinfo.cpp:754
+#, c-format
+msgid "GNOME %s"
+msgstr "GNOME %s"
+
+#. hardware section
+#: ../src/sysinfo.cpp:769
+#, c-format
+msgid "<b>Hardware</b>"
+msgstr "<b>হার্ড-ওয়্যার</b>"
+
+#: ../src/sysinfo.cpp:774
+msgid "Memory:"
+msgstr "মেমরি:"
+
+#: ../src/sysinfo.cpp:779
+msgid "Processor:"
+msgstr "প্রসেসর:"
+
+#. disk space section
+#: ../src/sysinfo.cpp:788
+#, c-format
+msgid "<b>System Status</b>"
+msgstr "<b>সিস্টেমের অবস্থা</b>"
+
+#: ../src/sysinfo.cpp:794
+msgid "Available disk space:"
+msgstr "ডিস্কের উপলব্ধ স্থান:"
+
+#: ../src/util.cpp:30
+msgid "Running"
+msgstr "চলমান"
+
+#: ../src/util.cpp:34
+msgid "Stopped"
+msgstr "বন্ধ"
+
+#: ../src/util.cpp:38
+msgid "Zombie"
+msgstr "জম্বি"
+
+#: ../src/util.cpp:42
+msgid "Uninterruptible"
+msgstr "নিরবিচ্ছিন্নভাবে"
+
+#: ../src/util.cpp:46
+msgid "Sleeping"
+msgstr "নিদ্রিত"
+
+#. xgettext: weeks, days
+#: ../src/util.cpp:101
+#, c-format
+msgid "%uw%ud"
+msgstr "%uw%ud"
+
+#. xgettext: days, hours (0 -> 23)
+#: ../src/util.cpp:105
+#, c-format
+msgid "%ud%02uh"
+msgstr "%ud%02uh"
+
+#. xgettext: hours (0 -> 23), minutes, seconds
+#: ../src/util.cpp:109
+#, c-format
+msgid "%u:%02u:%02u"
+msgstr "%u:%02u:%02u"
+
+#. xgettext: minutes, seconds, centiseconds
+#: ../src/util.cpp:112
+#, c-format
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+#: ../src/util.cpp:166
+#, c-format
+msgid "%.1f KiB"
+msgstr "%.1f KiB"
+
+#: ../src/util.cpp:167
+#, c-format
+msgid "%.1f MiB"
+msgstr "%.1f MiB"
+
+# msgstr "%.0f এম-বি"
+#: ../src/util.cpp:168
+#, c-format
+msgid "%.1f GiB"
+msgstr "%.1f GiB"
+
+#: ../src/util.cpp:169
+#, fuzzy, c-format
+#| msgid "%.1f KiB"
+msgid "%.1f TiB"
+msgstr "%.1f KiB"
+
+#: ../src/util.cpp:170
+#, fuzzy, c-format
+#| msgid "%.1f kbit"
+msgid "%.3g kbit"
+msgstr "%.1f kbit"
+
+#: ../src/util.cpp:171
+#, fuzzy, c-format
+#| msgid "%.1f Mbit"
+msgid "%.3g Mbit"
+msgstr "%.1f Mbit"
+
+# msgstr "%.0f এম-বি"
+#: ../src/util.cpp:172
+#, fuzzy, c-format
+#| msgid "%.1f Gbit"
+msgid "%.3g Gbit"
+msgstr "%.1f Gbit"
+
+#: ../src/util.cpp:173
+#, fuzzy, c-format
+#| msgid "%.1f kbit"
+msgid "%.3g Tbit"
+msgstr "%.1f kbit"
+
+#: ../src/util.cpp:188
+#, c-format
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "%u বিট"
+msgstr[1] "%u বিট"
+
+#: ../src/util.cpp:189
+#, c-format
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u বাইট"
+msgstr[1] "%u বাইট"
+
+#: ../src/util.cpp:420
+msgid "<i>N/A</i>"
+msgstr "<i>N/A</i>"
+
+#. xgettext: rate, 10MiB/s or 10Mbit/s
+#: ../src/util.cpp:582
+#, c-format
+msgid "%s/s"
+msgstr "%s/s"
+
+#~ msgid "_Change Priority..."
+#~ msgstr "গুরুত্ব পরিবর্তন করুন...(_C)"
+
+#~ msgid "Default graph cpu color"
+#~ msgstr "গ্রাফ cpu'র ডিফল্ট রং"
+
+#~ msgid "Show process 'arguments' column on startup"
+#~ msgstr "প্রারম্ভে প্রসেস 'আর্গুমেন্ট' কলাম প্রদর্শিত হবে"
+
+#~ msgid "Show process 'estimated memory usage' column on startup"
+#~ msgstr "প্রারম্ভে 'আনুমানিক মেমরি ব্যবহার' সংক্রান্ত কলাম প্রদর্শিত হবে"
+
+#~ msgid "Width of process 'arguments' column"
+#~ msgstr "প্রসেস 'আর্গুমেন্ট' কলামের প্রস্থ"
+
+#~ msgid "Width of process 'estimated memory usage' column"
+#~ msgstr "প্রসেস 'আনুমানিক মেমরি ব্যবহার' কলামের প্রস্থ"
+
+#~ msgid "(High Priority)"
+#~ msgstr "(উচ্চ মাত্রার গুরুত্ব)"
+
+#~ msgid "(Normal Priority)"
+#~ msgstr "(সাধারণ গুরুত্ব)"
+
+#~ msgid "(Very Low Priority)"
+#~ msgstr "(অত্যন্ত নিম্ন মাত্রার গুরুত্ব)"
+
+#~ msgid "Solaris mode"
+#~ msgstr "Solaris মোড"
+
+#~ msgid "File system i_nformation shown in list:"
+#~ msgstr "তালিকায় প্রদর্শিত ফাইল সিস্টেমের তথ্য: (_n)"
+
+#~ msgid "Unknown CPU model"
+#~ msgstr "অজানা CPU মোডেল"
+
+#~ msgid "Processor %d:"
+#~ msgstr "প্রসেসর %d:"

@@ -1,0 +1,636 @@
+# translation of devhelp.HEAD.po to Bengali (India)
+# translation of devhelp to Bengali (India)
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Runa Bhattacharjee <runabh@gmail.com>, 2007.
+# Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: devhelp.HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=devhelp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-12-17 15:53+0000\n"
+"PO-Revision-Date: 2008-03-10 14:05+0530\n"
+"Last-Translator: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail."
+"com>\n"
+"Language-Team: Bengali (India) <discuss@ankur.co.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#: ../data/devhelp.desktop.in.in.h:1
+msgid "Developer's Help program"
+msgstr "ডিভেলপারদের সহায়ক প্রোগ্রাম"
+
+#. i18n: Please don't translate "Devhelp" (it's marked as translatable
+#. * for transliteration only)
+#: ../data/devhelp.desktop.in.in.h:2 ../src/dh-main.c:281
+#: ../src/dh-window.c:731 ../src/dh-window.c:1039 ../src/dh-window.c:1868
+msgid "Devhelp"
+msgstr "Devhelp"
+
+#: ../data/devhelp.desktop.in.in.h:3
+msgid "Documentation Browser"
+msgstr "নথিপত্র ব্রাউজার"
+
+#: ../data/devhelp.schemas.in.h:1
+msgid "Books disabled"
+msgstr ""
+
+#: ../data/devhelp.schemas.in.h:2
+#, fuzzy
+#| msgid "Font for fixed text"
+msgid "Font for fixed width text"
+msgstr "অপরিবর্তনযোগ্য টেক্সটে ব্যবহৃত ফন্ট"
+
+#: ../data/devhelp.schemas.in.h:3
+msgid "Font for text"
+msgstr "টেক্সটে ব্যবহৃত ফন্ট"
+
+#: ../data/devhelp.schemas.in.h:4
+#, fuzzy
+#| msgid "Font for text with fixed width."
+msgid "Font for text with fixed width, such as code examples."
+msgstr "অপরিবর্তনযোগ্য প্রস্থের টেক্সটে ব্যবহৃত ফন্ট।"
+
+#: ../data/devhelp.schemas.in.h:5
+msgid "Font for text with variable width."
+msgstr "পরিবর্তনযোগ্য প্রস্থের টেক্সটে ব্যবহৃত ফন্ট।"
+
+#: ../data/devhelp.schemas.in.h:6
+msgid "Group by language"
+msgstr ""
+
+#: ../data/devhelp.schemas.in.h:7
+#, fuzzy
+#| msgid "Height of main window"
+msgid "Height of assistant window"
+msgstr "প্রধান উইন্ডোর উচ্চতা"
+
+#: ../data/devhelp.schemas.in.h:8
+msgid "Height of main window"
+msgstr "প্রধান উইন্ডোর উচ্চতা"
+
+#: ../data/devhelp.schemas.in.h:9
+msgid "List of books disabled by the user."
+msgstr ""
+
+#: ../data/devhelp.schemas.in.h:10
+msgid "Main window maximized state"
+msgstr "সর্বোচ্চ মাপে প্রধান উইন্ডো"
+
+#: ../data/devhelp.schemas.in.h:11
+#, fuzzy
+#| msgid "Selected tab, \"content\" or \"search\""
+msgid "Selected tab: \"content\" or \"search\""
+msgstr "নির্বাচিত ট্যাব, \"বিষয়বস্তু\" অথবা \"অনুসন্ধান\""
+
+#: ../data/devhelp.schemas.in.h:12
+#, fuzzy
+#| msgid "The X position of the main window."
+msgid "The X position of the assistant window."
+msgstr "প্রধান উইন্ডোর X অবস্থান।"
+
+#: ../data/devhelp.schemas.in.h:13
+msgid "The X position of the main window."
+msgstr "প্রধান উইন্ডোর X অবস্থান।"
+
+#: ../data/devhelp.schemas.in.h:14
+#, fuzzy
+#| msgid "The Y position of the main window."
+msgid "The Y position of the assistant window."
+msgstr "প্রধান উইন্ডোর Y অবস্থান।"
+
+#: ../data/devhelp.schemas.in.h:15
+msgid "The Y position of the main window."
+msgstr "প্রধান উইন্ডোর Y অবস্থান।"
+
+#: ../data/devhelp.schemas.in.h:16
+#, fuzzy
+#| msgid "The height of the main window."
+msgid "The height of the assistant window."
+msgstr "প্রধান উইন্ডোর উচ্চতা।"
+
+#: ../data/devhelp.schemas.in.h:17
+msgid "The height of the main window."
+msgstr "প্রধান উইন্ডোর উচ্চতা।"
+
+#: ../data/devhelp.schemas.in.h:18
+#, fuzzy
+#| msgid "The width of the main window."
+msgid "The width of the assistant window."
+msgstr "প্রধান উইন্ডোর প্রস্থ।"
+
+#: ../data/devhelp.schemas.in.h:19
+msgid "The width of the index and search pane."
+msgstr "সূচি ও অনুসন্ধানের পেইনের প্রস্থ।"
+
+#: ../data/devhelp.schemas.in.h:20
+msgid "The width of the main window."
+msgstr "প্রধান উইন্ডোর প্রস্থ।"
+
+#: ../data/devhelp.schemas.in.h:21
+msgid "Use system fonts"
+msgstr "সিস্টেমের ফন্ট ব্যবহৃত হবে"
+
+#: ../data/devhelp.schemas.in.h:22
+msgid "Use the system default fonts."
+msgstr "সিস্টেমের ডিফল্ট ফন্ট ব্যবহৃত হবে।"
+
+#: ../data/devhelp.schemas.in.h:23
+msgid "Whether books should be grouped by language in the UI"
+msgstr ""
+
+#: ../data/devhelp.schemas.in.h:24
+#, fuzzy
+#| msgid "Whether the main window should start maximized or not."
+msgid "Whether the main window should start maximized."
+msgstr "প্রধান উইন্ডোটি সর্বোচ্চ মাপে আরম্ভ করা হবে কি না।"
+
+#: ../data/devhelp.schemas.in.h:25
+#, fuzzy
+#| msgid "Which of the tabs that is selected, \"content\" or \"search\"."
+msgid "Which of the tabs is selected: \"content\" or \"search\"."
+msgstr "কোন ট্যাবটি নির্বাচন করা হবে, \"বিষয়বস্তু\" অথবা \"অনুসন্ধান\"।"
+
+#: ../data/devhelp.schemas.in.h:26
+#, fuzzy
+#| msgid "Width of the main window"
+msgid "Width of the assistant window"
+msgstr "প্রধান উইন্ডোর প্রস্থ"
+
+#: ../data/devhelp.schemas.in.h:27
+msgid "Width of the index and search pane"
+msgstr "সূচি ও অনুসন্ধানের পেইনের প্রস্থ"
+
+#: ../data/devhelp.schemas.in.h:28
+msgid "Width of the main window"
+msgstr "প্রধান উইন্ডোর প্রস্থ"
+
+#: ../data/devhelp.schemas.in.h:29
+#, fuzzy
+#| msgid "X position of main window"
+msgid "X position of assistant window"
+msgstr "প্রধান উইন্ডোর X অবস্থান"
+
+#: ../data/devhelp.schemas.in.h:30
+msgid "X position of main window"
+msgstr "প্রধান উইন্ডোর X অবস্থান"
+
+#: ../data/devhelp.schemas.in.h:31
+#, fuzzy
+#| msgid "Y position of main window"
+msgid "Y position of assistant window"
+msgstr "প্রধান উইন্ডোর Y অবস্থান"
+
+#: ../data/devhelp.schemas.in.h:32
+msgid "Y position of main window"
+msgstr "প্রধান উইন্ডোর Y অবস্থান"
+
+#: ../data/ui/devhelp.builder.h:1
+msgid "Book Shelf"
+msgstr ""
+
+#: ../data/ui/devhelp.builder.h:2
+msgid "Enabled"
+msgstr ""
+
+#: ../data/ui/devhelp.builder.h:3
+#, fuzzy
+#| msgid "Contents"
+msgid "Fonts"
+msgstr "বিষয়বস্তু"
+
+#: ../data/ui/devhelp.builder.h:4
+msgid "Preferences"
+msgstr "পছন্দ"
+
+#: ../data/ui/devhelp.builder.h:5
+#, fuzzy
+#| msgid "_File"
+msgid "Title"
+msgstr "ফাইল (_F)"
+
+#: ../data/ui/devhelp.builder.h:6
+msgid "_Fixed width:"
+msgstr "অপরিবর্তনযোগ্য মাপ: (_F)"
+
+#: ../data/ui/devhelp.builder.h:7
+msgid "_Group by language"
+msgstr ""
+
+#: ../data/ui/devhelp.builder.h:8
+msgid "_Use system fonts"
+msgstr "সিস্টেম ফন্ট ব্যবহার করা হবে (_U)"
+
+#: ../data/ui/devhelp.builder.h:9
+msgid "_Variable width: "
+msgstr "পরিবর্তনযোগ্য মাপ :(_V)"
+
+#: ../misc/gedit-plugin/devhelp.desktop.in.h:1
+msgid "Devhelp support"
+msgstr "Devhelp সহায়তা"
+
+#: ../misc/gedit-plugin/devhelp.desktop.in.h:2
+msgid "Makes F2 bring up Devhelp for the word at the cursor"
+msgstr "F7-র সাহায্যে কার্সার দ্বারা চিহ্নিত শব্দের জন্য Devhelp আরম্ভ করা হয় "
+
+#: ../misc/gedit-plugin/devhelp.py:69
+msgid "Show API Documentation"
+msgstr "API সহায়িকা প্রদর্শন করুন"
+
+#: ../misc/gedit-plugin/devhelp.py:71
+msgid "Show API Documentation for the word at the cursor"
+msgstr "কার্সার দ্বারা চিহ্নিত শব্দের জন্য API সহায়িকা প্রদর্শন করুন "
+
+#. i18n: Please don't translate "Devhelp".
+#: ../src/dh-assistant.c:74
+msgid "Devhelp — Assistant"
+msgstr ""
+
+#: ../src/dh-assistant-view.c:336
+#, fuzzy
+#| msgid "_Book:"
+msgid "Book:"
+msgstr "বই: (_B)"
+
+#: ../src/dh-book.c:252
+#, c-format
+msgid "Language: %s"
+msgstr ""
+
+#: ../src/dh-book.c:253
+msgid "Language: Undefined"
+msgstr ""
+
+#. i18n: a documentation book
+#: ../src/dh-link.c:267
+#, fuzzy
+#| msgid "_Book:"
+msgid "Book"
+msgstr "বই: (_B)"
+
+#. i18n: a "page" in a documentation book
+#: ../src/dh-link.c:270
+#, fuzzy
+#| msgid "_Page:"
+msgid "Page"
+msgstr "পৃষ্ঠা: (_P)"
+
+#. i18n: a search hit in the documentation, could be a
+#. * function, macro, struct, etc
+#: ../src/dh-link.c:274
+msgid "Keyword"
+msgstr ""
+
+#. i18n: in the programming language context, if you don't
+#. * have an ESTABLISHED term for it, leave it
+#. * untranslated.
+#: ../src/dh-link.c:279
+msgid "Function"
+msgstr ""
+
+#. i18n: in the programming language context, if you don't
+#. * have an ESTABLISHED term for it, leave it
+#. * untranslated.
+#: ../src/dh-link.c:284
+msgid "Struct"
+msgstr ""
+
+#. i18n: in the programming language context, if you don't
+#. * have an ESTABLISHED term for it, leave it
+#. * untranslated.
+#: ../src/dh-link.c:289
+msgid "Macro"
+msgstr ""
+
+#. i18n: in the programming language context, if you don't
+#. * have an ESTABLISHED term for it, leave it
+#. * untranslated.
+#: ../src/dh-link.c:294
+msgid "Enum"
+msgstr ""
+
+#. i18n: in the programming language context, if you don't
+#. * have an ESTABLISHED term for it, leave it
+#. * untranslated.
+#: ../src/dh-link.c:299
+msgid "Type"
+msgstr ""
+
+#: ../src/dh-main.c:47
+#, fuzzy
+#| msgid "Search for a function"
+msgid "Search for a keyword"
+msgstr "ফাংশান অনুসন্ধান করুন"
+
+#: ../src/dh-main.c:52
+msgid "Quit any running Devhelp"
+msgstr "চলমান Devhelp বন্ধ করুন"
+
+#: ../src/dh-main.c:57
+msgid "Display the version and exit"
+msgstr "সংস্করণ সংখ্যা প্রদর্শন করে প্রস্থান করা হবে"
+
+#: ../src/dh-main.c:62
+#, fuzzy
+#| msgid "Focus the devhelp window with the search field active"
+msgid "Focus the Devhelp window with the search field active"
+msgstr "অনুসন্ধানের ক্ষেত্র সক্রিয় করে devhelp উইন্ডো ফোকাস করা হবে"
+
+#: ../src/dh-main.c:67
+msgid "Search and display any hit in the assistant window"
+msgstr ""
+
+#: ../src/dh-parser.c:97 ../src/dh-parser.c:199 ../src/dh-parser.c:263
+#: ../src/dh-parser.c:273
+#, fuzzy, c-format
+#| msgid "Expected '%s' got '%s' at line %d, column %d"
+msgid "Expected '%s', got '%s' at line %d, column %d"
+msgstr "প্রত্যাশিত মান '%s' প্রাপ্ত মান '%s', পংক্তির %d, কলাম %d-এ"
+
+#: ../src/dh-parser.c:114
+#, c-format
+msgid "Invalid namespace '%s' at line %d, column %d"
+msgstr "অবৈধ namespace '%s', পংক্তি %d, কলাম %d-এ"
+
+#: ../src/dh-parser.c:143
+#, fuzzy, c-format
+#| msgid "title, name, and link elements are required at line %d, column %d"
+msgid ""
+"\"title\", \"name\" and \"link\" elements are required at line %d, column %d"
+msgstr "শিরোনাম, নাম এবং লিঙ্কের বিষয়বস্তু, পংক্তি %d, কলাম %d-এ আবশ্যক"
+
+#: ../src/dh-parser.c:218
+#, fuzzy, c-format
+#| msgid ""
+#| "name and link elements are required inside <sub> on line %d, column %d"
+msgid ""
+"\"name\" and \"link\" elements are required inside <sub> on line %d, column %"
+"d"
+msgstr "<sub>-র মধ্যে নাম ও লিঙ্কের বিষয়বস্তু পংক্তি %d, কলাম %d-এ আবশ্যক"
+
+#: ../src/dh-parser.c:298
+#, fuzzy, c-format
+#| msgid ""
+#| "name and link elements are required inside <sub> on line %d, column %d"
+msgid ""
+"\"name\" and \"link\" elements are required inside '%s' on line %d, column %d"
+msgstr "<sub>-র মধ্যে নাম ও লিঙ্কের বিষয়বস্তু পংক্তি %d, কলাম %d-এ আবশ্যক"
+
+#: ../src/dh-parser.c:311
+#, fuzzy, c-format
+#| msgid ""
+#| "name and link elements are required inside <sub> on line %d, column %d"
+msgid "\"type\" element is required inside <keyword> on line %d, column %d"
+msgstr "<sub>-র মধ্যে নাম ও লিঙ্কের বিষয়বস্তু পংক্তি %d, কলাম %d-এ আবশ্যক"
+
+#: ../src/dh-parser.c:514
+#, c-format
+msgid "Cannot uncompress book '%s': %s"
+msgstr "'%s' বইটি আন-কম্প্রেস করতে ব্যর্থ: %s"
+
+#: ../src/dh-search.c:500
+msgid "All books"
+msgstr ""
+
+#: ../src/dh-search.c:1118
+#, fuzzy
+#| msgid "Search"
+msgid "Search in:"
+msgstr "অনুসন্ধান"
+
+#: ../src/dh-window.c:99
+msgid "50%"
+msgstr "৫০%"
+
+#: ../src/dh-window.c:100
+msgid "75%"
+msgstr "৭৫%"
+
+#: ../src/dh-window.c:101
+msgid "100%"
+msgstr "১০০%"
+
+#: ../src/dh-window.c:102
+msgid "125%"
+msgstr "১২৫%"
+
+#: ../src/dh-window.c:103
+msgid "150%"
+msgstr "১৫০%"
+
+#: ../src/dh-window.c:104
+msgid "175%"
+msgstr "১৭৫%"
+
+#: ../src/dh-window.c:105
+msgid "200%"
+msgstr "২০০%"
+
+#: ../src/dh-window.c:106
+msgid "300%"
+msgstr "৩০০%"
+
+#: ../src/dh-window.c:107
+msgid "400%"
+msgstr "৪০০%"
+
+#: ../src/dh-window.c:726
+msgid "translator_credits"
+msgstr "রুণা ভট্টাচার্য্য <runabh@gmail.com>"
+
+#: ../src/dh-window.c:733
+#, fuzzy
+#| msgid "A developer's help browser for GNOME 2"
+msgid "A developers' help browser for GNOME"
+msgstr "GNOME 2-র ক্ষেত্রে প্রযোজ্য ডিভেলপারদের জন্য সহায়ক তথ্যের ব্রাউজার"
+
+#: ../src/dh-window.c:740
+#, fuzzy
+#| msgid "Devhelp support"
+msgid "DevHelp Website"
+msgstr "Devhelp সহায়তা"
+
+#: ../src/dh-window.c:764
+msgid "_File"
+msgstr "ফাইল (_F)"
+
+#: ../src/dh-window.c:765
+msgid "_Edit"
+msgstr "সম্পাদনা (_E)"
+
+#: ../src/dh-window.c:766
+msgid "_View"
+msgstr "প্রদ্রশন (_V)"
+
+#: ../src/dh-window.c:767
+msgid "_Go"
+msgstr "গন্তব্য (_G)"
+
+#: ../src/dh-window.c:768
+msgid "_Help"
+msgstr "সাহায্য (_H)"
+
+#. File menu
+#: ../src/dh-window.c:771
+msgid "_New Window"
+msgstr "নতুন উইন্ডো (_N)"
+
+#: ../src/dh-window.c:773
+msgid "New _Tab"
+msgstr "নতুন ট্যাব (_T)"
+
+#: ../src/dh-window.c:775
+msgid "_Print…"
+msgstr ""
+
+#: ../src/dh-window.c:787 ../src/eggfindbar.c:342
+msgid "Find Next"
+msgstr "পরবর্তী উপস্থিত অনুসন্ধান"
+
+#: ../src/dh-window.c:789 ../src/eggfindbar.c:329
+msgid "Find Previous"
+msgstr "পূর্ববর্তী উপস্থিতি অনুসন্ধান"
+
+#: ../src/dh-window.c:796
+msgid "Go to the previous page"
+msgstr "পূর্ববর্তী পৃষ্ঠায় চলুন"
+
+#: ../src/dh-window.c:799
+msgid "Go to the next page"
+msgstr "পরবর্তী পৃষ্ঠায় চলুন"
+
+#: ../src/dh-window.c:802
+msgid "_Contents Tab"
+msgstr "বিষয়বস্তু ট্যাব (_C)"
+
+#: ../src/dh-window.c:805
+msgid "_Search Tab"
+msgstr "অনুসন্ধান ট্যাব (_S)"
+
+#. View menu
+#: ../src/dh-window.c:809
+msgid "_Larger Text"
+msgstr "বড় মাপের টেক্সট (_L)"
+
+#: ../src/dh-window.c:810
+msgid "Increase the text size"
+msgstr "টেক্সট-এর মাপ বড় করুন"
+
+#: ../src/dh-window.c:812
+msgid "S_maller Text"
+msgstr "টেক্সট-এর মাপ ছোট করুন (_m)"
+
+#: ../src/dh-window.c:813
+msgid "Decrease the text size"
+msgstr "টেক্সট-এর মাপ ছোট করুন"
+
+#: ../src/dh-window.c:815
+#, fuzzy
+#| msgid "_Normal size"
+msgid "_Normal Size"
+msgstr "স্বাভাবিক মাপ (_N)"
+
+#: ../src/dh-window.c:816
+msgid "Use the normal text size"
+msgstr "স্বাভাবিক মাপের টেক্সট ব্যবহার করুন "
+
+#: ../src/dh-window.c:825
+msgid "Leave fullscreen mode"
+msgstr ""
+
+#: ../src/dh-window.c:832
+msgid "Display in full screen"
+msgstr ""
+
+#. Translators: This refers to text size
+#: ../src/dh-window.c:952
+#, fuzzy
+#| msgid "_Larger Text"
+msgid "Larger"
+msgstr "বড় মাপের টেক্সট (_L)"
+
+#. Translators: This refers to text size
+#: ../src/dh-window.c:955
+#, fuzzy
+#| msgid "S_maller Text"
+msgid "Smaller"
+msgstr "টেক্সট-এর মাপ ছোট করুন (_m)"
+
+#: ../src/dh-window.c:1159
+msgid "Contents"
+msgstr "বিষয়বস্তু"
+
+#: ../src/dh-window.c:1169
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+#: ../src/dh-window.c:1344
+msgid "Error opening the requested link."
+msgstr ""
+
+#: ../src/dh-window.c:1657 ../src/dh-window.c:1896
+msgid "Empty Page"
+msgstr "ফাঁকা পৃষ্ঠা"
+
+#: ../src/eggfindbar.c:320
+msgid "Find:"
+msgstr "অনুসন্ধান:"
+
+#: ../src/eggfindbar.c:333 ../src/eggfindbar.c:336
+msgid "Find previous occurrence of the search string"
+msgstr "অনুসন্ধান করা পংক্তির পূর্ববর্তী উপস্থিতি সনাক্ত করুন"
+
+#: ../src/eggfindbar.c:346 ../src/eggfindbar.c:349
+msgid "Find next occurrence of the search string"
+msgstr "অনুসন্ধান করা পংক্তির পরবর্তী উপস্থিতি সনাক্ত করুন"
+
+#: ../src/eggfindbar.c:358
+#, fuzzy
+#| msgid "Case Sensitive"
+msgid "C_ase Sensitive"
+msgstr "হরফের ছাঁদ সম্পর্কে সচেতন"
+
+#: ../src/eggfindbar.c:362 ../src/eggfindbar.c:365
+msgid "Toggle case sensitive search"
+msgstr "হরফের ছাঁদ অনুযায়ী অনুসন্ধান সক্রিয় অথবা নিষ্ক্রিয় করুন"
+
+#~ msgid "Show advanced search options"
+#~ msgstr "অনুসন্ধান সংক্রান্ত উন্নত বিকল্প প্রদর্শন করা হবে"
+
+#~ msgid "Whether the advanced search options are shown."
+#~ msgstr "অনুসন্ধান সংক্রান্ত উন্নত বিকল্পগুলি প্রদর্শন করা হবে কি না।"
+
+#~ msgid "<b>Fonts</b>"
+#~ msgstr "<b>ফন্ট</b>"
+
+#~ msgid "<b>Searching</b>"
+#~ msgstr "<b>অনুসন্ধান</b>"
+
+#~ msgid "_Back"
+#~ msgstr "পূর্ববর্তী (_B)"
+
+#~ msgid "_Forward"
+#~ msgstr "পরবর্তী (_F)"
+
+#~ msgid "_Show advanced search options"
+#~ msgstr "অনুসন্ধান সংক্রান্ত উন্নত বিকল্প প্রদর্শন করা হবে (_S)"
+
+#~ msgid ""
+#~ "name and link elements are required inside <function> on line %d, column %"
+#~ "d"
+#~ msgstr "<function>-র মধ্যে নাম ও লিঙ্কের বিষয়বস্তু পংক্তি %d, কলাম %d-এ আবশ্যক"
+
+#~ msgid "Could not create book parser"
+#~ msgstr "বই পার্সার নির্মাণ করতে ব্যর্থ"
+
+#~ msgid "Could not create markup parser"
+#~ msgstr "মার্ক-আপ পার্সার নির্মাণ করতে ব্যর্থ"
+
+#~ msgid "Devhelp is not built with zlib support"
+#~ msgstr "zlib সমর্থনসহ Devhelp বিল্ড করা হয়নি"

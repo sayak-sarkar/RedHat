@@ -1,0 +1,839 @@
+#. extracted from svx/inc.oo
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svx%2Finc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2012-06-13 14:14+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali <anubad@lists.ankur.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. P7E6
+#: globlmn_tmpl.hrc#ITEM_FORM_CONTROL_PROPERTIES.#define.text
+msgid "Con~trol..."
+msgstr "কন্ট্রোল... (~t)"
+
+#. QdD#
+#: globlmn_tmpl.hrc#ITEM_FORM_PROPERTIES.#define.text
+msgid "For~m..."
+msgstr "ফর্ম... (~m)"
+
+#. 2YR1
+#: globlmn_tmpl.hrc#ITEM_REPLACE_CONTROL.#define.text
+msgid "~Replace with"
+msgstr "যা দ্বারা প্রতিস্থাপন করা হবে (~R) "
+
+#. bL6R
+#: globlmn_tmpl.hrc#ITEM_FORMAT_TEMPLATECATALOG.#define.text
+msgid "~Catalog..."
+msgstr "ক্যাটালগ... (~C)"
+
+#. #y#m
+#: globlmn_tmpl.hrc#ITEM_FORMAT_TEMPLATE.#define.text
+msgid "St~ylist"
+msgstr "স্টাইলিস্ট (~S)"
+
+#. gFZG
+#: globlmn_tmpl.hrc#ITEM_FORMAT_AUTOFORMAT.#define.text
+msgid "Auto~Format..."
+msgstr "স্বয়ংক্রিয়-বিন্যাস... (~F)"
+
+#. qaSh
+#: globlmn_tmpl.hrc#ITEM_FORMAT_CHAR_DLG.#define.text
+msgid "C~haracter..."
+msgstr "অক্ষর... (~C)"
+
+#. 9IMj
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_DLG.#define.text
+msgid "P~aragraph..."
+msgstr "অনুচ্ছেদ... (~P)"
+
+#. rlBo
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FONTWORK.#define.text
+msgid "F~ontwork"
+msgstr "ফন্টওয়ার্ক... (~o)"
+
+#. 5e_r
+#: globlmn_tmpl.hrc#ITEM_EDIT_CUT.#define.text
+msgid "Cu~t"
+msgstr "কাটা (~t)"
+
+#. 7lK_
+#: globlmn_tmpl.hrc#ITEM_EDIT_COPY.#define.text
+msgid "~Copy"
+msgstr "অনুলিপি (~C)"
+
+#. gfHJ
+#: globlmn_tmpl.hrc#ITEM_EDIT_DELETE.#define.text
+msgid "~Delete"
+msgstr "মুছে ফেলা (~D)"
+
+#. yNMO
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_FONT.#define.text
+msgid "Font"
+msgstr "ফন্ট "
+
+#. wg7d
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_FONTHEIGHT.#define.text
+msgid "Size"
+msgstr "আকার"
+
+#. v8w#
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_WEIGHT.#define.text
+msgid "Bold"
+msgstr "গাঢ়"
+
+#. FyJW
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_POSTURE.#define.text
+msgid "Italic"
+msgstr "তির্যক"
+
+#. N97C
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_UNDERLINE.#define.text
+msgid "Underline"
+msgstr "নিম্নরেখা"
+
+#. lH20
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_OVERLINE.#define.text
+msgid "Overline"
+msgstr "ঊর্ধ্বরেখা"
+
+#. tzww
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_STRIKEOUT.#define.text
+msgid "Strikethrough"
+msgstr "অবচ্ছেদন রেখা"
+
+#. ktGc
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_SHADOWED.#define.text
+msgid "Shadow"
+msgstr "ছায়া "
+
+#. T1Ie
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_CONTOUR.#define.text
+msgid "Outline"
+msgstr "রূপরেখা "
+
+#. NskV
+#: globlmn_tmpl.hrc#ITEM_FORMAT_SET_SUPER_SCRIPT.#define.text
+msgid "Su~perscript"
+msgstr "ঊর্ধ্বলিপি (~p)"
+
+#. 0HS_
+#: globlmn_tmpl.hrc#ITEM_FORMAT_SET_SUB_SCRIPT.#define.text
+msgid "Su~bscript"
+msgstr "নিম্নলিপি (‌‌~B)"
+
+#. JDZX
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_LEFT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_LEFT.#define.text"
+msgid "~Left"
+msgstr "বাম (~L)"
+
+#. Vm04
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_RIGHT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_RIGHT.#define.text"
+msgid "~Right"
+msgstr "ডান (~R)"
+
+#. 0_cD
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_CENTER.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_CENTER.#define.text"
+msgid "~Centered"
+msgstr "কেন্দ্রস্থিত (~C)"
+
+#. eIdp
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_BLOCK.#define.text
+msgid "Justified"
+msgstr "উভয়প্রান্তিক"
+
+#. LHyg
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_10.#define.text
+msgid "Single"
+msgstr "এক"
+
+#. SGin
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_15.#define.text
+msgid "1.5 lines"
+msgstr "১.৫ লাইন "
+
+#. q_GI
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_20.#define.text
+msgid "~Double"
+msgstr "দ্বিগুণ (~D)"
+
+#. NlN7
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_TOP.#define.text
+msgid "~Bring to Front"
+msgstr "সবার সামনে আনা (‌‌‌‌~B) "
+
+#. pHyY
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_BOTTOM.#define.text
+msgid "~Send to Back"
+msgstr "সবার পিছনে নেয়া (‌‌~S)  "
+
+#. uJ3s
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN.#define.text
+msgid "A~lignment"
+msgstr "প্রান্তিককরণ (~L)"
+
+#. b6Ve
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_LEFT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_LEFT.#define.text"
+msgid "~Left"
+msgstr "বাম (‌~L)"
+
+#. W13D
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_CENTER.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_CENTER.#define.text"
+msgid "~Centered"
+msgstr "কেন্দ্রস্থিত (‌~C)"
+
+#. XJLG
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_RIGHT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_RIGHT.#define.text"
+msgid "~Right"
+msgstr "ডান (‌~R)"
+
+#. B5kW
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_UP.#define.text
+msgid "~Top"
+msgstr "উপরে (‌~T)"
+
+#. wAqy
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_MIDDLE.#define.text
+msgid "C~enter"
+msgstr "কেন্দ্র (‌~C)"
+
+#. Te00
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_DOWN.#define.text
+msgid "~Bottom"
+msgstr "নিচে (~B)"
+
+#. jmzB
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_LINE.#define.text
+msgid "L~ine..."
+msgstr "লাইন (~N)"
+
+#. ywmZ
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_AREA.#define.text
+msgid "A~rea..."
+msgstr "এলাকা (~R)"
+
+#. R9Rq
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_TRANSFORM.#define.text
+msgid "Position and Si~ze..."
+msgstr "অবস্থান ও আকার... (~Z)"
+
+#. srj_
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_HEAVEN.#define.text
+msgid "~To Foreground"
+msgstr "পুরোভাগে (~T)"
+
+#. hiYO
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_HELL.#define.text
+msgid "T~o Background"
+msgstr "পটভূমিতে (~O)"
+
+#. AWri
+#: globlmn_tmpl.hrc#ITEM_FORMAT_BEZIER_EDIT.#define.text
+msgid "Edit ~Points"
+msgstr "বিন্দু সম্পাদনা (~P)"
+
+#. Ucru
+#: globlmn_tmpl.hrc#ITEM_FILE_PICKLIST.#define.text
+msgid "~File"
+msgstr "ফাইল (~F)"
+
+#. r1Gt
+#: globlmn_tmpl.hrc#ITEM_FILE_NEWDOC.#define.text
+msgid "~New"
+msgstr "নতুন (~N)"
+
+#. D#Uc
+#: globlmn_tmpl.hrc#ITEM_FILE_OPENDOC.#define.text
+msgid "~Open..."
+msgstr "খুলুন... (~O)"
+
+#. CfTL
+#: globlmn_tmpl.hrc#ITEM_FILE_AUTOPILOT.SID_AUTOPILOTMENU.menuitem.text
+msgid "A~utoPilot"
+msgstr "AutoPilot (~U)"
+
+#. JThI
+#: globlmn_tmpl.hrc#ITEM_FILE_CLOSEDOC.#define.text
+msgid "~Close"
+msgstr "বন্ধ (~C)"
+
+#. TgN4
+#: globlmn_tmpl.hrc#ITEM_FILE_SAVEDOC.#define.text
+msgid "~Save"
+msgstr "সংরক্ষণ (~S)"
+
+#. oO46
+#: globlmn_tmpl.hrc#ITEM_FILE_SAVEDOCS.#define.text
+msgid "Sa~ve All"
+msgstr "সব সংরক্ষণ (‌~V)"
+
+#. Belr
+#: globlmn_tmpl.hrc#ITEM_FILE_SAVEASDOC.#define.text
+msgid "Save ~As..."
+msgstr "নতুনভাবে সংরক্ষণ... (‌~A) "
+
+#. iBjj
+#: globlmn_tmpl.hrc#ITEM_FILE_EXPORTDOC.#define.text
+msgid "Expor~t..."
+msgstr "এক্সপোর্ট... (‌~T)"
+
+#. #gHt
+#: globlmn_tmpl.hrc#ITEM_FILE_EXPORTDOCASPDF.#define.text
+msgid "Export as P~DF..."
+msgstr "PDF হিসেবে এক্সপোর্ট  (~D)"
+
+#. ydxl
+#: globlmn_tmpl.hrc#ITEM_FILE_VERSIONDIALOG.#define.text
+msgid "Versions..."
+msgstr "সংস্করণ..."
+
+#. nYY_
+#: globlmn_tmpl.hrc#ITEM_FILE_LASTVERSIONDOC.#define.text
+msgid "Reload"
+msgstr "পুনরায় লোড "
+
+#. rN1u
+#: globlmn_tmpl.hrc#ITEM_FILE_DOCINFO.#define.text
+msgid "Propert~ies..."
+msgstr "বৈশিষ্ট্যসমূহ... (~I)"
+
+#. l9ma
+#: globlmn_tmpl.hrc#ITEM_FILE_DOCTEMPLATE.SID_ORGANIZER.menuitem.text
+msgid "~Organize..."
+msgstr "সংগঠিত করা... (~O)"
+
+#. P05f
+#: globlmn_tmpl.hrc#ITEM_FILE_DOCTEMPLATE.SID_TEMPLATE_ADDRESSBOKSOURCE.menuitem.text
+msgid "~Address Book Source..."
+msgstr "ঠিকানা বইয়ের  উৎস... (‍~A)"
+
+#. lOMf
+#: globlmn_tmpl.hrc#ITEM_FILE_DOCTEMPLATE.SID_DOCTEMPLATE.menuitem.text
+msgid "~Save..."
+msgstr "সংরক্ষণ... (~S)"
+
+#. uiKn
+#: globlmn_tmpl.hrc#ITEM_FILE_DOCTEMPLATE.SID_OPENTEMPLATE.menuitem.text
+msgid "~Edit..."
+msgstr "সম্পাদনা... (~E)"
+
+#. cGIs
+#: globlmn_tmpl.hrc#ITEM_FILE_DOCTEMPLATE.#define.text
+msgid "~Templates"
+msgstr "ফর্মা (~T)"
+
+#. Ino#
+#: globlmn_tmpl.hrc#ITEM_FILE_PRINTPREVIEW.#define.text
+msgid "Pa~ge Preview"
+msgstr "পৃষ্ঠার প্রাকদর্শন (~G)"
+
+#. rEia
+#: globlmn_tmpl.hrc#ITEM_FILE_SETUPPRINTER.#define.text
+msgid "P~rinter Settings..."
+msgstr "মুদ্রণযন্ত্র সেটিং... (‌~R)"
+
+#. MIi0
+#: globlmn_tmpl.hrc#ITEM_FILE_PRINTDOC.#define.text
+msgid "~Print..."
+msgstr "মুদ্রণ... (~P)"
+
+#. B7DJ
+#: globlmn_tmpl.hrc#ITEM_FILE_MAIL_SENDDOC.#define.text
+msgid "Document as ~E-mail..."
+msgstr "নথি ই-মেইলের হিসেবে... (‌~E)"
+
+#. N_hJ
+#: globlmn_tmpl.hrc#ITEM_FILE_MAIL_SENDDOCASPDF.#define.text
+msgid "Document as P~DF Attachment..."
+msgstr "নথি PDF সংযুক্তি হিসেবে... (‌~D)"
+
+#. 9_N3
+#: globlmn_tmpl.hrc#ITEM_FILE_QUITAPP.#define.text
+msgid "E~xit"
+msgstr "প্রস্থান (~X)"
+
+#. h_j#
+#: globlmn_tmpl.hrc#ITEM_FILE_LOGOUT.#define.text
+msgid "Logout"
+msgstr "লগআউট"
+
+#. DvUp
+#: globlmn_tmpl.hrc#ITEM_EDIT_UNDO.#define.text
+msgid "Undo"
+msgstr "পূর্বাবস্থা"
+
+#. JyHR
+#: globlmn_tmpl.hrc#ITEM_EDIT_REDO.#define.text
+msgid "Redo"
+msgstr "পুনরায় করুন"
+
+#. ta5B
+#: globlmn_tmpl.hrc#ITEM_EDIT_REPEAT.#define.text
+msgid "~Repeat"
+msgstr "পুনরাবৃত্তি (~R)"
+
+#. cqkH
+#: globlmn_tmpl.hrc#ITEM_EDIT_PASTE.#define.text
+msgid "~Paste"
+msgstr "প্রতিলেপন (~P)"
+
+#. KdsP
+#: globlmn_tmpl.hrc#ITEM_EDIT_SELECTALL.#define.text
+msgid "Select ~All"
+msgstr "সব নির্বাচন (‌~A)"
+
+#. 9n6i
+#: globlmn_tmpl.hrc#ITEM_EDIT_SEARCH_DLG.#define.text
+msgid "~Find & Replace..."
+msgstr "খুঁজুন এবং প্রতিস্থাপন (~F)"
+
+#. Qrn6
+#: globlmn_tmpl.hrc#ITEM_EDIT_NAVIGATOR.#define.text
+msgid "~Navigator"
+msgstr "ন্যাভিগেটর (‌‌‌‌‌‌~N)"
+
+#. X8kh
+#: globlmn_tmpl.hrc#ITEM_EDIT_BIBLIOGRAPHY.#define.text
+msgid "~Bibliography Database"
+msgstr "তথ্যসূত্র ডাটাবেস (‌~B)"
+
+#. TxER
+#: globlmn_tmpl.hrc#ITEM_EDIT_PLUGINS_ACTIVE.#define.text
+msgid "P~lug-in"
+msgstr "প্লাগ-ইন (‌~L)"
+
+#. USYs
+#: globlmn_tmpl.hrc#ITEM_EDIT_IMAP.#define.text
+msgid "ImageMap"
+msgstr "ImageMap"
+
+#. PqIZ
+#: globlmn_tmpl.hrc#ITEM_EDIT_OBJECT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_EDIT_OBJECT.#define.text"
+msgid "~Object"
+msgstr "অবজেক্ট (~O)"
+
+#. GhLJ
+#: globlmn_tmpl.hrc#ITEM_VIEW_ATTR_ZOOM.#define.text
+msgid "~Zoom..."
+msgstr "জুম... (‌‌~Z)"
+
+#. G06g
+#: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEFUNCTIONBAR.#define.text
+msgid "~Function Bar"
+msgstr "ফাংশন বার (~F)"
+
+#. qnSD
+#: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEOBJECTBAR.#define.text
+msgid "~Object Bar"
+msgstr "অবজেক্ট বার (~O)"
+
+#. QRju
+#: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEINETBAR.#define.text
+msgid "Internet Bar"
+msgstr "ইন্টারনেট বার"
+
+#. dnno
+#: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLESTATUSBAR.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_VIEW_TOGGLESTATUSBAR.#define.text"
+msgid "~Status Bar"
+msgstr "স্ট্যাটাস বার (‌~S)"
+
+#. b3y4
+#: globlmn_tmpl.hrc#ITEM_VIEW_TOGGLEIMESTATUSWINDOW.#define.text
+msgid "~Input Method Status"
+msgstr "ইনপুট মেথডের অবস্থা (~I) "
+
+#. #4Hs
+#: globlmn_tmpl.hrc#ITEM_VIEW_TASKBAR.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_VIEW_TASKBAR.#define.text"
+msgid "~Status Bar"
+msgstr "স্ট্যাটাস বার (‌~S)"
+
+#. ETkx
+#: globlmn_tmpl.hrc#ITEM_VIEW_COLORBAR.#define.text
+msgid "~Color Bar"
+msgstr "রঙের বার (‌~C)"
+
+#. H7tQ
+#: globlmn_tmpl.hrc#ITEM_VIEW_FULLSCREEN.#define.text
+msgid "F~ull Screen"
+msgstr "পূর্ণপর্দা"
+
+#. kWdj
+#: globlmn_tmpl.hrc#ITEM_VIEW_BROWSER_MODE.#define.text
+msgid "~Online Layout"
+msgstr "অনলাইন বহির্বিন্যাস (‌~O)"
+
+#. FA9P
+#: globlmn_tmpl.hrc#ITEM_VIEW_BROWSER.#define.text
+msgid "~Beamer"
+msgstr "বীমার (‌~B)"
+
+#. YiRP
+#: globlmn_tmpl.hrc#ITEM_INSERT_INSERT_GRAPHIC.#define.text
+msgid "~Graphics..."
+msgstr "গ্রাফিক্স... (~G)"
+
+#. 9Uvb
+#: globlmn_tmpl.hrc#ITEM_INSERT_TWAIN_SELECT.SID_TWAIN_SELECT.menuitem.text
+msgid "~Select Source..."
+msgstr "উৎস নির্বাচন... (~S)"
+
+#. ahJO
+#: globlmn_tmpl.hrc#ITEM_INSERT_TWAIN_TRANSFER.SID_TWAIN_TRANSFER.menuitem.text
+msgid "~Request..."
+msgstr "অনুরোধ... (~R)"
+
+#. PwDj
+#: globlmn_tmpl.hrc#ITEM_INSERT_TWAIN_MENU.SID_SCAN.menuitem.text
+msgid "Scan"
+msgstr "স্ক্যান"
+
+#. 5fb2
+#: globlmn_tmpl.hrc#ITEM_INSERT_INSERT_DIAGRAM.#define.text
+msgid "~Chart..."
+msgstr "লেখচিত্র... (~C)"
+
+#. o5cG
+#: globlmn_tmpl.hrc#ITEM_INSERT_GALLERY.#define.text
+msgid "~Gallery"
+msgstr "গ্যালারি (~G)"
+
+#. U8Xh
+#: globlmn_tmpl.hrc#ITEM_INSERT_INSERTDOC.#define.text
+msgid "~File..."
+msgstr "ফাইল... (~F)"
+
+#. exyz
+#: globlmn_tmpl.hrc#TMP_SID_INSERT_PLUGIN.SID_INSERT_PLUGIN.menuitem.text
+msgid "~Plug-in..."
+msgstr "প্লাগ-ইন... (~P)"
+
+#. mzNQ
+#: globlmn_tmpl.hrc#TMP_SID_INSERT_SOUND.SID_INSERT_SOUND.menuitem.text
+msgid "~Sound..."
+msgstr "শব্দ... (~S)"
+
+#. v89P
+#: globlmn_tmpl.hrc#TMP_SID_INSERT_VIDEO.SID_INSERT_VIDEO.menuitem.text
+msgid "~Video..."
+msgstr "ভিডিও... (~V)"
+
+#. Y9he
+#: globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_MN.SID_MN_INSERT_OBJECT_DLGS.SID_INSERT_OBJECT.menuitem.text
+msgctxt ""
+"globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_MN.SID_MN_INSERT_OBJECT_DLGS."
+"SID_INSERT_OBJECT.menuitem.text"
+msgid "~OLE Object..."
+msgstr "OLE অবজেক্ট... (~O)"
+
+#. 1yN4
+#: globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_MN.SID_MN_INSERT_OBJECT_DLGS.SID_INSERT_MATH.menuitem.text
+msgid "~Formula..."
+msgstr "সূত্র... (~F)"
+
+#. SK2r
+#: globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_MN.SID_MN_INSERT_OBJECT_DLGS.menuitem.text
+msgctxt ""
+"globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_MN.SID_MN_INSERT_OBJECT_DLGS.menuitem."
+"text"
+msgid "~Object"
+msgstr "অবজেক্ট (~O)"
+
+#. 6hyH
+#: globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_PORTAL.SID_MN_INSERT_OBJECT_DLGS.SID_INSERT_OBJECT.menuitem.text
+msgctxt ""
+"globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_PORTAL.SID_MN_INSERT_OBJECT_DLGS."
+"SID_INSERT_OBJECT.menuitem.text"
+msgid "~OLE Object..."
+msgstr "OLE-অবজেক্ট... (~O)"
+
+#. 3D8e
+#: globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_PORTAL.SID_MN_INSERT_OBJECT_DLGS.SID_INSERT_MATH.menuitem.text
+msgid "~Formula"
+msgstr "সূত্র (~F)"
+
+#. Z4SL
+#: globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_PORTAL.SID_MN_INSERT_OBJECT_DLGS.menuitem.text
+msgctxt ""
+"globlmn_tmpl.hrc#ITEM_INSERT_OBJECT_PORTAL.SID_MN_INSERT_OBJECT_DLGS."
+"menuitem.text"
+msgid "~Object"
+msgstr "অবজেক্ট (~O)"
+
+#. 6FZq
+#: globlmn_tmpl.hrc#ITEM_FORMAT_NUMBERING.DEFINE_SLOTID_FOR_NUMBER_BULLETS.menuitem.text
+msgid "~Bullets and Numbering..."
+msgstr "বুলেট ও ​​সংখ্যায়ন... (~B)"
+
+#. CA5o
+#: globlmn_tmpl.hrc#ITEM_FORMAT.#define.text
+msgid "F~ormat"
+msgstr "বিন্যাস (~O)"
+
+#. 9GdV
+#: globlmn_tmpl.hrc#ITEM_TOOLS_MACROS.#define.text
+msgid "Scripts/Macros"
+msgstr "স্ক্রিপ্ট/ম্যাক্রো "
+
+#. _ijj
+#: globlmn_tmpl.hrc#ITEM_TOOLS_CONFIG.#define.text
+msgid "~Configure..."
+msgstr "স্বনির্বাচন... (~C)"
+
+#. rueV
+#: globlmn_tmpl.hrc#ITEM_TOOLS_AUTO_CORRECT.SID_AUTO_CORRECT_DLG.menuitem.text
+msgid "~AutoCorrect..."
+msgstr "স্বয়ংক্রিয়-সংশোধন... (‌~A)"
+
+#. ClMc
+#: globlmn_tmpl.hrc#ITEM_SD_GRAPHIC_OPTIONS.SID_SD_GRAPHIC_OPTIONS.menuitem.text
+msgid "~Drawing..."
+msgstr "অঙ্কন... (~D)"
+
+#. qQlo
+#: globlmn_tmpl.hrc#ITEM_MN_OPTIONS.SID_OPTIONS_TREEDIALOG.menuitem.text
+msgid "~Options..."
+msgstr "অপশন... (~O)"
+
+#. VErJ
+#: globlmn_tmpl.hrc#ITEM_WINDOW_MDIWINDOWLIST.#define.text
+msgid "~Window"
+msgstr "উইন্ডো (~W)"
+
+#. x2Xq
+#: globlmn_tmpl.hrc#ITEM_WINDOW_CLONEWIN.#define.text
+msgid "~New Window"
+msgstr "নতুন উইন্ডো (~N)"
+
+#. h#QM
+#: globlmn_tmpl.hrc#ITEM_WINDOW_CASCADEWINS.SID_CASCADEWINS.menuitem.text
+msgid "~Cascade"
+msgstr "তরঙ্গিত (‌~C)"
+
+#. u53N
+#: globlmn_tmpl.hrc#ITEM_WINDOW_TILEWINS.SID_TILEWINS.menuitem.text
+msgid "~Tile"
+msgstr "টালি (~T)"
+
+#. Q590
+#: globlmn_tmpl.hrc#ITEM_WINDOW_HORIZONTALWINS.SID_HORIZONTALWINS.menuitem.text
+msgid "~Horizontally"
+msgstr "অনুভূমিকভাবে (‌~H)"
+
+#. RhjJ
+#: globlmn_tmpl.hrc#ITEM_WINDOW_VERTICALWINS.SID_VERTICALWINS.menuitem.text
+msgid "~Vertically"
+msgstr "উল্লম্বভাবে (~V)"
+
+#. uIUF
+#: globlmn_tmpl.hrc#ITEM_WINDOW_CLOSEWIN.#define.text
+msgid "Close Window"
+msgstr "উইন্ডো বন্ধ "
+
+#. gLOc
+#: globlmn_tmpl.hrc#ITEM_HYPERLINK_DIALOG.SID_HYPERLINK_DIALOG.menuitem.text
+msgid "~Hyperlink"
+msgstr "হাইপারলিংক (‌~H)"
+
+#. zKnJ
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.SID_POLY_MERGE.menuitem.text
+msgid "~Merge"
+msgstr "মিলিতকরণ (~M)"
+
+#. UWqi
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.ITEM_POLY_SUBSTRACT.SID_POLY_SUBSTRACT.menuitem.text
+msgid "~Subtract"
+msgstr "বিয়োগ (~S)"
+
+#. _Tqu
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.ITEM_POLY_SUBSTRACT.ITEM_POLY_INTERSECT.SID_POLY_INTERSECT.menuitem.text
+msgid "I~ntersect"
+msgstr "ছেদ (~N)"
+
+#. w#Tu
+#: globlmn_tmpl.hrc#MNSUB_FORMEN.SID_POLY_FORMEN.menuitem.text
+msgid "~Shapes"
+msgstr "আকৃতি (‌~S)"
+
+#. UYtt
+#: globlmn_tmpl.hrc#ITEM_HELP_HELPMENU.#define.text
+msgid "~Help"
+msgstr "সহায়তা (~h)"
+
+#. vd7G
+#: globlmn_tmpl.hrc#ITEM_HELP_HELPINDEX.#define.text
+msgid "~Contents"
+msgstr "বিষয়বস্তু (~C)"
+
+#. CPP9
+#: globlmn_tmpl.hrc#ITEM_HELP_HELPONHELP.#define.text
+msgid "Using Help"
+msgstr "সহায়তা ব্যবহার"
+
+#. DIJy
+#: globlmn_tmpl.hrc#ITEM_HELP_HELP_PI.#define.text
+msgid "Help ~Agent"
+msgstr "সহায়ক প্রতিনিধি"
+
+#. jH7H
+#: globlmn_tmpl.hrc#ITEM_HELP_HELPTIPS.#define.text
+msgid "~Tips"
+msgstr "পরামর্শ (~T)"
+
+#. 9zlz
+#: globlmn_tmpl.hrc#ITEM_HELP_BALLOONHELP.#define.text
+msgid "~Extended Tips"
+msgstr "বর্ধিত পরামর্শ (~E)"
+
+#. pqjL
+#: globlmn_tmpl.hrc#ITEM_SHOW_LICENSE.#define.text
+msgid "License information..."
+msgstr "লাইসেন্স সংক্রান্ত তথ্য..."
+
+#. mPmn
+#: globlmn_tmpl.hrc#ITEM_SHOW_CREDITS.#define.text
+msgid "%PRODUCTNAME Credits..."
+msgstr "%PRODUCTNAME ক্রেডিট..."
+
+#. K4rs
+#: globlmn_tmpl.hrc#ITEM_HELP_ABOUT.#define.text
+msgid "A~bout %PRODUCTNAME..."
+msgstr "%PRODUCTNAME পরিচিতি... (~b) "
+
+#. UH7D
+#: globlmn_tmpl.hrc#ITEM_POPUP_TEMPLATE_EDIT.#define.text
+msgid "Edit Paragraph Style..."
+msgstr "অনুচ্ছেদ শৈলীর সম্পাদনা..."
+
+#. rmtf
+#: globlmn_tmpl.hrc#ITEM_POPUP_GROUP.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_POPUP_GROUP.#define.text"
+msgid "~Group"
+msgstr "গ্রুপ (~G)"
+
+#. lNbv
+#: globlmn_tmpl.hrc#ITEM_POPUP_UNGROUP.#define.text
+msgid "~Ungroup"
+msgstr "গ্রুপমুক্ত করা (~U)"
+
+#. U4Yl
+#: globlmn_tmpl.hrc#ITEM_POPUP_ENTER_GROUP.#define.text
+msgid "~Edit Group"
+msgstr "গ্রুপ সম্পাদনা (~E)"
+
+#. zt#U
+#: globlmn_tmpl.hrc#ITEM_POPUP_LEAVE_GROUP.#define.text
+msgid "E~xit Group"
+msgstr "গ্রুপ ত্যাগ (~x)"
+
+#. fgQW
+#: globlmn_tmpl.hrc#ITEM_GROUP_MENU.SID_MN_GROUP.menuitem.text
+msgctxt "globlmn_tmpl.hrc#ITEM_GROUP_MENU.SID_MN_GROUP.menuitem.text"
+msgid "~Group"
+msgstr "গ্রুপ (~G)"
+
+#. Xv2h
+#: globlmn_tmpl.hrc#ITEM_DATASOURCE_ADMINISTRATION.SID_DATASOURCE_ADMINISTRATION.menuitem.text
+msgid "~Data Sources..."
+msgstr "ডাটার উৎস... (~D)"
+
+#. USz_
+#: globlmn_tmpl.hrc#ITEM_VIEW_DATA_SOURCE_BROWSER.#define.text
+msgid "~Data Sources"
+msgstr "ডাটার উৎস (~D)"
+
+#. vylC
+#: globlmn_tmpl.hrc#ITEM_VIEW_OFFICEBAR.#define.text
+msgid "~Office Bar"
+msgstr "Office বার (~O)"
+
+#. z_oL
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_SENTENCE_CASE.menuitem.text
+msgid "~Sentence case"
+msgstr "বাক্যের অক্ষরের ছাঁদ (~S)"
+
+#. iItG
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_LOWER.menuitem.text
+msgid "~lowercase"
+msgstr "ছোট হাতের অক্ষর (~l)"
+
+#. CNTC
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_UPPER.menuitem.text
+msgid "~UPPERCASE"
+msgstr "বড়হাতের লেখা (~U)"
+
+#. Ajpz
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_TITLE_CASE.menuitem.text
+msgid "~Capitalize Every Word"
+msgstr "সব শব্দ বড় হাতে লেখা (~C)"
+
+#. zAdV
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_TOGGLE_CASE.menuitem.text
+msgid "~tOGGLE cASE"
+msgstr "টোগল করা অক্ষরের ছাঁদ (~t)"
+
+#. uBVO
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_HALFWIDTH.menuitem.text
+msgid "H~alf-width"
+msgstr "অর্ধ-প্রস্থ (~a)"
+
+#. u4lu
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_FULLWIDTH.menuitem.text
+msgid "Full-width"
+msgstr "পূর্ণ-প্রস্থ"
+
+#. tvq0
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_HIRAGANA.menuitem.text
+msgid "~Hiragana"
+msgstr "হিরাগানা (~H)"
+
+#. 6kaZ
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_KATAGANA.menuitem.text
+msgid "~Katakana"
+msgstr "কাটাকানা (~K)"
+
+#. 1Nxk
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.menuitem.text
+msgid "~Change Case"
+msgstr "অক্ষরের ছাঁদ পরিবর্তন (~C)"
+
+#. AR7a
+#: globlmn_tmpl.hrc#ITEM_OPEN_HYPERLINK.#define.text
+msgid "~Open Hyperlink"
+msgstr "হাইপারলিংক খুলুন (~O)"
+
+#. uahr
+#: globlmn_tmpl.hrc#ITEM_OPEN_SMARTTAGMENU.#define.text
+msgid "Open ~Smart Tag Menu"
+msgstr "স্মার্ট ট্যাগ মেনু খুলুন (~S)"
+
+#. oc5t
+#: globlmn_tmpl.hrc#ITEM_OPEN_XML_FILTERSETTINGS.#define.text
+msgid "~XML Filter Settings..."
+msgstr "XML পরিশোধক সেটিং... (~X)"
+
+#. fXXN
+#: globlmn_tmpl.hrc#ITEM_HANGUL_HANJA_CONVERSION.#define.text
+msgid "Hangul/Hanja Conversion..."
+msgstr "হাঙ্গুল/হানজা রূপান্তর..."
+
