@@ -2,21 +2,22 @@
 # Copyright (C) 2011 libgdata's COPYRIGHT HOLDER
 # This file is distributed under the same license as the libgdata package.
 #
-# , 2011.
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: libgdata master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=libgdata&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2012-04-02 14:33+0000\n"
-"PO-Revision-Date: 2011-02-17 17:28+0530\n"
-"Last-Translator: \n"
-"Language-Team: Bengali (India) <bn_IN@li.org>\n"
+"PO-Revision-Date: 2012-07-16 01:17+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.1\n"
+"X-Generator: Lokalize 1.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: bn_IN\n"
 
 #: ../gdata/gdata-client-login-authorizer.c:597
 #: ../gdata/gdata-oauth1-authorizer.c:804
@@ -73,7 +74,7 @@ msgstr "লগ-ইন করার উদ্দেশ্যে একটি CAPT
 #: ../gdata/gdata-client-login-authorizer.c:790
 #, c-format
 msgid "This account requires an application-specific password. (%s)"
-msgstr ""
+msgstr "এই একাউন্টটির একটি আবেদন-নির্দিষ্ট পাসওয়ার্ডের প্রয়োজন। (% s)"
 
 #: ../gdata/gdata-client-login-authorizer.c:797
 msgid "Your username or password were incorrect."
@@ -98,7 +99,8 @@ msgid ""
 "This account has been migrated. Please log in online to receive your new "
 "username and password. (%s)"
 msgstr ""
-"এই অ্যাকাউন্টটি স্থানান্তর করা হয়েছে। নতুন ব্যবহারকারী অ্যাকাউন্টের নাম ও পাসওয়ার্ড  "
+"এই অ্যাকাউন্টটি স্থানান্তর করা হয়েছে। নতুন ব্যবহারকারী অ্যাকাউন্টের নাম ও "
+"পাসওয়ার্ড  "
 "(%s)"
 
 #. Translators: the parameter is a URI for further information.
@@ -117,7 +119,8 @@ msgstr "এই অ্যাকাউন্টটি নিষ্ক্রিয় 
 #: ../gdata/gdata-client-login-authorizer.c:844
 #, c-format
 msgid "This account's access to this service has been disabled. (%s)"
-msgstr "এই পরিসেবা ব্যবহারের জন্য অ্যাকাউন্টের অধিকার নিষ্ক্রিয় করা হয়েছে। (%s)"
+msgstr ""
+"এই পরিসেবা ব্যবহারের জন্য অ্যাকাউন্টের অধিকার নিষ্ক্রিয় করা হয়েছে। (%s)"
 
 #. Translators: the parameter is a URI for further information.
 #: ../gdata/gdata-client-login-authorizer.c:849
@@ -129,35 +132,34 @@ msgstr "এই মুহূর্তে এই পরিসেবা উপল�
 #. * support comments.
 #: ../gdata/gdata-commentable.c:172 ../gdata/gdata-commentable.c:262
 msgid "This entry does not support comments."
-msgstr ""
+msgstr "এই দাখিলা মন্তব্য সাপোর্ট করে না।"
 
 #. Translators: This is an error message for if a user attempts to add a comment to an entry (such as a video) which doesn't support
 #. * comments.
 #: ../gdata/gdata-commentable.c:349 ../gdata/gdata-commentable.c:435
 msgid "Comments may not be added to this entry."
-msgstr ""
+msgstr "এই দাখিলাতে মন্তব্য যোগ করা যাবে না।"
 
 #. Translators: This is an error message for if a user attempts to delete a comment they're not allowed to delete.
 #: ../gdata/gdata-commentable.c:518 ../gdata/gdata-commentable.c:594
-#, fuzzy
 #| msgid "This account has been deleted. (%s)"
 msgid "This comment may not be deleted."
-msgstr "এই অ্যাকাউন্টটি মুছে ফেলা হয়েছে। (%s)"
+msgstr "এই মন্তব্যটি মুছে ফেলা যেতে পারে না।"
 
 #. Tried to seek too far
 #: ../gdata/gdata-download-stream.c:752
 msgid "Invalid seek request"
-msgstr ""
+msgstr "অবৈধ সিক্ অনুরোধ"
 
 #: ../gdata/gdata-oauth1-authorizer.c:779
 msgid "The server rejected the temporary credentials request."
-msgstr ""
+msgstr "সার্ভার অস্থায়ী পরিচয়পত্র অনুরোধ প্রত্যাখ্যান করেছে।"
 
 #. Server returned an error. This either means that there was a server error or, more likely, the server doesn't trust the client
 #. * or the user denied authorization to the token on the authorization web page.
 #: ../gdata/gdata-oauth1-authorizer.c:1050
 msgid "Access was denied by the user or server."
-msgstr ""
+msgstr "ব্যবহারকারী অথবা সার্ভারের দ্বারা প্রবেশ অস্বীকৃত হয়েছে।"
 
 #. Translators: the parameter is an error message
 #: ../gdata/gdata-parsable.c:245 ../gdata/gdata-parsable.c:256
@@ -197,7 +199,8 @@ msgstr "একটি %s সামগ্রীর তথ্য (\"%s\") ISO 8601 
 #: ../gdata/gdata-parser.c:102
 #, c-format
 msgid "The value of the %s property of a %s element (\"%s\") was unknown."
-msgstr "%s বৈশিষ্ট্যটি %s সামগ্রীর মধ্যে উপস্থিত রয়েছে, (\"%s\") কিন্তু এর মান অজানা।"
+msgstr ""
+"%s বৈশিষ্ট্যটি %s সামগ্রীর মধ্যে উপস্থিত রয়েছে, (\"%s\") কিন্তু এর মান অজানা।"
 
 #. Translators: the first parameter is the name of an XML element (including the angle brackets ("<" and ">")),
 #. * and the second parameter is the unknown content of that element.
@@ -231,7 +234,8 @@ msgid ""
 "Values were present for properties %s and %s of a %s element when only one "
 "of the two is allowed."
 msgstr ""
-"%s ও %s বৈশিষ্ট্যগুলির মান %s সামগ্রী জন্য উপস্থিত রয়েছে। এই ক্ষেত্রে শুধুমাত্র একটি "
+"%s ও %s বৈশিষ্ট্যগুলির মান %s সামগ্রী জন্য উপস্থিত রয়েছে। এই ক্ষেত্রে "
+"শুধুমাত্র একটি "
 "মান ব্যবহার করা যাবে।"
 
 #. Translators: the parameter is the name of an XML element, including the angle brackets ("<" and ">").
@@ -318,6 +322,8 @@ msgstr "একটি এনট্রি সংযোজন করা হয়ে�
 #, c-format
 msgid "Error received from server after uploading a resumable upload chunk."
 msgstr ""
+"সার্ভার থেকে একটি সারসংকলন সক্ষম আপলোডের চাঙ্গড় আপলোড করার পরে সমস্যা "
+"প্রাপ্ত হয়েছে।"
 
 #: ../gdata/gdata-upload-stream.c:892
 msgid "Stream is already closed"
@@ -404,7 +410,8 @@ msgstr "নথিপত্র ও ফোল্ডার স্থানান্
 #: ../gdata/services/picasaweb/gdata-picasaweb-service.c:244
 msgid "You must specify a username or be authenticated to query a user."
 msgstr ""
-"কোনো ব্যবহারকারীর তথ্য অনুসন্ধানের জন্য ব্যবহারকারী অ্যাকাউন্টের নাম উল্লেখ করা অথবা "
+"কোনো ব্যবহারকারীর তথ্য অনুসন্ধানের জন্য ব্যবহারকারী অ্যাকাউন্টের নাম উল্লেখ "
+"করা অথবা "
 "অনুমোদিত হওয়া আবশ্যক।"
 
 #: ../gdata/services/picasaweb/gdata-picasaweb-service.c:387
@@ -416,7 +423,8 @@ msgstr "অ্যালবামের ক্ষেত্রে অনুসন�
 #: ../gdata/services/picasaweb/gdata-picasaweb-service.c:455
 msgid "You must specify a username or be authenticated to query all albums."
 msgstr ""
-"সকল অ্যালবামের মধ্যে অনুসন্ধানের জন্য ব্যবহারকারী অ্যাকাউন্টের নাম উল্লেখ করা অথবা "
+"সকল অ্যালবামের মধ্যে অনুসন্ধানের জন্য ব্যবহারকারী অ্যাকাউন্টের নাম উল্লেখ করা "
+"অথবা "
 "অনুমোদিত হওয়া আবশ্যক।"
 
 #: ../gdata/services/picasaweb/gdata-picasaweb-service.c:476
@@ -451,7 +459,8 @@ msgid ""
 "You have made too many API calls recently. Please wait a few minutes and try "
 "again."
 msgstr ""
-"সম্প্রতি, অত্যাধিক API কল করা হয়েছে। অনুগ্রহ করে কিছু সময় অপেক্ষা করে পুনরায় প্রয়াস "
+"সম্প্রতি, অত্যাধিক API কল করা হয়েছে। অনুগ্রহ করে কিছু সময় অপেক্ষা করে পুনরায় "
+"প্রয়াস "
 "করুন।"
 
 #: ../gdata/services/youtube/gdata-youtube-service.c:468
@@ -459,7 +468,8 @@ msgstr ""
 msgid ""
 "You have exceeded your entry quota. Please delete some entries and try again."
 msgstr ""
-"এনট্রির সীমা উলঙ্ঘন করা হয়েছে। অনুগ্রহ করে কয়েকটি এনট্রি মুছে পুনরায় প্রয়াস করুন।"
+"এনট্রির সীমা উলঙ্ঘন করা হয়েছে। অনুগ্রহ করে কয়েকটি এনট্রি মুছে পুনরায় প্রয়াস "
+"করুন।"
 
 #. Translators: the first parameter is an error code, which is a coded string.
 #. * The second parameter is an error domain, which is another coded string.
@@ -469,7 +479,8 @@ msgstr ""
 #, c-format
 msgid ""
 "Unknown error code \"%s\" in domain \"%s\" received with location \"%s\"."
-msgstr "\"%s\" ত্রুটির কোডটি \"%s\" ডোমেইনের মধ্যে \"%s\" অবস্থান সহ প্রাপ্ত হয়েছে।"
+msgstr ""
+"\"%s\" ত্রুটির কোডটি \"%s\" ডোমেইনের মধ্যে \"%s\" অবস্থান সহ প্রাপ্ত হয়েছে।"
 
 #: ../gdata/services/youtube/gdata-youtube-service.c:499
 #, c-format
@@ -484,3 +495,4 @@ msgstr "এই ভিডিওর ক্ষেত্রে সমতূল্য
 #: ../gdata/services/youtube/gdata-youtube-service.c:882
 msgid "You must be authenticated to upload a video."
 msgstr "ভিডিও আপলোড করার জন্য অনুমোদিত হওয়া আবশ্যক।"
+

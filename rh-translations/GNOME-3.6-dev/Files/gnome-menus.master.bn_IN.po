@@ -6,21 +6,23 @@
 # Mahay Alam Khan <makl10n@yahoo.com>, 2005.
 # Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
 # Runa Bhattacharjee <runab@redhat.com>, 2009.
+# Sayak Sarkar <sayak.bugsmith@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: bn_IN\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "menus&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2012-05-14 13:29+0000\n"
-"PO-Revision-Date: 2009-08-28 12:29+0530\n"
-"Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
-"Language-Team: Bengali INDIA <anubad@lists.ankur.org.in>\n"
+"PO-Revision-Date: 2012-07-16 01:07+0530\n"
+"Last-Translator: Sayak Sarkar <sayak.bugsmith@gmail.com>\n"
+"Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 1.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "\n"
+"Language: bn_IN\n"
 
 #: ../desktop-directories/AudioVideo.directory.in.h:1
 msgid "Sound & Video"
@@ -137,14 +139,13 @@ msgid "Applications that did not fit in other categories"
 msgstr "অন্যান্য শ্রেণীর মধ্যে অন্তর্গত না করা অ্যাপ্লিকেশন"
 
 #: ../desktop-directories/X-GNOME-WebApplications.directory.in.h:1
-#, fuzzy
 #| msgid "Applications"
 msgid "Web Applications"
-msgstr "অ্যাপলিকেশন"
+msgstr "ওয়েব অ্যাপলিকেশন"
 
 #: ../desktop-directories/X-GNOME-WebApplications.directory.in.h:2
 msgid "Applications and sites saved from Web"
-msgstr ""
+msgstr "অ্যাপ্লিকেশন এবং ওয়েব থেকে সংরক্ষিত সাইটসমূহ"
 
 #: ../simple-editor/gmenu-simple-editor.desktop.in.h:1
 msgid "Menu Editor"
