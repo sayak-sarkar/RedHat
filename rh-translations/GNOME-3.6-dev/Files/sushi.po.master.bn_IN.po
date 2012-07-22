@@ -62,7 +62,7 @@ msgstr "% d এর % d"
 msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d বস্তু"
-msgstr[1] ""
+msgstr[1] "%d বস্তুসমূহ"
 
 #: ../src/libsushi/sushi-file-loader.c:651
 msgid "Empty Folder"
